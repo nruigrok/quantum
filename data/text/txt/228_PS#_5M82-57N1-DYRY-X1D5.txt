@@ -1,0 +1,59 @@
+Leo, waar blijft die quantum-computer?
+Trouw
+26 november 2016 zaterdag
+Copyright 2016 De Persgroep Nederland BV All Rights Reserved
+
+Section: | Wetenschap; Blz. 16, 17
+Length: 1140 words
+Byline: DIRK WATERVAL
+Highlight: huzarenstukje | Hoogleraar Leo Kouwenhoven moet Microsoft het huzarenstukje van de quantumfysica gaan brengen: de quantumcomputer. Tot nu toe een onmogelijke taak, maar Kouwenhoven heeft zijn Majorana-deeltjes.
+Body
+
+Ja, een quantumcomputer, die zouden ze bij Microsoft wel willen hebben. Een apparaat dat met het grootste gemak de zwaarste berekeningen kan doen. Eén probleem: het huzarenstukje van de quantumfysica staat nog niet in de catalogus. De race om hem als eerste te bouwen is in volle gang, maar het megaconcern van Bill Gates heeft iemand in dienst op wie concurrenten als Google en IBM jaloers zullen zijn. 
+Maandag had The New York Times de primeur: Leo Kouwenhoven (52) is tot één van de sterspelers van Microsoft benoemd. De softwaregigant gaat samen met de hoogleraar een lab bouwen in Delft. De stad waar hij in 1992 promoveerde en die hij daarna verliet. Om later, via omwegen langs Berkeley en Harvard, weer terug te keren. 
+Ook met dit nieuwe contract blijft Kouwenhoven aan als hoogleraar van de TU Delft. Wel stopt hij met het leiden van onderzoeksinstituut QuTech (een samenwerkingsverband van de TU en TNO). Ook bij QuTech werkte hij aan een quantumcomputer. In theorie zullen die nieuwe generatie computers een schier oneindig aantal verschillende berekeningen tegelijk voor hun rekening kunnen nemen. 
+Door deze nieuwe baan sierde de immer relaxt ogende hoogleraar elke landelijke krant wel op deze week. Hij zal de media-aandacht gewend zijn. Met een Spinoza-premie uit 2007 op zak, en het produceren van het nagenoeg ongrijpbare Majorana-deeltje in 2012, is hij geen onbekende op tv. 
+Juist dat Majorana-deeltje zou een mooie bouwsteen kunnen zijn van een quantumcomputer, die voorlopig alleen nog bestaat in de hoofden van natuurkundigen. Om dat te begrijpen, nu eerst een spoedcursus. 
+In de quantumwereld van het allerkleinste blijken de ons vertrouwde natuurwetten niet te gelden. Zo hebben deeltjes als elektronen en fotonen tegelijkertijd verschillende, tegenstrijdige eigenschappen. Ze 'kiezen' één van die eigenschappen pas vanaf het punt dat je ze meet. Voorbeeld: een elektron draait tegelijkertijd zowel links- als rechtsom om zijn as, tót je besluit te kijken in welke richting hij draait. Dan bekent hij ineens kleur. Ook gedragen dat soort subatomaire bouwsteentjes zich zowel als deeltje als golf, tegelijkertijd. Denk hierbij aan de fameuze kat van Schrödinger die zowel dood als levend in een doos zit. Tot je hem opent en ziet hoe het beest erbij ligt. 
+Dat kan natuurlijk helemaal niet, denkt de mens in haar macrowereld. Maar wie inzoomt, ziet dat dit soort paradoxale effecten nu eenmaal optreden bij het kleinste der kleinste. De quantumtheorie is nu meer dan een eeuw oud, bewezen en de toepassingen zijn omvangrijk. Van lasers tot mobiele telefoons. 
+Perfecte kandidaat 
+Een nieuw soort computer is er nog niet op gestoeld, helaas. Want hoe mooi zou het zijn: een rekenmachine die met bits werkt die niet 0 of 1 kunnen zijn, maar allebei tegelijk? Er zijn er dan veel minder van nodig om een even groot aantal taken te volbrengen. Qubits, worden die quantum-bits genoemd. De jacht erop is in volle gang. 
+Het Majorana-deeltje van Kouwenhoven zou er een perfecte kandidaat voor zijn. Andere deeltjes misschien ook, maar die bekennen zoals gezegd kleur zodra ze gemeten worden. Dan zijn ze vanaf dat moment toch weer als vanouds een 0 óf een 1. Ze laten zich te snel 'bekijken' door andere langsvliegende deeltjes. Het Majorana-deeltje is wat dat betreft perfect: plat gezegd hééft het überhaupt geen eigenschappen. Geen energie, geen richting van draaien, geen magnetische component. Kan er ook niets bekeken worden. En blijft de quantummagie dus nog even behouden. 
+Zet Kouwenhoven er echter twee naast elkaar, dan vormen die een koppel dat in twee toestanden kan zitten. Even, of oneven noemen natuurkundigen die, en geheel in de quantum-traditie bevindt het koppel zich in beide tegelijkertijd. 
+En hier komt Microsoft het verhaal binnen, zegt Kouwenhovens leermeester en emeritus hoogleraar Hans Mooij. "Dat heeft zelf veel theoretici in dienst die dat Majorana-deeltje prachtig vinden. Ze hebben er hele systemen voor bedacht; allemaal theorie. Om het in de praktijk te brengen, heb je iemand nodig die die dingen kan maken, en dan kom je dus al snel bij uit Leo." 
+Informatie delen 
+Waarschijnlijk zal Kouwenhovens onderzoek niet heel veel verschillen van wat hij al bij 
+QuTech deed. Grootste voordeel is dat hij nu toegang heeft tot alle expertise van Microsoft. Iets waar hij eerst ook wel om kon vragen - er bestond al langer een soort samenwerking - maar het was altijd een beetje onduidelijk wat het bedrijf wel en niet wilde prijsgeven. 
+Hoogleraar quantumfysica Ronald Hanson zal Kouwenhoven - in ieder geval voorlopig - opvolgen als leider van QuTech. De twee werken al lang samen, behoren beiden tot de oprichters van het onderzoeksinstituut. Hoewel ze zich richten op verschillende wegen die naar een quantumcomputer moeten leiden, zien ze elkaar niet als concurrent, zegt Hanson. 
+Waar Kouwenhoven zich vooral bezighoudt met het door hemzelf ontdekte Majoranadeeltje, werkt Hanson met diamanten. Wie goed inzoomt, ziet dat die uit geroosterde koolstofatomen bestaan. Vervang één daarvan door een stikstofatoom, sla daar vervolgens weer een gat naast en er blijft een elektron in gevangen. Ook die elektronen zou je als qubits kunnen gebruiken, in plaats van Majorana's. 
+Dat verschilt wel van het werk van Kouwenhoven. Hoe kunnen ze dan géén concurrenten zijn? Hanson: "Als één van ons een grote nieuwe stap maakt, is de kans groot dat het onderzoek van de ander daar ook een grote boost van krijgt. Daarom delen we onze informatie zo veel mogelijk." Daarnaast, zo zegt hij, maken ze gebruik van veelal dezelfde apparatuur, analysetechnieken en expertises. 
+Gevraagd naar de kracht van Kouwenhoven, noemen Hanson en Mooij wat eigenschappen die niet verbazen: niet dom, een enorme drive, van nature de neiging om de leiding te nemen. Maar ook dat Kouwenhoven kansen ziet, en nog belangrijker, het lef heeft het roer omwille van zo'n kans helemaal om te gooien. 
+Haastig onderweg en tussen twee afspraken door illustreert Kouwenhoven dat laatste punt zelf. Toen hij in 2010 een sabbatical wilde nemen om een populair wetenschappelijk boek te schrijven - "een bestseller moest het worden" - attendeerde iemand hem op een artikel. Een soort handleiding om ooit het toen nog onontdekte Majorana-deeltje te vinden. Kouwenhoven verbaasde zich: hij had toevallig precies de benodigde apparatuur in huis voor een ander experiment. Een paar weken van aarzeling later besloot hij zijn boek aan de wilgen te hangen. Hij ging dat exotische deeltje te zoeken. "De doorslag kwam van goede vriend en collega Charles Marcus. Die zei: 'Een boek schrijven? Dat doe je maar als je oud bent! Wij moeten nu ontdekkingen doen!'"
+Kouwenhoven ziet kansen en heeft het lef om het roer omwille van zo'n kans helemaal om te gooien
+De race om de quantum-computer als eerste te bouwen is in volle gang
+Bekijk de oorspronkelijke pagina: pagina 16, pagina 17
+Graphic
+
+ 
+Een collega en vriend zei tegen Leo Kouwenhoven: 'Een boek schrijven? Dat doe je maar als je oud bent. We moeten nu ontdekkingen doen'. foto andreas terlaak
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Educational Institution Employees (67%); Physics (63%)
+Industry: Computing + Information Technology (94%)
+Load-Date: November 25, 2016
+
+End of Document
+Leo, waar blijft die quantum-computer?
+
+Leo, waar blijft die quantum-computer?
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

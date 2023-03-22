@@ -1,0 +1,68 @@
+Microsofts nieuwe magiër; 9 qubits
+NRC Handelsblad
+15 november 2014 zaterdag
+Copyright 2014 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 50
+Length: 1578 words
+Byline: Door Gerard Jansen
+Body
+
+Informatica 
+IBM en Google investeren opeens fors in onderzoek naar een quantumcomputer. Het vreemdste project is wel dat van Microsoft, geleid door wiskundige Michael Freedman. Voor zijn ideeën zoekt hij hulp in Delft. 
+In een blauw, rammelend Volkswagenbusje rijden de Amerikaanse wiskundige Michael Freedman en de Nederlandse natuurkundige Leo Kouwenhoven vanuit Delft richting Zeeland. Hun bestemming is Arnemuiden. Van daaruit zullen ze op de meegenomen racefietsen teruggaan naar Delft - Freedman is behalve een briljant wiskundige ook een rusteloze sportfanaat. Maar over wielrennen hebben ze het op de heenweg niet. 
+De twee bespreken vooral het spannende project waaraan Freedman al tien jaar leiding geeft bij computerbedrijf Microsoft, en waarvoor hij drie jaar geleden de samenwerking heeft gezocht met de groep van Kouwenhoven. ,,Door het werk van onder andere Leo zien we onze ideeën vorm krijgen", zegt Freedman. Die ideeën moeten leiden tot de heilige graal van de informatieschappen: een quantumcomputer. 
+De jacht op zo'n computer lijkt definitief geopend. Afgelopen juli kondigde IBM aan 3 miljard dollar uit te trekken voor onderzoek naar quantumcomputers en kunstmatige intelligentie. Google nam twee maanden geleden de toonaangevende quantumwetenschapper John Martinis van de universiteit van Santa Barbara in dienst. Ook de National Security Agency in de VS heeft in ieder geval 79 miljoen dollar uitgegeven aan het ontwikkelen van zo'n quantumcomputer, zo bleek uit de 
+'Snowdenfiles'. 
+De belofte is groot. Waar een gewone computer rekent met bits, die 0 óf 1 zijn, gebruikt een quantumcomputer qubits, die meer toestanden kunnen hebben en als het ware 0 én 1 op hetzelfde moment kunnen zijn. Een quantumcomputer kan alle combinaties van een cijferslot tegelijkertijd uitproberen, in plaats van één voor één. Quantumcomputers zouden daarom alle beveiligingscodes van banken en bedrijven kunnen kraken. Of de complexe vouwing van eiwitten simuleren. Of razendsnel in enorme databases zoeken - waarschijnlijk de reden dat Google en Microsoft erop duiken. 
+Zover de belofte. Een quantumcomputer bouwen is een ander verhaal. Een van de centrale en hardnekkige problemen tot nog toe is dat qubits moeilijk tot samenwerking te krijgen zijn. John Martinis, die sinds kort bij Google werkt, is het gelukt om 9 qubits aan elkaar te koppelen. Maar in deze aanpak geldt: hoe groter het aantal, hoe lastiger het wordt. Het is vergelijkbaar met acrobaten die op elkaars ruggen klimmen en balanceren. Met een kleine groep lukt het nog, maar als je duizend acrobaten op elkaar wil laten staan, kunnen de ondersten de last niet meer dragen. 
+Freedman zoekt, om in de beeldspraak te blijven, naar supersterke acrobaten. Zo kwam hij bij Leo Kouwenhoven in Delft terecht. In zijn groep werd in 2011 het bestaan van het Majoranadeeltje aangetoond, dat zich kenmerkt door het feit dat het tegelijkertijd zijn eigen antideeltje is. Voor Freedman is het een kandidaat voor de gezochte supersterke acrobaat. 
+Intussen zijn er in meer laboratoria 'tekenen' van het Majoranadeeltje gevonden, meestal in minuscule nanodraadjes. Vorige maand verscheen er in Science nog een artikel over, dit keer van een groep in Princeton. 
+Freedman denkt al heel lang na over een quantumcomputer. Eind jaren tachtig kreeg hij, naar eigen zeggen, hét idee van het millennium. Hij werkte toen aan de universiteit van Californië in San Diego en hij had een artikel gelezen van Edward Witten, door sommigen gezien als de opvolger van Albert Einstein. Witten had ontdekt dat in een platte wereld, een tweedimensionaal platland, deeltjes kunnen bestaan die, als je ze om elkaar heen draait, van toestand veranderden. Als balletjes die van kleur veranderen als je ze, zoals bij het spel balletje-balletje, om elkaar heen beweegt. Freedman begreep dat je hiermee kon rekenen op een manier die voor normale computers niet mogelijk is. Hij doopte zijn idee de 'topologische quantumcomputer'. 
+Hij bleef binnen de universiteit werken aan zijn ideeën, totdat een oud-student hem in 1996 vroeg of hij een praatje wilde houden bij Microsoft. ,,Ik was wel nieuwsgierig hoe dat zou zijn", zegt Freedman. ,,Normaal gaf ik alleen maar praatjes bij universiteiten. Ik praatte daar over mijn ideeën en Natan Myhrvold, de chief technological officer in die tijd, bood me ter plekke een baan aan. Ik was heel erg onder de indruk dat hij de autoriteit had om dat te doen." 
+Vier jaar later schreef Freedman een van zijn bekendste en meest geciteerde artikelen, samen met Zhenghan Wang. ,,We laten daarin zien dat ons idee equivalent is aan een quantumcomputer. Ik zou daar trots op moeten zijn, maar het is één van de grootste teleurstellingen uit mijn leven." Freedman dacht namelijk een nieuwe wetenschappelijke bergtop te hebben gevonden, maar het bleek 'slechts' een nieuwe route naar een top die al bekend was. 
+Inmiddels leidt Freedman bij Microsoft het onderzoekslaboratorium Station Q, een gang op de universiteit van Santa Barbara. Grote wiskundigen als Sankar Das Sarma, Roman Lutchyn, Chetan Nayak, Zhenghan Wang en een van de grootste natuurkundigen van dit moment, Alexei Kitaev, maken er mathematische modellen van hypothetische materialen met nooit waargenomen quasideeltjes. Station Q is vooral het wiskundige brein achter de quantumcomputer. En er worden veel patenten opgesteld voor Microsoft. 
+Van alle projecten die er wereldwijd lopen, is dit wel het vreemdste. Critici zeggen dat ze bij Station Q met het hoofd in de wolken lopen. Ook Microsoft zelf heeft tot voor kort niet echt te koop gelopen met Station Q. Begrijpelijk, want het verkoopt niet echt: een onbegrijpelijke computer, gebouwd van nooit waargenomen deeltjes. 
+Oud-topman Bill Gates liet bij een werkbespreking ooit zijn hoofd in zijn handen zakken. ,,Ik begrijp er echt helemaal niets van", stamelde hij. Station Q was vooral het speeltje van Nathan Myhrvold en zijn opvolger Craig Mundie. 
+Maar sinds deze zomer is er een ommekeer te zien bij Microsoft. Sterjournalist John Markoff van de New York Times was dagen op bezoek bij Station Q. Op de eigen website van Microsoft verscheen een groot verhaal over het lab. Microsoft mengt zich nu met opgeheven hoofd in de race met IBM en Google. 
+Station Q werkte eerst samen met zeven universitaire onderzoeksgroepen in de wereld. Dat zijn er nu nog maar drie, waaronder die van Leo Kouwenhoven. In Delft is zijn groep hard aan het werk om te laten zien dat Majoranadeeltjes inderdaad veranderen als je ze om elkaar heen beweegt. Iets wat nog steeds niet geverifieerd is. 
+Maar de scepsis blijft. ,,Ik ken de kritiek", zegt Freedman. ,,Bij Google heeft John Martinis negen qubits in zijn lab. Hij kan al quantumgedrag laten zien. Wij hebben nog niet eens één qubit. Toch zijn we opgewonden over onze topologische quantumcomputer, omdat het principe anders is. Als we eenmaal één qubit hebben, kunnen we daarna heel snel opschalen." 
+Freedman vergelijkt het met elektronenbuizen en transistoren. De eerste computers waren grote kamers gevuld met aan elkaar gekoppelde buizen. Maar de computer werd pas echt wat toen de transistor ontdekt werd. Anders gezegd: IBM, Google en de NSA zijn met buizen aan het experimenteren, Microsoft werkt aan de equivalent van de transistor van de quantumcomputer: de 'topologische' qubit. 
+Freedman: ,,Er zijn veel moeilijkheden in onze aanpak, maar ik denk dat het intellectueel gezien de meest elegante aanpak is. Er komt zo veel fundamentele wiskunde en natuurkunde bij kijken. Het zou zonde zou zijn als het niet zou werken." 
+Wiskundegenie Bergbeklimmer zonder hoektand 
+Michael Freedman (63) stort zich het liefst op problemen die onmogelijk zijn. Het is de rode draad in zijn leven. Hij had eigenlijk helemaal niet geboren moeten worden, want volgens de artsen was zijn moeder, Nancy Mars, te zwak om kinderen te krijgen. Maar Benedict Freedman en zijn vrouw Nancy, een schrijversechtpaar dat miljoenen exemplaren verkocht van het boek Mrs. Mike, kregen uiteindelijk drie kinderen. 
+De jonge Michael vond wiskunde makkelijker dan zijn leraren en ging naar Princeton. Hij was ook een fanatiek bergbeklimmer. Op 21 april 1979, op de dag dat hij 28 werd, won hij de Mount Woodson Championship, door een onmogelijk geachte route langs steile wanden en over gladde stenen af te leggen. ,,Het is het enige moment in mijn leven dat ik me écht een celebrity heb gevoeld", zei Freedman onlangs toen hij voor een bliksembezoek in Delft was. 
+In 1981, hij was toen 30, suggereerde Freedman het 'vermoeden van Poincaré in vier dimensies' bewezen te hebben. Het werd een van de grote wiskundige doorbraken van de vorige eeuw. Stel, je schuift de cirkelvormige evenaar over het aardoppervlak naar het noorden. Dan zou die evenaar krimpen, en ineenkrimpen tot een punt bij de evenaar. Poincaré vermoedde dat dit ook gold voor het driedimensionale oppervlak van een vierdimensionale bol. Freedman bewees het vermoeden. Het leverde hem de Fields Medal op, de grootste trofee in de wiskunde. 
+Freedman heeft in zijn leven al talloze prijzen en onderscheidingen gekregen, onder andere de MacArthur 'genius grant' en the National Medal of Science. Toch is ijdelheid hem vreemd - althans wat uiterlijk betreft. Hij mist een hoektand en heeft de moeite nog niet genomen die te laten repareren. 
+Sinds tien jaar leidt Freedman het onderzoekslaboratorium Station Q van Microsoft en probeert hij een quantumcomputer te bouwen. Hij zwemt iedere dag in de Pacific of hij rent langs het strand. 
+Graphic
+
+ 
+Michael Freedman voor een krijtbord, bij Station Q, het onderzoekslaboratorium waar Microsoft werkt aan een quantumcomputer.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Educational Institution Employees (64%)
+Company:  GOOGLE INC (85%);  MICROSOFT CORP (58%)
+Organization: NATIONAL SECURITY AGENCY (55%)
+Ticker: GOOG (NASDAQ) (85%); MSFT (NASDAQ) (58%)
+Industry: NAICS519130 INTERNET PUBLISHING & BROADCASTING & WEB 
+SEARCH PORTALS (85%); NAICS511210 SOFTWARE PUBLISHERS (58%); SIC7372 
+PREPACKAGED SOFTWARE (58%); Computing + Information Technology (94%)
+Load-Date: November 14, 2014
+
+End of Document
+Microsofts nieuwe magiër; 9 qubits
+
+Microsofts nieuwe magiër; 9 qubits
+
+Page 2 of 5
+
+Page 2 of 5
+
+
+
+
+

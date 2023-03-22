@@ -1,0 +1,38 @@
+Computer breekt het rekenrecord
+Het Parool
+24 oktober 2019 donderdag
+Copyright 2019 De Persgroep Nederland BV All Rights Reserved
+
+Section: Voorpagina; Blz. 1
+Length: 571 words
+Byline: DAVID VAN UNEN
+Highlight: Een nieuwe, krachtige computer van Google lost een reeks sommen 1,5 miljard keer sneller op dan gewone supercomputers van nu. Dat opent nieuwe vergezichten voor verschillende takken van wetenschap.
+Body
+
+Google: Mijlpaal onderzoek quantumcomputer
+Sycamore, een computer die bij Google in ontwikkeling is, heeft in drie minuten en twintig seconden een reeks sommen opgelost die de beste computers van nu tienduizend jaar zou hebben gekost. Hoogleraar William D. Oliver van het Massachusetts Institute of Technology vergelijkt dit in The New York Times met het eerste gemotoriseerde vliegtuig ooit. Fietsenmakers Wilbur en Orville Wright zetten een motortje in hun zweeftoestel en wisten er in december 1903 een afstand van zo'n 260 meter mee af te leggen. 
+Voor velen toen een abstracte prestatie, maar de gebroeders Wright hadden wel een punt gemaakt: het kán. Zo moeten we de doorbraak van Googles quantumcomputer Sycamore volgens Oliver ook zien. Concurrent IBM voelde zich kennelijk genoodzaakt tot een meesmuilende persverklaring. 'Wij denken dat onze computers dit in 2,5 dag hadden gekund.' 
+De mogelijkheden zijn volgens Google op termijn eindeloos. Denk aan het razendsnel verbinden van de datapunten waaruit weersverwachtingen worden opgesteld, of het voorspellen van veranderingen in het klimaat. 
+Computer breekt het rekenrecord
+De meest tot de verbeelding sprekende rol van betekenis zou de Sycamore volgens Google kunnen spelen bij de ontwikkeling van nieuwe geneesmiddelen. Daarvoor moet honderdduizenden keren worden onderzocht hoe een medicijn en aandoeningen op elkaar reageren. Een op volle sterkte draaiende quantumcomputer zou dat duizelingwekkend veel sneller kunnen dan de techniek van nu, aldus Google.
+Veelvoud aan informatie
+Voor het zo ver is, kunnen er zomaar tientallen jaren verstreken zijn. Zoals hoogleraar natuurkunde Jonathan Oppenheim tegen de BBC zegt: "Het is een indrukwekkende doorbraak, maar we zijn nog heel ver van een quantumcomputer die kan worden ingezet als wetenschappelijk instrument." 
+Dat komt door de bewerkelijkheid van de qubit, het quantummechanische equivalent van de bit waarop een reguliere pc draait. Waar een bit zijn berekeningen maakt met behulp van enen en nullen - als het opwerpen van een munt - heeft een qubit een veelvoud aan variabelen. Een qubit kan zowel 0 als 1 tegelijkertijd zijn. Alsof de munt in zijn val ook nog om zijn as draait. Dat maakt dat een quantumcomputer als meerdere apparaten tegelijkertijd kan opereren en dus ook een veelvoud van de informatie kan verwerken die reguliere computers aankunnen. 
+De benodigde materialen en omstandigheden - zeldzame metalen en extreme koeling die voor een goede werking nodig is - maken dat één quantumcomputer nu nog miljoenen dollars kost. Mogelijk zijn staten in de toekomst bereid daarvoor garant te staan. China bouwt al voor 400 miljoen dollar een nationaal quantumlab en de Verenigde Staten investeren 1,2 miljard dollar in onderzoek naar quantumcomputers.
+Wetenschapsblad
+Zoekreus Google presenteert het resultaat niettemin als een doorbraak die gegevensverwerking voorgoed kan veranderen. Dat klinkt als ronkende pr-taal, maar het is opvallend hoeveel navolging de commerciële firma krijgt vanuit de wetenschappelijke wereld. 
+Googles bevindingen werden gisteren gepubliceerd in het Britse toonaangevende natuurwetenschappelijke blad Nature. Voordat dat tot publicatie overging, liet de redactie zoals gebruikelijk een peer review uitvoeren op de inhoud van Googles onderzoek. 
+Sycamores succesvolle rekenwerk is voorlopig dus nog een kleine stap, maar wel een die mogelijkheden biedt. En geduld vraagt. Bekijk de oorspronkelijke pagina: pagina 1
+Page 2 of 3
+Computer breekt het rekenrecord
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Internet Social Networking (90%)
+Industry: Computing + Information Technology (94%); Autonomous Vehicles (75%); 
+Personal Computers (73%); Computer Equipment (69%); Electronic Mail (64%)
+Load-Date: October 24, 2019
+
+End of Document
+Page 3 of 3

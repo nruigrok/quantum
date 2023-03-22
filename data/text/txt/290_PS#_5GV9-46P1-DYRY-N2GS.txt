@@ -1,0 +1,35 @@
+Intel steekt 50 miljoen in Delfts lab
+de Volkskrant
+4 september 2015 vrijdag
+Copyright 2015 De Persgroep Nederland BV All Rights Reserved
+
+Section: Ten Eerste; Blz. 8
+Length: 565 words
+Byline: VAN ONZE VERSLAGGEVER MARTIJN VAN CALMTHOUT
+Body
+
+De Amerikaanse computerchipgigant Intel steekt 50 miljoen dollar (bijna 45 miljoen euro) in het onderzoek naar quantumcomputers in Delft. Dat is donderdag afgesproken. Behalve geld draagt Intel ook deskundigheid aan over de productie van gecompliceerde micro-elektronica in zulke geavanceerde supercomputers. 
+Volgens Intel-topman Mike Mayberry is het QuTech laboratorium in Delft, een samenwerking van de universiteit en TNO, toonaangevend in de ontwikkeling van een bruikbare quantumcomputer. 'Er zijn in de wereld diverse labs waar wordt gewerkt aan de basiselementen voor een quantumcomputer, maar alleen in Delft wordt ook nagedacht over het hele systeem. Wij denken dat die brede aanpak essentieel is voor succes.' 
+Quantumcomputers worden gezien als een radicale nieuwe stap in het superrekenen. Anders dan de huidige digitale computers rekenen quantumcomputers niet met enen en nullen, maar met zogeheten qubits. Een qubit kan dankzij de vaagheid van de quantumwetten tegelijk een 1 en 0 zijn, waardoor met combinaties van voldoende qubits immens veel berekeningen tegelijk kunnen worden uitgevoerd. 
+Door die miljardenvoudige hogere rekenkracht kunnen vraagstukken worden opgepakt die nu als onberekenbaar gelden, zoals simulaties van vouwende eiwitten en turbulente stromingen. Daarnaast zal quantumrekenen de cryptografie veranderen. Nu berust geheime communicatie van banken op de onkraakbaarheid van grote priemgetallen; een quantumcomputer kan die wel aan. 
+Intel steekt 50 miljoen in Delfts lab
+Het subtiele samenspel in systemen met duizenden of nog meer qubits is een wetenschap op zich, zegt computerwetenschapper Koen Bertels van QuTech. 'Je moet het hele palet van de qubit zelf tot de koeling en de fysieke architectuur beheersen, om tot praktisch quantumrekenen te komen', zegt hij. 
+Daarnaast wil QuTech door de samenwerking met Intel een slag maken in de kwaliteitsbeheersing van de quantumbits, die de vorm moeten krijgen van diepgekoelde micro-elektronische circuits. 'Om die in grote aantallen te bouwen is de knowhow van de chipindustrie essentieel', benadrukt directeur Lieven Vandersypen van QuTech. 
+Intel wil volgens vice-president Mayberry binnen tien tot vijftien jaar een vooraanstaande rol kunnen spelen op het gebied van het quantumrekenen. Behalve in Delft investeert het bedrijf daarom ook in een eigen quantumlab in de VS. Experts van beide labs zullen op beide plekken werken. 
+Doel is het opbouwen van een functioneel Intel-quantumrekencentrum in de VS, dat met een systeem van tienduizenden qubits complex rekenwerk voor derden kan uitvoeren. Mayberry noemde donderdag de farmaceutische research nadrukkelijk als voorbeeld, waar berekeningen aan vouwende eiwitten en biomoleculen de huidige rekenkracht ver te boven gaan. 
+Paradepaardje quantumonderzoek 
+De investering van 50 miljoen dollar door een buitenlands bedrijf in een Nederlandse universiteit is een record, maar dat het het QuTech laboratorium in Delft betreft, is niet vreemd. Gebouwd met onder meer een Brusselse ERC-beurs van 15 miljoen euro geldt QuTech inmiddels als een internationaal Nederlands paradepaardje. Eerder investeerde 
+Microsoft 1 miljoen dollar in quantumwerk van Spinozaprijswinnaar en QuTech-fysicus Leo Kouwenhoven in Delft. Dit jaar werd het lab uitgeroepen tot Nationaal Icoon, en stak het kabinet 136 miljoen euro extra in het spraakmakende Nederlandse onderzoekswerk op quantumgebied. 
+Bekijk de oorspronkelijke pagina: pagina 8
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Page 2 of 3
+Intel steekt 50 miljoen in Delfts lab
+Journal Code: de Volkskrant
+Industry: Computing + Information Technology (94%)
+Load-Date: September 4, 2015
+
+End of Document
+Page 3 of 3

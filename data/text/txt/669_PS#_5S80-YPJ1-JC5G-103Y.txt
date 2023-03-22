@@ -1,0 +1,30 @@
+Vervormde supergeleider legt magnetisch veld aan
+NRC Handelsblad 
+05 May 2018 zaterdag
+Copyright 2018 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 5
+Length: 463 words
+Byline: Dorine Schenk
+Body
+
+ABSTRACT
+Natuurkunde
+Als een bepaald soort supergeleider buigt, vormt zich een magnetisch veld. Die kennis helpt het maken van  quantumcomputers.
+Door zogeheten chirale supergeleiders te buigen of in te deuken ontstaat er spontaan een magnetisch veld.  Natuurkundigen zijn gek op alle soorten supergeleiders, omdat stroom daar, als het materiaal koud genoeg is, weerstandloos doorheen beweegt. Dat komt doordat de elektronen in het materiaal tweetallen vormen. Als paar kunnen ze bijna zonder weerstand bewegen. En in chirale supergeleiders draaien de elektronen ook nog om elkaar heen. Daardoor wekt elk paar een magnetisch veldje op. Chirale supergeleiders zijn nog extra populair omdat ze waarschijnlijk een belangrijke rol kunnen spelen in toekomstige quantumcomputers. Maar het is lastig om te bepalen of een materiaal een chirale supergeleider is. 
+Nu Nederlandse en Zweedse natuurkundigen theoretisch hebben aangetoond dat vervorming een magneetveld opwekt, wordt het een stuk eenvoudiger om te testen of een materiaal een chirale supergeleider is. Hun resultaten verschijnen binnenkort in Physical Review Letters.
+Vervormde supergeleider legt magnetisch veld aan
+De onderzoekers berekenden wat er met de elektronenparen gebeurt in een  dunne (tweedimensionale) laag van een chirale supergeleider. In zo'n vel draaien de elektronenparen allemaal in hetzelfde vlak. ,,Als je het vel buigt raakt de baan waarin ze om elkaar heen draaien, en dus het magnetische veldje, verstoord", vertelt Cristiane de Morais Smith, hoogleraar theoretische fysica aan de Universiteit Utrecht. Om die verstoringen op te heffen ontstaat  een tegengesteld magnetisch veld in de supergeleider. Dit noemen de onderzoekers het 'geometro-Meissner effect'.
+Dit effect is vergelijkbaar met het 'gewone' Meissnereffect dat optreedt als je een magneet in de buurt brengt van een supergeleider. De supergeleider duldt geen magneetveld in zijn binnenkant en stoot daarom het magneetveld van de externe magneet af door om zich heen een tegengesteld magnetisch veld op te wekken, dat het veld van de magneet opheft. Hierdoor kun je een magneet boven een supergeleider laten zweven. Dit effect wordt bijvoorbeeld gebruikt voor magneetzweeftreinen die rondzoeven in China en Japan.
+De onderzoekers hebben voor een aantal materialen waarvan wordt vermoed dat het chirale supergeleiders zijn, uitgerekend hoe groot het magnetisch veld zou moeten zijn dat spontaan ontstaat door het krom te buigen of in te deuken. ,,Volgens onze berekeningen is het magnetische veld groot genoeg om meetbaar te zijn", vertelt De Morais Smith.
+,,We hebben theoretisch aangetoond dat dit effect kan bestaan, maar niemand heeft het nog waargenomen", vertelt Thomas Kvorning, van de universiteit van Stockholm. ,,Ik hoop dat een experimentator ons artikel leest en het effect wil testen."
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Superconductors (95%)
+Load-Date: May 4, 2018
+
+End of Document
+Page 2 of 2

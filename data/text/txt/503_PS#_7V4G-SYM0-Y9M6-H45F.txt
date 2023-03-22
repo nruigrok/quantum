@@ -1,0 +1,59 @@
+De dans der elektronen; Boeven zouden  deze technologie wat graag hebben
+Het Parool
+28 februari 2009 zaterdag
+Copyright 2009 Het Parool All Rights Reserved
+
+Section: PS; Blz. 2
+Length: 1024 words
+Byline: Marc Laan
+Body
+
+Bekijk eens een voetbal, met het ventiel aan de voorkant. Draai de bal rond en het ventiel verdwijnt uit zicht. Na een draai van 360 graden komt het pompgat weer in beeld. Wat nu als het ventiel niet na één draai weer in het zicht komt, maar pas na twee keer rondtollen? Dat zou tamelijk spectaculair zijn:  pas na een omwenteling van 720 graden toont de bal weer zijn normale aanzien.
+Inderdaad 'tamelijk spectaculair', zo noemen natuurkundigen een vinding waarover geleerden van de Princeton University in Science verslag doen. Zij brouwden een materiaal, waarin elektronen een rotatie van 720 graden maken, voordat ze hun oorspronkelijke gezicht weer tonen. Welkom in de wereld van de kwantumnatuurkunde, waar andere wetten gelden dan die door het blote oog worden waargenomen.
+Het lijkt of de onderzochte elektronen op twee plaatsen tegelijk zijn. Dit maakt het mogelijk ze te gebruiken om meerdere berekeningen tegelijkertijd uit te voeren. Die ontdekking mag voor velen onbegrijpelijk klinken, zij heeft grote gevolgen voor de elektronica in computers.
+Zo leidt de ontdekking wellicht tot computers die veel grotere massa's data aankunnen, en hiermee niet alleen sneller, maar vooral ook foutloos rekenen: zogenoemde fouttolerante computers.
+Kern van de nu ontdekte eigenschappen die de rondtollende elektronen vertonen, is dat zij ongekend veel informatie kunnen opslaan. En nog verliesvrij ook.
+Zahid Hasan is de onderzoeker die het internationale team van geleerden in dit project leidt. Hij stelt: "Wij denken dat deze ontdekking niet alleen een vooruitgang is in de fundamentele natuurkunde van kwantumsystemen, maar ook dat het kan leiden tot grote vooruitgang in de elektronica, in de computerwetenschap en in de informatica."
+Harry Buhrman is hoogleraar quantum computing aan het Amsterdamse informaticainstituut CWI. Hij noemt de ontdekking 'van belang voor het bouwen van fout-tolerante kwantumcomputers'.
+"Met deze machines kan je veel efficiënter rekenen en problemen oplossen. Als men erin slaagt een kwantumcomputer te bouwen, bespaart dit de maatschappij enorm veel tijd en geld. Wij kunnen straks dingen berekenen die voorheen te tijdrovend waren, zoals het factoriseren van priemgetallen."
+Ook boeven zouden maar wat graag zo'n kwantumcomputer hebben. Bij webbankieren is de lijn beveiligd door een sleutel die ontstaat als je twee priemgetallen vermenigvuldigt. De huidige computers kunnen die code moeilijk kraken.
+Buhrman: "Een praktische toepassing van deze ontdekking kan zijn dat je in een oogwenk de priemgetallen kan berekenen, die het betalingsverkeer op Amazon.com beveiligen. Encryptie is dan sneller te kraken. Maar je kan er natuurlijk ook heel snel níeuwe en ingewikkelder encryptiesleutels mee maken."
+Als een elektron op twee plaatsen tegelijk kan zijn, zoals dit onderzoek aantoont, kun je straks ook meer berekeningen tegelijk uitvoeren in plaats van één, zoals op de pc, verwacht Buhrman. "Maar de pc zal niet verdwijnen, die blijft heel geschikt voor allerlei taken."
+Nieuw is het idee van het draaigedrag van elektronen niet. De Britse kwantumnatuurkundige Paul Dirac, in 1933 winnaar van de Nobelprijs voor natuurkunde, voorspelde al dat elektronen zich door hun draaigedrag gaan gedragen als kleine magneetjes. Dirac noemde deze magneeteigenschap 'quantum spin', (kwantumdraai). Dat magnetisme vergroot de capaciteit om data op het elektron op te slaan. Dit vakgebied heet nu 'spintronics'.
+De eigenaardige dubbele draai van 720 graden, die nu is waargenomen in een speciaal gebrouwen soepje van elektronen, was ook al voorspeld door verschillende theoretisch natuurkundigen.
+De vraag was al die jaren dan ook onder welke omstandigheden en met welke technieken het verschijnsel ook in het echt kon worden aangetoond. Uiteindelijk bleek de oplossing een materiaal te maken waarin elektronen zich gemakkelijk op hoge snelheid kunnen wentelen. Verder moesten er waarnemingstechnieken bedacht worden, waarmee wetenschappers de 'elektronendans' ook konden zien.
+Het internationale onderzoeksteam onder aanvoering van Hasan ontwikkelde eerst nieuwe röntgenstralingstechnieken, waarmee zij de snelle draaibewegingen van de elektronen konden observeren. Vervolgens knutselden zij een speciaal materiaal in elkaar, waarin de elektronen hun dansje makkelijk en wrijvingsloos konden uitvoeren. Het materiaal bestaat uit een kunstmatig gegroeid kristal van antimoon (een element dat vanwege zijn hardheid ook wel als brandwerende stof in kleding verwerkt zit), versterkt met bismut (een zwaar metaal met een zeer laag elektronisch geleidingsvermogen).
+Toen de onderzoekers hun eerste opnamen van de elektronendans maakten, constateerden zij inderdaad het bizarre verschijnsel dat de elektronen op het oppervlak van het kristal een draai van 720 graden nodig hadden om hun oorspronkelijke gezicht weer te laten zien.
+Zelfs onderzoeksleider Hasan spreekt van 'raar gedrag' van de elektronen: "Dit is een heel fundamenteel nieuw stukje natuurkunde. Het gaat verder dan wat je leert in een lesboek over kwantumnatuurkunde. In beginsel kun je deze nieuwe kwantumbeweging van elektronen gebruiken om een erg bizar elektronisch circuit te bouwen."
+Nu de vreemde eigenschappen van elektronen zijn ontdekt, kan een kwantumcomputer daar extra zijn voordeel mee doen: hij kan straks foutloos rekenen.
+Buhrman: "Het optreden van fouten in het rekenwerk is het grote obstakel dat het bouwen van kwantumcomputers tot nu toe in de weg staat."
+Onderzoeker David Hsieh schreef het onderzoeksverslag van het experiment. Hij vertelt in een persbericht van Princeton: "Wij kunnen deze nieuwe kwantumeigenschappen van ronddraaiende deeltjes gebruiken om computers te maken die veel meer informatie kunnen opslaan, en berekeningen veel sneller uit te voeren dan de huidige apparaten."
+De kwalificatie 'tamelijk spectaculair' komt niet van de minste: het is Philips Anderson, emeritus hoogleraar aan Princeton en winnaar van de Nobelprijs natuurkunde in 1977.
+Een internationaal team van geleerden ontdekte dat elektronen veel beter kunnen rekenen dan tot nu toe bewezen was. De wetenschap is een stapje dichter bij de magische kwantumcomputer.
+marc laan
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: parool
+Subject: Superconductors (88%); Physics (64%)
+Company:  AMAZON.COM INC (51%)
+Organization: PRINCETON UNIVERSITY (57%)
+Ticker: AMZN (NASDAQ) (51%)
+Industry: NAICS454110 ELECTRONIC SHOPPING AND MAIL-ORDER HOUSES 
+(51%); SIC5961 CATALOG & MAIL-ORDER HOUSES (51%); Computing + Information Technology (94%)
+Load-Date: March 2, 2009
+
+End of Document
+De dans der elektronen; Boeven zouden  deze technologie wat graag hebben
+
+De dans der elektronen; Boeven zouden  deze technologie wat graag hebben
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

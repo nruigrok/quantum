@@ -1,0 +1,71 @@
+'Het internet moet weer van ons worden'
+Trouw
+1 februari 2020 zaterdag
+Copyright 2020 DPG Media B.V. All Rights Reserved
+
+Section: | Wetenschap; Blz. 14, 15
+Length: 2080 words
+Byline: JOEP ENGELS
+Highlight: vertrouwen - interview - Het internet leek ooit een vrijplaats te worden voor het individu, maar intussen maken grootmachten als Google of Facebook er de dienst uit. Onderzoekers uit Delft proberen het net terug te geven aan de burger.
+Body
+
+Op Marktplaats staat een mooi kastje te koop. De prijs is aantrekkelijk, dus de koop is snel gesloten. Maar dan. Gelijk oversteken is in de digitale wereld geen vanzelfsprekendheid. Je kunt je geld overmaken, maar weet je wel zeker dat je het kastje dan nog krijgt? Of andersom: heb je het kastje netjes afgeleverd, blijkt de betaling nep. 
+Handel berust op vertrouwen, maar dat is op internet soms ver te zoeken. Spookcontracten, katvangers of andere oplichters lijken er vrij spel te hebben. In de reële wereld kun je je zakenpartner in de ogen kijken, hebben winkelketens een reputatie hoog te houden en letten keurmerken of toezichthouders op hun betrouwbaarheid. Maar op het internet? Boekingsites of webwinkels hebben ratings. "Gasten gaven dit hotel een 8,7", staat erbij. Maar wie zijn die gasten? Bestaan ze echt of heeft de hotelketen stemmen gekocht? 
+"Ons was beloofd dat het internet de wereld beter zou maken", zegt Johan Pouwelse van de TU Delft. "We zouden democratie krijgen, een gelijk speelveld voor iedereen. Maar in plaats daarvan zijn we overgeleverd aan internetgiganten als Google of Amazon. In de Franse senaat werd Europa al een digitale kolonie van de VS genoemd. Wij willen het internet teruggeven aan het individu." 
+Dat is al meer dan twintig jaar de missie van Pouwelse. De projectleider van het Delftse 
+Blockchain Lab werkt aan een internetomgeving die wél veilig is voor gebruikers. Waar mensen weten wie ze kunnen vertrouwen. Waar ze niet bang hoeven te zijn dat hun persoonlijke gegevens worden opgeslagen en misbruikt. "Wij werken aan een digitale basisidentiteit, aan een instrument waarmee je in de virtuele wereld kunt bewijzen dat je bent wie je bent. Als een soort rijbewijs of paspoort. Dat klinkt misschien eenvoudig, maar het bestaat nog nergens. Althans niet in een complexe economie als de onze." 
+Was hij lange tijd een roepende in de woestijn, nu krijgt hij navolging. Hernieuwde zeggenschap over het internet is een prioriteit van de nieuwe Europese Commissie. Pouwelse: "Commissievoorzitter Ursula von der Leyen heeft er 300 miljoen voor ingezet." 
+Een paar jaar geleden kreeg Pouwelse een Europese subsidie en nu maakt in Nederland onderzoeksfinancier NWO samen met de universiteiten van Delft, Rotterdam en Amsterdam 3,3 miljoen euro vrij voor een project van de groep van Pouwelse: 50.000 internetgebruikers moeten testen of het Delftse systeem betrouwbaar en toekomstbestendig is. 
+"We werken nu met een tweede prototype. Een soort ondernemerspaspoort. Een digitale registratie van jouw gegevens." Hij haalt een doosje tevoorschijn waarin allerlei kaartjes zitten. Het lijken kaartjes van een gezelschapsspel, maar ze zijn door zijn studenten gemaakt om te demonstreren hoe het systeem werkt. 
+"Deze kaartjes tezamen: dat ben ik. Mijn geboortecertificaat, mijn ov-kaart, mijn rekeningnummer, mijn energiebedrijf, mijn telefoonabonnement, noem maar op. Al die data sla ik op in mijn smartphone. Net als een bewijs van goed gedrag of de aanbevelingen die ik krijg. Die kan ik bij een transactie laten zien en daarmee bouw ik vertrouwen op. Bij een klussite staat ook een beoordeling in sterren, maar daar kunnen trollen achter zitten. Bij ons kun je de digitale schouderklopjes traceren, je kunt zien dat ze van echte mensen komen." 
+En belangrijk: al die data blijven eigendom van het individu. "Alleen jij kunt erbij, maar je kunt er niet ongemerkt mee sjoemelen. Bij een transactie hoef je je paspoort alleen te tonen. Zodat de ander kan controleren dat er niet mee gerotzooid is. Zoals de marechaussee je paspoort controleert. Meer niet. Het is: controle, en dan gaat het poortje open. Ze nemen het niet in en maken er ook geen kopietje van, zoals ze in een hotel vaak doen - en je niet weet wat er daarna mee gebeurt." 
+Leeg café 
+Dit vinden de Googles en Facebooken van deze wereld niet leuk, want op die dataverzameling hebben de internetgiganten hun imperia gebouwd. "Die data zitten in hun computers. Je kunt als gebruiker niet zomaar overstappen op een alternatief. Het Facebook-alternatief heeft geen toegang tot Facebook, zodat een gebruiker van het alternatief ook niet kan praten met Facebookers. Alle gebruikers zijn locked in." 
+Daar komt bij dat op internet het principe geldt van 'the winner takes it all'. Pouwelse: "De investeringen in een goede zoekmachine of sociaal platform zijn gigantisch. Heb je daar eenmaal de koppositie veroverd, dan druk je alle concurrentie weg. Net zoals de winnaar van een gouden olympische medaille bijna alle aandacht krijgt en zilver nauwelijks telt, zo trekt ook de koploper op een internetmarkt alles naar zich toe. Tot aan de reclame-inkomsten toe. Zie het kwakkelende bestaan van Bing, de zoekmachine van Microsoft. En wie weet wat na Bol.com in Nederland de grootste internetwinkel is?" 
+Dan is er nog een derde effect: het lege-café syndroom. "Zet maar eens een alternatief voor YouTube op. Hoe zorg je ervoor dat mensen komen kijken als er nog geen filmpjes zijn? En hoe haal je mensen over hun filmpjes op jouw site te zetten als er geen kijkers zijn?" 
+Het kapitalisme faalt op internet, zegt hij. "Er is geen open markt, geen heilzame werking van concurrentie. Zo zijn we in de situatie beland dat Google tegen Turkije kan zeggen: als jullie die wet die concurrentie op internet moet bevorderen niet terugdraaien, zorgen wij dat onze telefoons - de androids - niet meer werken. Overheden beginnen zich af te vragen of ze deze machtsfactor willen tolereren. Of ze het goed vinden dat sociale platforms antidemocratische onwaarheden verkondigen. Wat ze aanmoeten met de 
+Ubers of de Airbnb's die wel de winsten pakken maar niet de verantwoordelijkheden." 
+Openbreken 
+We hebben geprobeerd de macht van deze partijen te breken door ze met wetten aan te pakken, zegt Pouwelse, of ze te dwingen zich op te splitsen. "Dat gaat waarschijnlijk niet werken. Volgens ons moet je ze openbreken, transparant maken. We moeten onze data terugeisen van Facebook en Google." 
+Daarom wil hij op internet markten creëren en platforms waar mensen weer de regie over hun eigen gegevens hebben. Waar je kunt werken aan wederzijds vertrouwen. "Wij denken dat het kan. En dat het ook zelforganiserend is. Mensen hechten waarde aan vertrouwen, zijn bereid meer te betalen als het een bonafide partner is. Dus is het ook de moeite waard om bijvoorbeeld als beginnend klusser digitale schouderklopjes te verzamelen." 
+Is het werkelijk? Pouwelse werkt al achttien jaar aan dit veilige internet. In 2007 haalde hij al eens de internationale media met zijn digitale vertrouwen, maar het is nog steeds oorverdovend stil in zijn 'lege café'. "We moeten opboksen tegen grootmachten. Apple heeft een omzet ter grootte van de economie van Denemarken. Daar werken duizenden topingenieurs. Daarom beginnen we bij een bedrijfstak waar de markt faalt: de muziekindustrie. Artiesten houden heel weinig van hun verdiensten over. Een groot deel verdwijnt in de zakken van Spotify of YouTube." 
+In Delft werken ze aan een artiestenpaspoort, waarin alle tussenpersonen zijn vervangen door software. "Er zit niemand meer tussen de artiest en de oren van diens fans. Geen bank, geen manager, geen Google. Alleen open-source-software." 
+Hij is er nog steeds van overtuigd dat het zal werken. "Je moet het zien. Het is net als ooit met Wikipedia. Volgens de toen gangbare economische theorieën kon dat nooit van de grond komen. Niemand zou zijn kennis willen delen. Maar mensen blijken bereid te zijn er hun vrije uurtjes in te steken. Zo geloof ik er ook vast in dat mensen aan dat gezamenlijke vertrouwen willen werken." bestand tegen de quantumcomputer?
+Blockchain gold altijd als een veilige opslagtechniek. De kern is dat data niet centraal worden opgeslagen - zodat een kwaadwillende met één hack toegang heeft tot alles - maar versleuteld in een netwerk waarbij elk knooppunt van dat netwerk een kopie bevat. Je kunt zo'n knooppunt wel kraken, maar niet ongemerkt iets aan de data veranderen. Er zijn immers vele kopieën. 
+De bekendste toepassing van de blockchain is de bitcoin (en andere cryptomunten). Bij bitcoins is het niet de bank die controleert of een transactie kan doorgaan (is er genoeg saldo?), maar doen alle aangesloten computers dat zelf. Daarvoor moet een code worden gezocht, en dat is het werk van de zogeheten miners. In feite moeten zij een rekensom oplossen, en het systeem is zo afgesteld dat elke tien minuten een code wordt gevonden. 
+Met de komst van quantumcomputers zou dit systeem exploderen. Deze futuristische computers zijn zo goed in dit soort rekensommetjes dat ze in een mum van tijd de hele voorraad codes zouden vinden. 
+Maar de Delftse blockchain maakt geen gebruik van miners. Hier gaat het alleen om het digitale lakzegel waarmee de data zijn beschermd. Het gevaar dat voor de bitcoins dreigt, geldt hier dus niet. Maar de quantumcomputer is ook goed in het ontrafelen van versleutelde informatie. Pouwelse: "We zijn druk bezig ons te verdedigen tegen alle nu bekende aanvallen. Voordat de quantumcomputer echt bestaat, zal ons systeem daar ook bestand tegen zijn. Quantum-proof versleuteling bestaat gelukkig al."
+Digitale veiligheid
+Het veilige internet van de Delftse onderzoekers is opgebouwd uit vier lagen. De basis is de digitale basisidentiteit, daarboven komt de vertrouwenslaag die gebaseerd is op de zogeheten blockchain-technologie, dan de laag van het digitale geld en tenslotte bovenop het marktplein. 
+Het startpunt is een zelfgekozen handtekening, door de onderzoekers IkBenHet gedoopt. Iemand kan op zijn eigen smartphone zijn basisidentiteit en andere documenten downloaden. "Je geboorteplaats, postcode, BSN-nummer, een rijbewijs- en telefoonnummer", zegt Johan Pouwelse. "Maar geen enkel nummer kies je zelf of is van jou. Behalve een handtekening, die mag je zelf verzinnen. Wij maken een digitale handtekening en basisidentiteit die echt van jou zijn." 
+Maar wat kun je daarmee bij een bank, een notaris of op Schiphol? "Wij hopen dat je daarmee ooit kunt bewijzen dat jij het bent. Dat je nooit meer papieren bij je hoeft te hebben, maar dat het allemaal in je mobiel zit. Voor het zo ver is, moeten wij driedubbel kunnen garanderen dat het systeem niet gehackt kan worden." 
+Die veiligheid moet komen van de blockchain. In deze technologie worden gegevens niet opgeslagen in een centrale database, maar alle informatie wordt door de betrokken partijen digitaal ondertekend en lokaal opgeslagen. De informatie is op die manier verzegeld. "Er zit het digitale equivalent van een lakzegel op", zegt Pouwelse. "Je kunt zien als ermee gerommeld is." 
+Elk verzegeld blokje krijgt een onveranderlijk volgnummer en zo bouwt iemand met al zijn documenten en transacties een keten van blokjes op (een blockchain). De keten wordt een kenmerk van betrouwbaarheid. Een ander kan zien wat iemand gedaan heeft. Misstappen zijn niet te verdonkeremanen, want dan klopt de nummering niet meer. 
+Digitaal geld bestaat natuurlijk al, maar al het digitale geldverkeer loopt via een centrale bank. "Dat is niet gratis, pinnen kost geld", zegt Pouwelse. "Bovendien willen we niet dat een centrale partij toestemming moet geven voor een transactie. Dat is aan het individu." 
+Om dat te bereiken hebben ze een systeem bedacht waarbij iemand trekkingsrechten verwerft. "Simpel gezegd: je maakt duizend euro over naar een notaris. Dat geld ben je kwijt, maar je krijgt er muntjes voor. Zoals de consumptiebonnen in een disco. Daar kun je op internet mee handelen. En je kunt ze eventueel ook weer bij de notaris inwisselen. Dat systeem is gratis, en je bepaalt zelf aan wie je geld geeft." 
+Het systeem rust voor een groot deel op instituten als dat van de notaris. De Delftenaren maken de figuur belangrijker, krachtiger. "Maar we nemen hem ook werk uit handen. Want het werk dat een notaris bij de verkoop van een huis doet, zoals de inschrijving in het kadaster, kan deels worden geautomatiseerd." 
+Dat klinkt overzichtelijk, maar elke laag heeft zijn eigen obstakels. Zo moet het systeem onkraakbaar zijn. En mogen die cafémuntjes niet te vervalsen zijn. "Vroeger kon je bijvoorbeeld in verschillende landen via een geldautomaat een rekening leegtrekken. Het duurde even voor ze in Spanje wisten dat het geld er in Turkije ook al afgehaald was." 
+En zo is er nog een reeks voetangels. "Je wilt de details niet weten van wat je moet regelen eer twee vreemde telefoons met hun eigen digitale identiteit goed en veilig met elkaar kunnen kennismaken."
+Bekijk de oorspronkelijke pagina: pagina 14, pagina 15
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Internet Social Networking (94%); Digital Currency (78%); Information 
+Management + Technology (63%)
+Industry: Internet + Www (92%); Computing + Information Technology (74%); Data Mining (64%)
+Load-Date: January 31, 2020
+
+End of Document
+'Het internet moet weer van ons worden'
+
+'Het internet moet weer van ons worden'
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

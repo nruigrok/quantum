@@ -1,0 +1,61 @@
+Ongelooflijk snelle magneten
+NRC Handelsblad
+2 april 2011 zaterdag
+Copyright 2011 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap
+Length: 1279 words
+Byline: Margriet van der Heijden
+Body
+
+SAMENVATTING
+Fysica Een trefzeker gekozen materiaal en ultrakorte laser- en röntgenpulsen: daarmee betreden fysici een nieuw magnetisch domein.
+Margriet van der Heijden
+VOLLEDIGE TEKST:
+Stel, je hebt wat ontdekt. Jouw ontdekking weerspreekt de theorie die sinds jaar en dag in alle studieboeken en overzichtswerken staat.  Het is iets héél nieuws. Als je dan Alexey Kimel heet, dan zeg  je dus onaangedaan  dat dit, inderdaad, "heel leuk" is.  Alsof iemand je gevraagd had hoe je over skiën in de Tatra denkt, of  wat je van haar nieuwe outfit vindt.
+Toch is de ontdekking van Kimel, fysicus en universitair docent aan de Radboud 
+Universiteit Nijmegen, niet alledaags en niet  triviaal. Bijna sinds hij in 2002 vanuit Sint Petersburg naar Nijmegen kwam, werkt hij aan magnetisme. "En nu hebben we een van de bouwstenen van de theorie van magnetisme in stukken gebroken", zegt de Rus, die vloeiend Nederlands spreekt.
+Dat lukte onder meer dankzij sterke en   ultrakorte laserpulsen  van 60 femtoseconden -    60  duizendste van een miljoenste van een miljoenste seconde. Daarmee lieten Kimel en zijn collega's uit Stanford, Japan, Nijmegen en Berlijn de magnetisatie in een trefzeker  gekozen materiaal bliksemsnel omklappen (eerder beschreven door Kimel en collega's,  Nature, 25 mei 2005). Dus: noordpool werd steeds  zuidpool  en vice versa.
+Het lukte  bovendien  dankzij  de  ultrakorte röntgenpulsen,   waarvoor  Kimel met collega's naar Berlijn afreisde. Daar,  bij het  Helmholtz-Zentrum Berlin,  leverde  synchrotron BESSY II   röntgenpulsen van slechts 100 femtoseconden. Precies wat nodig was om snapshots  te maken van het met de  laser belichte  materiaal. Onverwacht bleek zo  dat het ompolen op deze ultrakorte tijdschalen volledig  uit de pas loopt bij de verwachting  (Nature, 31 maart).
+Pauli
+Volgens de boeken kán dat helemaal niet, zegt Kimel. Die veronderstellen een ordentelijk proces,  misschien ook omdat   over deze ultrakorte en lang  onbereikbaar geachte  tijdschalen nooit erg  diep  is nagedacht.
+De snapshots tonen het snelle ompolen  op de microscopische schaal. Op de schaal dus van de   atomen en elektronen waarin het magnetisme tot stand komt -  dankzij  de wetten van de quantummechanica en  dankzij het beroemde uitsluitingsprincipe van Pauli. De  zwijgzame Wolfgang  Pauli kreeg er    in 1945 op voorspraak van Albert Einstein een Nobelprijs voor.
+Zijn  uitsluitingsprincipe dicteert dat geladen deeltjes, zoals    elektronen die om een atoomkern cirkelen,      nooit  in exact dezelfde quantumtoestand kunnen verkeren. Twee identieke elektronen die in  dezelfde baan rond één atoomkern draaien moeten zich daarom van elkaar zien te onderscheiden. Dat doen ze via hun 'spin', een quantummechanische eigenschap die weergeeft of een geladen deeltje linksom (spin up) of rechtsom (spin down) om zijn as tolt.
+Die spin is  de bron van magnetisme. Preciezer:   de spin van de buitenste elektronen  die in sommige metalen hun baan  voor zichzelf   hebben. Oppervlakkig gezien kunnen deze   einzelgängers      in   alle  vrijheid hun 'spin' kiezen. Maar dat is schijn, want er zijn buuratomen. Liever: er zijn naburige buitenste elektronen, die  op overlappende banen bewegen. Zo zitten die buitenste elektronen   volgens Pauli toch  in elkaars vaarwater en dat  geeft   in verschillende   materialen verschillende uitkomsten.
+In een anti-ferromagnetisch metaal, zoals  chroom, zorgen naburige  buitenste elektronen ervoor dat hun spins  tegengesteld gericht zijn. Op-neer-op-neer. Of: noordzuid-noord-zuid, want in feite is zo'n tollend elektron een klein magneetje. In chroom heffen die magneetveldjes elkaar op: het metaal  heeft daardoor   netto geen noord- en  zuidpool.
+In ijzer gaat het er anders toe. Daar tollen de buitenste elektronen juist  eendrachtig dezelfde kant uit. Zo dwingen ze zichzelf, via Pauli's principe, om bij elkaar uit de buurt te blijven. Netto levert dat in ijzer een evenwichtstoestand op. Het maakt bovendien van ijzer een ferromagnetisch materiaal,  met netto wél  een noord- en  zuidpool.
+Het materiaal van Kimel  zit er  tussenin:  het is  een legering van twee ferromagneten, gadolinium en ijzer,  die elk een andere kant uit wijzen. Samen vormen ze dus  juist weer   een anti-ferromagneet, want de   ijzer- en gadoliniumspins wijzen  om en om    de andere kant op. Maar omdat de sterkte van de 'magneetjes' in ijzer en  gadolinium  verschilt, blijft  netto toch   een  magneetveld over - de legering heet dan  ferrimagnetisch.  Kimel: "Uit eerdere proeven kenden we deze  legering al door en door. Juist daardoor konden we  het  afwijkend gedrag op de korte tijdschalen  zo snel herkennen."
+Op deze legering  lieten Kimel en collega's in Berlijn de  ultrakorte laserpulsen los. Uit de eerdere proeven wisten ze wat er dan gebeurt: het licht laat de spins in het materiaal omklappen. Up wordt   down, en vice versa. Raar  was wat de röntgenstralen tegelijkertijd toonden: de spins in ijzer klappen   veel sneller om (in 0,3 picoseconde, ofwel 0,3  miljoenste van een miljoenste seconde) dan die in gadolinium (1,5 picoseconde,  ofwel vijf keer zoveel tijd). Dat leidt er onder meer toe dat de legering  even   ferromagnetisch is:  de ijzerspins zijn dan bijna omgeklapt en wijzen   dezelfde kant uit als   de gadoliniumspins die   net een beetje zijn gedraaid.
+Evenwicht zoek
+"Dat gedrag is heel vreemd", zegt Kimel. Volgens de  theorie, én volgens Pauli,  vormen de ijzer- en gadoliniumatomen twee groepen (in vaktaal: 'roosters') die juist  voortdurend het onderlinge evenwicht bewaken. Wanneer dus  onder invloed van laserlicht   de  ijzerspins  omhoog    draaien, klappen   de gadoliniumspins netjes in de pas    omlaag.  Theoretisch.
+In de praktijk bleek het onderlinge evenwicht zoek.  Zozeer zelfs dat  de legering dus  tijdelijk ferromagnetisch was. Ongunstig, want het kost de elektronen in dit geval veel energie om uit elkaars buurt te blijven.
+Kimel: "De situatie lijkt  een klein   beetje op  die van de  klassieke mechanica en de quantummechanica. Als je  naar  steeds kleinere afstandschalen gaat, schieten de wetten van de klassieke mechanica tekort. Ze zijn nog altijd geldig, maar niet in het microscopische  domein. Daar werkt de quantummechanische beschrijving veel beter.
+"Zo is het met onze vondst ook. De  theorie van magnetisme houdt stand, maar op deze ultrakorte tijdschalen voldoet hij  niet langer. In dit domein gelden andere regels  - en ja, welke dat zijn, dat  moeten we nu  ontdekken. We hebben net een eerste  stapje in deze nieuwe  wereld  gezet."
+De  vervolgexperimenten om die wereld te verkennen, heeft Kimel  al in gedachten. Hij hoopt dat die óók zullen aantonen dat zijn  vondst tot  extreem snelle magnetische gegevensopslag kan leiden.
+Het recept daarvoor is eenvoudig, zegt hij. Neem die legering van ijzer en gadolinium. Baken daarin    gemagnetiseerde gebiedjes af en noem die 'bit', net zoals bij conventionele magnetische dataopslag. De bitwaarde  van   een gebiedje  met ijzerspin 'up'  en gadoliniumspin 'down' stel je bijvoorbeeld op  '0'.  De bitwaarde van het  tegengestelde gebiedje (ijzer 'down' en gadolinium 'up') is    dan  '1'.
+Om bits over te schrijven is daarna een ultrakorte laserpuls voldoende.  Die brengt bijvoorbeeld   bit '0' uit evenwicht en voert die naar  de  toestand van ferromagnetisme, zoals in de proeven. Kimel: "Op grond van die proeven en van onze computersimulaties  verwacht ik dat  de  spins daarna   helemaal omklappen: naar bitwaarde 1.  En als dat gebeurt, kun je dus  met een lichtpuls van femtosecondes al een bit wegschrijven. Dat is een miljoen keer sneller dan de nanosecondes die  in de huidige harddisks vereist zijn."  Op papier. Dat nog wel.
+Graphic
+
+ 
+De  magnetische  'spins' van de elektronen in gadolinium (rood) en ijzer (blauw) wijzen aanvankelijk  in tegengestelde richting  (beide platen linksboven), raken dan kortstondig de kluts kwijt; wijzen zelfs tijdelijk dezelfde kant uit (beide platen midden) en klappen daarna helemaal om zodat ze weer  in tegengestelde richting staan (beide platen rechts). De bestaande theorie voor magnetisme beschrijft alleen de begin- en eindtoestand. De toestand daartussenin (weergegeven op de schaal van picosecondes, ofwel miljoenste van een miljoenste secondes)  is ermee in strijd. Waarschijnlijk overheerst een sterke  koppeling tussen de magnetische spins in ijzer en gadolinium. Die sterke wisselwerking kan in de toekomst misschien tot  extreem snelle magnetische  dataopslag leiden.   Beeld: Alexey Kimel
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Superconductors (94%)
+Load-Date: April 1, 2011
+
+End of Document
+Ongelooflijk snelle magneten
+
+Ongelooflijk snelle magneten
+
+Page 2 of 5
+
+Page 2 of 5
+
+
+
+
+

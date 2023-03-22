@@ -1,0 +1,39 @@
+Google gaat sneller vaag doen; Informatica Zoekmachine lonkt naar quantumcomputers
+de Volkskrant
+19 december 2009 zaterdag
+Copyright 2009 PCM Uitgevers B.V. All Rights Reserved
+
+Section: KENNIS; Blz. 3
+Length: 508 words
+Byline: Martijn van Calmthout
+Body
+
+SAMENVATTING
+Twee jaar geleden leek het grootspraak. Nu ziet Google brood in rekenen met quanta van D-wave.
+VOLLEDIGE TEKST:
+Het is en blijft een scam, bedrog, schrijft een knorrige lezer onder het weblog van dr. Hartmut Neven, teamleider beeldherkenning bij Google Research. Neven meldde dat Google samen met het Amerikaanse bedrijf D-wave een systeem heeft gebouwd dat in een databank met foto's de afbeeldingen met een auto erop kan vinden. Daartoe is  eerst getraind aan de hand van foto's met een auto.
+Zoiets is op zichzelf geen nieuws, beeldbankzoeken met getrainde systemen, dat is al eerder vertoond. Maar de samenwerking met D-wave is bijzonder omdat dat bedrijf technologie levert voor quantumrekenen. Dat is een experimentele rekentechniek waarbij niet van harde enen en nullen gebruik wordt gemaakt, zoals in hedendaagse digitale computers. In plaats daarvan benut het systeem de vaagheid van deeltjessystemen waarin de toestand van een geheugenplaats niet vastligt tot er gemeten wordt. Op papier heeft zo'n qubit (een quantumbit) tegelijk de waarde 1 en 0. Met zulke vage eenheden zijn dus simultaan talloze sommen tegelijk te maken. Door een slotmeting is dan de juiste som, inclusief juist uitkomst, uit alle mogelijkheden te vissen.
+Dat de lezer van Nevens weblog zo sceptisch reageert, is niet helemaal vreemd. D-wave kwam de laatste jaren met claims van commerciële chips voor quantumrekenen, 
+Google gaat sneller vaag doen; Informatica Zoekmachine lonkt naar quantumcomputers
+waarbij de deskundigen zo hun vraagtekens hadden. Op die chips zouden de klassieke magnetische geheugenplaatsen zijn vervangen door de inhoud van supergeleidende magneetdomeinen, zogeheten rf-squid flux qubits.
+Echt verkrijgbaar waren deze D-wave C4 Chimera-chips echter niet, en het gerucht ging dat D-wave klassieke digitale techniek op een slimmere manier gebruikte om voor sommige toepassingen sneller te rekenen dan anderen.
+'Ik denk dat D-wave vooral in de public relations veel te hoog inzette, terwijl er wel degelijk goeie mensen werken', zegt hoogleraar informatica Harry Buhrman van het CWI in Amsterdam. Hij is een specialist in quantum computing.
+D-wave zal zeker tevreden zijn met Nevens aankondiging vorige week op de NIPS-2009 conferentie in Vancouver, Canada. Buhrman: 'Investeerders hebben er veel geld in zitten. Vertrouwen van een gigant als Google is dan belangrijk.'
+Voor hem is vooral de vraag met hoeveel qubits Nevens team eigenlijk simultaan rekent in zijn experimenten. Meer dan drie is al een uitdaging, omdat quantumsystemen uitermate delicaat en storingsgevoelig zijn. Een heel ensemble is buitengewoon lastig.
+Een quantumberekening met een paar qubits is zelfs met klassieke methodes te simuleren, zegt Buhrman. Dat maakt van waanzinnig snel misschien verschrikkelijk snel, maar dat is geen drama. Pas bij heel veel qubits loopt het quantumrekenen razendsnel uit.
+Volgens Buhrman staat quantumrekenen nog in de kinderschoenen, waarbij sommige fundamentele vragen nog echt niet beantwoord zijn. 'Maar anderzijds werken banken nu al standaard met quantumcryptografie. Dat was er ook sneller dan gedacht.'
+15VeLi..streamer
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Physics (63%)
+Company:  GOOGLE INC (90%)
+Page 2 of 3
+Google gaat sneller vaag doen; Informatica Zoekmachine lonkt naar quantumcomputers
+Industry: Computing + Information Technology (94%)
+Load-Date: December 18, 2009
+
+End of Document
+Page 3 of 3

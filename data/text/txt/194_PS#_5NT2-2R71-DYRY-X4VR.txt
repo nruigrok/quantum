@@ -1,0 +1,40 @@
+China claimt overwinning op hackers
+Trouw
+16 juni 2017 vrijdag
+Copyright 2017 De Persgroep Nederland BV All Rights Reserved
+
+Section: Vandaag; Blz. 1
+Length: 692 words
+Byline: DIRK WATERVAL, REDACTIE WETENSCHAP
+Highlight: Dataverkeer - Zonder dat iemand kan meekijken, kunnen straks per satelliet over grote afstand berichten worden verstuurd.
+Body
+
+Het kat- en muisspel tussen computerprogrammeurs en hackers die informatie willen onderscheppen lijkt voorgoed beslecht: hackers en spionnen delven het onderspit. Chinese onderzoekers weten bestanden zodanig te versleutelen dat het 'wachtwoord' onbruikbaar wordt zodra een derde probeert mee te kijken, en dat voor het eerst met computers op grote afstand. Klaar voor toepassing, schrijven ze vandaag in vakblad Science. 
+Overheden, banken en berichtendiensten als WhatsApp likken hun vingers erbij af. Eindelijk gegarandeerde veiligheid bij het versturen van berichten. Dat op basis van een magisch aandoend natuurkundig fenomeen dat Einstein afdeed als spookachtig en te raar om waar te zijn: quantumverstrengeling. 
+In de wereld van het allerkleinste - denk aan atoomkernen of lichtdeeltjes - kunnen twee deeltjes 'verstrengeld' zijn. Trek ze uit elkaar en ze blijven elkaars eigenschappen spiegelen. Tot het moment van meting geven ze die eigenschappen, zoals draairichting, niet prijs. Maar zodra je die richting meet, schiet de ander uit het deeltjespaar direct in de tegenovergestelde richting. Zonder dat die zich wat aantrekt van een eventuele afstand tussen de twee. Ze communiceren met elkaar. 
+Krijgen een zender en ontvanger nu elk een deeltje uit zo'n paar, dan weten zij na meting in welke staat het deeltje bij de ander moet zijn. Stel, in Amsterdam en Rotterdam hebben twee fysici allebei de helft van zo'n deeltjespaar. Meten ze in Amsterdam dat hun 
+China claimt overwinning op hackers
+lichtdeeltje linksom draait, dan schiet het deeltje in Rotterdam instantaan in de rechtsdraaiende toestand. 
+Met meerdere van die deeltjesparen ontstaat zo een reeks die fungeert als een wachtwoord dat alleen de zender en ontvanger kennen. Want probeert een derde de lichtdeeltjes te onderscheppen en af te lezen, dan verstoort die 'meting' het synchrone karakter van de deeltjesparen. Dan weten alle betrokkenen: hier is afgeluisterd. 
+Punt was al tijden dat een verstrengeld deeltjespaar zijn draairichting prijsgeeft zodra het ergens tegenaan botst. Maar dat mag pas gebeuren als het bij de ontvanger en zender aankomt. Het lukte nooit het zonder veel verlies aan informatie over een afstand groter dan 13 kilometer te versturen. 
+Dat probleem hebben de Chinese onderzoekers nu ondervangen door de deeltjesparen in een satelliet boven de aarde te creëren en vanaf daar gescheiden naar beneden te zenden. Dat ging onder een hoek tussen de twee, zodat ze uiteindelijk 1200 kilometer uit elkaar aankwamen. En doordat de reis vooral door het vacuüm in de hemel ging, kwamen ze onderweg weinig tegen dat de verstrengeling verstoorde. Vooral het op deze ingenieuze wijze verpletteren van het vorige afstandsrecord maakt dit onderzoek zo bijzonder. 
+De vraag rijst of de Chinezen dit niet voor zichzelf houden, zodat andere landen buitenspel blijven tot ze het wiel zelf uitvinden. "Daar is geen sprake van", zegt natuurkundige Julia Cramer van QuTech, het instituut dat in Delft vergelijkbaar onderzoek doet. "Dit is wetenschap, geen schimmig bedrijfsonderzoek dat zijn resultaten niet deelt met de rest van de wereld." Het onderzoek staat integraal in tijdschrift Science, iedereen mag daarop voortborduren. 
+Volgens Cramer overdrijven de Chinese onderzoekers niet wanneer ze schrijven dat toepassing voor de deur staat. In haar eigen QuTech werken ze al aan een quantummechanisch netwerk tussen vier Nederlandse steden. Over vier jaar willen zij 'verstrengeld contact' leggen tussen Amsterdam, Den Haag, Leiden en Delft. Daarna willen ze toe naar een bruikbaar netwerk voor grootschalige uitwisseling van informatie - waarbij onwelwillende derden dus gegarandeerd het nakijken hebben. "Of je daar ook whatsapp-berichten mee zal kunnen versturen, durf ik niet te zeggen. Maar dat komt dan vooral omdat totaal niet duidelijk is met wat voor programma's we dan überhaupt communiceren. Zoals we tien jaar geleden nog nooit van gratis app-diensten hadden gehoord."
+In het kort
+Het wachtwoord van een bestand wordt onbruikbaar zodra een derde mee wil kijken 
+Page 2 of 3
+China claimt overwinning op hackers
+De techniek daarvoor was al bekend, maar werkte eerst niet op lange afstanden 
+Nederland doet vergelijkbaar onderzoek
+Bekijk de oorspronkelijke pagina: pagina 1
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Standards + Measurements (71%); Physics (65%); Experimentation + 
+Research (63%); Internet Social Networking (63%)
+Industry: Computing + Information Technology (94%)
+Load-Date: June 15, 2017
+
+End of Document
+Page 3 of 3

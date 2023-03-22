@@ -1,0 +1,27 @@
+Geen geheimen; Kwantumcomputer
+De Telegraaf
+9 mei 2015 zaterdag
+Copyright 2015 De Telegraaf All Rights Reserved
+
+Section: WatWiltUWeten; Blz. 7
+Length: 300 words
+Body
+
+Wordt de kwantumcomputer straks een gevaar voor onze staatsveiligheid? Alle versleutelde berichten kunnen dan immers worden gelezen.  R. Quist, Amsterdam    
+Het gevaar bestaat inderdaad dat de kwantumcomputer die in ontwikkeling is, in staat zal zijn alles te kraken. Daarom wordt aan de TU Delft momenteel een zeer opmerkelijk onderzoek gedaan. Cryptografietechnieken worden ontworpen die de onvoorstelbare rekenkracht van de kwantumcomputer de baas kunnen.  
+        Een extreme opdracht, want de kwantumcomputer zelf laat nog zeker tien jaar op zich wachten. Zodra het eerste exemplaar operationeel is, zal dat een enorme impact op onze samenleving hebben. Zo zal de computer in staat zijn de meest gecompliceerde versleutelde berichten in een oogwenk te lezen, wat grote invloed op het werk van onder meer veiligheidsdiensten heeft. Bovendien kunnen met terugwerkende kracht alle data worden ontcijferd die we tot dusver versleuteld hebben verzonden.  
+        Momenteel worden vooral de cryptografietechnieken RSA en ECC gebruikt. De sterkste computer ter wereld heeft minimaal honderd jaar nodig om de gebruikte codes te kraken. De kwantumcomputer lost die puzzel straks in enkele seconden op.  
+        Haast is dus geboden, temeer omdat het nieuwe cryptosysteem pas 15 jaar na de ontwikkelingsfase operationeel is. Uit documenten die klokkenluider Edward Snowden heeft gelekt, blijkt dat de Amerikanen het niet aan de grote klok zullen hangen als zij de eerste werkende kwantumcomputer hebben. Zo kan de veiligheidsdienst NSA ongestoord alle oude en nieuwe versleutelde berichten van andere mogendheden openbreken.   
+Geen geheimen; Kwantumcomputer
+        Professor fysica Leo Kouwenhoven van de TU Delft leidt een Nederlands onderzoeksteam dat een testversie van de supercomputer ter grootte van een zeecontainer ontwikkelt.   
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Telegraaf
+Subject: Experimentation + Research (63%)
+Industry: Computing + Information Technology (94%)
+Load-Date: May 8, 2015
+
+End of Document
+Page 2 of 2

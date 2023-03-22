@@ -1,0 +1,72 @@
+We gaan teleporteren
+Trouw
+24 oktober 2015 zaterdag
+Copyright 2015 De Persgroep Nederland BV All Rights Reserved
+
+Section: | Wetenschap
+Length: 1739 words
+Byline: AMBER DUJARDIN
+Body
+
+Onderzoekers van de TU Delft toonden deze week aan dat elementaire deeltjes zich werkelijk zo spookachtig gedragen als de moderne natuurkunde voorspelt. Zij bereikten een doorbraak op weg naar het quantuminternet: oneindig snel en niet te af te luisteren. 
+Het warme herfstlicht in de gangen vormt een schril contrast met de duisternis in de kelder van de TU Delft. In het donker flikkeren lasers en rode en groene cijfers op. Een reeks apparaten produceert een indringend gezoem. "Sommige mensen zeggen: wat een herrie, hoe kun je hier werken?" zegt natuurkundige Machiel Blok (29) lachend. "Maar ik hoor deze geluiden eigenlijk niet. Het is mijn natuurlijke habitat." 
+Blok is onderzoeker bij 'Te am Diamond', dat quantumdeeltjes in diamant bestudeert. Belangrijk doel van dit project is het bouwen van een quantuminternet, een netwerk waarmee je informatie kunt verzenden zonder afgeluisterd te worden. 
+In het ondergrondse laboratorium zitten Blok en zijn collega's vaak uren te meten en programmeren. "Ik vergelijk het met computerspelletjes. Elk nieuw resultaat geeft een kick; dan ben je een level verder. Soms vergeet ik de tijd en zit ik tot diep in de nacht te puzzelen. Dat vind ik misschien wel het leukste." 
+Hoewel hij tijdens die doorwaakte nachten soms letterlijk en figuurlijk in het duister tastte, heeft het gepuzzel grensverleggende resultaten opgeleverd. Deze week publiceerden de Delftse onderzoekers de uitkomsten van een baanbrekend experiment (zie kader). 
+Verstrengeld 
+De onderzoekers zijn erin geslaagd quantumdeeltjes in twee laboratoria op de campus via glasvezel in een verstrengelde toestand te brengen. Over een afstand van 1,3 kilometer lieten ze zien dat de twee deeltjes ondanks de afstand op een bijzondere manier met elkaar verbonden zijn. Zo'n verstrengelde toestand vormt de basis vormt voor quantumteleportatie, waarbij informatie kan 'verdwijnen' op de ene plek en 'verschijnen' op de andere: de sleutel tot een netwerk dat niet afgetapt kan worden. 
+Blok gebaart naar een enorme proefopstelling vol spiegeltjes, kabels en laserlichtjes. Daarmee heeft zijn team vorig jaar een soort quantuminternet in het klein gemaakt. "We hebben toen een quantumverbinding gecreeerd tussen twee chips over een afstand van drie meter. Dat was de eerste stap." 
+Met behulp van verstrengeling is het mogelijk om de toestand van het ene deeltje over te brengen naar een ander deeltje. Bij de teleportatie wordt dus niet de materie overgebracht - dat kan alleen in Star Trek - maar enkel de toestand, ofwel de informatie. Als je via het quantuminternet een pincode wilt versturen gaat die dus niet door de kabel, maar direct naar de ontvanger. "Er is niets wat fysiek wordt verplaatst, waardoor de informatie onmogelijk is te onderscheppen", aldus Blok. 
+Hoewel het vorig jaar al gelukt is een quantumteleportatie tot stand te brengen, biedt het nieuwste experiment definitief zicht op een netwerk gebaseed op teleportatie. 
+"Soortgelijke experimenten worden al tientallen jaren gedaan", legt hoogleraar quantumfysica Ronald Hanson uit. "Maar er waren altijd bepaalde achterdeurtjes mogelijk om tot de gewenste resultaten te komen." 
+Met die achterdeurtjes bedoelt Hanson twee dingen: ofwel dat natuurkundigen tot dusver maar een klein deel van de verstrengelde deeltjes konden meten, of dat de deeltjes zo dicht bij elkaar waren dat ze mogelijk toch ongemerkt met elkaar konden communiceren. "We hebben nu voor het eerst aangetoond dat veilige communicatie mogelijk kan zijn omdat alle achterdeurtjes dicht zitten", zegt Hanson. "Want dat zijn ook de achteringangen voor mensen die willen afluisteren." 
+Beetje ver 
+Een bijzonder experiment, beaamt onderzoeker Bas Hensen (29) gelaten. "We hebben de ene helft van de proefopstelling naar de andere kant van de campus verplaatst, waardoor we steeds dichter bij de technologie van een quantuminternet komen. Als je een quantumnetwerk wilt bouwen, is het leuk als dat een beetje ver uit elkaar kan." 
+Hij vertelt het luchtig, maar het geduld van Hensen is de afgelopen maanden behoorlijk op de proef gesteld. "We zijn twee maanden bezig geweest en steeds lukte het niet. Bij de meeste experimenten in de natuurkunde weet je de uitkomst van tevoren. Maar hier niet. Dat is een spannend gevoel. Je weet nooit zeker of je iets fout hebt gedaan, of dat het fundamenteel toch niet kan. Toen we zeker wisten dat het was gelukt, was ik heel 
+blij." 
+Hoewel het nog jaren kan duren voordat een onafluisterbaar netwerk realiteit is, kan de ontwikkeling ervan op warme belangstelling rekenen van het bedrijfsleven en de overheid. Zo kreeg QuTech, het quantuminstituut van TU Delft en TNO, vorig jaar de status van 'nationaal icoon'; het is een van de vier innovatieve technologieprojecten die extra steun krijgen van de overheid. Minister Henk Kamp (economische zaken) is ambassadeur van het instituut. Daarnaast werkt QuTech samen met verscheidene bedrijven, waaronder Microsoft en de Amerikaanse chipfabrikant Intel, die vorige maand bekendmaakte 50 miljoen dollar te investeren in de ontwikkeling van quantumcomputers en -internet. 
+Aan de ambities van de onderzoekers in Delft zal het niet liggen. "Dit is het begin, nu gaan we uitbreiden", zegt hoogleraar quantumfysica Ronald Hanson. "Het is moeilijk om te schetsen hoe hard dat gaat, maar we hebben onszelf wel een aantal doelen gesteld." 
+Het eerste doel is om over vijf jaar een elementair netwerk te hebben tussen drie of vier Nederlandse steden. "Delft, Den Haag, Amsterdam, zoiets. Grote afstanden. Daarmee willen we kijken of we simpele boodschappen veilig door kunnen sturen en testen welke dingen we nog aan moeten pakken." 
+Glasvezel 
+Een uitdaging daarbij is de infrastructuur. "We gaan kijken hoe we dit netwerk kunnen aansluiten op de infrastructuur die er al is, zodat niet overal nieuwe kabels in de grond gelegd moeten worden", zegt Hanson. 
+"De glasvezelkabels die er liggen kunnen we in principe gebruiken, maar daar zitten haken en ogen aan. Wat gebeurt er als ze ook worden gebruikt voor het gewone dataverkeer? Hoe kunnen we die verschillende signalen uit elkaar halen? Dat onderzoek is nog gaande. Ik denk dat het zal lukken, maar de vraag is in hoeverre je het reguliere dataverkeer moet inperken om het quantuminternet erbij te kunnen pakken." 
+Een tweede en ambitieuzer doel is dan ook om niet alleen met glasvezel te werken, maar ook met satellieten. Hanson: "China gaat volgend jaar een quantumsatelliet lanceren, en er zijn soortgelijke ideeën elders in de wereld. Het voordeel van een satelliet is enorm. Ons grootste probleem is nu nog dat we lichtdeeltjes kwijtraken. Maar als je hoger in de atmosfeer komt, zijn er geen verliezen meer. Dan kun je hele grote afstanden overbruggen zonder dat je veel lichtdeeltjes kwijtraakt. Dat zou een enorme opschaling zijn in de reikwijdte van het quantuminternet." 
+"In Delft werken we daar niet aan, maar de collega's in China wel. Dat soort dingen moet je uiteindelijk aan elkaar zien te knopen. Eigenlijk ben je aan het kopiëren wat er nu al is voor het gewone internet, maar het quantuminternet werkt natuurlijk heel anders - met teleportatie en verstrengeling." 
+Door die complexe werking zijn er nog veel hobbels te nemen, benadrukt onderzoeker Bas Hensen. Zo is het op dit moment nog heel moeilijk om een verstrengeling tussen twee quantumdeeltjes tot stand te brengen, omdat veel lichtdeeltjes onderweg kwijtraken. "Eén van de projecten waar nu in Delft aan wordt gewerkt, is het veranderen van de kleur van deze lichtdeeltjes", zegt Hensen. "Ze zijn nu rood, maar we proberen er infrarood van te maken. Daarmee kunnen we een veel grotere afstand afleggen. Maar dat is een experiment op zich. Een kwestie van jaren." 
+Toch is Hensen ervan overtuigd dat hij het quantuminternet nog zal meemaken. "Ik vind het heel leuk om aan iets te werken dat een concrete toepassing heeft. En dan bedoel ik niet over duizend jaar, maar over enkele tientallen jaren. De natuurkundige Scott Aaronson zei laatst op een conferentie waar ik was, dat het een interessante tijd is om in te werken. Want in onze tijd gaat het lukken om een quantuminternet te maken. Het alternatief is dat het níet lukt, en dat zou betekenen dat er iets mis is met onze natuurkunde." Zijn ogen lichten op. "En misschien is dat nog veel spannender." 
+Loont het? 
+Over een jaar of vijf wil hoogleraar Ronald Hanson de balans opmaken. "Hoe goed werkt het? Loont het om dit door te zetten naar de volgende stap?" Het quantumnet zal beginnen als een nichemarkt, vermoedt hij. "De snelheid is nu niet hoog en het is duur. Uiteindelijk willen we kijken of we het zo goedkoop kunnen maken dat iedereen het kan gebruiken. Het zou fijn zijn als iedereen die internetbankiert zeker weet: dit is veilig, ik hoef me geen zorgen te maken." 
+Het ideale scenario is volgens Hanson een parallelle verbinding, waarbij je zowel normaal internet als een quantumverbinding hebt. "Die kun je inschakelen op het moment dat het nodig is. Niet als je een film downloadt, maar wel voor internetbankieren. Of voor de overheid als die staatsgeheimen doorspeelt, of voor het versturen van elektronische patiëntendossiers. Kortom: dingen die gevoelig zijn en waarvan je niet wilt dat andere mensen ze zien. Op de lange termijn willen we de hele wereld over." 
+Het experiment 
+Volgens de quantummechanica, die het gedrag beschrijft van de allerkleinste deeltjes, kunnen voorwerpen verschillende eigenschappen tegelijk hebben. In de quantumwereld kan een deeltje zich bijvoorbeeld op twee plekken tegelijkertijd bevinden en zowel linksom als rechtsom draaien. 
+Bovendien kunnen ze met elkaar verstrengeld zijn, waardoor hun toestand verbonden is. Dan reageren ze meteen op elkaar, ook al zijn ze lichtjaren van elkaar verwijderd. 
+Hoewel Einstein twijfelde aan deze mogelijkheid, bewezen Delftse onderzoekers deze week definitief de 'spookachtigheid' van de natuur. In vakblad Nature beschreven ze hoe ze metingen hebben verricht aan twee via lichtdeeltjes verstrengelde elektronen die 1,3 kilometer van elkaar verwijderd waren. De onderzoekers toonden aan dat de deeltjes echt een onzichtbare, en acute verbinding kunnen hebben, hoewel ze niet met elkaar kunnen communiceren. 
+"Het experiment garandeert de mogelijkheid van een quantuminternet waarbij de lijn volledig clean en veilig is", aldus onderzoeker Bas Hensen. 
+Over dit net wordt niets fysiek verplaatst, er valt dus ook niets te onderscheppen Bekijk de oorspronkelijke pagina: pagina 12, pagina 13
+Graphic
+
+ 
+Schematische weergave van het Delftse experiment, waarin elementaire deeltjes over een afstand van enkele kilometers met elkaar verbonden bleven.
+Onderzoeker Bas Hensen bij de proefopstelling: 'Maandenlang lukte het niet.'
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Trouw
+Subject: Educational Institution Employees (77%); Physics (69%)
+Industry: Computing + Information Technology (94%)
+Load-Date: October 23, 2015
+
+End of Document
+We gaan teleporteren
+
+We gaan teleporteren
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

@@ -1,0 +1,38 @@
+Fysicus verdwenen, deeltje gevonden
+NRC Handelsblad
+1 maart 2012 donderdag
+Copyright 2012 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap
+Length: 690 words
+Byline: Bruno van Wayenberg
+Body
+
+SAMENVATTING
+De groep van de Delftse fysicus Leo van Kouwenhoven heeft mogelijk als eerste ter wereld het bestaan van het mysterieuze Majorana-deeltje aangetoond.
+VOLLEDIGE TEKST:
+Rumoer op 's werelds grootste natuurkundigencongres in Boston. De Delftse groep van de nano-quantumonderzoeker Leo Kouwenhoven heeft sterke aanwijzingen voor de detectie van zogeheten Majorana-fermionen, vertelde Kouwenhoven op de jaarlijkse bijeenkomst van de American Physical Society. Bij het praatje aanwezig zijn 'was als instappen in een metro tijdens het spitsuur', schrijft een verslaggever van Nature. 'Hebben we Majorana-fermionen gezien? Ik zou zeggen dat het een voorzichtig ja is', citeert zij Kouwenhoven, die niet over de resultaten wil praten zolang ze nog niet gepubliceerd zijn.
+Maar wat is dan dat heisaverwekkende Majorana-fermion? Het deeltje werd in 1937 voorspeld door de briljante Italiaanse natuurkundige Ettore Majorana, die voortbouwde op de theorie van collega Paul Dirac. Die had de quantummechanica aangepast voor Einsteins relativiteitstheorie en was tot de conclusie gekomen dat er bij ieder deeltje een anti-deeltje hoort. Bij het  elektron bijvoorbeeld, hoort het positron.  Verder bleek dat deeltjes in te delen zijn in twee klassen: bosonen, zoals het foton of lichtdeeltje, en fermionen, zoals het elektron. In tegenstelling tot fermionen zijn bosonen hun eigen antideeltjes:  het antideeltje van het foton is ook weer een foton.
+Fysicus verdwenen, deeltje gevonden
+Uitzondering, liet Majorana zien, is een bepaald type fermion: het Majorana-fermion. In de elementaire deeltjesfysica werd dit nooit aangetroffen, maar theoretici voorspelden dat het zou kunnen opduiken als zogeheten quasideeltje.
+Sindsdien is de jacht geopend, ook omdat een Majorana-fermion nogal exotische quantummechanische eigenschappen heeft: als je er twee omwisselt, 'onthoudt' het paar of je dat met de klok mee of tegen de klok in gedaan hebt. Dat 'geheugen' maakt het deeltje geschikt voor het bouwen van een 'topologische quantumcomputer', waarin reeksen van Majorana-fermionen berekeningen uitvoeren in een soort balletje-balletjespel op nanoschaal.
+De quantumcomputer is de quantummechanische tegenhanger van onze alledaagse computers, waarin een informatie-eenheid of 'bit' 1 kan zijn of 0. De quantummechanica staat echter ook toestanden toe waarin het 'qubit' beide toestanden tegelijk bezet: 1 én 0. Meerdere qubits gecombineerd kunnen in theorie een exponentieel groeiend aantal toestanden bezetten en daarmee rekenen. Quantumcomputers zouden wezenlijk sneller zijn  dan gewone computers.
+Maar de praktijk is weerbarstig. De benodigde quantumtoestanden  worden verstoord door de minste ruis van de buitenwereld. De topologische quantumcomputer is daar hopelijk beter tegen bestand. De posities en het verleden van reeksen omgewisselde Majorana-fermionen vormen een soort vlechtwerk, waarin de berekening gecodeerd is. Net als een platte knoop in een ring of een armband niet te ontwarren is zonder te knippen, is ook het Majorana-fermionenvlechtwerk niet zonder geweld te verstoren.
+Zover is het nog lang niet: het nieuwe bewijs is nogal indirect. Kouwenhoven en collega's sloten dunne nanodraden van indium-antimonide aan op een circuit dat bestond uit een supergeleider en een goudcontact, en plaatsten dat in een magnetisch veld, een paar graden boven het absolute nulpunt. Volgens de theorie zouden de Majorana-deeltjes zich daar wel eens kunnen laten zien, en inderdaad: de geleiding van de nanodraden liet bij een spanning van 0 volt precies het verwachte piekje zien. Eureka? Ach,  eerst maar eens publiceren, vindt Kouwenhoven.
+Ettore Majorana
+De Italiaanse fysicus Ettore Majorana (Catania, Sicilië, 1906) was een wiskundig genie, die werkte in het laboratorium van Enrico Fermi in Rome. In 1937 voorspelde hij op basis van berekeningen het bestaan van een type fermion dat zijn eigen antideeltje is.
+Onder mysterieuze omstandigheden verdween Majorana in 1938 tijdens een boottocht van Palermo naar Napels. Zijn lichaam is nooit teruggevonden. Er zijn ook geruchten dat hij naar Argentinië vluchtte vanwege de het Mussolini-regime. Uiitsluitsel over zijn lot is er nooit gekomen.
+Classification
+Page 2 of 3
+Fysicus verdwenen, deeltje gevonden
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Physics (76%)
+Organization: AMERICAN PHYSICAL SOCIETY (58%)
+Industry: Computing + Information Technology (95%)
+Load-Date: March 5, 2012
+
+End of Document
+Page 3 of 3

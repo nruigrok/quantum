@@ -1,0 +1,35 @@
+Profijt van rekenwonders
+De Telegraaf
+23 mei 2018 woensdag
+Copyright 2018 De Telegraaf All Rights Reserved
+
+Section: FINANCIEEL; Blz. 27
+Length: 553 words
+Byline: Gabi Ouwerkerk
+Body
+
+Kwantumcomputers bieden kansen en gevaren door Gabi Ouwerkerk
+Amsterdam - Bedrijven als Microsoft, Google, Intel en IBM verwachten veel van  kwantumcomputers. Het technologisch potentieel van deze supercomputers is  groot. Maar wat we er precies mee kunnen is nog grotendeels onbekend. Bij  QuSoft, gevestigd op het Amsterdam Science Park, zoeken onderzoekers naar  toepassingen voor de rekenwonders van de toekomst.
+"Met een kwantumcomputer kun je grote databestanden veel sneller doorzoeken dan  met een normale machine", legt Kareljan Schoutens van Qusoft uit. "Maar het is  een misverstand dat een kwantumcomputer alle berekeningen sneller kan  uitvoeren", tempert hij de verwachtingen. "In veel gevallen is de kloksnelheid  zelfs trager."
+Schoutens legt uit dat je kwantumcomputers niet kunt vergelijken met huidige  computers. "Het is een compleet andere manier van computers bouwen en  programmeren." Gewone computers werken met bits. Dat zijn schakelaartjes die  aan of uit staan en één of nul zijn. Kwantumcomputers werken met qubits en die  kunnen in zekere zin tegelijkertijd één én nul zijn.
+Om het voordeel uit te leggen geeft Schoutens een voorbeeld: "Als in een  telefoonboek 10.000 namen alfabetisch geordend staan en je bent op zoek naar de  persoon die nummer 1234 heeft, dan moet een gewone computer gemiddeld 5000 keer  kijken om 
+Profijt van rekenwonders
+die persoon te vinden. Bij het kwantum-zoekalgoritme is het de wortel  van 10.000 waardoor het aantal keren kijken beperkt blijft tot ongeveer 100  keer."
+Het bekijken van tienduizenden opties kost een gewone computer dus veel en veel  meer tijd, maar hij kan het wel. Er komt echter een punt waarop het aantal  opties te groot is voor een normale pc. Met kwantumcomputers kun je daardoor  berekeningen maken die nu nog niet mogelijk zijn. En dat biedt kansen voor  optimalisatie van bijvoorbeeld logistiek, maar maakt ook ingewikkelde analyses  van materialen en chemische reacties mogelijk. Natuurkundige Schoutens verwacht  dat we met behulp van kwantumcomputers veel materialen kunnen verbeteren,  bijvoorbeeld voor farmaceutische doeleinden, maar ook om onderdelen van  zonnecellen een hogere efficiëntie te geven.
+Naast kansen brengt het ook gevaren met zich mee. Kwantumcomputers kunnen een  met de huidige standaard voor cryptografie versleutelde boodschap razendsnel  kraken. Een gewone computer heeft daar zo veel tijd voor nodig dat het  onmogelijk is. Maar met een voldoende grote kwantumcomputer zijn gegevens die  nu versleuteld verstuurd of opgeslagen worden, niet meer veilig. Onderzoekers  werken aan nieuwe cryptografie die opgewassen is tegen een kwantumaanval.
+De Verenigde Staten en China lopen voorop bij de ontwikkeling van  kwantumcomputers. De grootste kwantumcomputer heeft nu een grootte van 72  qubits en is eigendom van Google. Schoutens wijst erop dat als de eerste  kwantumcomputers in gebruik worden genomen er slechts een klein aantal zal  zijn. "Waar komen die machines te staan en hoe voorkom je dat de macht bij  slechts enkele partijen ligt?"
+Schoutens verwacht dat onderzoekers oplossingen vinden die de negatieve  gevolgen ondervangen zodat we in de toekomst volop profiteren van de nieuwe  rekenwonders. "Nu kunnen we er nog niet heel veel nuttigs mee, maar we zijn op  weg naar iets heel moois."
+Berekeningen die nu nog niet mogelijk zijn
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: telegraaf,Telegraph
+Page 2 of 3
+Profijt van rekenwonders
+Subject: Physics (64%)
+Industry: Computing + Information Technology (94%); Computer Equipment (62%)
+Load-Date: May 22, 2018
+
+End of Document
+Page 3 of 3

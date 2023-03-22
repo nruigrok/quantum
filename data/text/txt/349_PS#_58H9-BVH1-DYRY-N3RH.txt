@@ -1,0 +1,52 @@
+Is het een quantumrekenaar, of niet?
+de Volkskrant
+27 mei 2013 maandag
+Copyright 2013 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap; Blz. 17
+Length: 876 words
+Byline: VAN ONZE VERSLAGGEVER MARTIJN VAN CALMTHOUT
+Body
+
+Het Canadese bedrijf D-Wave geeft begin juli eindelijk opening van zaken over een machine die ze zelf aanmerken als een quantumcomputer, maar waarover de internationale onderzoeksgemeenschap uiterst sceptisch is. Volgens critici verkoopt Dwave een klassiek systeem alsof het quantum-effecten zou benutten.
+D-Wave hoofdfysicus Igor Vernik houdt op 8 juli een voordracht op een conferentie in Cambridge, Massachussetts. Dat is aangekondigd na nieuwe ophef over D-Wave, dat vorige week bekend maakte dat Google en Nasa samen een D-Wave One computer hebben aangeschaft. Geschatte prijs: 10 miljoen dollar. 
+Inmiddels heeft Nasa nadrukkelijk laten weten daaraan niet mee te betalen, maar alleen met Google te gaan meekijken naar het computersysteem. Maar critici als de bekende quantuminformaticus Scott Aaronson toonden zich niettemin onthutst, over de gratis publiciteit die D-wave met de verkoop kreeg. D-Wave, is zijn stelling, maakt gespecialiseerde rekenmachines die niets te maken hebben met quantumrekenen. 
+Aaronson kan wat hard uit de hoek komen, zegt de Leidse quantumtheoreticus prof. Carlo Beenakker. 'Maar als er iemand is die het kan weten, is Scott het. Er zijn weinig mensen zo goed op de hoogte in dit vakgebied.' 
+Beenakker, en met hem eigenlijk alle Nederlandse onderzoekers die werken aan quantumcomputing, twijfelen ernstig mee aan de Canadese claims. 'In feite weten we niet eens zeker dat het om een quantumeffect gaat.' Samen met ondermeer de Delftse hoogleraren Ronald Hanson en Lieven Vanderseypen werkt Beenakker sinds kort met EU-subsidies aan een eerste component voor een echte quantumcomputer. 
+Quantumcomputers zijn, in elk geval op papier, niet als gewone computers. Een moderne digitale computer codeert gegevens in enen en nullen, en bewerkt die pakketjes via rekenregels, tot er een gecodeerd antwoord ontstaat. Die bewerkingen kunnen inmiddels krankzinnig snel gaan, dankzij krimpende chips. Maar de rekenstappen blijven noodzakelijk een voor een plaatsvinden. 
+In quantumrekenen gaat dat helemaal anders. Daar is informatie gecodeerd in zogeheten qubits, die niet óf 1 zijn óf 0, maar beide tegelijk. Een qubit heeft dankzij de wetten van de quantumnatuurkunde tegelijk twee toestanden, twee qubits hebben er vier, drie acht, enzovoorts. 
+Een systeem met 100 qubits kent al zo'n 10 tot de macht 30 simultane toestanden. Zelfs als een rekenstap in een quantumcomputer dagen in beslag zou nemen, zijn daarmee bijna oneindig veel meer berekeningen gedaan dan met een digitale computer zou kunnen. Daarvoor hebben de quantumrekenaars wel stabiele qubits nodig, bijvoorbeeld supergeleidende ringetjes waarin stroompjes letterlijke tegelijk linksom en rechtsom lopen. Probleem daarbij is dat qubits bij de minste of geringste verstoring hun quantumeigenschappen verliezen, en gewoon in één richting een stroompje vertonen. 
+Rekenen, is de verwachting, zal met de komst van quantumsystemen nooit meer hetzelfde zijn, vooral bij vraagstukken waarbij veel potentiële antwoorden moeten worden uitgeprobeerd. Dat kan helpen om geheime boodschappen te kraken. Maar ook bij simulaties van bijvoorbeeld eiwitvouwing of keramische supergeleiders. 
+De vraag rond D-Wave blijft echter: is het een echte quantumrekenaar? Onderzoekers van de universiteit van Southern California (USC) kochten vorig jaar zelf een D-Wave One systeem en deden er experimenten mee. Hart van dat systeem is een 108 qubit chip, waarin elke qubit een supergeleidend ringetje is. Daarin spelen quantumeffecten een rol. Maar dat is in gewone elektronica ook zo, zeggen sceptici. 
+Eind vorige maand kwamen ze met hun resultaten. Het D-wave systeem, een tunnel met 108 onderling verbonden D-Wave Rainer chips, doet wat het belooft, het geeft antwoorden op bepaalde rekenopdrachten die kloppen met een klassieke berekening. Tegelijk bleek ook de beperking: het systeem is een factor vijftien trager dan een conventionele computer die dezelfde sommen maakt, en niet helemaal duidelijk is of daarbij echte quantumeffecten een wezenlijke rol spelen. 
+De Delftse quantumhoogleraar Ronald Hanson: 'Er is eigenlijk geen spoor van de verwachte quantumsprong in rekencapaciteit. De bewering is nu dat dat pas vanaf 512 qubits gaat gebeuren, maar eigenlijk is daarvoor geen enkele goeie reden. Nog afgezien van de vraag hoe ze hun fouten in zo'n complex systeem binnen de perken willen houden.' 
+Wat, blijft de vraag, doet dat Canadese ding dan wel? Iets potentieel interessants, dat staat vast, zegt Harry Buhrman van het Centrum voor Wiskunde en Informatica in Amsterdam. 'Ze proberen één specifiek vraagstuk op te lossen, dat min of meer gekozen is omdat het past bij wat hun machine kan. En vooralsnog kan dat met een klassieke supercomputer sneller. Het wordt echt tijd dat ze volledige openheid van zaken geven. Deze spelletjes schaden het aanzien van het quantumrekenen.' 
+Ronald Hanson kan vooral niet wachten tot D-Wave voorman Igor Vernik in juli zijn verhaal in Cambridge houdt. 'Dan weet iedereen waar hij aan toe is. Wij ook.' 
+Quantumcomputers kunnen haast oneindig veel sneller rekenen dan gewone rekenmachines. Critici betwisten de claim van een Canadees bedrijf dat het zo'n computer zou hebben gemaakt.
+De D-Wave One is niet sneller, maar trager dan conventionele supercomputers
+Graphic
+
+ 
+Het hart van de D-Wave One computer, met daarin 108 supergeleidende quantumchips. Foto DWAVE
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Company:  GOOGLE INC (57%)
+Industry: Computing + Information Technology (95%)
+Load-Date: May 26, 2013
+
+End of Document
+Is het een quantumrekenaar, of niet?
+
+Is het een quantumrekenaar, of niet?
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

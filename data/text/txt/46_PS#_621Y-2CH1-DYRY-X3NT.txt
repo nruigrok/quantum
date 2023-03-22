@@ -1,0 +1,99 @@
+De quantumconnectie
+de Volkskrant
+20 februari 2021 zaterdag
+Copyright 2021 DPG Media B.V. All Rights Reserved
+
+Section: Boeken en wetenschap; Blz. 4, 5, 6
+Length: 2955 words
+Byline: GEORGE VAN HAL
+Highlight: Delftse fysici hebben het eerste quantumnetwerk ter wereld gebouwd, een belangrijke stap naar een quantuminternet dat de ongekend krachtige computers van de toekomst verbindt. De Volkskrant volgde de krankzinnig complexe missie twee jaar lang.
+Body
+
+Fysica: quantumnetwerk
+Het is een beetje alsof je een extreem langdradig computerspel speelt, geeft fysicus Sophie Hermans toe, terwijl haar mondhoeken vermoeid omhoogkrullen. Al een paar dagen leeft ze verstrengeld met haar beeldscherm, vastgeklonken aan de langste meetsessie uit haar jonge carrière. Het is oktober 2020. Tijdens in elkaar overvloeiende diensten van zeven uur staren Hermans en collega's tien dagen lang naar een scherm waarop lijntjes dansen in een kleine twintig grafieken. Onderin druppelt tergend traag een groene voortgangsbalk vol, alsof je uren achtereen naar een Windows- of iOSupdate kijkt. Schuift die balk een stukje op, dan heeft hun meetopstelling nieuwe gegevens verzameld. 
+In de drie jaar hiervoor kweekten ze, onder begeleiding van hoogleraar Ronald Hanson, dit experiment tot wasdom. En nu is het punt gekomen dat hun bouwsel een revolutie moet ontketenen: de geboorte van het eerste bruikbare quantumnetwerk, de voorloper van een internet dat toekomstige quantumcomputers met elkaar kan laten praten. Die computers rekenen zodanig anders dat ze - bij sommige toepassingen - zelfs de allerbeste supercomputers tot slome duikelaars reduceren. 
+'We hebben het balkje zo ingesteld dat het ook volloopt met gegevens waarvan we eigenlijk al weten dat we ze niet kunnen gebruiken', zegt Hermans. 'Anders gaat het zó langzaam dat het voelt als een kwelling.' 
+Even een kwartiertje weglopen zit er niet in, je moet continu kijken of alles nog naar behoren werkt. De opstelling, een verzameling laserbundels, optische kabels, lenzen, spiegels en meetapparatuur, is gevoelig voor de kleinste afwijkingen. Schijnt de laser net een fractie van een millimeter te veel naar links, is een spiegeltje plots een tikje gedraaid, dan zijn de gegevens die je verzamelt meteen minder goed, onbruikbaar zelfs. 
+Het gros van de tijd is er niets aan de hand. Maar elke dienst zien de fysici het een paar keer: een plotselinge afwijking in een controlegrafiek betekent dat iets misgaat. Met een druk op de knop lossen ze dat op afstand op: spiegels, laser of lenzen worden bijgestuurd en de meting loopt verder. 
+Die continue waakzaamheid maakt de diensten psychologisch behoorlijk uitdagend, zegt medepromovendus Hans Beukers. Hij doodt de tijd voor het scherm door hersenloos wat te pingelen op zijn basgitaar. Lachend: 'M'n vriendin is altijd verbaasd dat ik wel kan spelen terwijl ik naar die grafiekjes kijk, maar niet met haar kan praten.'
+21 JANUARI 2019
+Geschiedenis schrijven
+Anderhalf jaar eerder. Terwijl buiten studenten in de lauwwarme winterzon langs de groene heuvels van de campus hangen, staat Hermans in een raamloos laboratorium. Hier, in de kelder van quantuminstituut QuTech aan de TU Delft, willen zij en haar collega's geschiedenis schrijven. Als eersten ter wereld gaan ze drie punten - nodes, zegt Hermans - met elkaar verbinden in een bruikbaar quantumnetwerk. Een proof of concept die als opstap dient naar een grootschalig netwerk tussen steden in de Randstad, een vervolgproject waarvoor hoogleraar Hanson samen met collega's simultaan alvast de eerste voorbereidingen treft. 
+Hoewel niemand precies weet wat quantumcomputers ons in de toekomst gaan brengen, liegen de dromen van experts er niet om. Hardop speculeren ze over het ontwerpen van futuristische medicijnen of materialen die ons energieprobleem kunnen oplossen. Wat in elk geval zeker is? Wie zulke computers straks met elkaar wil verbinden, staat voor een flinke uitdaging. 
+Via het gewone internet lukt dat namelijk niet, daarvoor verschillen ze te veel van gewone computers. Quantumcomputers rekenen met superkrachten geleend uit de wereld van de quantumfysica, waarin bits - nullen en enen - veranderen in qubits, die ook nul én een tegelijk kunnen zijn. Maar net als Superman kwetsbaar is voor kryptoniet, kent ook quantuminformatie een zwakke plek: de buitenwereld. Scherm qubits onvoldoende af, doe ook maar í­éts waarmee je ze probeert te meten en, pats, direct verdampt elk restje quantumkracht. 
+Lullig, want juist meten is bij regulier internet essentieel. Het versterkt verzonden informatie continu door het te meten en kopiëren, zodat tijdens de reis over lange glasvezelkabels niet te veel verlies optreedt. En dus moeten fysici het fundamenteel anders aanpakken. Dat 'iets anders' wordt het quantuminternet. 
+Als het aan Hanson en collega's ligt, blijft één onderdeel daarbij gelijk: de glaszevelkabels. Het Randstadproject maakt gebruik van het glasvezelnetwerk van KPN, dat als partner betrokken is. En dus verzendt ook de proefopstelling zijn informatie straks in de vorm van fotonen, lichtdeeltjes die in hoog tempo door zulke kabels kunnen zoeven. 
+Maar zover is het nog niet, zegt Hermans, terwijl ze wijst naar de tafel met schroefgaatjes waarop het allemaal moet gebeuren. Op een oppervlak grofweg zo groot als een kleine studeerkamer staat een bonte verzameling lensjes, glasvezels en spiegeltjes, waartussen dunne, groene laserbundels lopen. Verspreid over de tafel staan half-affe uitprobeersels die misschien later eens in de grote opstelling terechtkomen. Grofweg eenderde van de ruimte wordt gebruikt voor waar het écht om draait: de qubit. 
+Het lijkt niet bepaald hightech, zoveel ruimte voor één enkele bit. Alleen in je smartphone zitten er immers al een paar biljoen. Maar schijn bedriegt: zichtbaar zijn vooral de hulpstukken. De qubit zelf, legt Hermans uit, huist in een minuscuul gaatje in een stukje diamant van grofweg 2 bij 2,5 millimeter. Een 'nitrogen vacancy center' zoals dat in vakkringen heet, een stikstofatoom dat een koolstofatoom vervangt in het keurig aangeharkte kristalrooster en zo een gaatje slaat waarin lichtdeeltjes kunnen verdwijnen en verschijnen. 
+Daaromheen zit een geavanceerde cryostaat, een vrieskist die alles koelt tot zo'n 270 graden onder nul, zodat warmtetrillingen en andere verstoringen die de quantummagie in de war kunnen schoppen buiten blijven. En dáár weer omheen zit een wirwar van spiegeltjes en draadjes, waarmee het laserlicht op de qubits wordt geschenen. 
+'We zijn nu bezig met het verstrengelen van twee van die qubitopstellingen', zegt Hermans in onvervalst quantumjargon. 'Verstrengelen' betekent zoiets als vastmaken met een quantumsausje. Verstrengel twee qubits en de één is onlosmakelijk met de ander verbonden, zelfs als ze aan verschillende uiteinden van het universum staan. 
+Verstrengeling is de tweede superkracht uit het quantumdomein die dit nieuwe internet fundamenteel anders maakt dan het reguliere web. En, leuke bonus: dat maakt quantumgegevens ook veilig voor luistervinken. Wie een poging doet tot afluisteren, maakt immers ook direct de verstrengelde verbinding kapot. 
+Verstrengeling tussen twee qubits: Ronald Hanson maakte er vier jaar terug nog wereldwijd furore mee. Toen verbond hij twee qubits over ruim een kilometer afstand en bewees onomstotelijk dat verstrengeling écht bestaat. Maar voor Hermans en haar collega's is het nieuw. 'Niemand van ons heeft eerder zoiets gedaan', zegt ze. 
+Het echte handwerk in de wetenschap wordt niet uitgevoerd door de hoogleraar met het grote idee, maar door medewerkers die met een promotie of postdoc bezig zijn. Stuk voor stuk mensen die vanwege de aard van die functies slechts tijdelijk blijven. Na een paar jaar wandelt de opgebouwde kennis letterlijk het lab uit. Normaal zorgt Hanson daarom voor overlap, maar dat liep ditmaal mis. Eén promovendus kwam toch niet, een ander, die al een jaar was ingewerkt, moest door familieomstandigheden halsoverkop terug naar Italië. 
+Toch maakt Hermans zich geen zorgen. Of nou ja: hooguit om het idee dat iemand hun straks vóór is. Dat anderen als eersten de stap zetten van twee verstrengelde qubits naar drie, de belangrijke overgang van een losse verbinding naar een heus netwerk. 
+'Ik hoop en geloof dat we de eerste zullen zijn.' Natuurlijk: af en toe zijn er al onderzoeksgroepen die claimen een netwerk met drie punten te hebben, maar 'die spelen dan een beetje vals', zegt ze. Dergelijke groepen kunnen slechts achteraf bewijzen dat ze een netwerk hadden, nadat hun meting de verbinding kapot heeft gemaakt. 'Bij ons kun je het op het moment zélf zien. Wel zo handig als je het netwerk ook echt wilt gebruiken.' 
+Waar ze hier aan werken is namelijk meer dan alleen een mooie primeur. Het eerste driepuntsnetwerk moet ook de eerste stap zijn naar toekomstige doorontwikkeling. Bij succes beschikken onderzoekers voor het eerst over een bruikbare testopstelling, waarop ze kunnen onderzoeken hoe het quantuminternet beter en gebruiksvriendelijker worden. Zodat je, net als bij het huidige internet, geen volleerd fysicus hoeft te zijn om de boel aan de praat te krijgen.
+27 MEI 2019
+Nukkige technologie
+In het lab staren Matteo Pompili en Simon Baier, twee collega's van Hermans, naar een scherm met een Wikipediapagina. Ze kijken er een beetje betrapt bij. 'We zochten wat getalswaarden op van natuurconstanten die we eigenlijk uit ons hoofd moeten kennen', zegt Pompili, een lach om de mond. Die waarden hebben ze nodig om de specificaties van nieuwe fotondetectoren te kunnen vergelijken, apparaten waarmee ze de lichtdeeltjes kunnen meten die hun qubits uitzenden. Over een uur staan die detectoren prominent op de agenda tijdens de wekelijkse voortgangsvergadering. 
+Terwijl Hanson zich voorbereidt om te presenteren, lukt het maar niet zijn laptop draadloos met het presentatiescherm te verbinden. 'Dit komt toch niet in je artikel, hè?', grapt hij. Zelfs als je werkt aan krankzinnig complexe toekomstcomputers, blijven de nukken van de huidige apparaten je niet bespaard. 
+Eén voor één presenteert iedereen zijn werk, waarna kritische vragen volgen en Hanson de juiste koers bepaalt. Is deze manier van de opstelling kalibreren juist? Wat gebeurt er als de laserbundel nét een tikje uit het midden staat? Wat is dit onverwachte patroon in deze ijkgrafiek? 
+En, bij herhaling: waarom doet dit apparaat in vredesnaam niet wat de fabrikant had beloofd? Of: waarom werkt dit onderdeel niet meer? 'Elke week gaat hier wel iets kapot', zegt Baier na afloop in de gang. 'Dit soort analyses doen, uitzoeken waarom iets niet werkt, dat is 95 procent van de wetenschap. En in de 5 procent van de tijd dat alles wél werkt, moet je snel je metingen doen. Voordat het weer in de soep loopt.'
+21 AUGUSTUS 2019
+In de soep
+Dat in de soep lopen...het kán even duren. Zo lukte het de afgelopen drie maanden plots niet meer om qubits te verstrengelen. 'Als je niks ziet gebeuren weet je dát er wat mis is, maar niet wát', zegt Hermans. Uiteindelijk blijkt het probleem een raampje van de cryostaat. Het laserlicht schiet erdoor naar de qubit, maar dat raam weerkaatst ook wat licht, zo blijkt, precies in het pad van de laser. 'We hebben het raam eruit gehaald, een enkele graad gedraaid, en weer teruggestopt. Nu is het opgelost.'
+14 JANUARI 2020
+Kerstman Hanson
+Een klein jaar nadat de zorgen over de fotondetectoren voor het eerst ter sprake waren gekomen, arriveren twee grote, in zwart plastic gewikkelde pallets in het lab. Daarin nieuwe detectoren, speciaal voor dit onderzoek ontworpen. Die moeten het signaal meten dat de onderzoekers vertelt dat de verstrengeling tussen de verschillende punten 'aan' staat. Een laat kerstcadeau eigenlijk, grapt iemand in de groepsapp. 'Dankjewel Kerstman Ronald!', schrijft Pompili opgetogen, vergezeld van een olijke kerst-emoji.
+12 MAART 2020
+En dan werkt iedereen thuis...
+In februari zagen ze het al aankomen. Pompili, Italiaan, hoort al een tijdje de horrorverhalen over de uit China overgewaaide longziekte die zijn vaderland tot het uiterste tergt. Het openbare leven komt er, happend naar adem, tot stilstand. 'We lopen in Nederland maar een paar weken achter op Italië', waarschuwt hij zijn collega's. 'We kunnen ons maar beter voorbereiden op het ergste.' 
+En dus maken de fysici plannen voor het lableven in een lockdown. 'Gelukkig hadden we de software om de opstelling op afstand te bedienen, waarmee je met een druk op de knop een laser bijstelt of een spiegeltje opschuift, al geschreven', zegt Hermans. Net als op kantoren over heel de wereld doet Zoom de rest.
+28 SEPTEMBER 2020
+Ja! Gelukt! (O, toch niet)
+Half zes 's middags, euforie in de groepsapp. Eindelijk is het gelukt. Alle drie de nodes zijn aantoonbaar verstrengeld, het quantuminternet stáát. 'Het kostte maar drie dagen aan datavergaren en drie jaar aan de opstelling sleutelen', grapt Pompili. 
+Te vroeg gejuicht, blijkt later. Alle ogen waren gericht op één getal, de esoterisch klinkende 'GHZ Fidelity', die beschrijft hoeveel de qubits van elkaar 'weten'. Zonder quantuminvloed kun je die waarde hooguit opkrikken tot 0,5. Daarboven weet je: deze qubits móéten wel een onzichtbare quantumverbinding hebben. 
+Ze meten 0,5443, boven de grens, met een maximale meetfout van 0,0217. 'Totdat we kritischer gingen kijken en zagen dat de meetfout eigenlijk groter was', zegt Hermans. En dus: opnieuw meten. Langer ditmaal, want meer verzamelde meetgevens zorgen voor een kleinere meetfout. 'Het is een lastig spelletje', zegt Beukers. 'Wekenlang meten hou je niet vol. Maar doe je het te kort, dan moet je opnieuw beginnen.'
+15 OKTOBER 2020
+Beeldschermmarathon
+Opnieuw tegenslag. Tijdens de tweede poging gedraagt de opstelling zich plots gek. Natuurlijk precies in het weekend, zegt Hermans. In het lab blijkt waar ze al bang voor was: bevroren stikstof verstopt de cryostaat en verstrooit het licht. Dus moet ze de opstelling opwarmen om het stikstofijs te verwijderen, opnieuw koelen om de qubit in het gareel te krijgen en dan weer meten in de hoop dat de grafieken en tabellen nu wél binnen de marges blijven. 
+Mede door dat probleem rekt de uitputtende beeldschermmarathon van de geplande zes dagen op tot tien. En wat psychologisch nog het lastigste is: pas na afloop weet je of alle verzamelde data ook echt iets hebben opgeleverd. 
+Niet dat je niet eerder zou kúnnen kijken. Maar dan loop je het risico dat je onbewust het experiment gaat sturen. Dat je de meting afbreekt omdat je niet tevreden bent met wat er tot dan toe aan meetgegevens is binnengekomen, bijvoorbeeld - een vorm van selectie. 'De kans bestaat dat je jezelf dan aan het foppen bent. Dat je alleen een goede set metingen laat doorlopen tot het eind', zegt Hanson. Daarom blijft de spreekwoordelijke doos met data dicht tot de metingen helemaal klaar zijn.
+26 OKTOBER 2020
+Missie geslaagd
+Ja, dáár! Eind oktober prijkt boven de grafiek eindelijk het magische getal. Keurig boven de 0,5, inclusief voorzichtigheidsmarge. De drie verstrengelde qubits, rustend in een lab waar Hermans en collega's sinds corona nog nauwelijks komen, zijn geslaagd voor de ultieme test. Ze hebben het allereerste bruikbare quantumnetwerk gebouwd, een belangrijke stap richting een toekomstig quantuminternet. 
+De trots overheerst, zegt Hermans een paar weken later, terwijl de groep het resultaat verwerkt tot vakpublicatie. Zodra dat klaar is, dienen ze het manuscript in bij een vakblad, waar anonieme collega's het controleren op fouten. Maar zoals gebruikelijk in de fysica publiceren ze het simultaan alvast op website arXiv.org, zodat anderen uit het vak het direct kunnen lezen. 
+'We zijn onderweg door niemand ingehaald', zegt Hermans nog tijdens het schrijven, enigszins opgelucht. Veel tijd om stil te staan bij het succes heeft ze niet. Nu nog maar een jaar resteert in haar promotietraject, is ze direct begonnen aan een vervolgexperiment. Wat ze daarin doet, mag ze met de buitenwereld nog niet delen. Met een brede glimlach: 'Maar nu we dit netwerk hebben gemaakt, wil ik het natuurlijk wel gebruiken.'
+'EEN MIJLPAAL, EEN TOUR DE FORCE'
+'Dit is een echte mijlpaal', zegt hoogleraar Anton Zeilinger van de universiteit van Wenen over het quantumnetwerk van de Delftse onderzoekers. 'Dit is zo'n waanzinnig complex experiment, en dan komt alles zo mooi samen... een tour de force, mag je wel zeggen.' Pas op: al die lof betekent niet dat we morgen al massaal kunnen inloggen. 'Het quantuminternet hangt al decennia als een wortel voor onze neus', zegt hij. 'En dat zal ook nu nog wel even zo blijven.' 
+Het is dan ook een populaire misvatting dat invloedrijke technologieën verschijnen met tromgeroffel, een spectaculaire lichtshow, de contouren langzaam zichtbaar achter een optrekkend rookgordijn. In werkelijkheid gaat wetenschappelijke vooruitgang mondjesmaat, verspreid over vele stappen. 
+Maar, geeft ook fysicus Siddarth Joshi van de University of Bristol toe, van al die stapjes is dí­t wel een heel belangrijke. Onder de indruk is hij onder meer van het feit dat het netwerk beschikt over een quantumgeheugen dat informatie even kan vasthouden voordat je het doorstuurt: een primeur. 
+Toch benadrukt Joshi dat het definitieve quantuminternet niet alleen over glasvezels zal lopen. 'Het overbruggen van grote afstanden is zonder dat je het signaal kunt versterken een fikse uitdaging. De oplossing zie ik in verbindingen met satellieten, niet in een kabelnetwerk.'
+SUCCES NA TELEURSTELLING
+De resultaten van Ronald Hanson en collega's volgen op de bekendmaking begin deze maand dat een ánder quantumexperiment aan de TU Delft een fikse tegenslag te verwerken kreeg. De gedroomde quantumbit van hoogleraar Leo Kouwenhoven, die gebruikmaakt van zogeheten majoranadeeltjes, moest terug naar de tekentafel toen bleek dat ze de deeltjes waarmee ze dachten te werken vermoedelijk überhaupt nooit hadden gemaakt. 
+Hoewel beide onderzoekslijnen een universiteit (TU Delft) delen en Hanson in het verleden bij Kouwenhoven promoveerde, staat hun werk los van elkaar. Beide experimenten bevinden zich fysiek in andere laboratoria, maken gebruik van andere quantumtechnologieën, worden betaald uit andere budgetten en hebben geen overlap in onderzoekers.
+Bekijk de oorspronkelijke pagina: pagina 4, pagina 5, pagina 6
+Graphic
+
+ 
+Fysici Matteo Pompili, Hans Beukers en Sophie Hermans sleutelen in de kelder van quantuminstituut QuTech aan de TU Delft aan de opstelling, vol laserbundels, kabels, lenzen, spiegels en meetapparatuur.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Industry: Computing + Information Technology (94%)
+Load-Date: February 19, 2021
+
+End of Document
+De quantumconnectie
+
+De quantumconnectie
+
+Page 2 of 9
+
+Page 2 of 9
+
+
+
+
+

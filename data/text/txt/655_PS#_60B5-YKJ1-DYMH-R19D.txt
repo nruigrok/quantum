@@ -1,0 +1,80 @@
+Het rommelige proces van de fotosynthese
+NRC Handelsblad
+11 juli 2020 zaterdag
+Copyright 2020 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 14
+Length: 2114 words
+Byline: Gemma Venhuizen
+Lars Zuidweg
+Astrid van Rooij
+Body
+
+ABSTRACT
+Planten Planten leven van de zon. Maar hoe doen ze dat? En kan de mens er iets van leren? ,,We doorgronden hoe de biologische kant van fotosynthese werkt, en willen dat dan nabootsen."
+VOLLEDIGE TEKST:
+Fotosynthese - een woord dat herinneringen oproept aan een biologielokaal met skeletten en anatomische posters, en op het krijtbord die formule: 6 CO2 + 6 H2O ? C6H12O6 + 6 O2. Koolstofdioxide en water zorgen voor glucose en zuurstof, dankzij bladgroen en zonlicht. Door het lokaal galmt de stem van de biologieleraar: ,,Zonder fotosynthese zouden jullie er niet zijn. Er zou geen zuurstof zijn om in te ademen."
+Een woord van levensbelang, kortom. Maar ook een woord dat voor wazige blikken zorgt. Want hoe werkt fotosynthese nou echt? Wat gebéúrt er in die planten, onder invloed van de zon?
+Al in 1779 ontdekte de Nederlander Jan Ingenhousz dat planten zuurstof produceren onder een stolp, en dat ze dat alleen doen in het licht. Het proces kreeg de naam fotosynthese - 'vervaardiging door licht'. In de eeuwen erna nam het begrip ervan steeds verder toe, en werden er diverse Nobelprijzen uitgereikt voor fotosyntheseonderzoek. Zo ging de Nobelprijs voor Scheikunde in 1915 naar Richard Martin Wilstatter, voor het ontrafelen van de structuur van chlorofyl, oftewel bladgroen: het pigment dat planten hun groene kleur geeft. Dat bladgroen zit in opgevouwen membranen in korrels, de chloroplasten, en daarin vindt het fotosyntheseproces plaats. Een proces dat in de natuur zo simpel lijkt, maar waaraan ingenieuze natuur- en scheikunde ten grondslag ligt.
+Nu het begrip van fotosynthese toeneemt, valt op: echt efficiënt is het niet. De nieuwe uitdaging ligt er voor onderzoekers in om die efficiëntie op te krikken, door te sleutelen aan het proces.
+Daarover zo meer. Maar eerst nog éven terug het klaslokaal in, voor de basis. Het hele fotosyntheseproces is grofweg onder te verdelen in vier stappen, vertelt Huub de Groot, hoogleraar biofysische organische chemie. ,,In de bladgroenkorrels bevinden zich twee eiwitcomplexen, zogeheten fotosystemen: PS2 en PS1." In PS2 wordt zonlicht ingevangen, in PS1 worden koolhydraten geproduceerd die aan de basis liggen van glucose. Want dat is de uitdaging voor de plant: de energie van lichtdeeltjes omzetten in chemische energie die de plant als brandstof kan gebruiken.
+Allereerst worden die lichtdeeltjes - fotonen - ingevangen en de energie wordt overgedragen aan PS2. De chlorofylmoleculen dienen hierbij als antennes, die de elektromagnetische straling concentreren en omzetten in elektrische lading. In stap twee vindt er scheiding van elektrische ladingen plaats: chlorofyl geeft een negatief geladen elektron af, waardoor positieve lading overblijft. En dat is belangrijk voor stap drie: de watersplitsing. ,,Met behulp van de positieve ladingen worden watermoleculen gesplitst in waterstofionen en zuurstof: zo komen we aan de 'O2' in de fotosyntheseformule." De afgestoten negatieve elektronen en de waterstofionen vervullen tegelijkertijd ook een belangrijke functie: zij worden naar PS1 getransporteerd, waar onder invloed van nog meer fotonen en van de moleculen ATP en NADPH de productie van koolhydraten plaatsvindt met CO2.
+Lichtreacties en donkerreacties
+De eerste stappen van het fotosyntheseproces worden lichtreacties genoemd. De latere stappen van de fotosyntheseketen vormen de donkerreacties of de calvincyclus. ,,Via de huidmondjes, de openingen in de bladeren, is CO2 vanuit de lucht de bladgroenkorrels binnengekomen", zegt de Utrechtse hoogleraar fotobiologie van planten Ronald Pierik. ,,Daar wordt het vastgelegd en verwerkt tot brandstof met behulp van energie uit de lichtreacties."
+Fotosynthese speelt een sleutelrol in de natuur - en juist daarom willen onderzoekers begrijpen hoe het werkt. Dankzij inzichten die ze opdoen hopen biologen als Harbinson en Pierik het proces in planten te kunnen optimaliseren. Gunstig voor de plant, die dan minder energie verbruikt, maar óók voor de mens, die zo profiteert van grotere of sneller groeiende gewassen. De onderzoeksgroep van De Groot gaat nog een stap verder: zij willen het gehele proces nabootsen. Dat is hardcore biochemie met een hoop quantummechanica, vol termen als Schrödinger-vergelijkingen en quantuminstabiliteiten. De Groot: ,,In grote lijnen komt het hierop neer: onder invloed van licht ontstaan er in de eiwitten van de plant chemische resonanties, waarbij de uitgangsstoffen met trillingen worden omgezet in de eindproducten. Die moleculaire dans willen wij nabootsen."
+Bladgroenkorrels en eiwitten komen aan die kunstmatige fotosynthese niet te pas. ,,We proberen de energie onder andere op te wekken met kunstmatige 'bladeren' van koperoxide. Die hebben als voordeel dat ze een stuk langer meegaan dan natuurlijke eiwitten. Wij kijken met een ingenieursblik - we doorgronden hoe de biologische kant van fotosynthese werkt, en willen dat dan nabootsen. Zodat we zonlicht op zo direct mogelijke wijze kunnen omzetten in energie, zonder te veel energieslurpende tussenstappen."
+Bij elke stap in de natuurlijke fotosynthese gaat kostbare energie verloren, zegt ook Ronald Pierik. ,,Goed beschouwd is het helemaal niet zo'n efficiënt proces." Een van de limiterende factoren is het enzym ribulose-1,5-bisfosfaat carboxylase/oxygenase - beter bekend onder de naam rubisco. ,,Het is het meest voorkomende eiwit op aarde. De primaire functie is dat het koolstofdioxide helpt te binden. Rubisco heeft een zogeheten carboxylatiefunctie, waarmee het binnenkomende CO2 in de bladgroenkorrels wordt gekoppeld aan een organische verbinding en vervolgens wordt omgezet in een carbonzuur. En dat carbonzuur ligt aan de basis van glucose."
+De inefficiëntie van rubisco zit 'm erin dat er in pakweg één op de drie reacties van het enzym geen carboxylatie plaatsvindt - maar oxidatie. Daarbij wordt in plaats van koolstofdioxide een zuurstofmolecuul toegevoegd, en komt er uiteindelijk juist CO2 vrij. Pierik: ,,Het hierbij horende proces heet fotorespiratie en kost de plant energie."
+Dat ongewenste bijeffect stamt vermoedelijk uit de tijd dat er nog helemaal geen zuurstof in de atmosfeer zat, legt Roberta Croce uit. Zij is hoogleraar biofysica van fotosynthese aan de Vrije Universiteit in Amsterdam, en houdt zich net als Huub de Groot bezig met de meer fundamentele kanten van het proces. ,,Fotosynthese vindt al zo'n 2 miljard jaar plaats. De oervorm ontstond in cyanobacteriën - blauwalgen die uitgebreide matten vormden. Zij ontwikkelden een grote, simpele antenne waarmee ze vooral ver-rood licht, met een golflengte boven de 700 nanometer, konden opvangen en omzetten in energie. Later kwamen ook de eerste planten die aan fotosynthese deden. Maar omdat er nog geen zuurstof in de atmosfeer was, kon er aanvankelijk geen fotorespiratie plaatsvinden."
+Planten met bacterie-dna
+In die zin is het proces door de tijd heen inefficiënter geworden. ,,Nu wordt pakweg 1 procent van het inkomende licht vastgelegd als energie. Ontzettend weinig. In onze vakgroep proberen we onder andere de absorptie van ver-rood licht met golflengtes boven de 700 nanometer te vergroten. Dat doen we door chlorofyl uit cyanobacteriën - die heel goed zijn in die specifieke absorptie - in de planten aan te brengen." Zo ontstaan er dus planten met bacterie-dna.
+Croce is in het bijzonder geïnteresseerd in de lichtreacties. ,,In principe is het een goed geolied systeem, maar het lastige is dat PS2 en PS1 niet altijd goed samenwerken. Dat kan onder andere voor problemen zorgen als planten te veel licht krijgen, of juist te weinig." Belangrijk daarbij is dat beide fotosystemen voldoende licht krijgen. PS2 absorbeert vooral blauw licht, en PS1 juist ver-rood. Een plant in de volle zon vangt licht van het gehele spectrum op, maar in de schaduw is er vooral veel ver-rood licht. ,,Dan kan het dus gebeuren dat PS1 wel genoeg licht ontvangt, maar dat er geen elektronen binnenkomen vanuit PS2 omdat er te veel schaduw is." Daaraan kunnen planten zich nog wel binnen een paar minuten aanpassen door de elektronen te herdistribueren.
+Andersom kan het voorkomen dat een plant te veel licht krijgt. Dat is ook nadelig, omdat de bladeren kunnen verbranden én omdat er te veel vrije elektronen zijn die schade kunnen aanrichten in het weefsel van de plant. In zo'n geval moet de absorptie van fotonen worden geminimaliseerd, maar dat zou te lang duren en daarom activeert de plant een snel proces dat een groot deel van de geabsorbeerde energie weggooit. Dat proces is lastig stop te zetten - zelfs als de plant weer in de schaduw staat gooit hij nog veel energie weg.
+,,De hoeveelheid licht die een plant opvangt, is van heel veel factoren afhankelijk", zegt Pierik. ,,Het tijdstip op de dag, het seizoen, de aanwezigheid van buurplanten... Zelfs als de wind door de vegetatie waait treden er al fluctuaties in beschaduwing op." In de bladeren zelf speelt de plek van de bladgroenkorrels een rol: die kunnen zich op elkaar stapelen (bij te veel licht) of zich juist over het blad verspreiden (in de schaduw).
+Doordat er zoveel verschillende eiwitten bij fotosynthese betrokken zijn, bestaat er ook geen speciaal fotosynthesegen - die eigenschap is verdeeld over een heleboel afzonderlijke genen. Door op die genen te selecteren, hopen de onderzoekers gewassen te kweken die goed zijn in fotosynthese en zo een hogere opbrengst genereren, zegt de Wageningse hoogleraar erfelijkheidsleer Mark Aarts. ,,We proberen nu te begrijpen waarom de ene plant zoveel efficiënter is in het fotosyntheseproces dan de andere. Zowel bínnen soorten als tussen soorten zien we verschillen."
+Harbinson: ,,In principe zijn alle plantensoorten ertoe in staat. Maar voor sommige planten zijn de kosten mogelijk te hoog om in goede fotosynthese te investeren." Bijvoorbeeld op een locatie met veel verschillende plantensoorten, en weinig beschikbaar stikstof en fosfaat in de bodem. Fosfaat hebben planten onder andere nodig voor ATP-moleculen, en stikstof voor rubisco. ,,In zo'n geval kan het energiezuiniger zijn om te beknibbelen op fotosynthese dan om de concurrentie aan te gaan met andere planten om schaarse voedingsstoffen."
+Turbovariant met koolstofpomp
+Harbinson: ,,De 'normale' fotosynthese is de C3-fotosynthese, waarbij het eerste tussenproduct een carbonzuur met drie koolstofatomen is. Die vorm vind je terug bij zo'n 95 procent van alle planten. Daarnaast bestaat er ook een turbovariant, de C4fotosynthese, met een soort toegevoegde koolstofpomp die de CO2-concentratie in het blad zodanig verhoogt dat zuurstof vrijwel geen kans meer krijgt. Daardoor vindt er minder fotorespiratie plaats, en kan de plant meer CO2 omzetten in glucose. Nadeel is dat dit systeem natuurlijk óók energie kost."
+Voor planten is het in theorie gunstig dat de CO2-niveaus in de atmosfeer stijgen, zegt Harbinson. Maar in de praktijk niet per se. ,,Ten eerste is de CO2-concentratie op zichzelf dus niet de enige factor die bepaalt hoe efficiënt de fotosynthese verloopt. En ten tweede zorgt opwarming ook voor nadelen, zoals droogte en hitte-stress - die belemmeren de planten juist."
+Aarts: ,,Planten kunnen natuurlijk niet weg van hun plek - dat hóéft ook niet, omdat ze hun voedsel uit zonlicht halen en met de energie daaruit verdedigingsmechanismen kunnen maken: gifstoffen, doorns... Maar ze kunnen zich niet een-twee-drie aanpassen aan klimaatverandering, of ingrijpende wijzigingen in hun leefgebied. Terwijl ze zo'n centrale rol vervullen in ecosystemen. Dankzij hén hebben we voedsel en zuurstof. Fotosynthese is letterlijk een proces van levensbelang."
+Goed beschouwd is het helemaal niet zo'n efficiënt proces Ronald Pierik hoogleraar
+In principe is het een goed geolied systeem Roberta Croce hoogleraar
+De zon in beeld
+Voor deze serie vroeg NRC negen beeldmakers om de zon te visualiseren. De enige regel: de zon staat in het midden.
+Voor deze aflevering maakten Lars Zuidweg & Astrid van Rooij blauwdrukken met een analoog fotografisch proces uit 1842, 'Cyanotype'. Waar de zon het behandelde papier raakte, ontstond een donkerblauwe kleur. De rest - waar planten en bloemen de zon tegenhielden - bleef wit.
+Negen keer De zon
+De zon laat zich gelden. Zonder zon geen warmte, licht of leven. En diezelfde zon kan ons ook verblinden of verschroeien. Deze zomer verkent de wetenschapsredactie van NRC de rol van de zon in het menselijk bestaan.
+Aflevering 1: zon in de prehistorie
+Aflevering 2: het wonder fotosynthese
+Aflevering 3: zon en de wereldgeschiedenis
+Aflevering 4: steeds meer zonnestralen
+Aflevering 5: de opmars van het zonnepaneel
+Aflevering 6: de zon in onze ogen
+Aflevering 7: de gezonde effecten van zonlicht
+Aflevering 8: ruimtesondes verkennen de zon
+Aflevering 9: Minnaert en het licht
+Link naar PDF
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Botany (93%); Biotechnology + Genetic Science (88%); Biology (70%); 
+Biotechnology Industry (68%); Wildlife (63%); Biochemistry (62%); Energy + 
+Environment (61%); Geology + Geophysics (61%)
+Industry: Agricultural Chemicals (88%); Food Industry (88%); Manufacturing (78%); Oil 
++ Gas Industry (74%); Computing + Information Technology (63%); Destinations + Attractions (61%)
+Load-Date: July 10, 2020
+
+End of Document
+Het rommelige proces van de fotosynthese
+
+Het rommelige proces van de fotosynthese
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

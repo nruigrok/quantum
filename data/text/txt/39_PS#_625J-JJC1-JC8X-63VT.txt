@@ -1,0 +1,34 @@
+Delftse onderzoekers hebben bij nader inzien het spookdeeltje niet gevonden
+Trouw
+9 maart 2021 dinsdag
+Copyright 2021 DPG Media B.V. All Rights Reserved
+
+Section: Nederland; Blz. 10
+Length: 638 words
+Byline: JOEP ENGELS, REDACTIE WETENSCHAP
+Highlight: Qubits - De majorana-deeltjes, bouwstenen voor de supersnelle quantumcomputer leken in Delft gevonden, maar dat bleek een meetfout.
+Body
+
+Het spookdeeltje heeft zijn naam eer aangedaan. Drie jaar nadat onderzoekers uit Delft dachten het mysterieuze majorana-deeltje te hebben aangetoond, moeten ze melden dat ze te voorbarig zijn geweest. Er zaten fouten in de analyses en daardoor kunnen ze hun claim uit 2018 niet meer waarmaken. Ze hebben hun artikel in Nature vandaag teruggetrokken. 
+Onderzoeksleider Leo Kouwenhoven erkent dat er fouten zijn gemaakt en dat er nu geen harde conclusies zijn te trekken. "Het ging om een ijkfout die alle data beïnvloedde. Dat werd te veel voor een simpel erratum. Bovendien zijn we erachter gekomen dat de meetresultaten twee interpretaties toestonden." Maar hij blijft ervan overtuigd dat hij op de goede weg zit. "Het goede nieuws is dat we nu weten met welke experimenten we het onderscheid kunnen maken." 
+Het majorana-deeltje is een belangrijke kandidaat om de rekeneenheid te worden van de quantumcomputer. Klassieke computers rekenen met bits die 0 of 1 kunnen zijn, maar in de wondere wereld van de quantumtheorie zijn qubits denkbaar die tegelijk 0 en 1 kunnen zijn. Een quantumcomputer die daarmee rekent, kan de taken verdelen en is in theorie veel sneller. Vergelijk het met een doolhof. Een klassieke computer zoekt de uitgang door alle routes één voor één af te lopen. De qubits van een quantumcomputer splitsen zich op en onderzoeken alle opties tegelijk. Een kwestie van niet storen en wachten tot een van hen de uitgang heeft bereikt. 
+Delftse onderzoekers hebben bij nader inzien het spookdeeltje niet gevonden
+Voorwaarde is wel dat de qubits stabiel zijn, niet gevoelig voor elektrische of magnetische velden. Anders zou elke storing de rekenkracht tenietdoen. Majorana's zijn stabiel, in theorie althans. Het bestaan van de deeltjes is in 1937 door de Italiaan Ettore Majorana voorspeld. Hij zag dat de formules van de quantumtheorie een deeltje toestonden dat gelijk was aan zijn spiegelbeeld. Zo'n deeltje kan nauwelijks eigenschappen hebben. Immers, als het origineel op de een of andere manier 'plus' is, is het spiegelbeeld in dat opzicht 'min'. Daardoor is het ook stabiel. Als je geen eigenschappen hebt, kun je ook niet veranderen. 
+Begin deze eeuw ontdekte de fysica manieren om zo'n majorana-deeltje aan te tonen en stomtoevallig beschikte de groep van Kouwenhoven daarvoor over de perfecte meetopstelling. In 2012 beweerden ze dat ze vermoedelijk een majorana hadden gezien en in 2018 volgde de 'definitieve' bevestiging in Nature. Intussen had Microsoft zich met een flinke zak geld gemeld. Twee jaar geleden werd een groot Quantum Lab op de campus van de TU Delft geopend en Kouwenhoven stapte over van de universiteit om er voor de softwaregigant aan de quantumcomputer te gaan werken. 
+Niet lang daarna kwam er zand in de machine. De ijkfout kwam aan het licht, waarna Kouwenhoven besloot het artikel in te trekken. Hij ontdekte ook dat hij er na een correctie nog niet was. Met zijn meetopstelling kon hij geen onderscheid maken tussen echte majorana of quasi-majorana's, zoals hij ze zelf noemt. Inmiddels weet hij hoe dat onderscheidende experiment eruit moet zien. Kouwenhoven: "En uiteindelijk gaat het erom dat we kunnen laten zien dat we qubits in handen hebben." 
+De TU Delft is een integriteitsonderzoek begonnen dat nog moet verschijnen. Wel is de visie van experts uitgebracht en zij concluderen dat de onderzoekers niet bewust met de data hebben gerommeld, maar dat ze vermoedelijk 'door de opwinding van het moment blind waren voor data die niet pasten in het doel dat ze nastreefden. Ze hebben zichzelf voor de gek gehouden'. Ook Microsoft houdt het volste vertrouwen in de groepKouwenhoven en blijft toegewijd aan het Quantum Lab, zo laat het bedrijf in een persverklaring weten.
+De TU Delft is een integriteitsonderzoek begonnen
+Het ging om een ijkfout die alle data beïnvloedde. Dat werd te veel voor een simpel erratum.
+Bekijk de oorspronkelijke pagina: pagina 10
+Classification
+
+Page 2 of 3
+Delftse onderzoekers hebben bij nader inzien het spookdeeltje niet gevonden
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Physics (67%); Educational Institution Employees (65%)
+Industry: Computing + Information Technology (94%)
+Load-Date: March 8, 2021
+
+End of Document
+Page 3 of 3

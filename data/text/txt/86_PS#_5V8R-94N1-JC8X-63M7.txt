@@ -1,0 +1,60 @@
+Alle ballen op de eerste qubit
+AD/Algemeen Dagblad
+26 januari 2019 zaterdag
+Copyright 2019 De Persgroep Nederland BV All Rights Reserved
+
+Section: Centraal Z; Blz. 10, 11
+Length: 954 words
+Byline: FENNA VAN DER GRIENT
+Highlight: In een laboratorium in Delft werkt natuurkundige Leo Kouwenhoven aan een computer met onvoorstelbaar meer rekenkracht dan de beste supercomputer van nu. Deze quantumcomputer kan voor een technologische revolutie zorgen.
+Body
+
+Wereldwijde race om basis quantumcomputer
+Er is in de wereld een race gaande om de eerste quantumcomputer te produceren. Leo Kouwenhoven, hoogleraar quantumtransport aan de TU Delft en leider van het Delftse Quantumlab van Microsoft, heeft met zijn team goede kaarten in handen. Filmmaker 
+David Kleijwegt volgde hem zes jaar lang op de voet. In de televisiedocumentaire De Race is te zien welke weg hij heeft afgelegd om te komen waar hij nu staat. Die weg was niet zonder obstakels. 
+Als het lukt om dit rekenwonder te produceren, komen zaken waarvan we nu nog dromen binnen handbereik. Denk aan het ontwerpen van nieuwe medicijnen: in plaats van eindeloos te testen welke stoffen werken en welke niet, kan een quantumcomputer dat in de toekomst wellicht gewoon simuleren en uitrekenen. 
+Hetzelfde geldt voor materialen die hun weerstand verliezen bij extreem lage temperatuur: supergeleiders. Slaag je erin een supergeleider te maken die op kamertemperatuur werkt, dan kun je elektriciteit zonder enig verlies transporteren. Dat zou een grote stap richting de oplossing van het energieprobleem zijn. Met extreem veel rekenkracht kun je gewoonweg alle mogelijke materialen simuleren tot je er één hebt gevonden met de juiste eigenschappen.
+Bizar
+De quantumcomputer is niet zomaar een snellere computer. Hij werkt op een fundamenteel andere manier, door de bizarre wetten van de quantummechanica te gebruiken. Volgens die wetten kan een deeltje bijvoorbeeld op meerdere plekken tegelijk zijn. Stel dat je in een doolhof staat en zo snel mogelijk de uitgang wilt vinden. Er zit niets anders op dan alle paden langs te lopen tot je de juiste hebt gevonden. Een computer doet dat ook, maar dan heel erg snel. Een quantumcomputer daarentegen, probeert de paden niet één voor één uit, maar allemaal tegelijk. Hij kan multitasken en dit maakt hem zo onvoorstelbaar veel krachtiger dan alle supercomputers die we nu hebben. 
+Een gewone computer rekent met bits. Een quantumcomputer is tot deze buitengewone berekeningen in staat dankzij bits met quantumeigenschappen: qubits. Maar die eigenschappen zijn heel kwetsbaar. De omgeving kan bij het minste of geringste de quantumeigenschappen verstoren en fouten in de berekeningen veroorzaken. Deze fouten vormen de grootste horde op weg naar een bruikbare quantumcomputer. Je dient ze te corrigeren of te voorkomen. 
+Corrigeren is een complex klusje, waar heel veel hulpqubits voor nodig zijn. Slaag je er echter in een stabiele qubit te maken die nauwelijks fouten maakt, dan kun je met veel minder qubits toe. Een typisch gevalletje 'voorkomen is beter dan genezen'. En laat een superstabiele qubit nou net de kracht van de aanpak van Leo Kouwenhoven zijn.
+Majoranadeeltje
+In 2012 bereikte Kouwenhoven een wetenschappelijke doorbraak die wereldwijd veel belangstelling trok. De 55-jarige quantumfysicus slaagde erin het zogeheten majoranadeeltje te produceren. Al in 1937 voorspelde de Italiaanse theoreticus Ettore Majorana het bestaan van dit deeltje, maar tot dan toe had niemand het gevonden. Dit geheimzinnige deeltje bleek de perfecte bouwsteen te zijn voor de quantumcomputer, dankzij zijn grote stabiliteit. In de jaren volgend op deze ontdekking probeerde Kouwenhoven het majoranadeeltje klaar te maken voor gebruik als qubit. 
+In De Race is te zien dat niet alles van een leien dakje gaat, zoals vaak in de wetenschap. Gefrustreerde promovendi, jarenlange experimenten die tot niets lijken te leiden en apparaten die constant kapot zijn, passeren de revue. Is de finish inmiddels in zicht? ,,Het doel was om aan het einde van De Race de majorana-qubit te hebben'', zegt Kouwenhoven. ,,We hebben ontdekt dat we wat stappen terug moesten nemen om uiteindelijk de grote sprong voorwaarts te kunnen maken. We moesten nieuwe materialen ontwikkelen, daarvoor was een gigantisch apparaat nodig. Dat is in de film goed te zien. Inmiddels werkt dat allemaal en zijn we bezig de eindjes aan elkaar te knopen en een qubit te bouwen. Maar één qubit maakt natuurlijk nog geen quantumcomputer. Het doel is dit jaar één goede qubit te kunnen produceren. Als dat lukt, kunnen we er daarna meerdere bij elkaar gaan zetten.''
+Speculatie
+Wie gaat winnen, is speculatie, maar duidelijk is dat de race langzaam verschuift van het domein van de universiteiten naar de techgiganten. ,,Twee, drie jaar geleden hebben de bedrijven het een beetje overgenomen'', schetst Kouwenhoven. ,,IBM, Google, Microsoft en Intel, tegenwoordig ook Alibaba, Tencent en Toshiba, noem maar op. Deze bedrijven hebben zo'n grote hoeveelheid geld en mensen tot hun beschikking, dat ik niet verwacht dat de eerste quantumcomputer nog bij een universiteit gebouwd zal worden.'' 
+Om deze reden ging Kouwenhoven, oorspronkelijk verbonden aan de TU Delft, een samenwerking aan met Microsoft. Dat resulteerde in een spiksplinternieuw Delfts Microsoftlab, onder leiding van Kouwenhoven. Maar hoe belangrijk is het nou eigenlijk om de race te winnen? ,,Wetenschappelijk gezien is het gewoon heel interessant om de 
+eerste te zijn.'' 
+Kouwenhoven weet in al zijn nieuwsgierigheid al wat hij de quantumcomputer als eerste zou voorschotelen. ,,Ik zou heel graag zien hoe hogetemperatuursupergeleiding in elkaar zit. Ook zijn er heel interessante kosmologische problemen die je zou kunnen gaan simuleren op een quantumcomputer, dat lijkt me wel leuk. En dan kunnen andere mensen medicijnen gaan ontwikkelen.'' 
+De Race - hoe bouw je een quantumcomputer? is maandag 4 februari om 20.25 uur te zien op NPO2.
+'Je 	zou 	interessante 	kosmologische 	problemen 	kunnen 	simuleren 	op 	een quantumcomputer'
+-
+Zaken waarvan we nu nog dromen, komen binnen handbereik. Zoals het ontwerpen van een nieuw medicijn
+-
+Bekijk de oorspronkelijke pagina: pagina 10, pagina 11
+Graphic
+
+ 
+Leo Kouwenhoven: ,,Dit jaar eerste goede qubit bouwen.''
+Snel de uitgang vinden van een doolhof is voor de quantumcomputer geen probleem. Volgens de wetten van de quantummechanica kan hij, anders dan computers van nu, op meerdere plekken tegelijk zijn en dus alle paden tegelijk uitproberen.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Physics (61%)
+Industry: Computing + Information Technology (94%)
+Load-Date: January 25, 2019
+
+End of Document
+Alle ballen op de eerste qubit
+
+Alle ballen op de eerste qubit
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

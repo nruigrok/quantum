@@ -1,0 +1,42 @@
+Dataverkeer via 'discobol'
+de Volkskrant
+30 juni 2014 maandag
+Copyright 2014 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap; Blz. 17
+Length: 462 words
+Byline: VAN ONZE VERSLAGGEVER MARTIJN VAN CALMTHOUT
+Body
+
+Italianen claimen ontdekking niet te onderscheppen datatransport via satelliet 
+Manshoge, spiegelende discobollen in de ruimte en subtiel laserlicht gaan mogelijk een hoofdrol spelen bij superveilig dataverkeer via internet. 
+Italiaanse fysici zeggen voor het eerst quantumcodes naar vijf Europese, Amerikaanse en Japanse spiegelkunstmanen te hebben gestuurd en die ook ongeschonden te hebben opgevangen. Zulke codes zijn essentieel voor het verzenden van geheimtaalsleutels die niemand kan onderscheppen of afkijken. 
+Het begin van een nieuw tijdperk in de quantumcommunicatie, schrijven Paoli Villoresi van de universiteit van Padua en collega's in een vorige week gepubliceerd artikel. De kunstmanen werden heel zachtjes met lasers beschenen, zonder dat de eigenaren ervan wisten. De bollen worden gebruikt voor het meten van variaties in de aardse zwaartekracht. 
+In 2007 was Villoresi de eerste die de Japanse Ajisai-kunstmaan raakte met individuele lichtdeeltjes en ze ook weer detecteerde. Bij de nieuwe experimenten zijn voor het eerst de componenten voor een echte code in fotonen verstuurd en ontvangen. 
+Voor veilige datacommunicatie is het cruciaal dat geheime cryptografische sleutels onder de gebruikers worden verdeeld zonder dat iemand die kan afkijken. In klassieke dataverbindingen is ongemerkt meekijken in principe mogelijk. Quantumsystemen zijn zo gevoelig en subtiel dat elke meekijkpoging per definitie de sleutels verstoort. Inbreken wordt daarmee principieel onmogelijk. 
+Dataverkeer via 'discobol'
+Banken gebruiken dergelijke superveilige quantumverbindingen al voor de beveiliging van essentieel dataverkeer. Daarbij wordt gewerkt met uiterst zwakke, precies geprepareerde lichtsignalen, waarmee de geheime sleutels worden gecodeerd. De signalen zijn zo zwak dat ze in de praktijk tot nog toe alleen via speciaal aangelegde glasvezels kunnen worden verstuurd over kleine afstanden. 
+De Italiaanse onderzoekers zeggen nu te hebben aangetoond dat het quantumprotocol met uiterst zwakke lichtsignalen ook in minder ideale omstandigheden en zelfs in satellietverbindingen blijft werken. Daarbij komt het aan op de exacte timing van uitgezonden en binnenkomende lichtsignalen, laten ze zien. 
+De Delftse quantumfysicus Ronald Hanson is onder de indruk. 'Voor een toekomstig globaal quantuminternet is transmissie via satellieten van levensbelang', zegt hij. Tegelijk noemt hij de resultaten nog niet overtuigend, omdat maar een miniem deel van de verstuurde fotonen weer is opgevangen. 'Laat staan dat sprake is van echte quantumcryptografie.' 
+Villoresi erkent dat nog lang geen sprake is van een bruikbare quantumkunstmaan. 'Maar het is een begin. Toen in 1953 de Spoetnik één piepje gaf, kon ook niemand zich indenken wat satellieten ons zouden gaan brengen', zei hij in New Scientist. 
+Graphic
+
+ 
+De LARES 'discobal'-satelliet op een illustratie van ruimtevaartorganisatie NASA.
+Illustratie NASA
+Model van de discobol voor de ruimte.
+Foto NASA
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Page 2 of 3
+Dataverkeer via 'discobol'
+Subject: Internet Social Networking (81%)
+Industry: Telecommunications (94%); Computing + Information Technology (93%); 
+Mobile Devices (64%); Internet + Www (63%)
+Load-Date: June 29, 2014
+
+End of Document
+Page 3 of 3

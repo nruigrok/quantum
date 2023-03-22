@@ -1,0 +1,40 @@
+De quantumrace gaat ineens hard
+de Volkskrant
+28 november 2017 dinsdag
+Copyright 2017 De Persgroep Nederland BV All Rights Reserved
+
+Section: Ten Eerste; Blz. 13
+Length: 651 words
+Byline: MARTIJN VAN CALMTHOUT
+Highlight: De computer van de toekomst is een quantumcomputer. Europa wil daarin graag een woordje meespreken. Maar valt de voorsprong van de Amerikaanse techgiganten nog wel in te lopen?
+Body
+
+Er ligt een miljard euro klaar voor de eerste Europese quantumcomputer, maar het lijkt er op dat Amerikaanse bedrijven als IBM en Google de Europeanen al bij voorbaat voorbij streven. 'De ratrace is nu echt begonnen', zegt de Delftse hoogleraar quantumfysica Ronald Hanson van onderzoeksinstituut QuTech. 
+Vandaag spreken de hoofdrolspelers in Brussel over de aanpak van het Europese quantumavontuur. In februari begint de eerste ronde van het zogeheten Flagshipprogramma voor quantumtechnologie, waarvoor de komende drie jaar een miljard euro beschikbaar is. Intussen draaien in Amerika de eerste echte quantumcomputers al. De vraag is of Europa het wiel nog eens moet willen uitvinden. 
+Quantumcomputers zijn de rekenmachines van de toekomst. Ze kunnen met bijna onbegrensde rekenkracht ingewikkelde vraagstukken kraken, bijvoorbeeld in de cryptografie of bij geneesmiddelenonderzoek. Anders dan digitale computers werken ze op basis van quantumchips. Daarin zijn gewone bits vervangen door qubits, die tegelijk 1 en 0 kunnen zijn. De laatste jaren wordt werken met vijftig van zulke qubits als het begin van het echte quantumtijdperk beschouwd. 
+Het is krijgsberaad - geen crisisberaad, zegt een betrokkene - over de bijeenkomst in Brussel. Maar vooral de razendsnelle en nadrukkelijke vorderingen van Amerikaanse techgiganten als IBM en Google zullen de toon voor de gesprekken zetten, vermoedt hij 
+De quantumrace gaat ineens hard
+ook. IBM maakte begin november bekend een quantumcomputer met twintig qubits te hebben, waarop commerciele partijen via internet kunnen inloggen. Eerder mochten belangstellenden al een kleinere versie uitproberen via een web-interface. 
+Een 50-qubit computer wordt al getest in het IBM-lab, zegt de techgigant, die er foto's van verspreidt. Concurrent Google meldde dat het in december ook een systeem met vijftig qubits gaat presenteren. 
+'Het is een beetje een woordenstrijd geworden', zegt Hanson in Delft. 'Het gaat meer om wat je in je pr durft te zeggen dan om de harde wetenschap.' Maar hij erkent dat er forse druk is vanuit de Verenigde Staten. De Amerikaanse chipmaker Intel is partner van QuTech, en heeft net met Delftse technologie een 17-qubit quantumchip gemaakt, om in elk geval zichtbaar te blijven in de race. 
+Volgens Hanson is de quantumrace evenwel nog zeker niet gelopen. Alle berekeningen die laten zien dat voor een interessante quantumcomputer minimaal vijftig qubits nodig zijn, gaan uit van ideale omstandigheden. In werkelijkheid, zegt de Delftse hoogleraar, zijn de meeste quantumsystemen zeer gevoelig voor trillingen en warmte. In de praktijk zullen ze niet zonder interne controle en foutcorrecties kunnen werken. In de systemen van IBM en Google is dat allemaal niet ingebouwd. Juist daarin kan Europa veel gaan betekenen, denkt Hanson. Hetzelfde geldt voor quantumsoftware. 
+Het wetenschappelijke Flagship-programma wordt mede geleid door de Nederlandse fysicus Wim van Saarloos, die ook vicepresident van de KNAW is. In de discussies in Brussel zal zeker ter sprake komen dat de quantumtechnologie misschien te groot is voor een wedloop tussen de VS en Europa. Samenwerking zou meer voor de hand liggen. 
+Samen met Microsoft werkt QuTech in Delft aan een alternatieve qubit, die van nature veel minder storingsgevoelig kan zijn. Zulke 'topologische quantumbits' zijn nog volop in ontwikkeling. QuTech zal meedingen naar een deel van de gelden uit het Flagshipprogramma van de EU.
+Vaagheid
+Een quantumcomputer is in staat om tegelijkertijd astronomisch veel berekeningen uit te voeren, waardoor rekenwerk mogelijk wordt dat op gewone computers onbegonnen werk zou zijn. Er wordt gebruik gemaakt van de vaagheid van de quantumwereld, waar bits tegelijkertijd 1 en 0 kunnen zijn. Op papier is een samenspel van vijftig van zulke qubits genoeg om sneller te rekenen dan de beste supercomputer. Op dat moment is quantumsuprematie bereikt.
+Page 2 of 3
+De quantumrace gaat ineens hard
+Bekijk de oorspronkelijke pagina: pagina 13
+Graphic
+
+ 
+Experimentele quantumcomputer met vijftig qubits in het laboratorium van IBM.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Industry: Computing + Information Technology (94%)
+Load-Date: November 27, 2017
+
+End of Document
+Page 3 of 3

@@ -1,0 +1,41 @@
+Twee nanobuisjes vormen een proeftuin voor fun physics
+NRC Handelsblad
+April 11, 2009 zaterdag
+Copyright 2009 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP & ONDERWIJS; Blz. 4-5
+Length: 386 words
+Byline: Margriet van der Heijden
+Body
+
+Eén enkel elektron opsluiten in een minuscuul doosje, dat konden ze in Delft al lang. Maar nu is het onderzoekers uit de groep van Spinozaprijswinnaar Leo Kouwenhoven ook gelukt om één elektron op te sluiten in een buisje. En zelfs om twee van deze koolstof nanobuisjes te koppelen. Dat is interessant met het oog op toekomstige quantumcomputers, maar ook omdat zo een proeftuintje ontstaat om bijzonder gedrag van elektronen in te onderzoeken (Nature Nanotechnology, Advance Online Publication, 
+5 april).
+In de, potentieel razendsnelle, quantumcomputers worden de nullen en enen opgeslagen in elektronen. Dat zit zo: elektronen zijn kleine magneetjes die om hun as tollen. Linksom of rechtsom, waardoor het magneetveld 'op' (noem het: 1) of 'neer' (noem het: 0) wijst. Volgens de quantummechanica kunnen de elektronen bovendien in meerdere toestanden tegelijk verkeren, en zo 0 en 1 tegelijk zijn. En ja, dat lijkt verwarrend, maar als de elektronen handig gemanipuleerd worden, vergroot dit fenomeen de rekensnelheid enorm.
+Voorwaarde is wel dat het gedrag van de elektronen controleerbaar is. En dat het dus niet zomaar door de omgeving beïnvloed wordt. Dat vereist ultraschone nanobuisjes, en die zijn nu in Delft voor het eerst gemaakt.
+En passant bleek nog iets anders: de elektronen reizen soms door de energiebarrière tussen de beide buisjes (of in jargon: quantumdots) heen, alsof er een tunnel is. En ze doen dat makkelijker als die barrière juist flink hoger wordt. In de hoge-energiefysica voorspelt de zogeheten Klein-paradox zulk vreemd gedrag voor vrije elektronen. Maar 
+Twee nanobuisjes vormen een proeftuin voor fun physics
+uitsluitend op papier. In de praktijk is de energiebarrière die leidt tot het ontstaan van 'tunnels' veel te hoog om die echt te realiseren.
+Maar nu blijkt dat de elektronen in de twee gekoppelde buisjes - of: in de dubbele quantumdot - zich óók gedragen als vrije elektronen, maar dan met een heel geringe rustmassa. Het hele systeem van de dubbele quantumdots blijkt zelfs een omlaag geschaalde versie, waarin de elektronen ineens heel gemakkelijk kunnen 'Kleintunnelen'.
+Het brengt de halfgeleiderfysica van de nanobuisjes en de hoge-energiefysica die elementaire deeltjes beschrijft, zomaar bij elkaar. En in de toekomst zal de proeftuin nog meer 'fun physics' opleveren, verwacht eerste auteur Gary Steele.
+Margriet van der Heijden
+Graphic
+
+ 
+1104WETnano1, Tunnelen is makkelijkst (rood) door lage barrières (links) of juist hoge (rechts)., beeld TU Delft
+1104WETnano2
+1104WETnano3
+1104WETnano4
+1104WETnano5
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Superconductors (95%)
+Industry: Computing + Information Technology (67%); Manufacturing (67%)
+Page 2 of 3
+Twee nanobuisjes vormen een proeftuin voor fun physics
+Load-Date: April 10, 2009
+
+End of Document
+Page 3 of 3

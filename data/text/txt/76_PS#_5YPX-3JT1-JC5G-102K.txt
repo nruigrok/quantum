@@ -1,0 +1,28 @@
+QuTech  Delfts instituutlanceert publieke quantumcomputer in de cloud
+NRC.NEXT
+21 april 2020 dinsdag
+Copyright 2020 NRC Media B.V. All Rights Reserved
+
+Section: ECONOMIE; Blz. 4
+Length: 313 words
+Dateline: Amsterdam 
+Body
+
+De eerste Europese, publieke quantumcomputer is maandag gelanceerd in de cloud door minister Ingrid van Engelshoven (Onderwijs, Cultuur en Wetenschap, D66) en Eurocommissaris Mariya Gabriel (Digitale economie en samenleving). Het platform, 'Quantum Inspire', is ontwikkeld door het Delftse instituut QuTech. ,,Je kunt er van waar ook ter wereld quantumberekeningen op uitvoeren", zegt hoogleraar Lieven Vandersypen van QuTech.
+Eurocommissaris Gabriel noemt de lancering van het platform een ,,belangrijke stap voorwaarts voor de Europese quantumeconomie". Volgens Gabriel is het benutten van de kracht van deze technologie ,,de sleutel tot het bouwen aan een slimmere, duurzamere en veiligere Europese Unie".
+Het nieuwe platform wordt in Nederland onderdeel van de zogeheten 'Nationale Agenda Quantum Technologie'. In januari kondigde het kabinet aan hier 23,5 miljoen euro in te investeren.
+Een quantumcomputer gebruikt 'qubits' in plaats van bits. De bits van klassieke computers zijn één of nul. Qubits kunnen ook een combinatie van één en nul zijn. Toekomstige quantumcomputers zullen bepaalde problemen kunnen oplossen die buiten het bereik van de huidige supercomputers liggen. Door een compleet andere manier van rekenen wordt het bijvoorbeeld mogelijk medicijnen of nieuwe materialen te ontwikkelen.
+QuTech Delfts instituutlanceert publieke quantumcomputer in de cloud
+Krachtige quantumcomputers bestaan nog niet. Bedrijven die werken aan quantumtechnologie beschikken nu over hooguit enkele tientallen qubits. Daarmee zijn huidige computers nog niet te evenaren. Toch worden er al enkele kleine quantumcomputers in de cloud aangeboden door bedrijven, zoals IBM.
+Het platform Quantum Inspire is vooral gericht op training en educatie. Zo kunnen studenten leren programmeren volgens de wetten van de quantummechanica. En onderzoekers kunnen quantumalgoritmes testen die op toekomstige, grotere quantumcomputers kunnen gaan draaien. (NRC)
+Link naar PDF
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Educational Institution Employees (63%)
+Industry: Computing + Information Technology (94%); Budgets (63%)
+Load-Date: May 12, 2020
+
+End of Document
+Page 2 of 2

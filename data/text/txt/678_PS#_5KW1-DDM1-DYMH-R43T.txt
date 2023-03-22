@@ -1,0 +1,45 @@
+Nobelprijs voor elektronen in de knoop
+NRC Handelsblad 
+05 October 2016 Woensdag
+Copyright 2016 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 6
+Length: 819 words
+Byline: Bruno van Wayenburg Dateline: Amsterdam. 
+Body
+
+ABSTRACT
+Nobelprijs Natuurkunde
+De Nobelprijs voor de Natuurkunde gaat naar drie Britse natuurkundigen. Ze begonnen hun onderzoek in een exotische uithoek.
+ De Nobelprijs voor de Natuurkunde gaat dit jaar naar de Britse natuurkundigen David Thouless, Duncan Haldane en J. Michael Kosterlitz voor  theoretische ontdekkingen van topologische faseovergangen en topologische fasen van materie , gedaan in de jaren zeventig en tachtig. Dat maakte het Nobelcomité van de Zweedse Academie van Wetenschappen dinsdagochtend bekend.
+ Helemaal terecht , vindt Erik van Heumen. Hij is onderzoeker aan de Universiteit van Amsterdam in de onderzoeksgroep Topologische Isolatoren, een vakgebied dat is voortgekomen uit het bekroonde onderzoek. Dat gebied begon als een nogal exotische uithoek van de theoretische natuurkunde, echt iets voor fijnproevers.
+ Hun vraag was hoe materialen elektrische stroom geleiden , legt Van Heumen uit. Simpel gezegd: een materiaal als koper geleidt stroom prima, omdat de elektronen erin kunnen stromen als water door een tuinslang. In een isolerend materiaal als plastic zitten de elektronen juist vast op hun plek, alsof het water bevroren is. Daarin stroomt niets.
+Nobelprijs voor elektronen in de knoop
+De wiskunde van hompen klei
+Van Heumen:  Thouless en Kosterlitz onderzochten hoe elektronen zich gedragen in twee dimensies.   Want in sommige materialen kunnen elektronen alleen bewegen in een dun, tweedimensionaal laagje.  Quantummechanische formules voorspellen dat zulke elektronen zich dan collectief  geknoopt   gedragen, zegt Van Heumen.  Dat moet je behoorlijk letterlijk nemen: het is alsof ze collectief in een platte knoop, een achtknoop, of juist helemaal geen knoop zitten. 
+En knopen, die vallen onder topologie. Dat is de wiskunde van hompen klei, waarin een plat bord hetzelfde is als een ronde bol, omdat je deze vormen in elkaar om kunt kleien. Maar om de klei heen zit wel een rekbaar maar onsnijbaar, onplakbaar vliesje. En hoe ijverig je ook kneedt: een zwembandvorm, met een gat erin, of een ring met een platte knoop erin, zul je daaruit  nooit gekleid krijgen. Die vormen zijn topologisch verschillend, net als verschillende soorten knopen.
+Maar de geknoopte elektronenlaagjes kunnen dus wel overspringen van de ene naar de andere geknoopte toestand, ontdekten Kosterlitz en Thouless. Dat zijn de nu bekroonde KT-faseovergangen, een begrip waarin de letters staan voor de achternamen van de twee fysici. 
+In de jaren tachtig bleek dat de theorie van Kosterlitz en Thouless de basis van de verklaring vormde voor het  fractionele quantumhalleffect . Dat was tot dan een raadselachtig fenomeen waarbij de weerstand van elektronenlaagjes met sprongen verandert, in plaats van geleidelijk. Haldane   de derde Nobelprijswinnaar van dit jaar   liet toen zien dat topologische verschijnselen ook optreden in eendimensionale ketens van deeltjes. Van Heumen:  De verschijnselen bleken heel algemeen voor te komen, en helemaal niet zo exotisch. 
+Spintronica
+Rond 2005 werd bijvoorbeeld duidelijk dat topologische quantumeffecten ook optraden in driedimensionale materialen als bismuthselenide, die nu  topologische isolatoren  heten. Vanbinnen zijn die elektrisch isolerend, maar op de oppervlakken geleiden ze wel. Van Heumen.  De gedachte is dat zulke materialen zullen leiden tot  spintronica , een vorm van elektronica waarin magneetveldjes de rol spelen van gewone elektrische stroom. 
+Een andere toepassing van de nu bekroonde ontdekkingen is in quantumcomputers, die bepaalde rekenproblemen fundamenteel sneller moeten kunnen gaan oplossen dan gewone computers. Het probleem bij het bouwen daarvan is dat de benodigde quantummechanische toestanden fragiel zijn: de kleinste verstoring van buiten kan ze vernietigen. Knopen   ook de quantummechanische versies    zijn van zichzelf juist wel robuust, zoals iedereen weet die weleens met een kluwen vliegertouw of visgaren heeft geworsteld. Het majoranaquasideeltje dat de Delftse natuurkundige Leo Kouwenhoven 
+Page 2 of 3
+Nobelprijs voor elektronen in de knoop
+in 2012 ontdekte, is een voorbeeld van zo n robuuste topologische quantumtoestand, die ons   wie weet   ooit een wél werkende  quantumcomputer kan opleveren.
+En volgens Van Heumen is de oogst van het idee van Thouless, Kosterlitz en Haldane  
+nog lang niet uitgeput:  Op dit moment zijn topologische isolatoren een van de drie grote deelgebieden van de natuurkunde van de gecondenseerde materie. En deze drie hebben daar de basis voor gelegd. 
+Wie weet levert het ons ooit een wel werkende quantumcomputer op
+ScheikundeGroningse nano-auto 
+De Groningse hoogleraar organische scheikunde Ben Feringa (1951) is een van de drie winnaars van de Nobelprijs voor de scheikunde. Hij ontwikkelde moleculaire machines.
+Ben Feringa deelt de prijs met Jean-Pierre Sauvage van de universiteit van Straatsburg en Sir Fraser Stoddart die in de Verenigde Staten werkt. Die twee deden het voorwerk. Feringa was de eerste die, in 1999, een moleculaire motor maakte. En een nanoautootje. 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Superconductors (94%); Physics (82%); Awards + Prizes (69%); Chemistry 
+(69%); Educational Institution Employees (69%)
+Load-Date: October 5, 2016
+
+End of Document
+Page 3 of 3

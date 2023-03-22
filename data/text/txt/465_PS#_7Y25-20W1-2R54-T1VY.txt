@@ -1,0 +1,31 @@
+Quantummechanica in het groot: duikplank trilt én staat stil
+NRC Handelsblad
+20 maart 2010 zaterdag
+Copyright 2010 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP
+Length: 380 words
+Byline: Rob van den Berg
+Body
+
+Ook macroscopische objecten kunnen zich volgens de wetten van de quantummechanica gedragen. Deze uiterst succesvolle theorie werd tot nu toe gebruikt om het gedrag van atomen en moleculen te beschrijven en ze ook te manipuleren. Nu hebben Amerikaanse natuurkundigen een minuscuul duikplankje op een chip tegelijkertijd laten trillen en niet laten trillen. Voor atomen is dat geen enkel probleem, die kunnen zich op hetzelfde moment in twee verschillende toestanden bevinden, totdat we ze waarnemen en ze een specifieke toestand aannemen. Maar voor grotere objecten was dat tot nu toe nog niet gelukt (Nature, 18 maart).
+Om quantummechanisch gedrag te kunnen waarnemen in een macroscopisch systeem moet dat eerst in zijn laagste energietoestand, de grondtoestand, worden gebracht. Dat kan door het af te koelen, en zo alle warmtetrillingen te elimineren. Maar het valt niet mee om een voorwerp volledig tot rust te krijgen. Andrew Cleland en zijn collega's van de universiteit van Santa Barbara losten dit op door een duikplankje van minder dan eentiende millimeter zó stijf te maken, dat het alleen bij heel hoge frequenties kan trillen. Hoe hoger de frequentie, des te hoger de benodigde temperatuur om het plankje in trilling te brengen. Daardoor hoefden ze het niet zo heel erg diep te koelen, maar slechts tot een paar honderdste graad boven het absolute nulpunt. Cleland kon laten zien dat het plankje bij die temperatuur met grote waarschijnlijkheid in de grondtoestand verkeerde.
+Vervolgens koppelden ze het aan een echt quantumsysteem, een supergeleidende qubit, die in twee verschillende toestanden kan verkeren (meestal aangegeven met 0 en 1), maar ook in allebei tegelijk. Met behulp van dit qubit kon Cleland aantonen dat ook 
+Quantummechanica in het groot: duikplank trilt én staat stil
+het duikplankje zich als een quantumsysteem kan gedragen. Hij wist de energie van het qubit over te dragen op het plankje, dat daardoor in een iets hogere energietoestand kwam en daardoor ook kon gaan trillen. Ook het omgekeerde proces bleek mogelijk en het plankje was zelfs op hetzelfde moment  in trillende en niet-trillende toestand te brengen. Naast toepassing van dit soort effecten in een praktische quantumcomputer, laat dit experiment zien dat het mogelijk is om quantummechanische effecten aan het licht te brengen bij grotere objecten.
+Graphic
+
+ 
+Fysicus Erwin Schrödinger stelde zich een kat voor die levend én dood tegelijk is. 
+foto maggieandjim
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Superconductors (94%); Physics (63%)
+Industry: Computing + Information Technology (75%)
+Load-Date: March 20, 2010
+
+End of Document
+Page 2 of 2

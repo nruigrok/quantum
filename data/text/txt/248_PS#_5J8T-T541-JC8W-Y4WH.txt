@@ -1,0 +1,34 @@
+Wetenschapsnieuws
+de Volkskrant
+12 maart 2016 zaterdag
+Copyright 2016 De Persgroep Nederland BV All Rights Reserved
+
+Section: Sir Edmund; Blz. 50
+Length: 422 words
+Body
+
+15 = 1 X 3 X 5 
+Vijf kaliumatomen blijken het sommetje nu ook te kunnen. 
+Natuurkundigen van de universiteit van Innsbruck hebben voor het eerst met een quantumcomputer echt een som gemaakt. Ze ontbonden het getal 15 in de priemfactoren 1, 3 en 5 met behulp van vijf kaliumatomen in een elektrische kooi. De som is kinderspel, maar toepassing van het zogeheten Shor-algoritme is een aanwijzing dat quantumcomputers echt kunnen worden gebruikt. In quantumcomputers wordt informatie niet in enen en nullen opgeslagen en bewerkt, maar in qubits, die zowel één als nul zijn. Daardoor kunnen veel rekenstappen in één keer worden gemaakt en zijn bijvoorbeeld digitale sleutels te kraken, die nu eindeloos rekenwerk vergen. 
+GOED GEZIEN 
+Aziatische vlinder ziet met overdaad aan lichtgevoelige cellen in zijn ogen dingen die de mens ontgaan. 
+De vlinder deed onderzoekers versteld staan. De Graphium sarpedon, ook wel Blauwe Driehoek genoemd, blijkt ogen te hebben waarmee hij weliswaar minder scherp ziet dan de mens, maar ook dingen waarneemt die de mens ontgaan. Dat vermogen dankt het insect, dat vooral voorkomt in Zuidoost-Azië en Australië, aan vijftien soorten lichtgevoelige cellen in zijn ogen. Die fotoreceptoren reageren elk op een andere golflengte van licht. Bij insecten waren tot nu toe nooit meer dan negen klassen van deze cellen gevonden. 
+Om in kleur te zien hebben vlinders niet meer dan vier soorten fotoreceptoren nodig. Waarom dan die overdaad? De onderzoekers vermoeden dat de 'extra' receptoren onder meer van belang zijn om rivalen te onderscheppen. Door de kleinste variatie in het 
+Wetenschapsnieuws
+blauw-groene spectrum waar te nemen kan de Blauwe Driehoek makkelijker concurrenten waarnemen, ook tegen de achtergrond van een blauwe lucht of tussen het groen. De resultaten van het Japanse onderzoek verschijnen in Frontiers in Ecology and Evolution. 
+BRANDBAAR 
+Oudste fossiel van een dennenboom gevonden. 
+Onderzoekers hebben in een Canadese steengroeve het oudst bekende fossiel van een dennenboom ontdekt: 140 miljoen jaar oud. Dat is 11 miljoen jaar ouder dan een eerder gevonden dennenfossiel. Het gaat om een verkoold takje van een halve centimeter doorsnee. Voor wetenschappers is de evolutionaire geschiedenis van de dennenboom interessant. De dennenboom bevat brandbare harsen die bosbranden kunnen aanjagen. Na een brand waarbij concurrerende soorten zijn vernietigd hebben denneappels vrij spel als ze ontkiemen op verkoolde bosgrond. De ontdekking van het fossiel is beschreven in het blad Geology. 
+Bekijk de oorspronkelijke pagina: pagina 50
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Animals (80%); Geology + Geophysics (65%); Standards + Measurements 
+(65%); Physics (64%); Educational Institution Employees (63%)
+Industry: Computing + Information Technology (94%)
+Load-Date: March 11, 2016
+
+End of Document
+Page 2 of 2

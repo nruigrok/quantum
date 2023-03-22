@@ -1,0 +1,29 @@
+Ook supercomputer weet het zeker: de aarde draait om de zon
+de Volkskrant
+12 november 2019 dinsdag
+Copyright 2019 De Persgroep Nederland BV All Rights Reserved
+
+Section: Ten Eerste; Blz. 2
+Length: 411 words
+Byline: GEORGE VAN HAL
+Body
+
+Ruim vijfhonderd jaar na Nicolaas Copernicus heeft nu ook een computer ontdekt dat de aarde om de zon draait. De kunstmatige intelligentie die dat voor elkaar kreeg, moet op termijn vraagstukken oplossen waarop natuurkundigen de tanden stukbijten. 
+Het programma kreeg van de bedenkers de naam SciNet, vermoedelijk een knipoog naar het moordlustige Skynet uit de filmreeks Terminator. In tegenstelling tot zijn bijnanaamgenoot heeft SciNet alleen vredelievende motieven. Hij doet dienst als een robotnatuurkundige die de wereld om ons heen vangt in elegante wiskundige regels. 
+SciNet zou op die manier in staat moeten zijn om, bijvoorbeeld, Albert Einsteins relativiteitstheorie te bedenken en die vervolgens aan ons te openbaren. 
+Dat neurale netwerken - zelflerende systemen die geïnspireerd zijn op het menselijk brein - in staat zijn tot bijzondere prestaties, is al langer bekend. Voer zo'n kunstbrein voldoende foto's en hij kan je moeiteloos vertellen of je op een foto een hond ziet of een wolf. Soms zijn dergelijke systemen zelfs in staat tot nieuwe 'ontdekkingen'. 
+In april voerden wetenschappers de regels van vierhonderd bestaande sporten aan een kunstbrein, waarna dat een nieuwe sport bedacht. Die sport - werktitel 'speedgate' - wordt gespeeld met een soort rugbybal, op een veld dat bestaat uit drie cirkels. 
+De Zwitserse natuurkundige Renato Renner besloot samen met collega's de bijzondere kracht van neurale netwerken in te zetten om de werkelijkheid waarin we leven beter te leren begrijpen. Dat schrijven zij in een artikel dat binnenkort verschijnt in het vakblad Physical Review Letters. 
+Ook supercomputer weet het zeker: de aarde draait om de zon
+Uiteindelijk willen zij hun robot-natuurkundige loslaten op de belangrijkste onopgeloste problemen in de moderne fysica. Zo zit het heelal bijvoorbeeld tjokvol donkere materie: mysterieus, nog onbegrepen spul dat zijn aanwezigheid alleen indirect kenbaar maakt en dat je met het blote oog niet kunt zien. Wat het is, en of het wel echt bestaat, weet niemand. Wellicht biedt SciNet uitkomst. 
+Bij wijze van test lieten de onderzoekers hun programma alvast los op een aantal problemen die natuurkundigen al hadden opgelost. Zo ontdekte het systeem niet alleen dat de aarde om de zon draait, maar stelde het ook natuurwetten op voor complexe slingerbewegingen. Ook kon SciNet kon overweg met de quantumfysica, de tegendraadse natuurkundetheorie die het gedrag van de werkelijkheid beschrijft op de allerkleinste schaal.
+Bekijk de oorspronkelijke pagina: pagina 2
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Physics (94%); Computer Science (88%); Artificial Intelligence (64%)
+Load-Date: November 11, 2019
+
+End of Document
+Page 2 of 2

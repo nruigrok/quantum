@@ -1,0 +1,69 @@
+Delftse ingenieurs bewijzen het ongelijk van Albert Einstein
+Trouw
+22 oktober 2015 donderdag
+Copyright 2015 De Persgroep Nederland BV All Rights Reserved
+
+Section: Vandaag
+Length: 1201 words
+Byline: JOEP ENGELS, REDACTIE WETENSCHAP
+Body
+
+Wetenschap 
+Elementaire deeltjes kunnen verbonden blijven, al raken ze lichtjaren van elkaar verwijderd. Onmogelijk , zegt het boerenverstand, en hield ook Einstein vol. Toch is het zo, leert Nederlands onderzoek. 
+Het pleit is beslecht: Einstein had ongelijk. De natuur is weldegelijk spookachtig en volgt regels die tegen ieders intuïtie ingaan. Delftse fysici dragen vandaag het klassieke wereldbeeld definitief ten grave. 
+Het lijkt een waarheid als een koe: voorwerpen hebben hun eigenschappen en als er iets gebeurt, ligt de oorzaak in de buurt. Tomaten zijn rood en als je ze loslaat, vallen ze door hun gewicht op de grond. Maar de quantumfysica zegt dat dit beeld niet deugt. 
+Volgens die theorie, die begin vorige eeuw werd ontwikkeld en die de atomaire wereld beschrijft in termen van kansen, kunnen voorwerpen verschillende eigenschappen tegelijk hebben. In de quantumwereld zijn de objecten rood én groen, bol én vierkant. En bovendien reageren ze meteen op elkaar, ook al zijn ze lichtjaren van elkaar verwijderd. 
+Bij dat laatste kon Albert Einstein zich niet neerleggen. In 1935 beschreef hij een gedachtenexperiment waarmee hij die 'spookachtige werking op afstand' in twijfel trok. Die werking was in strijd met zijn eigen relativiteitstheorie die zegt dat informatie reist met de snelheid van het licht en dat het dus even duurt voordat objecten op elkaar reageren. De objecten beïnvloeden elkaar ook niet over die afstand, dacht Einstein. Het probleem is alleen dat wij de diepere theorie die beschrijft hoe ze dan wel reageren, nog niet kennen. 
+Dertig jaar later stelde de Britse fysicus John Stewart Bell een experiment voor waaruit zou moeten blijken of zo'n diepere theorie bestond, maar het zou nog tot begin jaren tachtig duren eer dat experiment kon worden uitgevoerd. Wat bleek? Die theorie bestond niet en de wereld had die vreemde quantumfysica maar te accepteren. 
+Dat bewijs bevatte echter een paar valkuilen. Misschien draaide de natuur de wetenschap wel een rad voor ogen en zagen de fysici een selectie van hun meetresultaten waardoor het alleen léék alsof Bell Einstein ongelijk gaf. Of slaagden de quantumobjecten er stiekem via een achterdeurtje toch in om informatie uit te wisselen. 
+Aan die onzekerheid maken natuurkundigen van de TU Delft definitief een einde. In het vakblad Nature beschrijven ze vandaag hoe ze metingen hebben verricht aan twee elektronen die 1300 meter van elkaar verwijderd waren. Dat is ver genoeg om de elektronen niet de tijd te gunnen met elkaar te communiceren terwijl de fysici het experiment uitvoeren. Bovendien hebben de Delftenaren ervoor gezorgd dat ze alle metingen meenamen. 
+Opnieuw zakt Einstein voor de Bell-test en nu is er geen ontkomen meer aan. Het realistische wereldbeeld dat iedereen intuïtief heeft, is op atomaire schaal slechts schijn. Het zijn de vreemde wetten van de quantumtheorie die daar regeren. 
+De commentator van Nature kraakt nog een klein kritisch nootje. De Delftenaren baseren hun betoog op 245 metingen. Dat is voldoende om hun conclusie, zoals dat heet, statistisch significant te maken. Maar het is denkbaar dat de natuur hen ook hier een loer heeft gedraaid en een uitzonderlijke toevalstreffer heeft voortgebracht. Extra metingen zullen uitsluitsel bieden, schrijft hij. 
+Maar eigenlijk twijfelt ook hij niet. "Dit is de finale nagel aan de doodskist van het realisme", schrijft hij. En hij feliciteert de Delftenaren met het bereiken van deze mijlpaal in de natuurkunde. 
+'We hadden viermiljoenste van een seconde om de meting te doen' 
+INTERVIEW Ronald Hanson vertelt hoe Delft slaagde waar anderen 25 jaar worstelden 
+Het was een wedloop. Verspreid over de wereld streden diverse groepen streden om als eerste de definitieve Bell-test uit te voeren. Een race die gewonnen werd door de vakgroep van Ronald Hanson, hoogleraar quantumfysica aan de TU Delft. Reden voor een feestje? 
+Hanson: "Ja hoor. Dit is een mijlpaal. Er was niemand in de fysica die nog aan deze uitkomst twijfelde, maar je hebt één experiment nodig dat alle achterdeurtjes dichtgooit. 
+En dat is dit experiment." 
+Was het een spannende race? 
+"Op het eind wel. Maar opmerkelijk is dat wij pas in het voorjaar van 2013 besloten ons hierop te richten. Toen is een promovendus ermee aan de slag gegaan. Andere groepen joegen al jaren op dit resultaat. Eén groep was al 25 jaar bezig." Hoe konden jullie hen dan zo snel inhalen? 
+"Een verschil in aanpak. Andere groepen preparen lichtdeeltjes en schieten die dan weg. Wij werken met elektronen die we eerst op afstand zetten en dan pas prepareren. De voorbereiding is lastiger, maar als die eenmaal is gelukt, kun je exacter meten." 
+Dit vergt enige uitleg. In het gedachtenexperiment van Albert Einstein en de test van John Bell is een centrale rol weggelegd voor de zogeheten verstrengeling. Quantumdeeltjes zoals elektronen of fotonen (lichtdeeltjes) kunnen innig met elkaar verbonden zijn zonder dat ze bij elkaar in de buurt zijn. De toestand van de een bepaalt de toestand van de ander, ook al is de toestand van die eerste volkomen onzeker (wat op atomaire schaal gebruik is). Blijkt die voor plus te kiezen, dan springt de ander op min. Gaat de een naar rechts kijken, kijkt de ander meteen naar links, zonder een signaal te hebben gekregen dat het die kant op moet. 
+Als je het ene deeltje dwingt een toestand te kiezen, door die toestand te meten, dan leg je daarmee ook de toestand vast van een verstrengeld deeltje, ook al bevindt zich dat in een uithoek van het universum. Einstein geloofde dit niet en dacht dat de toestanden van beide deeltjes al voor de meting moesten vastliggen, zoals gebruikelijk in de klassieke natuurkunde. 
+Hoe gingen jullie te werk? 
+"Wij hielden twee elektronen vast in diamantkristallen, in twee laboratoria op onze campus die 1300 meter uiteen liggen. We lieten de elektronen allebei een lichtdeeltje uitzenden en die brachten we bijeen in een derde lab. Zo waren ook de elektronen verstrengeld." 
+Klinkt ingewikkeld. 
+"Dat was het ook. Het was een hele toer om die fotonen bij elkaar te krijgen. In anderhalve kilometer glasvezel gaat veel verloren. We zonden er tienduizend per seconde uit, maar het lukte maar eens per uur om ze bijeen te krijgen. Reken het succespercentage maar na." 
+Maar als het een keer lukte, ging de meting zelf eenvoudig? 
+"Nou ja, wat heet eenvoudig. We hadden daar vier microseconden voor. Vier miljoenste van een seconde om met een generator een meting te kiezen, deze uit te voeren en de uitslag af te lezen. Dan waren we snel genoeg om te voorkomen dat het andere elektron kon 'weten' wat het ene had gedaan. Maar dat was niet zo lastig als het tot stand brengen van de verstrengeling." 
+En nu is het klaar. Het klassieke wereldbeeld is passé, de quantumtheorie heeft gewonnen. 
+"Dat is half waar. Het idee van Einstein is definitief ontzenuwd. In theorie bestaat de kans dat ons resultaat een uitschieter was, maar daar gaat niemand van uit. En ons resultaat is consistent met de quantumtheorie. Maar of een theorie waar is, weet je natuurlijk nooit." 
+De natuur is weldegelijk spookachtig en volgt regels die tegen ieders intuïtie ingaan 
+'Het was een hele toer om die fotonen bij elkaar te krijgen' 
+Bekijk de oorspronkelijke pagina: pagina 4, pagina 5
+Graphic
+
+ 
+illustratie censuur
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Trouw
+Subject: Physics (94%); Educational Institution Employees (69%); Superconductors (65%)
+Industry: Computing + Information Technology (76%)
+Load-Date: October 21, 2015
+
+End of Document
+Delftse ingenieurs bewijzen het ongelijk van Albert Einstein
+
+Delftse ingenieurs bewijzen het ongelijk van Albert Einstein
+
+Page 2 of 5
+
+Page 2 of 5
+
+
+
+
+

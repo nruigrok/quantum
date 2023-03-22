@@ -1,0 +1,41 @@
+Tegenslag voor quantumpionier
+de Volkskrant
+11 mei 2020 maandag
+Copyright 2020 DPG Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 27
+Length: 730 words
+Byline: STAN VAN PELT AMSTERDAM
+Highlight: Delftse wetenschappers die aan een supersnelle quantumcomputer werken, hebben een tegenvaller te verwerken. Het wetenschappelijke tijdschrift Nature heeft twijfels over een publicatie die de wereldpers haalde.
+Body
+
+Het team dat onder leiding van hoogleraar Leo Kouwenhoven werkte aan metingen van zogeheten majorana-qubits, moet terugkomen op een belangrijke publicatie over hun onderzoek in Nature. De 'qubits' vormen de basis voor de quantumcomputer die Kouwenhoven samen met Microsoft probeert te ontwikkelen. 
+De Delftse onderzoekers trokken zelf aan de bel bij Nature. Kouwenhovens teamleden ontdekten onregelmatigheden toen ze de oorspronkelijke data opnieuw analyseerden na een interne discussie, schrijft de hoogleraar nanofysica in een reactie per e-mail. Nature waarschuwt nu dat de conclusies van het artikel uit 2018 mogelijk onbetrouwbaar zijn. 
+Kouwenhoven is een grootheid binnen zijn vakgebied. Zo kreeg hij in 2007 de Spinozapremie, de hoogste Nederlandse wetenschappelijke onderscheiding. Die faam ontleent de hoogleraar aan zijn werk in de quantummechanica, de lastig te doorgronden tak binnen de natuurkunde waarin deeltjes bizarre eigenschappen kunnen hebben. 
+De onderzoeksgroep van Kouwenhoven vond in experimenten de afgelopen jaren steeds meer bewijs voor zogeheten majorana's: qubits die gedrag vertonen die de quantumtheorie al sinds 1937 voorspelt. In tegenstelling tot gewone computerbits, die waardes hebben van nul óf één, zouden qubits tegelijkertijd nul én één kunnen zijn, 
+Tegenslag voor quantumpionier
+vanwege hun speciale quantumeigenschappen. In theorie kunnen processoren daardoor veel sneller berekeningen uitvoeren dan conventionele computers.
+Quantumhoofdstad
+Niet voor niets toonden bedrijven als Microsoft interesse in Kouwenhovens werk. In 2016 maakte de hoogleraar een overstap naar Microsoft om een quantumcomputer te bouwen. Vorig jaar opende koning Willem-Alexander de nieuwe onderzoeksfaciliteit hiervoor in Delft. De stad moet de 'quantumhoofdstad van Europa' worden, zei Microsoft Nederland-directeur Ernst-Jan Stigter bij die gelegenheid. 
+Het wetenschappelijke artikel uit 2018 waar nu twijfel over is ontstaan, beschrijft majorana-experimenten die Kouwenhoven samen met collega's van universiteiten in Eindhoven en de Verenigde Staten deed. Onder supergeleidende omstandigheden, net boven het absolute nulpunt van -273 graden Celsius, maten ze een signaal dat alleen te verklaren zou zijn door majorana-qubits. De ontdekking ging de wereld over. 
+In de analyses van die meetgegevens lijkt nu iets niet te kloppen. Details wil Kouwenhoven desgevraagd niet delen, omdat het onderzoek nog loopt. De resultaten daarvan hoopt hij tegen de zomer via Nature naar buiten te brengen. 'Op dat moment geef ik graag een inhoudelijke toelichting.' 
+Volgens de hoogleraar hebben de metingen waar nu zorgen over zijn, geen effect op het wel of niet bestaan van majorana-qubits. 'Dat verandert niet.' Hij laat zich niet uit over de gevolgen van de onregelmatigheden voor de ontwikkeling van een eventuele quantumcomputer. Over andere belangrijke majorana-artikelen van Kouwenhoven, zoals in Science in 2012, zijn geen twijfels geuit.
+Nano-rangeerterrein
+Het kan goed dat het gemeten signaal toch iets anders is dan een majorana-deeltje, reageert quantumfysica-hoogleraar Mark Golden aan de Universiteit van Amsterdam, die niet bij de Delftse publicatie betrokken is. 'Er zijn theoretisch meerdere oorzaken mogelijk voor zo'n piekje. Majorana's spreken het meest tot de verbeelding vanwege hun potentie voor quantumcomputers.' Definitief bewijs moet sowieso nog geleverd worden, merkt hij op, in een ander type experiment waarin twee of meer majorana's 'van plaats wisselen' op een soort rangeerterrein van nano-formaat. 
+Dat er nu onregelmatigheden ontdekt zijn, is op zichzelf niet per se zorgwekkend, zegt Golden. 'Er is een grote competitie binnen dit onderzoeksveld, dan kunnen dingen misgaan. Daarom is het goed dat experimenten herhaald worden, door dezelfde en andere onderzoeksgroepen. Het is positief dat de onderzoeksgroep de mogelijke fouten zelf aangekaart heeft.' 
+Page 2 of 3
+Tegenslag voor quantumpionier
+Mocht een op majorona's gebaseerde computer niet slagen, dan betekent dat niet het einde van de quantumcomputer. Wereldwijd werken labs aan quantumcomputers die volgens andere principes dan het majorana-deeltje werken. Grootschalige praktische toepassingen zijn nog ver weg. Golden: 'Dit soort experimenten zijn pas allereerste babystapjes. Dat gaat met vallen en opstaan.' 
+Microsoft wil nog niet reageren op het bericht in Nature.
+Qubits zouden tegelijkertijd nul én één kunnen zijn
+Bekijk de oorspronkelijke pagina: pagina 27
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Educational Institution Employees (80%); Physics (64%)
+Industry: Computing + Information Technology (94%)
+Load-Date: May 10, 2020
+
+End of Document
+Page 3 of 3

@@ -1,0 +1,37 @@
+Sensor van elf atomen groot meet magnetische golven
+NRC Handelsblad 
+29 mei 2020 vrijdag 1ste Editie
+Copyright 2020 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 12
+Length: 528 words
+Byline: Dorine Schenk
+Dateline: Amsterdam 
+Body
+
+ABSTRACT
+Natuurkunde Delftse onderzoekers hebben een piepkleine sensor gebouwd die van pas kan komen om elektronica efficiënter te maken.
+VOLLEDIGE TEKST:
+Elf ijzeratomen in een keurig rijtje. Dat is alles waar de nieuwe magnetische sensor, ontwikkeld door Delftse onderzoekers, uit bestaat. Het geheel is nog geen honderdduizendste van een millimeter groot en bevat een antenne, geheugen, uitleesmogelijkheid en resetknop. Met de sensor kunnen piepkleine magnetische golven gemeten worden, tonen de onderzoekers maandag aan in Communications Physics. Dit is belangrijk voor de ontwikkeling van spintronica, een mogelijk alternatief voor elektronica dat meer energie-efficiënt is.
+Een elektronisch signaal is een stroom van bewegende elektronen waarvan de wrijving bijvoorbeeld je computer opwarmt. Magnetische signalen zijn golven die door een materiaal bewegen zoals een wave door een voetbalstadion. De magnetische atomen (voetbalfans) staan stil, enkel de golf beweegt. Daardoor ontstaat er minder warmte en gaat er minder energie verloren.
+Sensor van elf atomen groot meet magnetische golven
+De magnetische atomen kun je zien als kompasnaaldjes die allerlei kanten op kunnen wijzen en voelen wat er bij hun buren gebeurt. Als je ze op een rijtje zet en aan de meest linker kompasnaald draait, dan gaat diens buur ook draaien en de buur ernaast ook, etcetera, waardoor een magnetische golf door het materiaal loopt.
+Quantummechanisch gedrag
+In theorie is dat een energie-efficiënte manier om signalen te versturen, maar in de praktijk zijn deze golven lastig te begrijpen. Ze bewegen razendsnel en alle kanten op. Bovendien gedragen de kompasnaaldjes zich quantummechanisch, wat betekent dat ze tegelijkertijd verschillende kanten op kunnen wijzen. Om grip te krijgen op deze complexe golven hebben de onderzoekers het sensortje van elf atomen gebouwd. ,,Acht atomen plus drie als resetknop bleek de perfecte grootte", zegt groepsleider hoogleraar Sander Otte. ,,Zes atomen was te gevoelig en tien atomen was niet gevoelig genoeg."
+Voor de tests bouwen de onderzoekers draadjes van enkele atomen lang waar ze een magnetische golf doorheen stuurden. Aan het uiteinde meet de sensor of de golf daar aankomt. Die golf veroorzaakten ze door een draadje aan de andere kant aan te slaan met een zogeheten scanning tunneling microscoop. Die heeft een scherpe naald waarmee je individuele atomen kunt meten en verplaatsten.
+Met die naald zou je ook de magneetgolf kunnen meten. ,,Maar dan heb je twee naalden nodig", zegt Otte. ,,Eén om het golfje te veroorzaken en een tweede om het te meten. Dat past niet op de kleine draadjes waar wij onderzoek mee doen."
+Het sensortje biedt uitkomst. ,,Het zijn niet zomaar elf atomen die als legoblokjes op een rijtje liggen", zegt Otte. ,,Ze zijn zo gepositioneerd dat hun interne kompasnaaldjes om en om liggen. Zodra er een magnetische golf langskomt, klappen die kompasnaaldjes om." De naaldjes die naar rechts wezen, wijzen dan naar links en omgekeerd. Die verandering kan je later meten met de microscoopnaald.
+De uitkomst van de eerste tests zijn positief. De onderzoekers zagen de eigenaardige magnetische golfbewegingen die je kan verwachten op basis van de quantummechanica.
+Link naar PDF
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Page 2 of 3
+Sensor van elf atomen groot meet magnetische golven
+Subject: Superconductors (94%); Information Management + Technology (76%); 
+Nanotechnology (73%); Physics (69%); Astronomy + Space (63%)
+Load-Date: May 29, 2020
+
+End of Document
+Page 3 of 3

@@ -1,0 +1,75 @@
+Ongrijpbare majoranadeeltjes; Jacht op (n)iets; Ettore Majorana schetste in 1937 een deeltje dat nog altijd niet gevonden is. Fysici blijven hoopvol zoeken. 
+NRC
+18 september 2021 zaterdag
+Copyright 2021 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 1
+Length: 2226 words
+Byline: Dorine Schenk
+Body
+
+ABSTRACT
+Natuurkunde Majoranadeeltjes zijn nog nooit gezien. Maar fysici houden hoop.
+VOLLEDIGE TEKST:
+Het was wereldnieuws uit Delft. Quantumfysici onder leiding van Leo Kouwenhoven van het Delftse Microsoft Quantum Lab dachten in 2018 dat ze het bestaan hadden aangetoond van een majoranadeeltje. Maar begin dit jaar kwam de teleurstelling. De metingen en de analyse waren twijfelachtig, er was geen bewijs voor het ongrijpbare deeltje. Het wetenschappelijke artikel erover werd teruggetrokken. Wat maakt majoranadeeltjes zo interessant? En is er nog hoop dat ze ooit gevonden worden?
+Majoranadeeltjes zijn vernoemd naar de Italiaanse fysicus Ettore Majorana, die het bestaan ervan in 1937 voorspelde in een theoretisch artikel. Majorana's laatste publicatie voor zijn mysterieuze verdwijning in 1938 bleef decennialang een obscure theorie die weinig aandacht kreeg. Pas in de jaren tachtig werd het artikel, dat oorspronkelijk in het Italiaans verscheen, vertaald naar het Engels. ,,Het majoranadeeltje was gewoon een gek ding dat theoretisch slim in elkaar zat, maar niemand was erin geïnteresseerd", vertelt fysicus Carlo Beenakker van de Universiteit Leiden.
+De afgelopen twintig jaar is daar verandering in gekomen. Er is vanuit verschillende takken van de fysica aandacht voor Majorana's theorie en er wordt onder meer in deeltjesversnellers, supergeleiders en vaste stoffen actief naar het voorspelde deeltje gezocht. Vooral de toepassing in quantumcomputers lonkt.
+Maar wat zijn majoranadeeltjes? Majorana bouwde voort op een theorie van de Britse fysicus Paul Dirac, die in 1928 een vergelijking opschreef waarmee hij voorspelt dat bij elk materiedeeltje een antimateriedeeltje hoort. In het geval van het elektron is dat het positron, dat even zwaar is als het elektron, maar een positieve lading heeft in plaats van een negatieve.
+Als een deeltje en een antideeltje elkaar ontmoeten, dan heffen ze elkaar op en verdwijnen ze in een flitsje energie. ,,Eerst dacht Dirac dat de antideeltjes een artefact van zijn theorie waren; een oplossing die weliswaar uit de berekening rolt, maar die niets te maken heeft met de werkelijkheid", zegt Beenakker. Maar al een paar jaar later, in 1932, werd het bestaan van het positron aangetoond en inmiddels zijn de antideeltjes van alle elementaire deeltjes bekend.
+Majorana was er niet van overtuigd dat elk deeltje per se een antideeltje heeft. Hij stelde voor dat deeltje en antideeltje twee verschillende theoretische beschrijvingen van hetzelfde deeltje zou kunnen zijn. Een deeltje zou dan zijn eigen antideeltje kunnen zijn. Door de vergelijking van Dirac aan te passen toonde hij aan dat dit op papier mogelijk is. Deze theoretische deeltjes kregen de naam: majorana-fermionen (majoranadeeltjes in de volksmond).
+Om een majorana te zijn, moeten deeltjes aan een aantal eigenschappen voldoen. Ze kunnen bijvoorbeeld geen lading hebben, anders verschillen ze van hun antideeltjes door hun tegengestelde lading. Om dezelfde reden kunnen ze niet magnetisch zijn. Het zijn 'deeltjes zonder eigenschappen'. Tot op de dag van vandaag zijn er geen deeltjes gevonden die in het plaatje passen dat Majorana ruim zeventig jaar geleden schetste. Het is dan ook erg moeilijk om ze te vinden: je weet pas zeker dat je ermee te maken hebt op het moment dat ze verdwijnen.
+Wetenschappers zijn overigens wel bekend met deeltjes die hun eigen antideeltje zijn. Lichtdeeltjes (fotonen), zijn hun eigen antideeltje. Toch zijn het geen majoranafermionen. De theorieën van Majorana en Dirac beschrijven namelijk materiedeeltjes (fermionen). Fotonen zijn interactie- of krachtdeeltjes (zogeheten bosonen), waarvan de quantumeigenschappen dusdanig verschillen van fermionen dat ze wiskundig gezien niet in de Dirac-vergelijking passen.
+Het majorana-onderzoek dat de laatste jaren het nieuws haalt, gaat niet over de vrije, van nature voorkomende deeltjes die Majorana in gedachten had, maar over 'kunstmatige' majoranadeeltjes, die onderzoekers proberen te laten ontstaan in een lab. 
+Dit is wat de Delftse onderzoekers doen. Ze proberen duizenden elektronen in een nanodraadje zich samen te laten gedragen als een majoranadeeltje.
+Spookdeeltjes en donkere materie
+Majorana zelf stelde voor dat zijn theorie van toepassing zou kunnen zijn op neutrino's. Dit zijn superlichte, ladingsloze deeltjes die bijvoorbeeld ontstaan bij kernreacties in kerncentrales en bij kernfusie in de zon. Neutrino's zijn een voor de hand liggende kandidaat omdat het de enige bekende elementaire materiedeeltjes zijn die niet-geladen zijn en dus de enige die hun eigen antideeltje zouden kunnen zijn.
+Op het moment dat Majorana's artikel verscheen bestonden neutrino's enkel op papier. Pas in 1956 werden ze ontdekt.
+Als neutrino's hun eigen antideeltjes zijn, dan betekent het dat twee neutrino's - net als een deeltje en zijn antideeltje - elkaar vernietigen (annihileren) als ze dicht genoeg bij elkaar komen. Als je dat ziet gebeuren, heb je ook meteen aangetoond dat het majorana's zijn. Dat klinkt eenvoudig, maar neutrino's zijn ongrijpbare spookachtige deeltjes die zelden botsen met andere deeltjes, laat staan met elkaar. De kans dat twee neutrino's, bijvoorbeeld afkomstig uit de zon, op elkaar botsen, is nihil.
+Maar er is een uitweg. Neutrino's die tijdens radioactief verval in dezelfde atoomkern ontstaan, zijn dicht genoeg bij elkaar voor een ontmoeting. Dit scenario is mogelijk bij het zogeheten dubbele bètaverval, waarbij twee neutronen in één atoomkern veranderen in twee protonen onder het uitzenden van twee elektronen en twee neutrino's.
+,,In 1935 realiseerde fysicus Maria Goeppert Mayer zich dat dit dubbele bètaverval extreem zeldzaam is, maar dat het in een aantal materialen, zoals germanium en xenon, kan voorkomen", vertelt Patrick Decowski van het Nederlandse instituut voor deeltjesfysica, het Nikhef in Amsterdam. Hij is betrokken bij het Japanse KamLAND-Zen experiment dat naar tekenen van majorana-neutrino's zoekt in het bètaverval van xenon. ,,Als een neutrino zijn eigen antideeltje is, dan verwacht je dat de twee neutrino's die in dezelfde atoomkern ontstaan elkaar zo nu en dan annihileren. Dan worden er dus alleen twee elektronen uitgezonden."
+Neutrinoloos dubbel bètaverval is nog nooit waargenomen, maar naast KamLAND-Zen is er nog een aantal experimenten die er al jaren naar zoeken, zoals het Italiaanse Gerda-experiment. Decowski: ,,Het zien zou een heel mooie manier zijn om te bevestigen dat het idee van Majorana daadwerkelijk in de natuur plaatsvindt."
+Deeltjesfysici zijn niet alleen geïnteresseerd in majorana-neutrino's omdat ze willen weten of Majorana gelijk had. Het bestaan ervan is verweven met een aantal nieuwe theorieën die onopgeloste vragen in de fysica proberen te beantwoorden. Zo zijn er theoretische modellen die op een elegante manier kunnen verklaren waarom alles in het heelal uit materie bestaat en er nauwelijks antimaterie is, ondanks dat er bij de oerknal evenveel materie als antimaterie zou zijn ontstaan. Om die modellen te laten kloppen moet het heelal een aantal ingrediënten bevatten, waaronder majorana-neutrino's, vertelt Decowski.
+En misschien bestaan er nog wel onontdekte deeltjes die aan Majorana's theorie voldoen. Deze deeltjes zouden het antwoord kunnen zijn op een ander raadsel in de fysica: de zoektocht naar de geheimzinnige donkere materie die in het heelal aanwezig lijkt te zijn. Niemand weet waaruit donkere materie bestaat, maar het zou kunnen gaan om nog onbekende majoranadeeltjes. ,,We weten dat donkere materie, net als majorana's, geen lading heeft", zegt Decowski.
+Op papier zijn er een aantal donkeremateriekandidaten die majoranadeeltjes zouden kunnen zijn. Hier wordt naar gezocht in verschillende donkerematerie-experimenten en in de LHC-deeltjesversneller bij CERN in Genève. Tot nu toe vruchteloos, maar het onderzoek gaat door. Decowski: ,,En er komen binnenkort nieuwe experimenten bij. Ik denk dat de komende tien jaar, met name voor neutrino-onderzoek, een spannende tijd wordt."
+Felbegeerde qubit-kandidaten
+Oorspronkelijk sloeg de term 'majoranadeeltje' dus op een los, elementair materiedeeltje met de eigenschappen die Majorana in 1937 voorspelde. Maar sinds een jaar of twintig krijgt het idee van Majorana ook aandacht in een andere tak van de natuurkunde: de vastestoffysica.
+In theoretische artikelen werd het idee geopperd om in materialen quasideeltjes te laten ontstaan met majorana-eigenschappen. Quasideeltjes zijn 'kunstmatige' deeltjes die ontstaan door het collectieve gedrag van andere deeltjes - zoals een golf die ontstaat op zee.
+,,Deeltjes die hun eigen antideeltjes zijn, zijn niet nieuw in de vastestoffysica", vertelt Carlo Beenakker. ,,We zijn ermee vertrouwd sinds de ontdekking van supergeleiders in het begin van de twintigste eeuw." In supergeleidende materialen - waar elektriciteit weerstandsloos doorheen stroomt - bewegen elektronen niet als losse deeltjes, maar uitsluitend in tweetallen, zogeheten Cooperparen. Je kunt in supergeleiders niet van 'losse elektronen' spreken. Als je een Cooperpaar zou opbreken dan heb je een 'half Cooperpaar'. Dit is een quasideeltje dat zich gedraagt als zijn eigen antideeltje, want als het een ander half paar tegenkomt 'annhileren' ze door samen weer een Cooperpaar te vormen.
+Twintig jaar geleden ontstond het idee dat je een half Cooperpaar zou kunnen vastzetten, bijvoorbeeld aan het uiteinde van een ragfijn nanodraadje. Zo'n gefixeerd deeltje wordt beschouwd als een majorana - al is het de vraag of Ettore Majorana zijn idee erin zou herkennen. Doordat het vast zit, heeft zo'n majorana-quasideeltje eigenschappen die het interessant maken als qubit - de bouwstenen van toekomstige quantumcomputers, vertelt Beenakker. Dankzij de quantumeigenschappen van de qubits wordt het mogelijk computers op een compleet andere en complexere manier te laten rekenen. Hierdoor beloven quantumcomputers bepaalde taken veel sneller uit te voeren dan de huidige computers, investeren techgiganten flink in qubitonderzoek. Microsoft richt zich op majorana-qubits.
+Bij de majoranadeeltjes die Kouwenhoven en zijn collega's in 2018 gevonden dachten te hebben, ging het ook om zulke quasi-deeltjes, en die zijn een qubitkandidaat. Ze kunnen, door het collectieve gedrag van elektronen, ontstaan aan het uiteinde van nanodraadjes die duizend keer dunner zijn dan een haar en bedekt zijn met een supergeleidend materiaal. ,,Als het lukt om in zulke draadjes majorana's te maken met alle veelbelovende quantumeigenschappen die we willen hebben, dan ben je binnen", zegt Beenakker. De productie van die draadjes is namelijk relatief gemakkelijk industrieel op te schalen. Ondanks de tegenslag van het teruggetrokken artikel, loopt het Delftse onderzoek door en blijft Kouwenhoven enthousiast, vertelde hij in maart.
+Beenakker is minder optimistisch. ,,Ik denk niet dat de nanodraadjes veelbelovend zijn. Microsoft heeft het tien jaar lang tevergeefs geprobeerd - met miljoenen euro's en grote onderzoeksteams." Dat betekent niet dat hij de majorana-quasideeltjes opgeeft. Integendeel. ,,Ik ben ervan overtuigd dat we ze zullen zien. De fysica erachter zit goed in elkaar. Het is gebaseerd op kennis en theorieën die we goed begrijpen en uitgebreid hebben getest. Het is niet zoals andere onbewezen natuurkundige ideeën zoals tijdreizen of andere idioterie."
+Het grootste obstakel zijn volgens Beenakker de materialen. ,,Die bevatten vaak verontreinigingen en vertonen onvoorspelbaar gedrag, maar de geschiedenis van de materiaalkunde leert dat het zuiveren en controleren van materialen uiteindelijk bijna altijd lukt. We hebben alleen een lange adem nodig."
+Hij richt zijn hoop daarvoor op andere technieken dan nanodraadjes, zoals 2Dsupergeleiders met magnetische vortices - een soort werveltjes die ontstaan als een magneetveld een supergeleider binnendringt - waaraan majorana's zich kunnen vastbinden.
+Of deze of alternatieve technieken ook de basis kunnen vormen van een quantumcomputer is nog niet te zeggen. Daarvoor moeten de majorana's stabiel zijn en gemaakt kunnen worden in opschaalbare materialen. Beenakker: ,,Ik denk dat een overtuigende demonstratie van majorana-quasideeltjes, zelfs als het geen qubit wordt, een Nobelprijs zou kunnen opleveren." En dat geldt waarschijnlijk ook voor het experiment dat het bestaan van elementaire majoranadeeltjes, zoals majorananeutrino's, kan aantonen. Dan blijft alleen het lot van Ettore Majorana zelf nog een mysterie.
+Ik ben ervan overtuigd dat we ze zullen zien Carlo Beenhakker fysicus
+1938 Mysterieus verdwenen
+De Italiaanse theoretisch fysicus Ettore Majorana publiceerde in 1937 zijn artikel waarin hij het bestaan van majoranadeeltjes uitwerkte - het laatste van slechts negen wetenschappelijke artikelen die hij publiceerde. Dat artikel was er nooit gekomen zonder zijn vriend en collega Enrico Fermi. Met veel moeite haalde die de destijds 31-jarige Majorana over om zijn idee op papier te zetten. Meestal kwamen zijn inzichten niet verder dan een paar kladblaadjes. In 1938 nam de excentrieke fysicus zijn spaargeld op en verdween spoorloos tijdens een boottocht van Napels naar Palermo. Sommige collega's denken dat hij zelfmoord heeft gepleegd, anderen dat hij zich terug heeft getrokken in een klooster of is gevlucht naar Zuid-Amerika. Wat er werkelijk gebeurd is, is waarschijnlijk niet meer te achterhalen.
+Link naar PDF
+Link naar PDF
+Graphic
+
+ 
+In het Italiaanse Gerda-experiment zoeken fysici naar majorana's die zouden kunnen ontstaan bij het radioactief verval van xenon.
+V. Wagner/GERDA collaboration
+Foto M. Heisel, GERDA
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Physics (94%); Superconductors (82%)
+Industry: Computing + Information Technology (75%)
+Load-Date: September 17, 2021
+
+End of Document
+Ongrijpbare majoranadeeltjes; Jacht op (n)iets; Ettore Majorana schetste in 1937 een deeltje dat nog altijd niet gevonden is. Fysici blijven hoopvol zoeken. 
+
+Ongrijpbare majoranadeeltjes; Jacht op (n)iets; Ettore Majorana schetste in 1937 een deeltje dat nog altijd niet gevonden is. Fysici blijven hoopvol zoeken. 
+
+Page 2 of 7
+
+Page 2 of 7
+
+
+
+
+

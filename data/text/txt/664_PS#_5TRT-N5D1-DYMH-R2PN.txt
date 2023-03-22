@@ -1,0 +1,67 @@
+De kilo is dood, leve de kilo!
+NRC Handelsblad
+17 november 2018 zaterdag
+Copyright 2018 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 9
+Length: 1061 words
+Byline: Bruno van Wayenburg
+Dateline: Amsterdam 
+Body
+
+ABSTRACT
+Natuurkunde
+De laatste grote meeteenheid die nog materieel gedefinieerd was, wordt nu ook universeel meetbaar.
+VOLLEDIGE TEKST:
+         De kilo is niet meer De Kilogram. Anders gezegd: de internationaal gedefinieerde meeteenheid voor massa zal niet meer gelijk zijn aan Le Grand K. Dat is de cilinder van platina-iridiumlegering die zorgvuldig wordt bewaard in een laboratorium bij Parijs en het uiteindelijke ijkpunt is van iedere weegschaal. 
+Tot dat besluit kwamen zestig deelnemende landen deze week tijdens het 26ste internationale congres van metrologen. ,,Niemand stemde tegen", zegt metroloog (meetexpert) Gert Rietveld van het Van Swinden Laboratorium in Delft en één van de achttien bestuursleden van het Bureau International des Poids et Mesures (BIPM), ,,de stemming was toch wel feestelijk". 
+De kilogram was de laatste meeteenheid van het internationale Système International (SI) die nog gebaseerd was op een fysiek artefact. ,,Dit is echt een historische verandering", zegt Rietveld.
+Le Grand K, officieel bekend als het Internationaal Prototype van de Kilogram, wordt sinds 1889 onder zorgvuldig gecontroleerde omstandigheden bewaard: onder glazen stolpen om aankoekende en oxiderende vervuiling uit de lucht tegen te gaan. Om de paar decennia wordt hij heel voorzichtig schoongemaakt, onder toeziend oog van getuigen. 
+Helemaal succesvol lijkt dat niet, blijkt uit vergelijkingen met tientallen identieke kopieën. In de loop van de decennia zijn die, om niet helemaal opgehelderde redenen, tot 50 microgram zwaarder geworden. Of Le Grand K ook is aangekomen, is een paradoxale vraag: de standaardkilo is immers per definitie 1 kilogram. Hooguit is het hele heelal iets lichter geworden.
+Om dit soort absurditeiten te voorkomen, en om metingen beter reproduceerbaar en toegankelijker te maken, zal de nieuwe kilogram, net als zes andere basiseenheden van het SI, gestoeld zijn op fundamentele natuurconstanten, die niet veranderen en die in principe voor iedereen overal te meten zijn. 
+Zo is de seconde al sinds 1967 gedefinieerd als precies 9.192.631.770 trillingen van een bepaalde quantum-overgang in het Cesium-atoom. En 1 meter is per definitie de afstand die het licht in 1/299.792.458 seconde  aflegt. ,,Het komt er eigenlijk op neer dat je een natuurconstante, de lichtsnelheid, vastprikt op precies 299.792.458 meter per seconde", zegt Rietveld. Om de kilogram te ijken hoef je dus niet meer naar Parijs, maar kun je een Kibble-balans gebruiken: een extreem accurate weegschaal, uitgevonden in de jaren zeventig, waarin een testmassa naar beneden getrokken wordt door de zwaartekracht. Tegelijkertijd leunt de testmassa op een lager hangende elektrische spoel tussen permanente magneten. Als door die spoel een elektrische stroom loopt, wordt hij door het magneetveld omhoog geduwd, tegen de zwaartekracht in. 
+Op het moment dat de testmassa door die twee krachten precies stil hangt, is de massa geijkt aan de elektrische kracht van de spoel. Die kracht is te vertalen in energie, die weer meetbaar is met als meetlat de constante van Planck uit de quantummechanica. ,,In feite pinnen we de constante van Planck vast, en daarmee de Joule, de eenheid voor energie", zegt Rietveld, ,,en daarmee ligt dan ook de kilogram vast." Ook de Ampère, de mol en de Kelvin krijgen een nieuwe basis, die officieel ingaat op 20 mei 2019. 
+Al is het minder slijtagegevoelig dan Le Grand K, ingewikkeld is de nieuwe kiloberekening zeker, en lang niet iedereen kan zich een Kibble-balans veroorloven. Rietveld: ,,Nederland heeft er geen. Het zijn precisie-instrumenten die miljoenen kosten en jaren werk." Alleen de VS, Canada, Frankrijk en Zwitserland hebben ze. Gelukkig hóef je niet zo'n dure weegschaal aan te schaffen. De definitie schrijft geen meetmethode voor. Een andere route naar de kilo is de Avogadro-kilo: maak een extreem precies vormgegeven bol van silicium van 9,36 centimeter doorsnee, met daarin een vast aantal silicium-atomen, en je hebt ook een standaardkilogram.De waarde van de nieuwe kilogram is gebaseerd op het gemiddelde van twee avogadro-kilo's en drie Kibble-balans-kilo's, zegt Rietveld. ,,Jammer genoeg ontbreekt in dat gemiddelde de meetwaarde van de groep van Ali Eichenberger van het Zwitserse metrologie-bureau METAS."  In de zeer Zwitserse traditie van precisiemetingen had Eichenberger jaren gestoken met de Zwitserse Kibble-balans. ,,Maar toen hij zijn berekening gepubliceerd had, kwam hij erachter dat er een foutje in zat. De gecorrigeerde versie was te laat voor de deadline." De kilogram zal dus voor eeuwig Canadees-Amerikaans-Frans zijn. Niet Zwitsers. Fundamenteel als deze aanpassing is, in de praktijk verandert er voor vrijwel niemand iets. Rietveld: ,,Een fabrikant van weegschalen komt zijn kilogram ijken bij ons, het VSL, net als vroeger. Wat er verandert is dat wij onze kilo niet meer in Parijs hoeven te gaan ijken."
+De eenheden die de wereld meten
+Meter De oorspronkelijke meter werd in 1798 gedefinieerd als een tienmiljoenste van de afstand tussen de noordpool en de evenaar. De meter werd later vervangen door een standaardmeter, en in 1983 gedefinieerd op basis van de lichtsnelheid. 
+KilogramAanvankelijk gedefinieerd als het gewicht van 1 kubieke decimeter water, en dus indirect gekoppeld aan de meter. De standaardkilogram van 1889 wordt in 2019 vervangen door een definitie in termen van energie, door de constante van Planck vast te pinnen op 6,62607015 × 10- 34 Joules per seconde. 
+Seconde Ooit gedefinieerd als 1/86.400 van een dag, inmiddels is een seconde 9.192.631.770 van de trillingen van een hyperfijnovergang van het Cesium-atoom. 
+Ampère Elektrische stroom, vanaf 2019 gedefinieerd als een stroom van 1/1,602176634 × 10-19 elektronenladingen (e) per seconde.
+Kelvin Was gedefinieerd als 1/100 van het temperatuurverschil tussen het smeltpunt en het kookpunt van water. Wordt vanaf volgend jaar gedefinieerd door de constante van Boltzmann, een maat voor de energie van warme deeltjes, vast te pinnen op 1,380649 × 10-23 Joule per Kelvin. 
+MolMaat voor hoeveelheid deeltjes. Tot nog toe was 12 gram koolstof-12 precies 1 mol, ongeveer 6,02214179 10^23 deeltjes. Vanaf 2019 wordt dat getal de precieze definitie. 
+Candela Intensiteit van licht, ooit gebaseerd op de sterkte van een kaars, inmiddels gedefinieerd in termen van golflengte, vermogen en de grootte van de kijkhoek.
+Link naar PDF
+Graphic
+
+ 
+'Le Grand K', in de kelder van het Bureau International des Poids et Mesures.
+Foto BIPM
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Alternative Fuel Vehicles (93%); Meteorology (90%); Epidemics (82%); Aging 
+(77%); Senior Citizens (77%); Population + Demographics (70%); Volcanic Eruptions 
+(70%); Economic Development (69%); Emissions (69%); Minor Metals Markets (69%); 
+Nuclear Science (69%); Precious Metals Markets (69%); Energy + Environment (67%); 
+Natural Disasters (62%); COVID-19 Coronavirus (61%); Infectious Disease (61%); 
+Superconductors (61%); Viruses (61%)
+Industry: Oil + Gas Industry (93%); Energy + Utilities (82%); Computer Equipment 
+(73%); Public Transportation (70%); Rail Transportation (70%); Automotive Fuels (69%); 
+Jewelry (69%); Mobile Devices (69%); Motor Vehicles (69%); Manufacturing (68%); 
+Computer + Electronics Mfg (63%); Paper + Packaging (62%)
+Load-Date: November 16, 2018
+
+End of Document
+De kilo is dood, leve de kilo!
+
+De kilo is dood, leve de kilo!
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

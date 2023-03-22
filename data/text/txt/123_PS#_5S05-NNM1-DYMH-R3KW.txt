@@ -1,0 +1,31 @@
+Bewijs voor nuttig gebruik majorana's is bijna rond
+NRC Handelsblad 
+29 March 2018 donderdag
+Copyright 2018 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 16
+Length: 417 words Byline: Dorine Schenk Dateline: Amsterdam. 
+Body
+
+ABSTRACT
+Quantumcomputer
+Majoranadeeltjes zouden de basis kunnen vormen voor snelle quantumcomputers. In Delft twijfelen fysici niet meer aan hun bestaan.
+Leo Kouwenhoven weet het zeker. Majoranadeeltjes bestaan. Hij leidt de onderzoeksgroep die dit woensdag aantoonde in een artikel in Nature. Of de deeltjes hun belofte waar maken en ze geschikt zijn als bouwstenen voor toekomstige quantumcomputers, is nog niet zeker. 
+Maar waren die deeltjes niet al ontdekt? Een beetje. In 2012 vond een Delftse onderzoeksgroep onder leiding van Kouwenhoven een deeltje dat ,,walks, talks and looks like a majorana", maar of het zich ook 'gedraagt' als een majorana wisten de onderzoekers toen niet. Dankzij nieuwe materialen is het experiment verbeterd. ,,Nu hebben we aangetoond dat het deeltje zich bijna perfect volgens de theorie gedraagt", zegt Kouwenhoven. 
+Maar ze zijn nog niet klaar. Kouwenhoven: ,,Nu moeten we onderzoeken of majorana's 'niet-Abels' gedrag vertonen." Door twee majorana's een paar keer van plek te laten verwisselen kan deze eigenschap aangetoond worden. Die verwisselingen zorgen 
+Bewijs voor nuttig gebruik majorana's is bijna rond
+ervoor dat de deeltjes in een soort quantumknoop verstrikt raken. Daardoor zijn ze stabieler en worden ze minder beïnvloed door hun omgeving. ,,Het is vergelijkbaar met een knoop in een touw", vertelt Kouwenhoven. ,,Als je dat touw heen en weer beweegt of eraan trekt, blijft de knoop zitten."
+Die eigenschap is precies wat de majorana's zo geschikt maakt als informatiedragers, oftewel 'qubits', voor een toekomstige quantumcomputer. Deze superkrachtige computer kan bepaalde berekeningen waarschijnlijk veel sneller uitvoeren omdat qubits tegelijkertijd een "1" en een "0" kunnen zijn. De meeste qubit-kandidaten kunnen door een kleine verandering in hun omgeving al kapotgaan. Majorana's hebben dat probleem waarschijnlijk niet.
+De verbeterde materialen die Kouwenhoven ontwikkelde met onderzoekers van UC Santa Barbara, TU Delft en TU Eindhoven maken het mogelijk om majorana's in elkaar te gaan knopen en hun niet-Abels gedrag te gaan onderzoeken. De volgende stap is om ze te gaan gebruiken als qubits en er simpele berekeningen mee uit te voeren. De onderzoeksgroep van Kouwenhoven is de eerste die zover gekomen is. ,,We hebben de voorsprong die we sinds 2012 hadden nog niet verspeeld."
+Het bestaan van majorana's werd al in 1937 voorspeld door de Italiaanse fysicus Ettore Marjorana. Het bijzondere aan een majorana is dat het, in tegenstelling tot andere vergelijkbare deeltjes,  zijn eigen antideeltje is.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Physics (64%); Educational Institution Employees (63%)
+Industry: Computing + Information Technology (94%)
+Load-Date: March 29, 2018
+
+End of Document
+Page 2 of 2

@@ -1,0 +1,47 @@
+Weren hackers bij waterkering kan beter
+NRC.NEXT
+14 juni 2019 vrijdag
+Copyright 2019 NRC Media B.V. All Rights Reserved
+
+Section: BINNENLAND; Blz. 10
+Length: 752 words
+Byline: Arjen Schreuder
+Dateline: Amsterdam 
+Body
+
+ABSTRACT
+           Digitale dreiging  De NCTV waarschuwde woensdag voor digitale aanvallen. De zorgen betreffen ook de beveiliging van de grote waterkeringen. 
+VOLLEDIGE TEKST:
+         Zijn de computers van grote waterkeringen in Nederland beschermd tegen hackers? Rijkswaterstaat wil er weinig over kwijt. ,,Het is kwetsbare informatie", zegt een woordvoerder. ,,Erover praten zou zoiets zijn als vertellen hoe het geld bij een bank precies wordt bewaakt."
+De Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) waarschuwde woensdag voor digitale aanvallen. De weerbaarheid van overheidsinstellingen en bedrijven is nu nog onvoldoende, vindt de NCTV, die stelt dat organisaties ,,nog steeds succesvol aangevallen worden met eenvoudige methoden".
+Het probleem is bekend, onder meer bij Rijkswaterstaat. Bijna drie maanden geleden publiceerde de Algemene Rekenkamer een rapport dat de zwakke plekken in onder meer de Deltawerken blootlegde. Enerzijds, schreef de Rekenkamer, heeft Rijkswaterstaat de afgelopen jaren ,,een hoop werk verzet". Er is een ,,inhaalslag" gemaakt bij het digitaal beveiligen van bruggen, sluizen en keringen, onder meer na problemen met een haperende Ketelbrug, tussen de Noordoostpolder en Oostelijk 
+Weren hackers bij waterkering kan beter
+Flevoland, met als gevolg verschillende ongevallen en lange files. Die haperingen hadden voor zover bekend niets met een hack van doen.
+Wereld te winnen
+Toch is er volgens de Rekenkamer nog een wereld te winnen. Lang niet alle bedachte maatregelen ter beveiliging van de software zijn in de verschillende regio's uitgevoerd. Er worden onvoldoende serieuze testen uitgevoerd en medewerkers die in aanraking komen met gevoelige informatie worden alleen licht gescreend. Dat laatste omschreef minister Cora van Nieuwenhuizen (Infrastructuur, VVD) onlangs in de Tweede Kamer als ,,echt een tekortkoming waar ik, zeg ik maar heel open, zelf ook van schrok".
+Hoe zwak de digitale verdedigingsmuur is, bleek toen door de Rekenkamer ingehuurde ethische hackers tot tweemaal toe fysiek binnen konden dringen, door ,,misleiding van het personeel" bij een geheimgehouden 'vitaal object'. ,,De eerste keer hebben de testers toegang tot de controlekamer gekregen en werden zij alleen gelaten bij een open sleutelkast en niet-vergrendelde werkstations", aldus het rapport. ,,De tweede maal slaagden de testers erin een tijdelijke toegangspas te bemachtigen waarmee zij zich vrijelijk door de locatie konden begeven." Het aansluiten van een laptop door de hackers op het netwerk werd wel tijdig  opgemerkt.
+Kamerleden waren not amused. In een debat met minister Van Nieuwenhuizen waren de horrorscenario's niet van de lucht.  ,,Stelt u zich eens het volgende voor", zei Chris Stoffer (SGP). ,,Het is 2030 en het 5G-netwerk is uitgerold door een Chinees staatsbedrijf. Alle waterkeringen zijn aangesloten op dit netwerk. Ondertussen is er een noordwesterstorm op komst, die aanzwelt tot orkaankracht. Nederland rekent uiteraard op zijn ICT. Ondertussen is China uit op het aanpakken van Europese landen. Er wordt een cyberaanval uitgevoerd op een van de keringen. Nederland zou in paniek zijn."
+Minister Van Nieuwenhuizen beloofde  beterschap; ze gaat ,,voortvarend" aan de slag met de aanbevelingen van de Rekenkamer. Toch is de vraag of de verbeteringen voldoende zijn, stelt Pepijn Pinkse, adjunct-hoogleraar nanofotonica aan de Universiteit Twente, die zich bezighoudt met veiligheid van hardware.  ,,Er is bij de overheid nog onvoldoende besef dat je niet alles aan  internet moet hangen. Het is verleidelijk om op afstand en met minder mensen in één keer apparaten te besturen. Maar als het stormt dan moet de Oosterscheldekering  dicht zonder dat een hacker ertussen zit. 
+Zo'n Oosterscheldedam moet je  loskoppelen van andere computersystemen. Dan kun je beter vertrouwen op een fysiek aanwezige medewerker, die een niet na te maken sleutel heeft van het slot  van een huisje."
+Er wordt nog te weinig gebruik gemaakt van technische mogelijkheden, meent hij. Zoals elektronische chips met een unieke hardwarecode, of de aanleg van kwantumcryptografische, superveilige verbindingen over eigen glasvezelkabels. De 
+Page 2 of 3
+Weren hackers bij waterkering kan beter
+Chinezen hebben dat  al over honderden kilometers gedaan. Bij de introductie van dit soort maatregelen moet je bovendien nagaan met wie je in zee gaat. Pinkse: ,,Je moet wel kijken wie de eigenaar is van bedrijven die je daarvoor inschakelt. Wat dat betreft is Nederland naïef. We zouden beter moeten oppassen."
+Ingehuurde hackers  wisten tweemaal fysiek binnen te dringen
+Link naar PDF
+Graphic
+
+ 
+De Maeslantkering bij Hoek van Holland. Volgens de Algemene Rekenkamer is de digitale beveiliging van bruggen, sluizen en waterkeringen kwetsbaar.
+Foto Ruud Taal/ANP
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Cybercrime (94%); Industrial Espionage (86%); Government Grants + 
+Subsidies (63%); Terrorism + Counterterrorism (61%)
+Industry: Internet + Www (82%); Computing + Information Technology (75%)
+Load-Date: June 13, 2019
+
+End of Document
+Page 3 of 3

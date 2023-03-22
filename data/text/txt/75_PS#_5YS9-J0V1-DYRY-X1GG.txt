@@ -1,0 +1,53 @@
+Zicht op de bouwstenen van materie
+de Volkskrant
+28 april 2020 dinsdag
+Copyright 2020 DPG Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 25
+Length: 955 words
+Byline: DOOR GOVERT SCHILLING
+Highlight: 'Kijk, daar is mama's telescoop!' zegt de Amsterdamse hoogleraar Anna Watts tegen haar dochters als het ruimtestation ISS 's avonds voorbij trekt. Met die telescoop wil ze in het binnenste van mysterieuze neutronensterren kijken - en daarmee naar de bouwsteentjes van het universum.
+Body
+
+Wat gebeurt er als je de hele wereldbevolking samenperst tot het formaat van een suikerklontje? Anna Watts hoopt er binnenkort achter te komen. Niet door onmenselijke experimenten hier op aarde, gelukkig. Watts is hoogleraar astrofysica aan de Universiteit van Amsterdam; ze zoekt het antwoord in de metingen van een unieke röntgentelescoop. En ze is de eerste die toegeeft dat haar onderzoek geen praktisch nut heeft. 'Dit is gewoon pure, fundamentele wetenschap.' 
+Sterren, planeten, mensen - alles in het heelal bestaat uit moleculen, atomen en - op het allerdiepste niveau - quarks en elektronen, de elementaire bouwstenen van de materie. Maar hoe die materie zich gedraagt onder extreem hoge druk, weet niemand. Uitrekenen lukt niet: de formules zijn te ingewikkeld. En een proefje doen in een laboratorium is er ook niet bij; krijg maar eens honderdduizend ton materie opeengepropt in een speldenknop. 
+Hoeft ook niet, volgens Watts, want de natuur heeft er iets op gevonden. De kern van een zware ster stort aan het eind van zijn leven in elkaar tot een kleine, snel rondtollende kosmische kogel. Nauwelijks groter dan Texel, maar wel anderhalf keer zo zwaar als de zon. Volgens de simpelste inzichten worden alle atomen dan in elkaar geperst en blijft er een supercompact goedje van neutronen over - kerndeeltjes zonder elektrische lading. 
+De vraag is natuurlijk hoe je het inwendige van zo'n neutronenster kunt bestuderen, om te zien of die simpelste inzichten wel kloppen. En daar komt de röntgentelescoop van Watts om de hoek kijken. Of liever gezegd: van Nasa. NICER heet-ie, wat staat voor Neutron star Interior Composition ExploreR. Een apparaat zo groot als een wasmachine, dat voorjaar 2017 werd gelanceerd met een Falcon-raket van Elon Musks ruimtevaartbedrijf SpaceX, en vervolgens aan boord van het internationale ruimtestation ISS is geplaatst. 
+'Dat heeft voor- en nadelen', legt Watts uit. 'NICER heeft geen eigen stroomvoorziening nodig, of antennes voor de communicatie met de aarde. En als er iets stuk gaat, zou het misschien gerepareerd kunnen worden. Maar af en toe krijgen we van het ISS te horen dat er geen metingen mogelijk zijn vanwege onderhoud, of zit er een zonnepaneel in de weg.' Toen het ruimtestation een paar weken geleden 's avonds goed zichtbaar was vanuit Nederland, ging ze wel met haar dochtertjes de tuin in om te kijken. 'Look, there's mummy's telescope!'
+Knipperbol
+Neutronensterren hebben extreem hete plekken aan het oppervlak, bij de magnetische polen. Die zenden veel röntgenstraling uit. Door de snelle rotatie van de ster (ongeveer zo snel als een staafmixer) draaien die hete plekken afwisselend in en uit beeld, en ziet NICER een neutronenster heel snel knipperen. Met nanoseconde-precisie registreert de telescoop elk röntgenfoton van die kosmische knipperbol. Uit die metingen kun je uiteindelijk afleiden hoe groot en hoe zwaar de ster is. 
+Watts is lid van het wetenschapsteam dat zich bezighoudt met die analyse. Dat gebeurt onder andere met de krachtige Cartesius-supercomputer op het Amsterdamse Science Park. 'We moeten alle effecten van Einsteins relativiteitstheorie in de berekeningen meenemen', legt ze uit. 'Die zijn gelukkig allemaal heel nauwkeurig bekend, maar het vergt wel enorm veel rekenkracht.' 
+Eind vorig jaar werden de eerste resultaten gemeld in Astrophysical Journal Letters. Neutronenster J0030+0451 blijkt een diameter van 25 kilometer te hebben, en is dertig procent zwaarder dan de zon. (NICER ontdekte bovendien dat het magnetisch veld een stuk ingewikkelder in elkaar zit dan gedacht.) Het was voor het eerst dat van een neutronenster zowel de afmetingen als de massa zijn bepaald. Blijft natuurlijk de vraag wat dat dan zegt over het gedrag van materie onder die extreme omstandigheden. Maar ook daar weten Watts en haar collega's wel raad mee.
+Scheurtjes in theorie
+'Er bestaan allerlei theoretische modellen voor het inwendige van neutronensterren,' zegt ze. 'Die voorspellen heel nauwkeurig wat het verband is tussen dichtheid, druk, afmetingen en massa - de zogeheten toestandsvergelijking. Wij keren die berekeningen in feite om: als we de relatie tussen grootte en massa kennen, kunnen we checken welke modellen daarmee in overeenstemming zijn.' 
+Met maar één neutronenster lukt dat nog niet; je hebt er minstens een stuk of zes voor nodig, liefst met wat uiteenlopende eigenschappen. De metingen aan ster nummer twee zijn inmiddels voltooid; het team van Watts is druk bezig met de analyse. 'Over een paar maanden hopen we meer te weten.' Gelukkig is het NICER-project, dat ook onderzoek doet aan zwarte gaten en verre sterrenstelsels, vorig jaar al met twee jaar verlengd; Watts hoopt dat er in 2021 een nieuwe verlenging volgt. 
+In principe is het mogelijk dat de waarnemingen van NICER scheurtjes aan het licht brengen in de standaardtheorie over quarks, de zogeheten quantumchromodynamica. Of in ieder geval zouden ze nieuwe facetten van die theorie kunnen belichten. Zo is het denkbaar dat extreem sterk samengeperste materie helemaal niet bestaat uit stijf opeengepakte neutronen, maar uit zogeheten hyperonen - subatomaire deeltjes die één of meer 'vreemde' quarks bevatten. Watts: 'Misschien moeten we neutronensterren ooit een andere naam gaan geven.' 
+Een volledig begrip van de fundamentele bouwsteentjes waaruit alles bestaat - de Griekse wijsgeer Democritus gaf daar 2.300 jaar geleden al de aanzet voor. Zevenenhalf miljard mensen samenpersen tot een suikerklontje is er gelukkig niet voor nodig; laat het experimenteren maar over aan het universum. Door goed rond te kijken in het kosmisch laboratorium staan wetenschappers als Anna Watts op het punt om Democritus' droom te verwezenlijken.
+Bekijk de oorspronkelijke pagina: pagina 25
+Graphic
+
+ 
+De NICER-röntgentelescoop, voor een zonnepaneel van ISS.
+Illustratie van een neutronenster met een sterk magneetveld.
+Anna Watts
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Spacecraft (94%); Physics (82%); Astronomy + Space (74%)
+Industry: Telecommunications (75%); Aerospace Industry (65%)
+Load-Date: April 27, 2020
+
+End of Document
+Zicht op de bouwstenen van materie
+
+Zicht op de bouwstenen van materie
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

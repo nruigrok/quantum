@@ -1,0 +1,46 @@
+Nu al vechten met denkbeeldige quantumhackers
+de Volkskrant
+29 april 2015 woensdag
+Copyright 2015 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap; Blz. 27
+Length: 493 words
+Byline: VAN ONZE VERSLAGGEVER MARTIJN VAN CALMTHOUT
+Body
+
+Interview: Tanja Lange, hoogleraar cryptologie 
+Crypto-expert Tanja Lange wil onze data beschermen tegen de onvermijdelijke komst van de quantum-computer. Ook data van enkele decennia oud. 
+ Ze wil, geeft de Eindhovense hoogleraar wiskunde en cryptologie prof. Tanja Lange in de aanloop tot het gesprek aan, liever geen interview via Skype. 'Daarvan staan zoveel achterdeurtjes open, dat je maar moet afwachten wat je daarmee eventueel allemaal binnenhaalt.' Dat ze daarna wel voor ordinaire e-mail kiest, heeft in elk geval dat probleem niet. Al blijft het min of meer open en bloot, zichtbaar voor wie een beetje zijn best zou doen, van plezierhacker tot geheime dienst. Het zij zo. 
+De van origine Duitse Lange leidt PQCRYPTO, een internationaal consortium dat bescherming onderzoekt tegen zogeheten quantumcomputers. Die zullen ooit zo krachtig zijn, dat ze ook mielijk versleutelde berichten in digitale geheimtaal kunnen ontcijferen. 
+Is dat niet voorbarig? Er zijn toch nog geen quantumcomputers? 
+'Het principe van quantumrekenen is bekend. Dat er nog geen machines lijken te zijn, is een kwestie van praktische problemen. Maar de NSA besteedt tientallen miljoenen aan research, dat weten we van Edward Snowden. Het kan snel gaan.' 
+En waar is het dan eigenlijk precies te laat voor? 
+'Als ontvanger en zender geen gerarandeerde geheimhouding hebben, is elke communicatie vogelvrij. Dat geldt voor e-mail, voor online-bankverkeer en medische 
+Nu al vechten met denkbeeldige quantumhackers
+data. Die zijn nu redelijk te beschermen met traditionele cryptografie-systemen als RSA of ECC, al wordt er in de praktijk vaak heel weinig versleuteld. Maar een quantumsysteem heeft zoveel meer rekenkracht dat elk gangbaar systeem er zeker mee ter kraken wordt. Wat nu oneindig lang rekenen kost, gaat dan in principe in een oogwenk.' 
+Moeten we daar nu al rekening mee houden? 
+'Als de eerste quantumhacker opduikt, zijn alle bestaande data kwetsbaar, ook die van 20 of 30 jaar geleden. Daar kan heel gevoelige informatie bij zijn, ook zoveel jaar later.' Maar er zijn mogelijkheden om ons daar tegen te wapenen? 
+'Die zijn er zeker, voor lang niet alle geheimschriftprotocollen is namelijk een quantumaanval bekend. Dat betekent dat er dus geen kraakprogramma bestaat, zelfs als de machine er binnenkort al wel staat.' 
+En dat programma wordt dan niet nog even bedacht? 
+'Dat kan, maar het is niet triviaal. Wij hebben in 2008 een aanval gevonden om een systeem uit 1978 aan te pakken. Dertig jaar onderzoek en veel rekenkracht geeft aan dat het een goed cryptosysteem was.' 
+Maar doen dan, McEliece-encryptie? 
+'In principe moet je denken als een paranoïde: alleen het beste is goed genoeg. Maar of dat ook praktisch bruikbaar is, is wat we in PQCRYPTO onderzoeken. Op echt kleine systemen als je mobiel zal het nog niet passen, voor je pc lukt het al min of meer, maar het moet vooral nog veel kleiner en sneller.' 
+Informatie van 20 of 30 jaar geleden kan nog steeds heel gevoelig liggen Bekijk de oorspronkelijke pagina: pagina 27
+Graphic
+
+ 
+Tanja Lange
+Foto TUE
+Classification
+
+Language: DUTCH; NEDERLANDS
+Page 2 of 3
+Nu al vechten met denkbeeldige quantumhackers
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Internet Social Networking (73%); Educational Institution Employees (67%); Computer Science (62%)
+Industry: Computing + Information Technology (94%); Data Mining (75%); Internet + Www (71%)
+Load-Date: April 28, 2015
+
+End of Document
+Page 3 of 3

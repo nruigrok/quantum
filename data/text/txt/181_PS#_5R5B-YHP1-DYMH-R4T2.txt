@@ -1,0 +1,38 @@
+Nieuw: snelle quantumversleuteling
+NRC Handelsblad
+12 December 2017 dinsdag
+Copyright 2017 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 16
+Length: 763 words Byline: Dorine Schenk Dateline: Amsterdam. 
+Body
+
+ABSTRACT
+Codeberichten
+Versleuteling met quantumcodes heeft de toekomst, maar is nog traag. Een nieuwe methode werkt nu veel sneller. 
+Om  online gegevens en communicatie nog beter te beschermen, hebben onderzoekers uit Singapore en de Verenigde Staten een methode ontwikkeld om snel en veiligquantumversleuteling toe te passen. Die techniek kan op termijn in de plaats komen van de nu algemeen toegepaste versleuteling met grote priemgetallen. De quantumfysici publiceerden hun resultaten eind november in Science Advances. In Nederland zijn sinds vorig jaar al twee datacentra van KPN, in Den Haag en Rotterdam, versleuteld met een quantumverbinding. 
+Bij traditionele versleuteling wordt de sleutel overgedragen door een reeks van enen en nullen op een of andere geheime manier uit te wisselen. Bij quantumversleuteling wordt een reeks van lichtdeeltjes in nog onbepaalde 'quantumtoestanden' (een óf nul) uitgewisseld. Dankzij deze bijzondere eigenschap kan de ontvanger van de code direct zien of de verzonden code is 'afgeluisterd', doordat door die ongeoorloofde meting de eigenschap geen combinatie meer is en duidelijk zichtbare fouten oplevert. 
+Nieuw: snelle quantumversleuteling
+Het bijzondere van de nu gepubliceerde methode is dat ze tien keer sneller is dan de bestaande technieken. De techniek gaat nu nog te langzaam gaat voor de meeste toepassingen, zoals internetverbindingen. 
+De onderzoekers verhoogden de snelheid waarmee een quantumsleutel uitgewisseld kan worden door meerdere quantumeigenschappen van de fotonen te gebruiken  In de nieuwe methode telt niet alleen de 'spin' van het deeltje, maar ook zijn 'fasetoestand'. Alsof ze tegelijkertijd een combinatie van een '1' en een '0' en een combinatie van zwart en wit zijn. Zo kan er per foton meer informatie gestuurd worden. Dit versnelt het uitwisselen van sleutels.
+De onderzoekers bereikten met deze techniek een snelheid van enkele megabits per seconde over een afstand van 70 tot 80 kilometer. Dat is tien keer sneller dan de huidige quantumversleuteling en vergelijkbaar met de huidige internetsnelheid. 
+Quantumversleuteling is nog niet nodig. De huidige beveiligingssystemen zijn nog veilig genoeg. Maar het is niet onwaarschijnlijk dat er over een paar jaar een quantumcomputer gebouwd wordt. Die kan dergelijke systemen in enkele seconden kraken. "Het is belangrijk om nu al beveiligingstechnieken te ontwerpen zodat onze gegevens ook op lange termijn beveiligd zijn", vertelt Charles Ci Wen Lim, van de National University of Singapore en een van de bedenkers van de nieuwe methode. "Quantumversleuteling is een van de manieren om dat te doen."
+Hoe werkt het?
+Hoe quantumversleuteling in principe werkt, wordt duidelijk in een voorbeeld waarin Alice geheime informatie naar Bob wil sturen. De kern is dat de cruciale code wordt uitgewisseld door lichtdeeltjes over te zenden die door filters zijn gestuurd. 
+Ze wisselen eerst de quantumsleutel uit, waarmee Alice het bericht versleutelt en Bob het bericht kan openen. Alice produceert hiervoor een reeks lichtdeeltjes (fotonen) miljoenen die op vier verschillende manieren kunnen trillen (dat heet polarisatie): horizontaal, verticaal, diagonaal naar rechts of diagonaal naar links. In dit voorbeeld wordt dus maar één eigenschap van het deeltje gemeten, in de nieuwe methode zijn dat er twee. In de toekomst zouden het er ook veel meer kunnen zijn: 'spin', polarisatie, maar ook verschillende 'fasetoestanden'.  
+Alice stuurt de deeltjes door een horizontaal-verticaal of een diagonaal filter, waarbij ze niet weet in welke richting het deeltje precies trilt. Het horizontale filter zorgt dat het deeltje horizontaal ofverticaal trilt. Het diagonale filter zorgt dat een foton diagonaal rechts oflinks trilt. De typische (en moeilijk te begrijpen) quantumeigenschap is dat de deeltjes totdat ze gemeten worden in beide richtingen trillen. 
+Page 2 of 3
+Nieuw: snelle quantumversleuteling
+Bob ontvangt de reeks lichtdeeltjes en meet precies de trillingsrichting van de fotonen. Hij gebruikt willekeurig een horizontale of een diagonale detector, waarbij de trillingsrichting als nul of een wordt genoteerd. 
+Vervolgens belt Bob Alice om te vergelijken welke filters zij gebruikte. Dan gooien Bob en Alice alle metingen weg waar Alice een horizontaal filter gebruikte, en Bob met een diagonale detector mat en omgekeerd. Zo houden ze de metingen over die voor hen allebei hetzelfde zijn; nu hebben ze dezelfde sleutel: een lange reeks enen en nullen waarvan ze zeker weten dat die door niemand is afgeluisterd. Het geheime bericht kan veilig versleuteld worden verzonden. 
+Met miljoenen lichtdeeltjes in quantumtoestand wordt de code verzonden
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Industry: Computing + Information Technology (94%)
+Load-Date: December 12, 2017
+
+End of Document
+Page 3 of 3

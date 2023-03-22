@@ -1,0 +1,64 @@
+De sprongnaar het quantumrekenen Technologie; Reportage Nederland neemt voortouw in toekomstcomputer
+de Volkskrant
+15 december 2012 zaterdag
+Copyright 2012 PCM Uitgevers B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 2
+Length: 1887 words
+Byline: Door Martijn van Calmthout Illustratie Tzenko Stoyanov
+Body
+
+De quantumcomputer komt eraan. Onvoorstelbaar veel krachtiger dan alles wat nu computer heet. Maar ook oneindig veel kieskeuriger in wat er wel en niet mee te berekenen zal zijn, weten de pioniers in Delft, Leiden en Amsterdam. Door Martijn van CalmthoutIllustratie Tzenko Stoyanov
+Quantumfysicus Ronald Hanson gebaart naar een vleugel ergens verderop in het gebouw van technische natuurkunde aan de TU Delft. Daarginds, zegt hij, gaat het gebeuren: de sprong naar een eerste werkende quantumcomputer. Het is een kleine week voor de Europese Commissie een megasubsidie voor een Nederlands initiatief bekend zal maken. Maar Hanson heeft er ook zonder dat al vertrouwen in. 'We maken die vleugel vrij en daar gaan we aan de slag. De componenten hebben we eigenlijk al in huis. Nu komt het vooral aan op de combinatie', zegt hij.
+En het geld komt. Vorige week werd bekend dat fysici van de TU Delft (Leo Kouwenhoven en Lieven Vandersypen) en de Universiteit Leiden (Carlo Beenakker) 15miljoen euro uit het Brusselse Synergy-programma krijgen voor het realiseren van een nieuw element dat het hart van de echte quantumcomputer gaat vormen. In dat zogeheten qubit (jargon voor quantummechanisch bit) moet alle kennis samenkomen die de laatste decennia met name in Delft op het gebied van nano-elektronica is ontwikkeld. En in theorie is een quantumcomputer van pakweg 100van die qubits al honderden miljarden malen sneller dan zelfs de snelste digitale supercomputer. Rekenen zal nooit meer hetzelfde zijn.
+Quantumcomputers rekenen niet met enen en nullen, zoals digitale computers. Hun informatie is opgeslagen in qubits, die tegelijk één en nul zijn dankzij de eigenaardigheden van de quantummechanica. Die tak van de natuurkunde, ontwikkeld in de jaren twintig van de vorige eeuw, beschrijft het gedrag van de kleinste elektronen en atomen alleen goed als je ervan uitgaat dat ze in allerlei toestanden tegelijk verkeren. Pas bij een meting wordt er één van die potentiële toestanden geselecteerd.
+Quantumcomputers zijn niet sterk omdat ze snel werken, maar omdat ze in feite waanzinnig veel computers tegelijk zijn. Als één qubit al in twee toestanden tegelijk verkeert, hebben twee qubits twee maal twee is vier mogelijke toestanden. Een systeem van tien qubits kent meteen 2 tot de macht 10 oftewel 1024 simultane toestanden. Bij 100 qubits zijn dat rond de 10tot de macht 30 toestanden.
+Rekenstappen hoeven in zo'n apparaat helemaal niet snel te gaan, en toch leveren ze waanzinnig snel antwoorden - mits uiteindelijk de juiste antwoorden uit de wirwar van berekeningen worden gevist.
+Carlo Beenakker rekent voor: 'Wereldwijd zijn er een paar miljard computers. Zelfs als alle computers op de wereld worden ingezet, moeten die toch nog zo'n 1021bewerkingen uitvoeren om die ene stap van de quantumcomputer na te doen. Krachtige computers hebben een snelheid van 1 teraflop, zo'n 1012 bewerkingen per seconde. Om die 1021 bewerkingen uit te voeren zijn ze dus 109 seconde bezig: ruim dertig jaar.' De quantumcomputer heeft hooguit een seconde nodig.
+Dat onbepaalde quantumgedrag, zegt experimentator Hanson in Delft, is geen kwestie van menselijke onwetendheid. Het bestaat echt. Al sinds de jaren negentig van de vorige eeuw wordt dat bijvoorbeeld in zijn lab aangetoond, in uiteenlopende systemen. Er zijn supergeleidende stroomringetjes waarin een stroom aantoonbaar linksom én rechtsom draait. Er zijn valletjes waarin een elektron zowel linksom als rechtsom draait, in kunstmatige atomen (de zogeheten quantumdots) en tegenwoordig ook in diamantroosters - toevallig Hansons specialiteit.
+Sinds begin dit jaar is daar nog een prachtkandidaat bijgekomen, en nog helemaal made in Delft ook. Leo Kouwenhoven realiseerde met subidies van onder meer Microsoft als eerste in een extreem gekoeld halfgeleider-nanodraadje een zogeheten majorana-paar. Een dergelijke deeltjescombinatie kan, in elk geval op papier, in twee toestanden tegelijk verkeren. En belangrijk: zo'n paar is extreem stabiel omdat voor de verstoring ervan bepaalde zuiver wiskundige verbanden geschonden moeten worden. 'Vergelijk het met een rubberbal. Zonder knippen kun je er nooit een ring van maken', zegt Hanson over dat zogeheten topologische verband. Een majorana-paar kan gemakkelijk een seconde stabiel blijven - voor quantumfysici een eeuwigheid.
+Quantumcomputers gelden al decennia als een geweldig idee, zegt in Leiden theoretisch fysicus Carlo Beenakker, en hier en daar zijn kleine experimentele berekeningen ook al wel uitgevoerd. 'Maar ze waren toch altijd iets van de toekomst. Over vijftig of honderd jaar zou het serieus wat kunnen worden. Nu is dat anders. In brede kring gaat het inmiddels over tien, vijftien jaar, hooguit. Iedereen is opgewonden. 
+Dat is een termijn waarop we het nog gewoon zelf gaan meemaken.' Dit voorjaar meldde IBM binnen tien jaar een werkende quantumcomputer te willen aanbieden.
+Verreweg de belangrijkste reden voor dat optimisme zijn de reuzenstappen die de laatste jaren zijn gemaakt in de beheersing van qubits en methoden om toevallige storingen te voorkomen. Tot voor kort meenden theoretici dat voor een werkende quantumcomputer hooguit één op tienduizend stappen iets fout mag gaan. Met majorana-qubits komt dat binnen bereik.
+Maar er is meer. Ronald Hanson in Delft legt de eerste schetsen voor een robuuste qubit op tafel, mede op basis van werk van de groep van Beenakker in Leiden. Centraal daarin is een klein doolhofje van majorana-paren die via elektronica en andere typen qubits eromheen op een slimme manier worden bediend. Het doolhofje heeft stabiliserende eigenschappen, waardoor onderdelen tot eens in de honderd stappen een fout mogen maken zonder dat de berekening als geheel mislukt.
+Papier is geduldig, zegt Hanson er meteen bij. Ten eerste omdat van Kouwenhovens majorana-deeltjes nog niet echt is aangetoond dat ze werkelijk als een qubit benut kunnen worden. Maar ook vanwege veel praktischer zaken.
+Dat elders in het gebouw een hele vleugel wordt leeggehaald voor het werk aan de nieuwe quantumbit, is geen overbodige luxe. Om een dergelijke qubit te koelen, besturen en bedienen en zijn signalen uit te lezen, is een heel machinepark aan meet- en regelapparatuur nodig, koelingen, pompen.
+Op termijn zal veel van die randapparatuur vast veel kleiner kunnen, schat Hanson. Maar uiteindelijk zal ook een enkele qubit nog steeds een kamer vol apparatuur beslaan. 'Met een computer van honderd of duizend qubits heb je het dus gewoon over een stadion vol apparatuur. Een quantumcomputer wordt nooit iets wat je in je binnenzak steekt.'
+Eerder een groot rekencentrum, dat de rekenkracht zou hebben die vergelijkbaar is met een Mount Everest van pakweg 10 tot de macht 20 geavanceerde Intel-processoren zoals die in dure laptops zitten.
+Maar waarom zou je een quantumcomputer in je zak willen steken, zegt zijn Leidse collega Carlo Beenakker. Gewone digitale computers zijn inmiddels zo krachtig dat vrijwel alle alledaagse toepassingen er met gemak op zijn uit te voeren. 'Tekstverwerken of internetten op een quantumcomputer heeft echt geen enkele zin - als het al zou kunnen.'
+Want dat is ook een probleem. Theoretici en wiskundigen hebben voor veel gangbare rekenproblemen werkelijk geen flauw idee hoe het bijbehorende quantumprogramma eruit zou moeten zien. Quantumrekenen werkt niet alleen heel anders dan conventioneel rekenen, het is ook veel kieskeuriger in wat zinnig is om ermee aan te pakken.
+Je kunt de vraag naar toepassingen van quantumrekenen beter omdraaien, zegt wiskundige Harry Buhrman van het CWI in Amsterdam. 'De vraag is welke vraagstukken een structuur hebben die aansluit bij quantumrekenen. Dat zijn vooral problemen waarin extreem veel mogelijke antwoorden een rol spelen. Vraagstukken op het gebied van zoeken, sorteren, matrixvermeningvuldiging, spelstrategie, het oplossen van vergelijkingen. Zoeken gaat met quantumalgoritmen kwadratisch sneller dan conventioneel zoeken. Zoekproblemen staan ongeveer centraal in de informatica.'
+Cryptografie spreekt verreweg het meest tot de verbeelding. Die, heet het, is ten dode opgeschreven zodra de quantumcomputer zijn intrede doet.
+Klopt, zegt Buhrman. Quantumcomputers kunnen als geen ander de enorme priemgetallen vinden die in de cryptosleutels verstopt zitten. Maar, zegt Beenakker, ook dat is in feite weinig opwindend, zeker voor onderzoekers. 'De wiskundige Peter Shor heeft daarvoor al in 1994 een algoritme gegeven. Als we eenmaal een quantummachine hebben, kunnen we die daarvoor gebruiken, dat weten we nu al. Wetenschappelijk is crypto inmiddels wat suf.'
+Welnee, pareert wiskundige Buhrman. Helemaal niet suf. Ook al zijn er nog geen quantumcomputers, het vooruitzicht dat cryptografische sleutels binnenkort niet veilig meer zijn, leidt juist tot intensief wiskundig onderzoek. Buhrman: 'Het zoeken naar beveiliging die tegen quantumrekenen is opgewassen, leidt nu al weer tot interessante nieuwe concepten.'
+Als er, waar ook ter wereld, eenmaal een werkende quantumcomputer staat, voorziet Beenakker eigenlijk vooral toepassingen in de wetenschap zelf. Simulaties van grote ingewikkelde eiwitten bijvoorbeeld, of ingewikkelde materialen, zoals keramische supergeleiders, van sterrenstelsels en misschien wel het heelal als geheel. Medicijnen of materialen worden nu vaak via langdurig en dus peperduur geploeter in laboratoria ontdekt, en vaak nog min of meer toevallig ook. Voor digitale supercomputers, hoe snel en sterk ook, blijken ze geregeld nog veel te ingewikkeld en vooral te tijdrovend.
+Beenakker persoonlijk kan ook wel gewoon genieten van het idee om uitgerekend aan moleculen te rekenen met quantummachines. 'In feite ga je de wetten van de quantumtheorie vooral benutten voor problemen die zelf ook door dat soort wetten worden bestuurd. Dat heeft een prettig soort logica.'
+Schuiven met bits en qubits
+Een computer is als een telraam. In de posities van de kralen zit informatie. Rekenen is schuiven met kralen. Bij iedere stap verandert de informatie die in het telraam vervat is. 
+Wie snel kralen schuift, rekent sneller dan wie dat langzaam doet.
+Hetzelfde gebeurt in een digitale computer. Daarin is de informatie digitaal vastgelegd, in enen en nullen. Deze bits zijn meestal magnetische domeintjes op de harde schijf. Rekenen is nu schuiven met enen en nullen. Stap voor stap. Snelle computers schuiven sneller met bits dan langzame.
+Een quantumcomputer is radicaal anders. Ook met een quantumcomputer is rekenen schuiven met qubits, maar daarbij worden de talloze toestanden bij iedere rekenstap allemaal tegelijk gemanipuleerd. Zelfs als de rekenstappen uren of dagen uit elkaar liggen, maakt de quantumcomputer miljarden maal miljarden keren meer berekeningen per seconde dan gewone computers, hoe snel die ook zijn.
+Geen kattepis
+Een quantumcomputer met 100 qubits (links een experimenteel exemplaar), die samen passen op een velletje postzegels - rekent ongeveer 1.000.000.000.000.000.000.000 maal sneller dan een puike laptop. Er zijn dus 10tot de macht 21 laptops nodig om een quantumcomputer te evenaren. Dat is een laag computers van ongeveer 6 kilometer dik die de hele aarde bedekt. Alleen de Himalaya steekt er dan nog bovenuit. De processoren van al die computers zouden samen een berg ter grootte van de Mount Everest vormen.
+Een quantumcomputer wordt nooit iets om in je binnenzak te steken
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: De Volkskrant
+Industry: Computing + Information Technology (94%); Budgets (64%)
+Load-Date: December 14, 2012
+
+End of Document
+De sprongnaar het quantumrekenen Technologie; Reportage Nederland neemt voortouw in toekomstcomputer
+
+De sprongnaar het quantumrekenen Technologie; Reportage Nederland neemt voortouw in toekomstcomputer
+
+Page 2 of 5
+
+Page 2 of 5
+
+
+
+
+

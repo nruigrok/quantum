@@ -1,0 +1,59 @@
+De toekomst van de computer zit in koolstof nanobuisjes; 178 transistoren
+NRC Handelsblad
+30 augustus 2014 zaterdag
+Copyright 2014 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 46
+Length: 1674 words
+Byline: Door Michiel van Nieuwstadt
+Body
+
+Informatica 
+De bouwstenen van chips, de transistors, moeten steeds kleiner worden. Nu zijn ze van silicium. Maar het eerste computertje van nanobuisjes is er al. 
+Fysicus Sander Tans is verrast. Zestien jaar nadat hij als promovendus in Delft van een enkel nanobuisje een transistor maakte, en opperde dat je met deze koolstofmoleculen computers zou kunnen bouwen, nemen grote bedrijven zijn ontdekking serieuzer dan ooit. ,,Commerciële transistors van nanobuisjes komen er snel aan", kopte MIT Technology Review in juli. 
+IBM-onderzoeker Wilfried Haensch bevestigt in een e-mail dat zijn werkgever commerciële mogelijkheden ziet voor nanobuisjes in computerchips: ,,In de afgelopen jaren hebben we grote vooruitgang geboekt met deze technologie." En IBM is niet de enige. Volgens Franz Kreupl, hoogleraar hybride elektronica aan de Technische Universiteit München, investeert nog tenminste één andere multinational in de toepassing van nanobuisjes in microchips. Welk bedrijf dat is, wil hij niet zeggen. 
+Nanobuisjes, medio jaren negentig voor het eerst gemaakt in het laboratorium, worden nu al verwerkt in tennisrackets en fietsframes. Zitten ze straks ook in onze computers en telefoons? Komt de nanobuis-pc eraan? 
+,,Koffiedik kijken", vindt fysicus Leo van Kouwenhoven die aan de TU Delft fundamenteel onderzoek doet dat kan leiden tot een superkrachtige nieuwe computer, de kwantumcomputer. ,,Persoonlijk denk ik dat silicium nog veel potentie heeft voor verdere groei. Veel meer dan nanobuisjes." Maar misschien is er in de chipindustrie straks plaats genoeg voor beide materialen. ,,Het is niet te verwachten dat de toepassing van nanobuisjes zal leiden tot een volledige vervanging van silicium", zegt Mart Graef van het instituut voor micro- en nano-elektronica van de TU Delft (DIMES). ,,Maar dit soort nieuwe materialen zullen in de elektronica zeker gebruikt gaan worden." 
+In het lab bestaat de computer van nanobuisjes al. In september vorig jaar meldden elektrotechnisch ingenieurs van de Universiteit van Stanford in Nature dat zij met 178 transistoren van nanobuisjes een computer hadden gebouwd, en aan de praat hadden gekregen. In een bijgaand commentaar gaf Franz Kreupl zijn visie op de toekomstmogelijkheden. 
+De prestaties die de Stanford-computer in 2013 behaalde, zijn vergelijkbaar met die van silicium in de jaren vijftig, maar de Duitse hoogleraar ziet potentie. ,,De elektronmobiliteit van nanobuisjes ligt 100 tot 200 keer hoger dan die van silicium", zegt Kreupl. ,,Dat houdt in dat elektronen er veel makkelijker doorheen bewegen. Het probleem van siliciumtransistors is juist dat elektronen er steeds moeilijker doorheen bewegen naarmate je structuren kleiner maakt. Om dat fundamentele probleem op te lossen hebben chipmakers allerlei trucs uitgehaald, zoals het stapelen van transistors in microprocessors. Maar aan die trucs komt een einde. Dan bieden nanobuisjes uitkomst." 
+Wetenschappers vinden langzaam maar zeker steeds betere oplossingen voor twee belangrijke obstakels voor de toepassing van nanobuisjes in microchips, problemen die Sander Tans in 1998 al benoemde in een Nature-publicatie die een hoofdstuk vormde van zijn dissertatie. Niet alle nanobuisjes zijn geschikt als transistor en het is erg lastig om ze volgens een gewenst patroon op een oppervlak neer te leggen. 
+Nanobuisjes ontstaan in een heet gas van koolstofatomen. De kenmerkende structuur van opgerold kippengaas groeit vanzelf vanuit kleine metallische deeltjes die dienen als katalysator. ,,Op het grensvlak van katalysator en nanobuisje sluiten steeds meer koolstofatomen zich aan", zegt Tans, tegenwoordig hoogleraar Moleculaire en Cellulaire Biofysica aan de TU Delft. Op die manier ontstaan nanobuisjes, waarin de moleculaire structuur van kippengaas recht of juist schuin is opgerold. Afhankelijk van deze hoek van oprollen zijn de eigenschappen van de nanobuisjes halfgeleidend of metallisch. 
+Tans' Nature-artikel is meer dan 5.000 keer geciteerd. Jaarlijks komen daar honderden citaties bij. Toen hij nanobuisjes voor het eerst als transistor gebruikte, selecteerde Tans de benodigde halfgeleidende exemplaren met speciale microscopen. Wie een computer wil bouwen, kan zo niet te werk gaan. De elektrotechnisch ingenieurs van Stanford fixeerden een ongesorteerde mix van metallische en halfgeleidende nanobuisjes op een schijf siliciumoxide. Daarna bliezen ze de metallische buisjes op met een stroomstoot. Alleen de halfgeleidende nanobuisjes werkten nog en zo ontstond een transistor met de gewenste eigenschappen. ,,Een vrij botte methode", zegt Tans, ,,Maar het werkt." Gelukkig lukt het steeds beter om nanobuisjes met de gewenste eigenschappen te selecteren. Tans wijst op twee recente publicaties waarin wetenschappers nieuwe methoden beschrijven om metallische en halfgeleidende nanobuisjes van elkaar te scheiden. De ene groep gebruikte een nieuwe katalysator, de andere een filter van suikerhoudende plastic bolletjes. Begin deze maand verscheen in Nature bovendien een hoogst betrouwbare methode om selectief één van de twee typen buisjes te produceren. ,,Ik denk dat het probleem van de selectie van de juiste buisjes in principe is opgelost", zegt Tans. ,,Als er zoveel mensen aan een probleem werken, dan wordt er vooruitgang geboekt. Dat is de kracht van de wetenschap. " 
+Naast het uitkiezen van nanobuisjes met de gewenste eigenschappen is het rangschikken een probleem voor de nieuwe chipmakers. Anders dan Tans gebruiken de nieuwe computerbouwers niet één, maar meerdere nanobuisjes per transistor. IBM legt er 6 naast elkaar. De Stanford-wetenschappers gebruiken er minimaal tien per elektronische schakelaar. 
+Om de chip te laten werken moeten de wetenschappers de nanobuisjes recht naast elkaar leggen. Subhasish Mitra van Stanford lukte het om de meeste van zijn nanobuisjes uit te lijnen op een onderlaag van kwarts. Dwarsliggers etste hij daarna weg. Wilfried Haensch van IBM deed hetzelfde door groefjes in silicium te etsen. Hij plakte chemische labels in de groefjes en aan de nanobuisjes. Als die labels aan elkaar plakken, dan lijnen de nanobuisjes zich vanzelf uit langs de groefjes. Haensch mailt: ,,We zijn in staat om nanobuisjes met de juiste eigenschappen te selecteren en het lukt steeds beter om ze goed te ordenen. Als het zo door gaat, dan kunnen we deze technologie vanaf 2020 inzetten om computerchips te bouwen." 
+Op een bedrijfsblog stelde Wilfried Haensch eind 2012 al dat de mogelijkheden van silicium als basismateriaal voor de chipindustrie zouden zijn opgebruikt. In de komende 5 à 6 jaar zou het materiaal aanlopen tegen de grenzen van de natuurwetten. Nanobuisjes zijn volgens de IBM-wetenschapper het enige werkbare alternatief. Mart Graef uit Delft is betrokken bij een rapportage die langlopende trends in de chipindustrie voorspelt: de International Technology Roadmap for Semiconductors (ITRS). Hij is het met de IBMonderzoekers eens dat silicium tegen die tijd te maken krijgt met ,,fysische beperkingen". 
+Het jongste ITRS-rapport voorspelt dat er over een jaar of vijf zes gewerkt zal worden met elektronische schakelingen van 5 miljoenste millimeter. Dat is 5 nanometer, drie keer zo smal als de kleinste schakelingen van nu. Met een breedte van slechts 1,5 nanometer zijn nanobuisjes in principe geschikt om op die schaal met silicium te concurreren. Dan moeten de nanobuisjes nog wel dichter tegen elkaar worden gelegd. Nu nog is er een ruimte van 8 nanometer tussen elk nanobuisje. 
+Sander Tans noemt het bijzonder dat zijn vondst wordt gebruikt om alternatieven te ontwikkelen voor conventionele computerchips. Hij zegt: ,,Het heeft me zeker verrast dat grote bedrijven hier zo veel geld in steken, maar ik zie geen fundamentele bezwaren voor een commerciële doorbraak." 
+Sander Tans noemde in zijn Nature-publicatie destijds de toepassing van nanobuisjes in computers als een mogelijkheid, maar hij hield een stevige slag om de arm. ,,Je kunt ook te kritisch zijn", zegt hij nu. 
+Anno 2014 zou de hoogleraar aan de TU Delft bij een dergelijke ontdekking zeker een octrooibureau hebben ingeschakeld om patent aan te vragen op de toepassing van nanobuisjes in elektronische schakelingen. Tans: ,,Dan had IBM een licentie moeten aanvragen als ze deze nieuwe computers op de markt zouden willen brengen. Maar uiteindelijk hadden we er toch geen geld mee verdiend. Patenten verlopen na twintig jaar en een commercieel product is er nog altijd niet. Ik denk dat IBM óók in deze technologie investeert om street credibility te behouden. Ze willen laten zien dat ze nog altijd voorop lopen met innovaties in de nanotechnologie." 
+Eind van silicium? De transistor wordt te klein 
+Transistors zijn de basale bouwblokjes van computers: een chip bevat er tientallen miljoenen. Transistors bestaan uit een minuscuul kanaaltje van silicium (de gate) tussen twee elektroden (de source en de drain).Het elektrische signaal van een derde elektrode trekt elektronen naar de gate toe, of jaagt ze eruit weg. In dat laatste geval kan er door de gate geen stroom meer lopen: de schakelaar staat uit. 
+Bij kleinere transistors worden de afmetingen van de gate steeds kleiner. Daardoor stromen elektronen er steeds moeilijker doorheen. Nanobuisjes lijken een mooi alternatief, door hun bijzondere geleidende eigenschappen. 
+Het voorspellen van de ondergang van silicium is niettemin voorbarig, vindt microtechnologie-specialist Mart Graef. ,,De perceptie dat silicium tegen de grenzen van zijn mogelijkheden zou aanlopen is van alle tijden", zegt hij. ,,De ondergang van het materiaal wordt al sinds de jaren zeventig voorspeld." 
+Het altijd maar kleiner maken van transistors is volgens Graef niet de allerbelangrijkste voorwaarde om vooruitgang blijven boeken in de micro- en nano-elektronica. Het gaat niet alleen om kleine chips met veel rekenkracht, zegt hij, maar ook om de combinatie van die chips met sensoren en draadloze communicatie. Zo'n pakket, een systeemopeen-chip, moet klein zijn, maar daarvoor zijn de afmetingen van silicium-transistors niet per se de belangrijkste beperking. 
+Graphic
+
+ 
+Illustratie Butch Colyear
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Nanotechnology (71%); Polymers (62%)
+Industry: Manufacturing (94%); Personal Computers (75%); Computing + Information Technology (61%)
+Load-Date: August 29, 2014
+
+End of Document
+De toekomst van de computer zit in koolstof nanobuisjes; 178 transistoren
+
+De toekomst van de computer zit in koolstof nanobuisjes; 178 transistoren
+
+Page 2 of 5
+
+Page 2 of 5
+
+
+
+
+

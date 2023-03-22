@@ -1,0 +1,30 @@
+Quantumhackers leiden cryptografen om de tuin
+NRC Handelsblad
+11 september 2010 zaterdag
+Copyright 2010 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP
+Length: 420 words
+Byline: Margriet van der Heijden
+Body
+
+'Quantumhackers' zijn er in geslaagd  twee commercieel verkrijgbare  quantumcryptografische systemen te kraken, zonder een spoor  achter te laten.  Hun doel    was om  zo de  technologie van deze cryptografische systemen te verbeteren (Nature Photonics, 29 augustus 2010).
+Het ontbreken van sporen is opmerkelijk. De crux van quantumcryptografie is juist dat je nooit aan quantumsystemen   kunt meten  zonder  zo'n systeem  te  verstoren. Wie dus probeert een 'quantumsleutel' af te lezen waarmee geheime berichten worden gecodeerd, verandert  daarbij onvermijdelijk de sleutel zelf en verraadt  zijn afluisterpraktijken.
+In theorie dan. Want in de praktijk is het   Lars Lydersen van de Noorse universiteit van Trondheim   en collega's gelukt om toch ongemerkt de quantumsleutels te bemachtigen die in de  twee systemen werden uitgewisseld.
+In beide systemen stuurt Alice (de gebruikelijk benaming voor de  verzender van een boodschap) haar geheime quantumsleutel naar Bob (de  ontvanger) door de bits ervan - de nullen en enen  -   te verpakken in de twee quantumtoestanden van lichtdeeltjes. Bob leest daarna die bits uit  met behulp van een detector die de quantumtoestand van de lichtdeeltjes meet.
+Stel nu dat Zoë de lichtdeeltjes  stiekem onderschept. Dan verstoort zij de quantumtoestanden daarvan zozeer, dat Bob en Alice het meteen in de gaten hebben wanneer zij na afloop hun sleutels vergelijken.
+Quantumhackers leiden cryptografen om de tuin
+Lydersen en collega's omzeilden precies dit punt met een aanval  op een zwak punt in de technologie van de systemen. Ze ontregelden Bobs uitleesdetector door die voortdurend met een laserpuls van  1 milliwatt te verblinden.  De clou was dat Bobs detector daarna nog  wel  op een  klassieke manier bits kon aflezen. De detector vatte  een   korte extra  lichtpuls  telkens op  als een '1', ongeacht de quantumtoestand van die puls dus.
+Daarna was het een koud kunstje om de sleutel van Alice te onderscheppen. Zoë las simpelweg de quantumtoestanden van de fotonen uit. En misleidde intussen Bob door bij elke '1' van Alice  snel een lichtpuls naar hem te sturen. Zelfs na vergelijking van de sleutels hadden Bob en Alice niks in de gaten.
+Het  idee van  quantumcryptografie   is daarmee niet onderuitgehaald. Ook de auteurs zeggen  dat quantumcryptografie nog steeds de beste kansen biedt op veilige versleuteling van berichten. Maar aan de technische uitvoering, zoals  de uitleessystemen, zitten haken en ogen.
+De twee systemen  zijn  vóór  publicatie van het werk in Nature Photonics aangepast.Margriet van der Heijden
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Industry: Computing + Information Technology (94%)
+Load-Date: September 10, 2010
+
+End of Document
+Page 2 of 2

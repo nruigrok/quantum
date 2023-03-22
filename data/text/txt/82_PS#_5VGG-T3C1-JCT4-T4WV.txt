@@ -1,0 +1,32 @@
+De koning onder de computers
+De Telegraaf 
+22 februari 2019 vrijdag Gehele Oplage
+Copyright 2019 De Telegraaf All Rights Reserved
+
+Section: BINNENLAND; Blz. 08
+Length: 447 words
+Byline: Martijn Schoolenberg
+Body
+
+door Martijn Schoolenberg
+Delft - Het gaat de toekomst compleet veranderen: het Quantum Lab in Delft.  Gisteren werd het hoogstpersoonlijk geopend door koning Willem-Alexander. Met  als ultieme doel het bouwen van een gigantische quantumcomputer, waarmee het  effect van medicijnen straks mogelijk kan worden voorspeld en internetprivacy  gegarandeerd is. "Dit verandert de levenswijze van de hele mensheid!"
+Een luid applaus klinkt in de aula van de TU Delft, waar meer dan 500 mensen  verzameld zijn. Nog geen seconde nadat Ronald Hanson, directeur van  onderzoeksinstituut QuTech van de TU en TNO, is uitgesproken, staat een stoet  van 25 bovenaan de trappen. Koning Willem-Alexander loopt vooraan. Hij knikt  vriendelijk. Staatssecretaris van Economische Zaken en Klimaat Mona Keijzer  loopt naast hem.
+Dan stapt de koning het podium op. Hij gaat naast hoogleraar Leo Kouwenhoven  staan. Ze drukken samen op een knop. '3, 2, 1, ja!' De eerste quantumbits  (qubits) zijn symbolisch gespleten! Een staande ovatie klinkt.
+Een quantumcomputer kan revolutionaire gevolgen hebben, zegt directeur Hanson.  "Gewone computers rekenen nu met bits, die 0 of 1 kunnen zijn. Door die  voortdurend op te tellen en af te trekken, kun je bij de uitkomst van een  berekening komen. Maar binnen een quantumcomputer kunnen de zogenaamde qubits  tegelijkertijd 0 of 1 zijn. Daardoor kan een berekening veel sneller uitgevoerd  worden en heeft de quantumcomputer veel meer rekenkracht."
+De koning onder de computers
+Om die computer te realiseren is het Microsoft Quantum Lab geopend, dat  samenwerkt met QuTech. Wetenschappers gaan daar zelf die quantumbits maken,  door metalen en halfgeleiders heel precies op een chip te combineren. Om de  qubits intact te houden, worden die materialen ook in een koelkast van min 273  graden gelegd.
+Hanson is trots op Nederland. "We zijn echt voorlopers in de wereld. En dat  moeten we zo houden door nationaal te blijven investeren in quantumonderzoek."
+Lichaam
+Want dat kan tot mooie dingen leiden, zegt Hanson. "We kunnen mogelijk straks  gaan voorspellen hoe medicijnen werken, door simulaties van het menselijk  lichaam te maken. Nu experimenteren ziekenhuizen nog in zekere zin. Met de  quantumcomputer zouden we in het ideaalscenario kunnen berekenen welke  medicijnen we precies tegen welke moleculen moeten inzetten." Ook kunnen  producten als kunstmest veel efficiënter en zuiniger worden, stelt hij. "Zoals  de stoommachine het menselijk leven veranderd heeft, gaat de quantummechanica  dat ook doen", jubelt rector magnificus Tim van der Hagen tijdens de  presentatie. Hoelang het duurt voordat de eerste quantumcomputer af is, weten  betrokkenen niet.
+'We zijn echt voorlopers in de wereld'
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: telegraaf,Telegraph
+Subject: Educational Institution Employees (63%)
+Industry: Computing + Information Technology (95%)
+Load-Date: February 21, 2019
+
+End of Document
+Page 2 of 2

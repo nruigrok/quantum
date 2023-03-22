@@ -1,0 +1,57 @@
+Klap voor Delfts quantum-onderzoek
+NRC Handelsblad
+9 februari 2021 dinsdag
+Copyright 2021 NRC Media B.V. All Rights Reserved
+
+Section: IN HET NIEUWS; Blz. 4
+Length: 1087 words
+Byline: Dorine Schenk
+Dateline: Amsterdam 
+Body
+
+ABSTRACT
+Quantumfysica Leo Kouwenhoven 'vond' veelbelovende majoranadeeltjes voor een quantumcomputer. Die metingen blijken nu niet solide.
+VOLLEDIGE TEKST:
+De groep quantumfysici onder leiding van hoogleraar Leo Kouwenhoven, van het Delftse Microsoft Quantum Lab, dacht in 2018 het bestaan aangetoond te hebben van een deeltje dat een bouwsteen kan zijn voor toekomstige quantumcomputers. Nu blijken de metingen waarin zij bewijs zagen voor het bestaan van het quantumdeeltje ook andere bronnen te kunnen hebben. De onderzoeksgroep trekt daarom hun publicatie in het wetenschappelijke tijdschrift Natureterug. Een integriteitscommissie van de TU Delft onderzoekt of de dataverwerking correct is uitgevoerd.
+Kouwenhoven verwierf bekendheid met zijn zoektocht naar geschikte bouwstenen voor quantumcomputers. In 2007 ontving hij hiervoor een Spinozapremie, de hoogste wetenschappelijke prijs in Nederland. De laatste tien jaar was zijn aandacht gericht op het vinden van majoranadeeltjes. Ook Microsoft zag hier brood in. Sinds 2016 leidt Kouwenhoven daarom ook het Microsoft Quantum Lab.
+De majoranadeeltjes waar Kouwenhoven naar zoekt, kunnen gebruikt worden als qubits. Quantumcomputers samengesteld uit qubits zouden bepaalde taken veel sneller kunnen uitvoeren dan huidige computers. Qubits kunnen samengesteld worden uit verschillende deeltjes, bijvoorbeeld elektronen, atoomkernen of kleine supergeleidende circuitjes.
+Of van majoranadeeltjes dus, die mogelijk minder verstoringsgevoelig zijn dan andere kandidaten. Dat komt doordat deze majorana's geen losse deeltjes zijn. Het zijn zogeheten quasideeltjes, die ontstaan door het collectieve gedrag van andere deeltjes, vergelijkbaar met een golf die ontstaat op zee.
+Volgens theoretici kunnen deze majoranadeeltjes opgewekt worden in nanodraadjes die duizend keer dunner zijn dan een haar en bedekt zijn met een supergeleidend materiaal. De majorana's ontstaan door het gedrag van de elektronen in het draadje. Maar dat is theorie: de praktijk is weerbarstiger. De experimenten die nodig zijn om het bestaan van deze quasideeltjes aan te tonen zijn ingewikkeld om te bouwen en om uit te voeren. De superdunne draden moeten afgekoeld worden tot min 273,13°C en de metingen worden beïnvloed door kleine verstoringen.
+Bewijs leek bijna rond
+De onderzoeksgroep van Kouwenhoven zag in 2012 de eerste aanwijzingen voor het bestaan van majoranadeeltjes in nanodraadjes van indiumantimonide. Deze metingen waren niet duidelijk genoeg om van een 'ontdekking' te spreken. Dankzij nieuwe materialen verbeterde de groep het experiment en zes jaar later publiceerden ze in Nature meer overtuigende metingen.
+Het bewijs voor majorana's leek bijna rond. Tot er eind april 2020 in Nature een korte 'uiting van bezorgdheid' verscheen waarin de onderzoeksgroep meldde dat er mogelijk iets mis was met hun conclusies uit 2018. Er waren 'mogelijke problemen met de manier waarop de ruwe metingen zijn verwerkt', schreven ze.
+Dit heeft nu geleid tot het terugtrekken van het Nature-onderzoek en de publicatie van een nieuw vervangend artikel, dat eind januari verscheen op de openbare preprintserver ArXiv. In de nieuwe publicatie schrijven de onderzoekers dat er ook twee andere verschijnselen zijn die het signaal kunnen verklaren dat ze eerder aanvoerden als 'bewijs' voor majorana's. ,,Deze verschijnselen waren nog niet bekend toen het artikel in 
+2018 verscheen", zegt Sumanta Tewari, hoogleraar quantumfysica aan de Clemson University. Tewari is niet betrokken bij het onderzoek. Hij heeft eerder gepubliceerd over de problemen die kunnen optreden bij het meten van majoranadeeltjes. ,,Dankzij voortschrijdend inzicht weten we dat er meer bewijs nodig is."
+Maar het Nature-artikel wordt niet vanwege dit voortschrijdende inzicht teruggetrokken, zegt Tewari. ,,De reden is een probleem met het verwerken van de metingen", zegt hij. ,,De auteurs vermeldden in 2018 niet dat een groot deel van hun metingen géén bewijs tonen voor majorana's. Ze focusten op het kleine deel van de metingen die mogelijk wel bewijs voor de deeltjes bevatten. Op zich geen probleem - het zijn lastige metingen - maar dit hadden ze duidelijk moeten melden."
+,,Het Nature-artikel uit 2018 was sterk geschreven vanuit de redenering 'het zijn majorana's en hier is het bewijs', daardoor is het uit balans", zegt Jan van Ruitenbeek, hoogleraar experimentele natuurkunde aan de Universiteit Leiden en ook niet betrokken bij het onderzoek. ,,Alleen aan het eind van het artikel komen andere verklaringen voor de metingen kort ter sprake en die worden snel afgedaan. Vergelijk het met een misdaad waarbij er drie verdachten in beeld zijn, maar twee al snel naar de achtergrond verdwijnen en al het onderzoek zich op een van de verdachten richt."
+Dit probleem erkent de onderzoeksgroep in het nieuwe ArXiv-artikel. Ze geven toe dat er sprake was van zogeheten confirmation bias, waardoor ze zich in het Nature-artikel vooral richtten op de metingen die toonden wat ze hoopten te vinden. De betrokken onderzoekers laten weten dat ze niet kunnen reageren omdat er een onderzoek loopt van de integriteitscommissie van de TU Delft.
+De problemen zijn mogelijk bij de groep van Kouwenhoven aangekaart door Sergey 
+Frolov, van de University of Pittsburgh, en Vincent Mourik, van de University of New South Wales. Beide waren onderdeel van de Delftse onderzoekersgroep, maar werkten er niet meer toen het Nature-artikel verscheen. Mourik was eerste auteur van het artikel uit 2012.
+Op Twitter meldt Frolov dat zij een jaar geleden de groep van Kouwenhoven wezen op 'een groot aantal problemen' in het Nature-artikel, nadat ze de niet-gepubliceerde ruwe metingen van het experiment hadden opgevraagd. Frolov en Mourik willen hier tegenover NRC niet op reageren. Wel laat Frolov in een tweet weten dat hij het nieuwe, vervangende artikel op ArXiv niet beter vindt dat het oude artikel omdat het bijna exact dezelfde metingen bevat.
+De terugtrekking van de ontdekking betekent niet dat majorana's niet bestaan. ,,Het is een stap achteruit voor het majorana-onderzoek", zegt Ronald Hanson, hoogleraar bij QuTech. ,,Maar voor het nationale en wereldwijde quantumonderzoek is het geen grote tegenslag. In Nederland en wereldwijd wordt naast majorana's een tiental andere qubittechnieken onderzocht. De startimpuls van (23,5 miljoen euro) gaat bijvoorbeeld niet naar majorana-onderzoek, omdat het nog niet ver genoeg is om op door te ontwikkelen." Sprake van confirmation bias: gericht op metingen die toonden wat ze hoopten te vinden
+Link naar PDF Graphic
+
+ 
+In 2012 presenteerde de onderzoeksgroep van Leo Kouwenhoven (hier in 2013) de eerste aanwijzingen voor het bestaan van majoranadeeltjes. Nu blijkt het bewijs mogelijk ook andere bronnen te hebben.
+Foto Andreas Terlaak
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Physics (75%); Standards + Measurements (71%); Experimentation + Research (62%)
+Industry: Computing + Information Technology (94%)
+Load-Date: February 9, 2021
+
+End of Document
+Klap voor Delfts quantum-onderzoek
+
+Klap voor Delfts quantum-onderzoek
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

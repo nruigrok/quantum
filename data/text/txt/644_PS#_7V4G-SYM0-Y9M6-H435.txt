@@ -1,0 +1,25 @@
+Nullen en enen
+Het Parool
+28 februari 2009 zaterdag
+Copyright 2009 Het Parool All Rights Reserved
+
+Section: PS; Blz. 2
+Length: 135 words
+Byline: Marc Laan
+Body
+
+De huidige computers kunnen enkel rekenen met nullen of enen, omdat hun halfgeleiders alleen aan- of uitgezet kunnen worden.
+Een kwantumcomputer, waarvan de eerste overigens nog gebouwd moet worden, kan in principe rekenen met meer dan twee rekengrootheden. Dat is stukken minder bot dan de wel erg simpele nul-of-één-logica.
+Een klassieke computer maakt gebruik vanenkelvoudige  databits die de vorm van nul of een aannemen. Een kwantumcomputer gebruikt qubits (kwantumbits): hij hoeft niet te kiezen tussen nul of één, hij kan tegelijkertijd rekenen met de waarden nul én één. De rekensnelheid kan in theorie aardig oplopen: één qubit bevat twee waarden, twee qubits kunnen al rekenen met 4 waarden tegelijkertijd. Bij 300 qubits loopt dat op tot een aantal dat hoger is dan het aantal moleculen in het heelal.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: parool
+Subject: Physics (77%)
+Nullen en enen
+Industry: Computing + Information Technology (94%)
+Load-Date: March 2, 2009
+
+End of Document
+Page 2 of 2

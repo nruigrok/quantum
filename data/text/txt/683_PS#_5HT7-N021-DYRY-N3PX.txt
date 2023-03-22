@@ -1,0 +1,39 @@
+Maxwells demon bestaat  nu ook in werkelijkheid 
+NRC Handelsblad
+8 januari 2016 vrijdag
+Copyright 2016 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap
+Length: 698 words
+Byline: Door onze medewerkerBruno van Wayenburg
+Body
+
+          Natuurkunde  Maxwells demon lijkt te spotten met de natuurwetten. Maar het klopt toch.  
+        Amsterdam. Stel, schreef de natuurkundige James Clerk Maxwell in 1869 aan een vriend: er zijn twee compartimenten gevuld met gas, deeltjes die kriskras door elkaar heen schieten. Het gas heeft aan beide kanten dezelfde temperatuur, dus de gemiddelde snelheid van de deeltjes is hetzelfde. Tussen de twee compartimenten zit een luikje, bediend door een klein, oplettend wezentje. 
+Dat wezen opent het luikje alleen als er van links een bovengemiddeld snel deeltje aankomt, of als er van rechts juist een bovengemiddeld traag deeltje  aankomt. Zo worden op den duur alle snelle deeltjes naar rechts gesluisd, de temperatuur neemt daar dus toe.  Alle trage deeltje komen links terecht, die helft wordt kouder. Is dat niet vreemd? 
+Het was een mooi gedachtenexperiment, dat pas nu is uitgevoerd, in elektronische schakeling, door Jonne Koski en vier collega's van de Aalto University bij Helsinki (Physical Review Letters, 30 december). 
+Wanorde van een systeem 
+Het schokkende was indertijd dat Maxwells idee ingaat tegen de Tweede Hoofdwet van de thermodynamica. Die stelt dat de entropie (grof gezegd de wanorde) in een systeem altijd toeneemt. Je zou in theorie zelfs een perpetuum mobile kunnen bouwen op het warmteverschil tussen de twee compartimenten! 
+Maxwells demon bestaat  nu ook in werkelijkheid 
+Zelden heeft een gedachtenexperiment zo'n vruchtbare wetenschappelijke discussie opgeleverd. Maxwells wezentje, later 'demon' gedoopt, leidde tot  debat over het wezen van warmte, energie, entropie, metingen,  informatie en zelfs intelligentie.  
+Verschillende keren is het doodverklaard, om later weer te herrijzen. In 1929 stelde Leo Szilard dat de angel hem zat in de metingen die het demon moest doen aan de aanstormende deeltjes, voordat hij het luik al of niet opende. Iedere meting levert onherroepelijk warmte op. 
+In de jaren zestig beredeneerde IBM-onderzoeker Rolf Landauer het preciezer: niet de metingen zelf leiden onherroepelijk tot meer entropie, maar het bijkomende wissen van de informatie. Het demon, wie of wat het ook is, moet niet alleen informatie verwerven over de aanstormende deeltjes. Maar omdat ook een demon geen oneindig geheugen heeft, moet die informatie vroeg of laat ook weer gewist wissen. En dat levert onherroepelijk warmte op, dus entropie. Conclusie: zelfs pure informatie is iets fysieks, een gegeven dat inmiddels ook een rol speelt in de theorie van quantumcomputers en zwarte gaten.  
+De demon van Jonne Koski en zijn collega's is deel van een elektronische schakeling op een ultrakoude chip van 77 millikelvin (-273° C). In plaats van heen en weer kaatsende gasdeeltjes zijn daarin rondzwervende elektronen verdeeld over twee 'compartimenten': twee metalen draadjes, verbonden door een kanaaltje van koper. Tegen die schakeling zit een 'demon'-schakeling die aanvankelijk een negatieve spanning op het kanaaltje aanlegt, die de elektronen afstoot en buiten het kanaaltje houdt.  
+Maar als een rondzwervend elektron toch in het kanaaltje belandt 'voelt' het demon dat door de bijbehorende elektrische lading. Automatisch legt het demon een positieve spanning aan op het kanaaltje, waardoor het elektron juist wordt vastgehouden. 
+Als het bewegende elektron desondanks toch verder zwerft naar het andere compartiment, ziet het demon dat ook weer, en legt het weer een afstotende negatieve spanning aan. Dat belet het elektron terug te keren. Door dit terugkeerontmoedigingsbeleid worden willekeurig rondkaatsende elektronen tegen de spanningsverschillen in geloodst, van een lage energie naar een hoge energie. Dat kost entropie, en inderdaad, zo meten de onderzoekers, koelt de schakeling enkele millikelvins af. 
+De demon wordt warmer 
+Maar de demon zelf wordt tegelijkertijd toch warmer, meten de natuurkundigen, ook al wisselt het alleen informatie uit met de elektronen, géén warmte. Het is precies genoeg om de thermodynamica te redden: demon en elektronen samen luisteren braaf naar de Tweede Hoofdwet.  
+Page 2 of 3
+Maxwells demon bestaat  nu ook in werkelijkheid 
+Een toepassing van dit na 150 jaar eindelijk verwerkelijkte gedachtenexperiment weten de Finnen niet zo gauw, behalve niet nader omschreven 'nano-devices aangedreven door informatie'.  
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Superconductors (94%); Physics (69%)
+Industry: Computing + Information Technology (61%)
+Load-Date: January 8, 2016
+
+End of Document
+Page 3 of 3

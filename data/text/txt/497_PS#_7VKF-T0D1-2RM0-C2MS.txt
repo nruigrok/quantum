@@ -1,0 +1,31 @@
+Uitgerekte magneet is geen magneet meer zodra hij erg dun is
+NRC Handelsblad
+May 2, 2009 zaterdag
+Copyright 2009 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP & ONDERWIJS; Blz. 7
+Length: 386 words
+Byline: Rob van den Berg
+Body
+
+Wanneer een draadje van een magnetisch materiaal als ijzer, nikkel of kobalt wordt uitgerekt tot het nog maar één of enkele atomen dik is, raakt het zijn magnetische eigenschappen kwijt. Oorzaak hiervan is het Kondo-effect, een subtiel quantummechanisch verschijnsel. Het Kondo-effect is voor het eerst in 1936 gemeten, tijdens weerstandsmetingen aan metalen in Leiden. Maar nu is het voor het eerst aangetoond in een dunne draad. Tot nu toe was het alleen gezien als metaalatomen in een ander metaal verspreid zaten (Nature, 30 april).
+Het verschijnsel kreeg zijn naam in de jaren zestig van de vorige eeuw toen de Japanse fysicus Jun Kondo er een theoretische verklaring voor gaf. Het treedt alleen op bij voldoende lage temperaturen - beneden de 'Kondotemperatuur'.
+Sommige metalen zijn magnetisch door de manier waarop hun elektronen rond de kern bewegen. Dat maakt bijvoorbeeld elk ijzeratoom een magneetje, maar soms is door bijzondere elektronenrangschikkingen het effect van dit atomaire magneetje niet meetbaar.
+Bij het tot nu toe gemeten Kondo-effect zorgden - bij voldoende lage temperaturen - de elektronen in het omringende metaal ervoor dat het atomaire magneetje wordt afgeschermd zodat we er niets meer van merkten. Dat het Kondo-effect ook optreedt in zuivere magnetische materialen kwam voor de groep van Carlos Untiedt aan de universiteit van Alicante dan ook als een verrassing.
+Uitgerekte magneet is geen magneet meer zodra hij erg dun is
+Untiedt en zijn collega's maten eigenlijk elektrische geleiding in steeds dunnere draadjes. Om die te maken drukten ze bij een temperatuur vlak boven het absolute nulpunt een scherpe naald in een oppervlak en trokken deze er vervolgens langzaam weer uit. Tussen naald en oppervlak blijft dan een draadje hangen dat steeds dunner wordt tot het nog maar enkele atomen dik is. Gedurende dit experiment bepaalden ze de geleiding bij verschillende elektrische spanningen.
+Tot hun verrassing trad het Kondo-effect aan het licht: in dit geval werd het magnetisch moment van het enkele atoom in het draadje afgeschermd door elektronen van naburige identieke atomen. Toen het experiment werd herhaald boven de Kondo-temperatuur keerde het magnetisch moment terug. Deze experimenten openen nieuwe mogelijkheden om magnetische verschijnselen, in het bijzonder het gedrag van elektronen, op atomaire schaal te bestuderen. Rob van den Berg
+Graphic
+
+ 
+0205WETmagneet, De elektronenverdeling (pijltjes) in een magneetdraadje van atomaire dikte (dun deel in rechter afbeelding) is zo anders dat het magnetisme wordt afgeschermd., illustratie nature
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Superconductors (94%); Science & Technology (84%) (%)
+Load-Date: May 1, 2009
+
+End of Document
+Page 2 of 2

@@ -1,0 +1,36 @@
+Rekenen op topsnelheid
+De Telegraaf 
+10 september 2019 dinsdag Gehele Oplage
+Copyright 2019 De Telegraaf All Rights Reserved
+
+Section: THEMA; Blz. 10
+Length: 868 words
+Body
+
+Quantumcomputer: heilige graal van wetenschap
+Over atomen en nanodraden gaat het in de kelder van het quantumlab van  Microsoft op de campus van de TU Delft. Beelden uit een elektronenmicroscoop  laten van minuscule draden precies zien hoe de atomen van verschillende  materialen gegroepeerd zitten. De wetenschappers kunnen zo zien of de  materialen exact de super- en halfgeleidendheid zullen hebben voor de  stroompjes die er doorheen moeten.
+Die stroompjes gaan twee verdiepingen hoger gemeten worden in tien brommende,  peperdure cilindervormige 'koelkasten', die de temperatuur op een fractie van  het absolute nulpunt van min 273 graden celsius kunnen houden. Daarin hopen de  onderzoekers, op basis van majoranadeeltjes, uiteindelijk een van de heilige  gralen van de wetenschap te ontwikkelen: een werkende quantumcomputer.
+Geestelijk vader achter het project is de Delftse hoogleraar Leo Kouwenhoven.  Hij verwierf met zijn onderzoeksgroep in de afgelopen jaren wetenschappelijke  wereldfaam met hun eerste metingen van het Majorana-deeltje uit de theorie van  de quantummechanica, waarvan het bestaan in 1937 al werd voorspeld.  Tegenwoordig probeert hij op basis van dat gegeven als directeur van een  splinternieuw Microsoftlab aan de TU Delft een quantumcomputer te bouwen.
+Het principe daarachter klinkt even simpel als onbegrijpelijk, zoals  Kouwenhoven het uitlegt in zijn werkkamer op de verdieping tussen die van de  microscopen en de koelkasten. In de wetten van de quantummechanica, die de  wereld van de atomen en elektronen regeren, is het mogelijk dat deeltjes in  twee verschillende toestanden tegelijk 
+Rekenen op topsnelheid
+zijn, terwijl dat in onze wereld niet  kan, legt hij uit. Zo kunnen deeltjes op twee verschillende plekken tegelijk  zijn, op hetzelfde moment zowel linksom als rechtsom draaien of tegelijkertijd  nul en één zijn.
+Bent u daar nog? Wat voor een normaal mens knap verwarrend is, kan toegepast in  een computer enorme voordelen hebben. Terwijl traditionele computers informatie  opdelen in elektronische nullen en enen, maken quantumdeeltjes - die zowel het  een als het ander kunnen zijn - een heel spectrum van waarden ertussenin  mogelijk. Waardoor bij een stijging van het aantal rekeneenheden (de 'bits' in  gewone computers en de 'qubits' in quantumcomputers) niet een evenredige, maar  een exponentiële toename van de rekenkracht ontstaat. "Als je honderd chips  toevoegt, stijgt je capaciteit dus niet met een factor honderd, maar met twee  tot de macht honderd. Dat is een één met dertig nullen", verduidelijkt  Kouwenhoven.
+Geen wonder dus dat techbedrijven en wereldmachten werken aan quantumcomputers,  die onder andere in staat zijn de meeste huidige encryptiemethoden te kraken.  Kouwenhoven verwacht dat quantum essentiële doorbraken gaat opleveren, omdat  het de mens eindelijk in staat stelt de wisselwerking van stoffen en materialen  nu echt op het niveau van moleculen en atomen te berekenen. "We kunnen nu van  een paar simpele, kleine moleculen doorrekenen hoe ze werken. Maar van  suikermoleculen die zo belangrijk zijn in ons lichaam kan dat niet. Dus is het  ook nog niet mogelijk om echt te voorspellen hoe medicijnen reageren op een  individu", zegt hij.
+Een ander voorbeeld is de productie van kunstmest, die overal ter wereld  plaatsvindt via een vergelijkbaar energievretend proces, die een paar procent  van het wereldenergieverbruik opeist. "We weten dat er een algje is dat  dezelfde verbinding maakt, zonder al die energie. Hoe dat werkt op moleculair  niveau, zou je kunnen uitrekenen, maar niet met de huidige computers."
+Niet dat Kouwenhoven al bijna een werkende quantumcomputer heeft. "Als het  meezit, lukt dat over tien jaar", zegt hij. Daarmee lijken Kouwenhoven en  Microsoft een enorme achterstand te hebben op IBM, dat al een eerste  quantumcomputer online heeft. De huidige quantumcomputers zoals die van IBM,  die nu 50 quantumrekeneenheden (qubits) sterk is, zijn volgens Kouwenhoven  echter gebaseerd op een type qubit dat nu nog te veel fouten maakt. Volgens een  medewerker die uitleg bij een koeltoestel geeft, is de kans dat de huidige  quantumcomputers het juiste antwoord geven, zelfs nul procent, vanwege de  enorme storingsgevoeligheid.
+Kouwenhoven ontwikkelt echter een technologie met op majoranadeeltjes  gebaseerde qubits, die veel minder kwetsbaar moet zijn. Daarmee denkt hij veel  beter in staat te zijn om een computer te bouwen met niet enkele of enkele  tientallen qubits, maar met duizenden of miljoenen stuks. "Dan wordt het pas  indrukwekkend", zegt hij.
+Page 2 of 3
+Rekenen op topsnelheid
+Is dat gelukt, dan biedt dat voor Nederland goede kansen. "Onder andere hier in  Delft, Leiden en Eindhoven is veel onderzoek naar nanotechnologie en  quantummechanica en dat blijkt nu voor quantumcomputers heel belangrijk", zegt  hij.
+We zullen wel moeten, denkt Kouwenhoven. "Quantum is geen kunstmatige truc,  maar de manier waarop de natuur werkt. Het zuinig omgaan met de natuur, de  energie en de grondstoffen op aarde kan zoveel beter, maar dan zal je dat op  een manier moeten doen op het niveau van de atomen en de moleculen. Dat is  quantummechanica. En ik denk dat we dat nodig hebben om hier een goede aarde te  kunnen behouden." Even simpel als onbegrijpelijk
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: telegraaf,Telegraph
+Subject: Physics (63%); Educational Institution Employees (62%)
+Industry: Computing + Information Technology (94%)
+Load-Date: September 9, 2019
+
+End of Document
+Page 3 of 3

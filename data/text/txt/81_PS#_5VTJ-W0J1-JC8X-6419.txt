@@ -1,0 +1,69 @@
+Wat gebeurt er als je licht in een doosje stopt?
+Trouw
+6 april 2019 zaterdag
+Copyright 2019 De Persgroep Nederland BV All Rights Reserved
+
+Section: | Wetenschap; Blz. 14, 15
+Length: 1829 words
+Byline: JOEP ENGELS
+Highlight: NATUURKUNDE - interview - Hoogleraar nanofotonica Kobus Kuipers ontving gisteren de Physicaprijs 2019. Als geen ander kan hij licht bewerken, beïnvloeden en zelfs vertragen.
+Body
+
+Licht heeft me altijd gefascineerd. Ik vind het vooral spannend om te zien hoe een lichtgolf zich gedraagt als je hem in een zeer kleine ruimte dwingt, zoals een doosje op nanoschaal, met afmetingen kleiner dan zijn eigen golflengte. Dat is kleiner dan een duizendste millimeter. We moeten een gigantische trukendoos opentrekken om het licht zo ver te krijgen. Maar als dat lukt, kom je erachter dat het licht eigenschappen krijgt die je niet had bedacht. Soms had je het kunnen weten, maar eens in de zoveel tijd word je echt verrast. 
+"Die fascinatie voor licht had ik als kind al. Het schijnt dat ik me als zesjarige heb afgevraagd of je een lichtbundel zou kunnen vangen. Als je nou eens de binnenzijde van een fles helemaal bekleedt met spiegels, dacht ik toen. Dan laat je er licht in schijnen. En dan schroef je er snel een spiegelend dekseltje op. Wat gebeurt er dan? Het is een anekdote die ik alleen ken van de verhalen van mijn ouders - ik weet dus niet of het waar is - maar feit is wel dat dat dus precies is wat ik dertig, veertig jaar later ben gaan doen. 
+"Toch heb ik een tijdlang niets met licht gedaan. Ja, ik had al vroeg een bril en daarmee probeerde ik weleens met zonlicht een papiertje in de fik te steken. Maar daar bleef het bij. Totdat ik tijdens mijn studie een laseropstelling helemaal open zag liggen. Je zag er niet veel aan. Het was een grote opstelling met allemaal spiegels, maar het greep me gewoon. Waarom? Tja, waarom vind je rood een mooie kleur? Ik weet het niet. Veel later bewonderde ik de eerste femtolaser in Nederland. Twee korte lichtpulsjes schoten rond in een trilholte. Dat waren ultrakorte pulsjes van honderd femtoseconde: een tiende van een miljoenste van een miljoenste seconde." 
+Kwispelen door het heelal 
+"Wat licht is? Goeie vraag. Het korte antwoord luidt: licht is een elektromagnetische golf. Het is dus deels een elektrisch veld... Ja, hoe leg ik uit wat een elektrisch veld is? Zo'n veld krijg je bijvoorbeeld als je met een ballon door je haren strijkt en alles overeind komt. Maar het elektrisch veld van licht kwispelt ook nog eens. Het gaat met een duizelingwekkende snelheid op en neer. Een paar honderd biljoen keer per seconde. En dat veld wekt een magneetveld op dat net zo snel kwispelt. Die kwispelbewegingen samen verplaatsen zich met een duizelingwekkende snelheid door het heelal. Driehonderdduizend kilometer per seconde. Dat is voor mij licht. 
+"Voor een leek is dat geen bevredigend antwoord, dat begrijp ik. Ik krijg deze vraag vaker en dan begin ik maar over radiogolven. 'U weet vast wat dat zijn. Nou, licht is eigenlijk hetzelfde, maar dat kwispelt een stuk sneller.' Ook niet? Er is ook nog de analogie van een vijver waar je een steen in gooit, waarna een golvenpatroon ontstaat. Maar dan dreigt een nieuwe valkuil. In die vijver gaat water op en neer. Wat trilt er dan bij licht? Anderhalve eeuw geleden wisten we dat nog wel. Het is de ether die trilt. Hadden we de ether nog maar! Dan hadden we kunnen zeggen: de ruimte is gevuld met een soort soep. Je ziet hem niet, maar die soep trilt net als het water in de vijver. Maar ja, sinds Einstein weten we dat de ether niet bestaat. Heel lastig. 
+"Wiskundig begrijp ik het wel. Licht gehoorzaamt, net als alle elektromagnetische golven, aan de Maxwell-vergelijkingen. Dat is een elegant bouwwerk van vier vergelijkingen die alles zeggen. Als je die wiskunde doorgrondt, begrijp je het als fysicus ook beter. Je kunt op z'n minst doen alsof je het begrijpt. 
+"In de tijd van Maxwell zelf - midden negentiende eeuw - dachten ze te weten dat licht een golf was. Uit experimenten was gebleken dat twee lichtbundels elkaar kunnen uitdoven of versterken. Interfereren, heet dat. En dan moesten het golven zijn, zoals Christiaan Huygens had beweerd. En geen deeltjes, zoals Isaac Newton dacht. Huygens was dus aan de winnende hand, zeg ik als chauvinistische Nederlander. Totdat de quantumtheorie op kwam zetten en het allebei waar bleek te zijn. Licht is golf én deeltje tegelijk." 
+Pesten met nanopotlood 
+"Hoewel het moeilijk is om natuurkundig correct uit te leggen wat licht precies is, hebben we er allemaal iets mee. Dat is door de eeuwen heen ook zo geweest. Niet voor niets zijn er twee oude boeken die ermee beginnen dat het licht er is. De mens is visueel ingesteld. Maar ook: er kan je een lichtje opgaan. Eerst zien, dan geloven. Licht kan ontroeren. Of het nu een zonsondergang is, of een schilderij van Rembrandt. Je kunt dus ook iets met licht hebben zonder precies te weten wat het is. 
+"Licht is ook van groot belang in ons dagelijks leven. Toen er verlichting kwam, konden mensen binnen werken. Er werden fabriekshallen gebouwd. En ook zaken als e-mail en sociale media, die gaan allemaal via licht. Het internet is zo snel dankzij de glasvezel. En dat is er weer omdat we licht zo goed begrijpen. 
+"Voor mij zelf wordt licht interessant zodra ik het kan manipuleren. Licht laat zich niet zo gemakkelijk beïnvloeden, zeker niet op de nanoschaal waarop ik dat wil. Dan gaat het om afmetingen, die kleiner of gelijk zijn aan de golflengte van licht. Normaal trekken golven zich niets aan van kleine structuren. Om een haven tegen zware golven te beschermen moet je een grote pier bouwen. Met zeeweringen ter grootte van een potlood bereik je niet veel. Toch wil ik het licht met zo'n nanopotlood pesten. Dat is best lastig. 
+"Maar dan gebeurt er ook wat. Als je licht in een nanodoosje stopt, krijg je er allerhande kwispelingen bij. Normaal licht is transversaal, zoals wij dat noemen. Het op en neer bewegen van het elektrische en het magnetische veld staat loodrecht op de voortplanting van de golf. Maar in het doosje gaan de velden ook in de voortplantingsrichting trillen, net als geluid. En ze maken een draaiende beweging, waardoor het geheel op een kurkentrekker lijkt. De verdeling van het licht in het doosje wordt heel anders. Er komen draaikolken in, er zijn plekken waar het donker blijft." Vertraging 
+"Een andere hobby van mij is het vertragen van licht. Ik vertelde over die laser waarmee we ultrakorte lichtpulsjes kunnen maken. Die pulsjes sturen we door een dun plakje silicium. Dat plakje is duizend keer dunner dan de dikte van een menselijke haar. In dat plakje zitten veel gaatjes, op regelmatige afstand. Als daar een pulsje doorheen gaat, wordt bij ieder gaatje een deel gereflecteerd en de rest afgebogen. Net als bij licht dat op glas of water stuit. Maar bij silicium is de reflectie veel groter waardoor het pulsje wordt dolgeklutst. 
+"Het is een beetje als de processie van Echternach, 100 stapjes vooruit, 99 achteruit. Het resultaat: het pulsje gaat een stuk trager. Ons record is een vertraging met een factor duizend. Maar die pulsjes zijn een rommeltje. Als het 25 keer zo langzaam gaat, houdt het pulsje ongeveer zijn vorm en kun je de vertraging bruikbaar maken." 
+Honderd miljoen spiegels 
+"Dat vertragen lukt niet met alledaags licht, daar moet je gekke nanostructuren voor maken. Nou ja, theoretisch zou het heel misschien met spiegels kunnen, maar dat wordt lastig. Ik zeg weleens, voor onze lichtvertraging plaats ik honderd miljoen spiegels op het oppervlak van een postzegel. Dat is niet alleen spielerei, het heeft ook zijn nut. Met langzaam licht kan ik het internet sneller maken. 
+"Dat vergt uitleg. Kijk, hier heb ik een optische chip, zoals ze nu al worden gebruikt in het glasvezelnetwerk. Het licht komt linksboven en linksonder binnen, hier mengt het en dan kun je het zo inrichten dat het rechts weer gescheiden wordt. Rood licht gaat bijvoorbeeld de ene kant op, groen licht de andere. 
+"Als jij nu een mailtje naar je werk stuurt, weet het systeem al dat het mailtje binnen 
+Nederland blijft en wordt het op een groen pulsje gezet. Een e-mail naar je tante in Amerika moet de plas over en gaat op rood. Deze chip scheidt de mailtjes maar is passief: groen gaat altijd rechtsaf, rood linksaf. 
+"Nu komt het: als ik deze optische chip warmer maak, verandert de brekingsindex. En daarmee verandert de scheiding. Door de chip te verwarmen kan ik een beetje spelen met de kleuren die naar links of rechts gaan. Het leuke is: langzaam licht heeft een grotere interactie met materie. Met langzaam licht hoef ik de brekingsindex dus minder te veranderen. Maar je kunt ook zeggen: met langzaam licht kan ik makkelijker en daardoor sneller schakelen. 
+"Een mailtje gaat nu nog vanuit jouw pc het glasvezelnet in en stuit daar op een knooppunt. Een detector registreert dat er iets binnenkomt - een pakketje enen en nullen. Dat wordt elektronisch opgeslagen en gelezen, waarna het pakketje weer wordt teruggezet op de glasvezel, op weg naar het volgende schakelpunt. Al die omzettingen van lichtsignaal naar elektronisch en weer terug naar licht kosten tijd en ook nog eens veel energie. Als ik dus meer optische schakelpunten inbouw, maak ik het internet sneller. 
+"Waarom ik dit doe? Omdat ik het leuk vind. Het is toch fascinerend dat ik het licht, het snelste fenomeen uit het universum, langzamer heb gemaakt."
+FYSICUS van het jaar
+Hij werd al de lichtprofessor genoemd en sinds gisteren is hij ook de fysicus van het jaar. Kobus Kuipers nam tijdens het jaarfeest van de Nederlandse Natuurkundige Vereniging in Amsterdam de Physicaprijs 2019 in ontvangst. 
+Kobus Kuipers (1967) studeerde natuurkunde aan de Universiteit van Amsterdam en werd daar in 2001 benoemd tot hoogleraar. In 2005 trad hij toe tot De Jonge Akademie, de afdeling van de Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) voor talentvolle onderzoekers tussen 25 en 45 jaar. In 2006 werd hij hoofd van het Centrum voor nanofotonica op het Amolf-instituut in Amsterdam en sinds 2016 is hij verbonden aan de TU Delft als hoogleraar nanofotonica, de wetenschap die licht bedwingt op atomaire lengteschalen. In Delft is hij ook voorzitter van de afdeling Quantum Nanoscience. 
+De jury roemt zijn creativiteit en zijn motivatie om verwonderd te raken door natuurkundige fenomenen. "Hij staat alom bekend om zijn scherpe vragen, aanstekelijk enthousiasme voor natuurkunde, en ook voor het proces van wetenschap bedrijven in al haar facetten." 
+In 2015 was Kuipers voorzitter in Nederland van de stichting Internationaal jaar van het licht. Dat was door de Unesco ingesteld om te vieren dat 150 jaar eerder James Clerk Maxwell zijn vergelijkingen opstelde waarmee het gedrag van licht en andere elektromagnetische golven werden beschreven. De stichting organiseerde in dat jubeljaar in Nederland vele publieksactiviteiten over licht. 
+De Physicaprijs wordt sinds 1986 jaarlijks uitgereikt aan een eminente, veelal in Nederland werkzame natuurkundige. Eerdere laureaten waren onder anderen de (latere) Nobelprijswinnaars Gerard 't Hooft, Tiny Veltman en Klaus von Klitzing.
+'Voor mij wordt licht interessant zodra ik het kan manipuleren. Licht laat zich niet zo makkelijk beïnvloeden.'
+'Een hobby van mij is het vertragen van licht. Met langzaam licht kan ik het internet sneller maken.'
+Bekijk de oorspronkelijke pagina: pagina 14, pagina 15
+Graphic
+
+ 
+Opstelling met laserbundels. Kobus Kuipers: 'Toen ik dit voor het eerst zag, greep het me gewoon.'
+Hoogleraar nanofotonica Kobus Kuipers.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Physics (94%); Fiber Optics (73%); Death + Dying (62%)
+Industry: Computer Equipment (67%); Paints + Coatings (67%); Food + Beverage Stores (64%)
+Load-Date: April 5, 2019
+
+End of Document
+Wat gebeurt er als je licht in een doosje stopt?
+
+Wat gebeurt er als je licht in een doosje stopt?
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

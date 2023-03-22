@@ -1,0 +1,41 @@
+No Headline In Original
+Trouw
+26 maart 2013 dinsdag
+Copyright 2013 De Persgroep Nederland BV All Rights Reserved
+
+Section: Duurzaamheid en Natuur; Blz. 8
+Length: 747 words
+Body
+
+Een stoelendans met één vreemdeling op een miljoen, laat in de zonnecel de elektronen stromen
+Einstein wist het honderd jaar geleden al: licht bestaat uit pakketjes energie en als zo'n pakketje groot genoeg is, kan het een elektron loswrikken uit een atomaire verbinding. Stap twee op de weg naar elektriciteit uit zonlicht was daarmee nog niet gezet: hoe krijg je elektronen zo ver dat ze niet direct terugvallen naar hun oude nest, maar allemaal hetzelfde ommetje maken en daarbij elektrische energie afgeven?
+In een metaal lukt zoiets niet. Om de elektronen dezelfde kant op te dwingen moet er in een zonnecel een elektrische spanning worden gecreëerd. Maar in een metaal bewegen de elektronen zo soepel dat ze die spanning meteen opheffen. In isolatoren zijn elektronen juist niet vooruit te branden. Maar van het 'tussenmateriaal', de halfgeleiders, zijn prima zonnecellen te maken.
+Die halfgeleiders moeten hiervoor wel worden behandeld. Gedoteerd, heet dat in jargon. Deze halfgeleiders hebben een lichte verontreiniging - in de orde van één vreemdeling per miljoen atomen - waardoor er bijvoorbeeld net iets meer elektronen in omloop zijn dan plaatsen waar ze zich kunnen nestelen. Ze raken dan verwikkeld in een permanente stoelendans en het is niet meer zo moeilijk een door het licht aangeslagen elektron 'om te leiden'.
+Dit principe van de zonnecel legt ook meteen haar beperkingen vast. Hoe groter de sprong is die een elektron moet maken van de gebonden naar de vrije fase, des te meer energie geeft het lichtpakketje af. Maar als die sprong groot is, zijn veel lichtpakketjes te klein en doet een groot deel van het invallende licht helemaal niets in het zonnepaneel.
+No Headline In Original
+De keuze gaat daardoor tussen veel elektronen met weinig energie of weinig elektronen met veel energie. Het optimum ligt ergens in het midden, en van de halfgeleiders die dicht bij dat optimum liggen, kun je in principe de beste zonnecellen maken. Zo kan perfect kristallijn silicium maximaal 27 procent van de zonne-energie omzetten in elektriciteit en haalt de absolute koploper, galliumarsenide, in theorie een rendement van 30 procent.
+Toch ligt daar niet de grens. In het laboratorium worden allerlei trucs uitgeprobeerd om meer uit het zonlicht te halen. Een stapeling van zonnecellen bijvoorbeeld, waarbij elke laag een deel van het zonnespectrum voor zijn rekening neemt. De sky is hier the limit, maar de techniek is weerbarstig. In het laboratorium is 42 procent gehaald, maar deze 'meervoudige cellen' zijn nog erg kostbaar.
+Een andere techniek maakt van die nood een deugd. In zogeheten concentrators bundelen lenzen of spiegels het zonlicht zodat maar een heel klein meervoudig zonnecelletje nodig is voor een grote opbrengst. Een typische concentrator focust een bundel zonlicht van 100 tot 150 vierkante meter op een zonneceloppervlak van slechts een kwart vierkante meter.
+Voorwaarde is wel dat er veel direct zonlicht is -in Nederland is iets meer dan de helft van het invallende zonlicht diffuus en dat laat zich niet zo makkelijk bundelen.
+Voor het overige zijn de ideeën nogal futuristisch. Zo werd laatst grafeen naar voren geschoven als basis voor de zonnecel. Grafeen leverde in laboratoriumproeven uitzonderlijke prestaties. Maar het is de vraag of het wondermateriaal - een raster koolstofatomen met een dikte van één laag atomen - dit kunstje onder reële omstandigheden zal kunnen herhalen.
+Zoiets geldt ook voor de zonnecellen met zogeheten quantumdots. Dit zijn een soort van virtuele opstapjes waardoor de elektronen niet in één sprong naar de vrijheid hoeven te springen maar een trapje krijgen aangeboden. In theorie zou dat het rendement enorm kunnen verbeteren, in de praktijk blijken de elektronen het trapje ook in omgekeerde richting te gebruiken.
+Op korte termijn zijn de meeste verbeteringen dan ook te verwachten van aanpassingen aan het beproefde siliciumconcept. Coatings bijvoorbeeld die de weerkaatsing van het zonlicht tot een minimum beperken. Of slimme ontwerpen waarbij alle metaalcontacten aan de achterzijde van de cel zijn aangebracht: de elektronen moeten op de een of andere manier hun weg naar buiten vinden en de koperdraadjes houden, hoe dun ze ook zijn, een deel van het zonlicht tegen.
+Zo weten onderzoekers het rendement van de huidige generatie zonnecellen telkens een procentje op te vijzelen. En is het wachten op het moment dat één van die nieuwe concepten zijn claim waarmaakt en marktrijp wordt.
+Page 2 of 3
+No Headline In Original
+Grote vraag: Verricht grafeen in praktijk ook wonderen?
+Graphic
+
+ 
+Een veld vol spiegels in Spanje concentreert het zonlicht. Daarmee wordt een vat met zout verhit, dat stoom produceert voor een turbine.FOTO HH
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Trouw
+Subject: Superconductors (94%); Nanotechnology (62%)
+Industry: Alternative + Renewable Energy (89%); Manufacturing (78%)
+Load-Date: March 25, 2013
+
+End of Document
+Page 3 of 3

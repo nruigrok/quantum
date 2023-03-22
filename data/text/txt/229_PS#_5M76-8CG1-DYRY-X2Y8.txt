@@ -1,0 +1,30 @@
+Superprof Delft in dienst bij Microsoft
+de Volkskrant
+22 november 2016 dinsdag
+Copyright 2016 De Persgroep Nederland BV All Rights Reserved
+
+Section: Ten Eerste; Blz. 6
+Length: 341 words
+Byline: MARTIJN VAN CALMTHOUT
+Highlight: De Delftse expert in quantumcomputers prof. Leo Kouwenhoven treedt in dienst van Microsoft. Dat is maandag bekendgemaakt. Spinozaprijswinnaar en hoogleraar Kouwenhoven (1963) blijft zijn groep in Delft leiden, maar gaat er werken aan de opbouw van een nieuw Microsoft-quantumlab binnen de universiteit.
+Body
+
+De aanstelling is onderdeel van een intensivering van het concern om te komen tot een werkende quantumcomputer. Wereldwijd werken diverse partijen aan zo'n machine, die niet rekent met enen en nullen maar met zogeheten 'qubits', rekeneenheden die een en nul tegelijk zijn. Daarmee kunnen vraagstukken worden doorgerekend die nu onmogelijk veel tijd en rekenkracht vergen. 
+In Delft komt Kouwenhoven aan het hoofd te staan van een zogeheten 'StationQ' van Microsoft, een onderzoekseenheid van zo'n tien onderzoekers. Een vergelijkbare eenheid heeft Microsoft al aan de Universiteit van Californië in Santa Barbara. Ook in Denemarken komt een StationQ, rond de groep van quantumfysicus Charles Marcus, een goede collega van Kouwenhoven. 
+'Dit is waar Charlie en ik al jaren op hebben aangedrongen', zegt Kouwenhoven. 'Het zou geen goed idee zijn om alles in één lab bij het hoofdkwartier van Microsoft in Redmond onder te brengen, omdat je dan de voedingsbodem van goeie quantumgroepen mist.' 
+Kouwenhoven en Marcus werken aan topologische quantumbits, die beter bestand zijn tegen verstoring dan normale qubits. Kouwenhoven realiseerde als eerste een type supergeleidende nanodraadjes dat daarvoor geschikt zou kunnen zijn. 
+Superprof Delft in dienst bij Microsoft
+Met de oprichting van de Europese onderzoeks-'stations' lijkt Microsoft anders dan Google en IBM in te zetten op één type quantumcomputer. Terecht, vindt Kouwenhoven. 'Topologische quantumcomputers zijn in principe veel stabieler.'
+QUANTUMREKENEN
+Een computer die alle sommen in het rekenboek tegelijk maakt, in plaats van een voor een. Dat is het idee waarmee onderzoekers aan de quantumcomputer werken. Cruciaal aan zo'n machine is dat de natuur in de deeltjeswereld vaag en dubbelzinnig is. Daardoor zijn bits er niet 1 of 0, maar beide tegelijk. Dat maakt meer gelijktijdige rekenstappen mogelijk. Voor alledaagse toepassingen is dit schieten met een kanon op een mug. Voor sommige grote vraagstukken, van complexe dienstregelingen tot het kraken van versleutelde databestanden, is het een uitkomst.
+Bekijk de oorspronkelijke pagina: pagina 6
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Educational Institution Employees (67%)
+Industry: Computing + Information Technology (95%)
+Load-Date: November 21, 2016
+
+End of Document
+Page 2 of 2

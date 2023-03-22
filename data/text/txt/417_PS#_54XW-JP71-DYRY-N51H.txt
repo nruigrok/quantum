@@ -1,0 +1,59 @@
+De koe is rond   (voor fysici)
+NRC Handelsblad
+11 februari 2012 zaterdag
+Copyright 2012 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap
+Length: 1328 words
+Byline: Margriet van der Heijden
+Body
+
+SAMENVATTING
+Natuurkunde Abstraheren helpt om de complexe wereld te begrijpen. Snaarfysicus Juan Maldacena over snaren, runderen en Escher.Margriet van der Heijden
+VOLLEDIGE TEKST:
+Wat kenmerkt een fysicus? De beroemde snaarfysicus Juan Maldacena (43)  illustreert het met een grapje. Maldacena  is een paar dagen in Nederland, overgekomen van het Amerikaanse Princeton, waar hij hoogleraar is aan het  Institute for Advanced Study (IAS). En hoewel hij al lang Amerikaans staatsburger is, lijkt het grapje iets van zijn Argentijnse herkomst te verraden, want het gaat over rundvlees.
+Het gaat zo: een veearts, een landbouwexpert en een fysicus moeten bedenken hoe de rundvleesproductie vergroot kan worden. Misschien, zegt de landbouwexpert, moeten we landbouwgewassen rijker aan voedingsstoffen maken. De veearts oppert de runderen meer antibiotica te geven. Daarna is  de fysicus aan de beurt. "Stel", zegt hij, "dat een koe bolvormig is..."
+Fysici, zo wil Maldacena zeggen, abstraheren. Ze brengen de zaken terug tot simpele vormen en modellen om zo inzicht te krijgen in de basisprincipes en wetten die meestal schuil gaan achter de complexe werkelijkheid. Juist daardoor zag Sir Isaac Newton (1642-1727) dat dezelfde, in eenvoudige formules te vangen, zwaartekracht kon verklaren waarom een appel van een boom valt én waarom de maan om de aarde draait.
+Ook Maldacena sloeg een brug. Niet tussen ogenschijnlijk uiteenlopende verschijnselen, zoals Newton. Maar tussen twee uiteenlopende theorieën.  In 1997 legde hij een relatie tussen een wereld met quantumdeeltjes  én een wereld met een dynamische ruimtetijd. Liever, tussen een theoretische beschrijving die verband houdt met de quantummechanica (de wereld van de kleinste schalen)  én een beschrijving  die aansluit bij Einsteins algemene relativiteitstheorie (de wereld van de grootste schalen).  Maldacena liet zien dat die twee, onder bepaalde voorwaarden, equivalent zijn aan elkaar. Dat ze twee kanten zijn van één medaille.
+Zijn  collega-snaarfysici waren daarover destijds  zo enthousiast dat ze in 1998 in Santa Barbara tijdens  hun jaarlijkse snaarconferentie de Maldacena voor hem dansten, een aangepaste versie van de Spaanse Macarena . Op de website van de New York Times is de tekst van het bijbehorende lied nog altijd te vinden.
+"Ehhhhhh, Maldacena", luidt het refrein en je vraagt je onwillekeurig   af hoe  Maldacena daarbij gekeken heeft.  Met zijn zachte stem,  onopvallende kleding en ironische grapjes  lijkt hij geen man die zich op de borst slaat, zich met Einstein meet of van publieke aandacht geniet.  Tijdens de jaarlijkse bijeenkomst van Nederlandse fysici, zo'n 1.600,  vorige maand in Veldhoven benadrukt hij  minstens even vaak wat mensen nog niet weten, als waarover ze zeker zijn.
+Maldacena gaf in Veldhoven onder meer een master class aan studenten over de relatie die hij in 1997 vond en die meestal wordt aangeduid als de AdS-CFT-correspondentie (over die naam straks meer). Zijn artikel erover, begin 1998 verschenen, is ruim 8.000 keer geciteerd en heeft tot nieuwe takken  van onderzoek geleid Maar dat zegt Maldacena niet. Hij zegt: "Inmiddels begrijpen we veel beter wat deze correspondentie betekent, en op een veel dieper niveau. En je hoeft niks van snaartheorie te weten om het toch te snappen."
+Kennis van snaren wordt overbodig in het extreme geval waarin - tegen een decor met een klassiek gedefinieerde ruimte en tijd - tussen de  quantumdeeltjes heel sterke krachten werken. In dat geval kun je zonder snaren aantonen dat deze deeltjeswereld equivalent is met een andere wereld. Eentje zonder deeltjes, maar met een extra dimensie en een 'dynamische' ruimtetijd - waarin ruimte en tijd dus krommen onder invloed van de zwaartekracht, in lijn met Einsteins algemene relativiteitstheorie.
+Die twee werelden wijken wél  af van de ons bekende wereld. De quantumdeeltjes bijvoorbeeld lijken  slechts  een beetje op de quarks en gluonen die volgens fysici de meest fundamentele bouwsteentjes van atomen zijn.  Ze komen voor  in meer 'kleurschakeringen' dan quarks en  ze zijn  'supersymmetrisch'. Naar die mogelijke eigenschap - supersymmetrie - die opduikt bij hoge energie ,  wordt  onder meer bij de LHC-versneller van het Cern  gezocht. Hoe dan ook, de  bottom line is  dat de  hypothetische deeltjes goed met eenzelfde soort theorie te beschrijven zijn als quarks:  met een Conformal Field Theorie  - dat is die  CFT.
+Ook de andere kant van de medaille, de  wereld zonder  deeltjes, met een extra dimensie en  met een dynamische ruimtetijd, is speciaal. Het is een anti-de Sitterruimte (dat is die 'AdS'), zoals  voor het eerst beschreven door de Nederlandse astronoom en fysicus  Willem de Sitter (1872-1934).
+Zo'n AdS-ruimte is een hyperbolische ruimte, met een bijzondere geometrie die   M.C. Escher heeft gevangen in zijn houtsnedes Cirkellimiet I, II en III. In termen van  het huishoudboekje van de kosmos: het is een ruimte waarin de kosmologische constante (een maat voor de energie die in het vacuüm besloten ligt) negatief is in plaats van positief zoals in onze kosmos. Een AdS-ruimte dijt niet steeds sneller uit zoals ons heelal, maar stort steeds sneller in. "Maar zonnig bekeken  kun je zeggen dat het  slechts één minteken scheelt", zei Maldacena ironisch tijdens  de lezing die hij ook in Veldhoven gaf.
+Het minteken temperde  het enthousiasme van zijn snaarcollega's destijds niet. Zij vonden het belangrijker dat  Maldacena een algemeen principe had ontdekt: dat uit werelden met quantumdeeltjes andere  werelden, met een dynamische ruimtetijd, tevoorschijn kunnen komen. Maldacena: "We wisten natuurlijk al dat sterk wisselwerkende deeltjes vreemde dingen kunnen doen. Zoals samen materie maken." Lachje, en klopje op het tafelblad.  "Maar kennelijk kunnen ze zelfs ruimtetijd en nieuwe dimensies 'maken'."
+En zo leek de AdS-CFT-correspondentie erop te wijzen dat ergens diep in de snaartheorie toch  het lang gezochte verband verborgen moet liggen tussen de zwaartekracht die de ruimtetijd vormgeeft en de quantumkrachten die elementaire deeltjes tot atomen samen binden.
+Hoe werken fysici er nu mee verder? Maldacena: "Doordat de relatie een brug slaat tussen twee verschillende deelgebieden van de fysica is het een goed  gereedschap." Bij het Cern in Genève kunnen deeltjesfysici bijvoorbeeld zware lood- of goudkernen laten botsen, licht hij toe. Zo maken ze een plasma waarin de bouwstenen van die atoomkernen, de quarks en gluonen, door elkaar krioelen. Zoals, vermoedelijk,   kort na de Oerknal.   "In die materiefase zijn de krachten tussen quarks en gluonen sterk. We kennen de wetten om ze  te beschrijven, en als we oneindig slim waren zouden we  zo de toestand van die ingewikkelde deeltjessoep kunnen doorrekenen. Maar dat zijn we niet." En dan is het handig dat fysici nu dezelfde toestand kunnen berekenen via de   in dit geval  gemakkelijke beschrijving van de zwaartekracht.
+Maldacena: "De AdS-CFT-correspondentie is zo ons speelgoedmodel. Het geeft de fysische werkelijkheid niet exact weer, maar biedt wel inzicht. Het is onze bolvormige koe."
+En het missende minteken? Zullen fysici dat op termijn ook vinden? En misschien zelfs de  zwaartekracht en andere krachten onder één noemer brengen? Maldacena is sceptisch over ideeën die daarover tot dusver zijn geopperd en voorzichtig met uitspraken over de toekomst. "Maar het   lijkt me dat de verbanden die we  hebben gevonden, interessant genoeg zijn om snaartheorie verder te bestuderen."
+Dat  gaat hij  straks op het IAS in Princeton weer doen. En, oh ja, is het zwaar om daar hoogleraar te zijn? In een omgeving waar je, zoals de toekomstig IAS-directeur Robbert Dijkgraaf zegt, voortdurend moet presteren en waar elk jaar een lading nieuwe briljante jonge onderzoekers arriveert die dingen zien die alleen jonge mensen kunnen zien? "Ach nee", zegt Maldacena. "Dat vind ik juist inspirerend."
+'Kennelijk   kunnen deeltjes  ruimtetijd 'maken', en nieuwe  dimensies '
+ILLUSTRATIE Fokke Gerritsma
+Graphic
+
+ 
+Juan Maldacena
+Foto  IAS
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Physics (94%); Educational Institution Employees (63%)
+Organization: INSTITUTE FOR ADVANCED STUDY (58%)
+Load-Date: February 10, 2012
+
+End of Document
+De koe is rond   (voor fysici)
+
+De koe is rond   (voor fysici)
+
+Page 2 of 5
+
+Page 2 of 5
+
+
+
+
+

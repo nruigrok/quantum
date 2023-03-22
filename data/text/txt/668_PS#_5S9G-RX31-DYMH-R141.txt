@@ -1,0 +1,35 @@
+Gamers bewijzen Einsteins ongelijk
+NRC Handelsblad 
+12 May 2018 zaterdag
+Copyright 2018 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 5
+Length: 428 words
+Byline: Dorine Schenk
+Body
+
+ABSTRACT
+Quantummechanica
+100.000 gamers hebben al spelend geholpen om de spookachtige verstrengeling van deeltjes aan te tonen.
+Gamers helpen onderzoekers met een quantumexperiment. Door het spelen van een speciaal hiervoor ontwikkeld online spel, produceerden de quantum-gamers een willekeurige reeks enen en nullen die gebruikt werden voor metingen van de zogenoemde Bell-test. De resultaten  verschenen woensdag in Nature. 
+Albert Einstein geloofde in het 'lokaal realisme' waarbij de werkelijkheid onafhankelijk is van waarnemingen en informatie niet sneller dan het licht kan gaan. Dat staat haaks op de quantummechanica die voorspelt dat twee deeltjes een bijzondere band kunnen hebben waarbij ze sneller dan het licht informatie kunnen uitwisselen. Een deeltjespaar dat op die manier verbonden is, heet verstrengeld.
+In 2015 deden onderzoekers van de TU Delft al een Bell-test met verstrengelde elektronen die 1,3 kilometer uit elkaar werden gebracht.  Het spookachtige gedrag van deeltjes, zoals voorspeld door de quantummechanica, bleek echt te bestaan. 
+Gamers bewijzen Einsteins ongelijk
+De manier waarop je metingen doet bij de Bell-test, kan de uitkomst beïnvloeden.  Om die reden moeten de instellingen bij elke meting volledig willekeurig gekozen worden, maar dat is in de praktijk erg lastig.  
+Bij het online spel 'the BIG Bell Test' moesten spelers daarom reeksen enen en nullen produceren die zo onvoorspelbaar mogelijk zijn. Ongeveer 100.000 deelnemers produceerden samen 97.347.490 super-random enen en nullen die naar 12 laboratoria op vijf verschillende continenten gestuurd werden. Daar werd de reeks enen en nullen gebruikt  om de Delftse Bell-test-metingen te verifiëren. 
+ Verstrengeling zorgt ervoor dat als je een meting doet aan het ene deeltje, je onmiddellijk weet hoe het andere deeltje eruit ziet. Stel dat twee verstrengelde deeltjes 50 procent kans hebben om rood te zijn en 50 procent kans om blauw te zijn. Voordat je kijkt, is er 50 procent kans op rood en 50 procent kans op blauw. Maar zodra je ziet dat het ene deeltje rood is, dan weet je zeker dat het andere deeltjes vanaf dat moment blauw is. Volgens het lokale realisme is dit spookachtige gedrag schijn:  in werkelijkheid ligt de kleur al vast. 
+De Ierse natuurkundige John Bell bedacht dat door de eigenschappen van een grote hoeveelheid verstrengelde deeltjes te meten met willekeurig gekozen meetinstellingen, de resultaten anders zijn wanneer de quantummechanica gelijk heeft dan wanneer er lokaal realisme speelt. Zo gebruikten de onderzoekers de quantum-gamers om wederom aan te tonen dat Einstein ongelijk had. 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Standards + Measurements (94%); Physics (80%); Experimentation + 
+Research (63%); Pollution + Environmental Impacts (62%)
+Industry: Computing + Information Technology (89%); Computer + Electronics Mfg (69%)
+Load-Date: May 11, 2018
+Page 2 of 3
+Gamers bewijzen Einsteins ongelijk
+
+End of Document
+Page 3 of 3

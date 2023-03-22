@@ -1,0 +1,60 @@
+Lichtdeeltjes in de flipperkast
+NRC Handelsblad
+16 July 2016 zaterdag
+Copyright 2016 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 8
+Length: 1263 words
+Byline: Bruno van Wayenburg
+Body
+
+ABSTRACT
+Natuurkunde Fotonen schieten door een verfdruppel als kogels in een flipperkast. Twentse onderzoekers ontdekten hierbij een bijzonder quantum-effect. Ze maakten van de druppel een lens, waarmee je mogelijk in menselijk weefsel kunt kijken. 
+Anderhalf jaar, zo lang heeft promovendus Tom Wolterink gebouwd aan zijn opstelling, een drukke wirwar van lasers, spiegeltjes, lenzen en andere optische apparatuur op een tafel in een donker deel van een  laboratorium aan de Universiteit Twente in Enschede.
+Alles moet heel perfect uitgelijnd zijn , zegt Wolterink, dit samen met samen met postdoc Ravitej Uppu deed. Het gaat soms om nanometers. Als er ook maar iets afwijkt, werkt het niet meer. Ik heb het heel gestaag opgebouwd. Ja, ik ben wel een Pietje Precies. 
+Het hart van zijn opstelling, het punt waar alle strak afgerichte laserbundels samenkomen, is een druppeltje verf. Als een lichtdeeltje, een foton, de druppel ingaat kaatst het daar rond als een kogel in een flipperkast. Het is een dronkemanswandeling , zegt Pepijn Pinkse. Hij is de begeleider van Wolterink en adjunct-hoogleraar toegepaste nanofotonica aan het Mesa+ instituut voor Nanotechnologie. Zijn groep bestudeert hoe licht, tot op het niveau van fotonen, zich in zo n verfdruppel  gedraagt. En hoe dat gedrag is te beïnvloeden en te controleren.
+Onlangs stuitten ze, onverwachts, op een subtiel en bevreemdend quantummechanisch effect. Normaal kunnen fotonen dwars door elkaar heen gaan, en dan voelen ze elkaar niet.  Maar in de Twentse opstelling leken ze elkaar wél te voelen, en elkaar te mijden.  Wolterink, Pinkse en collega s beschreven het effect in Physical Review (11 mei).
+Om dat complexe effect uit te leggen heeft Pinkse een paar stappen nodig.  Het begint ermee dat hij  een stukje melkwit correctietape op de voorkant van zijn laserpointer plakt. Dit stukje tape is net als de verfdruppel een  lichtverstrooier , zegt hij. Het scherpe rode laserlichtstraaltje was aanvankelijk een keurig bundeltje van in de pas lopende lichtgolven. Maar binnenin het stukje tape waaieren ze  alle kanten op, zodat ze met elkaar interfereren: in sommige richtingen doven de overlappende lichtgolven elkaar uit, in andere versterken ze elkaar juist.
+Wat eerst nog een laserpointer-stipje op het tafelblad was, is nu een brede wolk van rode spikkels geworden. Pinkse: Speckle heet dat. Dit zou je   ook moeten kunnen omdraaien. Als ik begin met die spikkels, en ik jaag ze door een stuk tape, zou ik aan de andere kant in theorie weer een laserbundel moeten kunnen krijgen. 
+Bundeldeler
+Nou bestaat er  een optische component die een beetje doet wat hierop lijkt, zegt Pinkse, die bij de volgende stap van zijn uitleg is. Het heet een Spatial Light Modulator, een SLM. Het is een  klein LCD-schermpje van 2 bij 2 centimeter, met zo n duizend los aanstuurbare pixels. Elk kan het front van een lichtgolf wat naar voren of naar achteren schuiven. 
+Terug naar de opstelling van Wolterink. Vóórdat hij het laserlicht door de verf stuurt, gaat het eerst door een SLM. Die is zo ingesteld dat het lichtgolvenfront wordt vervormd op een manier die exact  tegenovergesteld is aan de vervorming in het laagje verf. Het resultaat is dat het licht, nadat het door  SLM en verf is gegaan, weer een geordende bundel is.
+Zo kan een klontje verf, in een slimme combinatie met een SLM, zelfs  als lens werken. Elke SLM-pixel wordt zó ingesteld dat het licht aan het eind van de rit in één punt zo intens mogelijk is. Als op die manier alle pixels optimaal zijn ingesteld, komen alle lichtgolven in dat ene punt samen. Met SLM s hebben de Twentenaren inderdaad verfvlekken als lens gebruikt. Je zou het kunnen gebruiken om binnenin menselijk weefsel te speuren.
+Pinkse komt bij de volgende stap: Ik realiseerde me dat je al die trucs ook met twee bundels invallend licht kunt doen, die via twee SLM s van verschillende kanten op de verf vallen , zegt hij. Daarmee wordt een plakje verf opeens een soort bundeldeler, een optische component waarmee twee lichtbundels met elkaar gecombineerd worden. 
+Normaal gesproken zijn bundeldelers halfdoorlatende spiegels. Een lichtbundel die daar onder een hoek van 45 graden invalt, wordt voor de helft doorgelaten en voor de helft weerspiegeld (en levert dus twee bundels op, vandaar de naam  bundeldeler ). Wanneer er twee bundels licht op een bundeldeler vallen, kunnen de uitgaande lichtgolven op allerlei manieren met elkaar worden gecombineerd. Ze doven elkaar uit, versterken elkaar juist, of alles wat daar tussenin zit.
+Dit levert intuïtief rare quantumeffecten op. Een voorbeeld is het Hong-Ou-Mandeleffect (HOM). Als twee lichtgolven van dezelfde golflengte op een halfdoorlatende spiegel vallen, wordt, afhankelijk van de precieze instellingen, één van de twee uittredende golven opgeheven. Met  licht als golven is dat nog wel te begrijpen als interferentie van lichtgolven , zegt Pinkse. Dat is eerstejaarsstof. 
+Eigenaardiger is dat het effect blijft als de lichtintensiteit teruggedraaid wordt, totdat er losse fotonen of lichtdeeltjes op de spiegel vallen. Pinkse: Als twee fotonen precies op hetzelfde moment aankomen, en ook verder hetzelfde zijn   zelfde golflengte, zelfde polarisatie   gebeurt er iets raars: óf ze komen er samen aan de ene kant uit, óf aan de andere kant, maar altijd met zijn tweeën. Dat is vreemd, want normaal gesproken gaan twee losse fotonen dwars door elkaar heen zonder elkaar te voelen.  Het HOM-effect, voor het eerst aangetoond in 1987, is inmiddels een soort standaardtest voor quantumgedrag van licht.
+Altijd alleen
+Pinkse kwam op het idee om de verflaag-met-twee-lichtbundels te gebruiken als bundeldeler: je kunt er twee lichtbundels in combineren. Dus lag het voor de hand om te kijken of het HOM-effect ook hier van toepassing is: in plaats van op het spiegeloppervlak interfereren de losse fotonen al kaatsend in de verf met elkaar.
+Voor quantumeffecten heb je meestal zeer precies beheerste omstandigheden nodig, en de wanorde in de verf is verre van beheerst. Dus het was afwachten of het werkte, maar uiteindelijk deed het dat wel. Al was het niet helemaal op de manier die we verwachtten , zegt Pinkse. De uittredende fotonen gingen namelijk niet strikt samen zoals het HOM-effect vereist, maar juist altijd apart: in plaats van altijd met zijn tweeën waren ze altijd alleen. Pinkse: Ze leken wel elkaar te vermijden. 
+Na wat rekenen viel dat schijnbare anti-HOM-effect uiteindelijk goed te begrijpen, maar het opmerkelijke is dat je zo n bundeldeler op geen enkele andere manier kunt maken . De klodder verf kan dus een halfdoorlatende spiegel nabootsen, maar biedt ook exotischer mogelijkheden, die een spiegel niet heeft. Al weet Pinkse nog niet direct toepassingen.
+BeveiligingVerf op pasje
+Een nieuwe beveiligingsmethode, gebaseerd op de manier waarop licht door een verflaagje valt. Daarover publiceerden de Twentse hoogleraren nanofotonica Allard Mosk en Pepijn Pinkse, en collega s, in 2014.
+De techniek is te gebruiken op  toegangspasjes. Op dat pasje zit dan een matwit vierkantje verf. Bij het scannen valt er een lichtpuls op de verflaag.
+Maar eerst wordt die puls vervormd door een Spatial Light Modulator, een  LCDschermpje  met aanstuurbare pixels die het front van een lichtgolf naar voren of naar achteren kunnen schuiven. Als de lichtpuls de SLM is gepasseerd valt hij op de verflaag, kaatst terug, en  gaat dan door nóg een SLM. Alleen als het verstrooiingspatroon van het licht in de verf precies opgeheven wordt door de werking van beide SLMs, geeft dat een mooi gefocusseerde lichtbundel. En alleen dán gaat het slot open.
+Graphic
+
+ 
+Tom Wolterink (links) en Ravitej Uppu, die samen onderzoek deden, in een laboratorium van de Universiteit Twente. Boven: opstelling met lasers, spiegeltjes, lenzen, waarmee licht op een slimme manier door verf wordt gestuurd.
+Foto s Merlin Daleman
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Industry: Paints + Coatings (94%)
+Load-Date: July 16, 2016
+
+End of Document
+Lichtdeeltjes in de flipperkast
+
+Lichtdeeltjes in de flipperkast
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

@@ -1,0 +1,34 @@
+Microsoft en TU Delft werken samen aan quantumcomputer
+de Volkskrant
+3 juni 2011 vrijdag
+Copyright 2011 PCM Uitgevers B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 13
+Length: 317 words
+Byline: Van onze verslaggever Martijn van Calmthout
+Body
+
+Van onze verslaggever
+Martijn van Calmthout
+DELFT Microsoft steekt een miljoen euro in Nederlands onderzoek naar onderdelen voor quantumcomputers. Het contract voor de deal, waarbij ook fysica-financier FOM een miljoen bijlegt, wordt binnenkort getekend in het kader van een industrieel partner programma (IPP).
+Met het geld gaat de groep van Spinozaprijswinnaar prof. Leo Kouwenhoven aan de TU Delft de komende twee jaar kunstmatige deeltjes met exotische eigenschappen ontwikkelen, die kunnen dienen als bits van een toekomstige quantumcomputer. De deeltjes ontstaan onder bepaalde omstandigheden op chips met nanostructuren.
+Quantumcomputers zijn veel krachtiger dan gewone digitale computers doordat ze talloze berekeningen tegelijkertijd uit kunnen voeren.
+Daartoe werken ze niet met digitale enen en nullen, maar ook met alle tussenvormen. Quantumdeeltjes hebben van nature niet één toestand, maar een hele reeks mogelijke toestanden. Ze zijn daarom geschikt als bits voor quantumrekenen.
+Kouwenhoven werd vorig najaar benaderd door experts van Microsoft in Santa Barbara, naar aanleiding van zijn reeks artikelen uit 2006 in Science en Nature over exotische quantumtoestanden in ragfijne indium-arsenidenaaldjes.
+Daarin zijn in theorie kunstmatige quantumdeeltjes op te roepen die relatief ongevoelig zijn voor storingen. Eerdere quantumbits werkten alleen bij extreme koeling en in isolement, onpraktisch voor een computer.
+Microsoft en TU Delft werken samen aan quantumcomputer
+Kouwenhoven gaat eerst proberen aan te tonen dat zulke stabiele kunstmatige deeltjes werkelijk bestaan en dat zij de gezochte eigenschappen hebben. Ook uit fundamenteel oogpunt is dat cutting edge science, zegt de groepleider: 'Voor ons was dat destijds leuk fundamenteel onderzoek waarmee we na de publicaties wel zo'n beetje klaar waren. Nu pakken we snel de draad weer op.'
+Zaterdag Meer in Wetenschap
+Het vervolg op ons fundamenteel onderzoek Leo Kouwenhoven Spinozaprijs-winnaar
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: De Volkskrant
+Subject: Educational Institution Employees (67%)
+Company:  MICROSOFT CORP (90%)
+Industry: Computing + Information Technology (94%)
+Load-Date: June 2, 2011
+
+End of Document
+Page 2 of 2

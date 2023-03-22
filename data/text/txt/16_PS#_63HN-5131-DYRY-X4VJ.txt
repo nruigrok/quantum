@@ -1,0 +1,62 @@
+'We moeten leren ontwerpen zonder fossiele grondstoffen'
+Trouw
+4 september 2021 zaterdag
+Copyright 2021 DPG Media B.V. All Rights Reserved
+
+Section: | Wetenschap; Blz. 16, 17
+Length: 1240 words
+Byline: JOEP ENGELS
+Highlight: Spinozalaureaat Marc Koper ziet de elektro-chemie opbloeien omdat voor veel processen duurzame alternatieven worden gezocht.
+Body
+
+Spinozapremie interview
+Marc Koper (1967) is hoogleraar katalyse en oppervlaktechemie aan de Universiteit Leiden. Hij bestudeert processen waarbij elektrische energie wordt gebruikt om chemische bindingen te maken of te verbreken. Met deze aanpak kunnen op een duurzame manier producten als brandstoffen, plastics of kunstmest worden gemaakt uit bijvoorbeeld kooldioxide, water en stikstof. Koper richt zich vooral op fundamentele vragen: hoe verlopen de processen en waardoor wordt hun efficiëntie beïnvloed? 
+"Het mooiste voorbeeld uit de elektrochemie is een proef die veel mensen van de middelbare school kennen: de elektrolyse van water. Neem een bak met water, steek er twee stukjes metaal in en sluit die aan op een spanningsbron. Er gaat een stroom lopen en als gevolg daarvan worden de watermoleculen gesplitst. Bij de ene elektrode komt waterstof vrij, bij de andere zuurstof. 
+"Het is op het oog een heel simpele reactie. Er wordt elektrische lading overgedragen, maar hoe? Het gebeurt op het grensvlak van het metaal, maar niet op het gladde deel ervan. We weten dat de meeste reactiviteit plaatsvindt op de ruwe stukken, bij de defecten. Bij die rafelranden hebben de atomen kennelijk meer vrijheid of bindingsenergie over, maar heel precies begrijpen we het nog niet. En al helemaal niet hoe je dan de elektrolyse efficiënter zou kunnen maken. 
+"Om daar een vinger achter te krijgen verzamel ik eerst zo veel mogelijk informatie. Ik stuur een elektrische stroom door het systeem, beschijn het met soorten licht, houd het onder een atomaire microscoop. De informatie die ik daaruit haal, combineer ik met quantummechanische berekeningen. En zo kom ik tot een idee: dit is aannemelijk, dat minder. Dit aspect is belangrijk, dat niet. 
+"Vindt u dat rommelig? Het is een aanpak die ik van fysici heb geleerd. Zij brengen een proces dat ze niet begrijpen terug tot de kale essentie. Daarom begin ik altijd met een simpele opstelling, met elektroden bijvoorbeeld van zuiver en zeer geordend metaal. Daarvan ken ik de structuur en weet ik waar de individuele atomen zitten. Van zo'n eenvoudige proef leer je veel, maar vroeg of laat kom je tot de ontdekking dat de werkelijkheid ingewikkelder in elkaar steekt. Welkom in de wereld van de chemie, zeg ik dan."
+Chaostheorie
+"Chemici hebben een ingebouwd respect voor de complexiteit der dingen. Daar zit ook een gevaar in. Chemische kennis is veelal empirisch. Daar zijn we heel ver mee gekomen, maar daardoor is de neiging soms groot om te zeggen: dat is nu eenmaal zo. Als je inzoomt op het probleem, blijkt dat we het vaak helemaal niet zo goed snappen. 
+"Omdat ik veel met fysici heb gewerkt, heb ik geleerd beide werelden te combineren. Geleerd orde te scheppen in de chaos. Complexiteit is vaak het gevolg van iets kleins, iets simpels. Dat is het mooie van dit vak. Als het me lukt om te achterhalen waar de complexiteit in essentie op neerkomt, ben ik supergelukkig. 
+"Elektrochemie heeft altijd een stoffig imago gehad. Het is niet bepaald een richting waar studenten voor kiezen. Zelf ben ik er ook per toeval ingerold. Ik had in mijn studietijd een fascinatie voor de chaostheorie. Systemen die aan simpele vergelijkingen voldoen en toch volledig kunnen ontsporen. Zoekend naar een afdeling om bij af te studeren kwam ik bij de hoogleraar elektrochemie terecht. Hij had wel enkele onderwerpen liggen, maar hij raadde het me af. Zulke ontsporende systemen zijn veel te moeilijk. We spraken af dat ik er twee maanden mee mocht experimenteren. Het ging best goed. Ik heb er ook nog mijn promotie aan gewijd. 
+"Gaandeweg kreeg ik echter door dat in die chaostheorie geen carrière school. En ik raakte steeds meer gefocust op de elektrochemie. Ik begon te snappen dat het daar vaak aan een theoretische onderbouwing ontbrak. Ik heb er in Duitsland mijn postdoc in gedaan en ging toen, met wat geluk, naar Eindhoven op een zogeheten KNAWfellowship (een beurs van de Koninklijke Akademie van Wetenschappen, red.) in de elektrochemische katalyse. 
+"Ik ben zelf geen ingenieur: ik ben geen bouwer, ik wil fundamentele vragen stellen. Het is lastig om daar op een technische universiteit de studenten voor te vinden. Dus toen ik in 2005 het aanbod kreeg om in Leiden hoogleraar te worden, heb ik dat met beide handen aangegrepen. Daar kon ik geheel mijn eigen gang gaan. 
+"Juist in die tijd werd de elektrochemie booming. In de chemische industrie begon het besef door te dringen dat men niet op de oude voet kon doorgaan. Waterstof bijvoorbeeld is een belangrijke grondstof bij de productie van kunstmest. Dat wordt nu uit aardgas gewonnen. De kunstmestindustrie is daardoor een van de grootste bronnen van CO2-uitstoot. Dat moet anders."
+Spieken bij de natuur
+"Eigenlijk is de hele chemische industrie gebaseerd op fossiele grondstoffen. Aardgas, olie: we maken er plastics van, medicijnen. Dat zullen we allemaal opnieuw moeten ontwerpen. Uit CO2 en water bijvoorbeeld. Dat kunnen we vaak al, maar voorlopig wint de fossiele aanpak nog. Het is nog veel te goedkoop om die CO2 maar gewoon in de atmosfeer te laten verdwijnen. 
+"Wij werken ook aan de brandstofcel. Daarin worden waterstof en zuurstof omgezet in water en benut je de overdracht van de elektrische lading om bijvoorbeeld een motor aan te drijven. In vergelijking met een batterij heeft de brandstofcel veel potentie. In een batterij zit de energie opgeslagen in het batterijmateriaal zelf. Een brandstofcel haalt de zuurstof uit de lucht, je hoeft er alleen een waterstoftank op aan te sluiten. Daardoor is de cel per hoeveelheid energie veel lichter. 
+"De waterstofcyclus is helaas niet zo efficiënt als een herlaadbare batterij. Bij het maken van waterstof en vervolgens weer gebruiken gaat de helft van de energie verloren. Daar is theoretisch niet zo heel veel aan te verbeteren, maar dat is ook niet per se heel erg. Zolang we de overtollige energie van windmolens of zonnepanelen maar op grote schaal kunnen opslaan. En waterstof hebben we sowieso nodig. 
+"Aan de duurzaamheid van de cel is wel het een en ander te verbeteren. De elektrodes zijn nu doorgaans van platina. Dat mag dan een superedelmetaal zijn, na een paar jaar moet je ze vervangen. Het platina is opgelost of gecorrodeerd; wij proberen te begrijpen wat er precies met dat platina gebeurt. Hoe kunnen we de levensduur verlengen? Inmiddels heeft het vak die van twee naar vijf jaar kunnen opkrikken. 
+"Dat is al een heel eind, maar we zijn er nog niet. Als we deze wereld met zeven, en straks misschien tien miljard mensen leefbaar willen houden, zullen we alles moeten recyclen. Alle reststoffen zoals CO2 opnieuw benutten, gebruikmakend van de elektrische energie uit zon en wind. 
+"Wat zegt u? Kijken naar de natuur? Het is waar, een boom zet ook CO2 met behulp van zonlicht om in energiedragers zoals suikers. Maar efficiënt is die omzetting niet, wij zullen dat veel beter moeten doen. We kunnen wel een beetje spieken. De natuur zet stappen die ik ook zou willen kunnen maken. Enzymen zijn vaak veel te groot voor een brandstofcel, maar ze kunnen reacties voor elkaar krijgen waar we in het lab nog niet toe in staat zijn. Hoe kan ik dat nabootsen? Dat is een van mijn drijfveren."
+'Als we deze wereld leefbaar willen houden, zullen we alles moeten recyclen'
+'In de chemische industrie drong het besef door dat men niet op de oude voet kon doorgaan'
+'De natuur zet stappen die ik ook zou willen kunnen maken'
+Bekijk de oorspronkelijke pagina: pagina 16, pagina 17
+Graphic
+
+ 
+Hoogleraar Marc Koper.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Minor Metals Markets (81%); Environment + Natural Resources (74%); 
+Alternative Fuel Vehicles (73%)
+Industry: Energy + Utilities (94%); Fuel Cell Technology (87%); Oil + Gas Industry 
+(84%); Manufacturing (73%); Alternative + Renewable Energy (70%); Metal Ore Mining (61%)
+Load-Date: September 3, 2021
+
+End of Document
+'We moeten leren ontwerpen zonder fossiele grondstoffen'
+
+'We moeten leren ontwerpen zonder fossiele grondstoffen'
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

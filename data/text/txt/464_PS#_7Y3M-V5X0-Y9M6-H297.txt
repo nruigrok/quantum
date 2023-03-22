@@ -1,0 +1,52 @@
+Schemerlamp
+NRC Handelsblad
+27 maart 2010 zaterdag
+Copyright 2010 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 7
+Length: 956 words
+Byline: Bennie Mols
+Body
+
+SAMENVATTING
+Quantumdots die alle zichtbare kleuren in zonlicht uitstralen maken de LED-lamp sfeervol. Bennie Mols
+VOLLEDIGE TEKST:
+Het Amerikaanse bedrijf QD Vision brengt een lichtgevend filter op de markt dat blauw LED-licht omzet in sfeervol wit licht. Dit licht lijkt veel beter op het vertrouwde gloeilamplicht dan conventioneel wit LED-licht, dat kil overkomt. Het lichtgevend filter ziet eruit als een zeshoekig plaatje en wordt binnenkort door het eveneens Amerikaanse bedrijf Nexxus geïntegreerd met een LED-lamp verkocht. Deze Quantum LED biedt een alternatief voor de met fosforen gecoate witte LED's die vele andere fabrikanten al op de markt brengen.
+De truc van het lichtgevend filter zit in kleine klompjes halfgeleiderkristal, zogeheten quantumdots. Deze quantumdots zetten de ene kleur licht met grote efficiëntie om in de andere (fotoluminescentie). Hun diameter bepaalt welke kleur ze uitzenden. Hoe groter de quantumdot, hoe minder energierijk en roder het uitgezonden licht. Het grote voordeel van quantumdots is dat ze elke kleur uit het zichtbare lichtspectrum kunnen uitzenden.
+QD Vision, een spin-off van het Massachusetts Institute of Technology, maakt quantumdots van cadmiumselenide, met een omhulsel van zinksulfide. Een quantumdot van twee nanometer zendt bij aanstraling blauw licht uit, een van vier nanometer groen licht en een van zes nanometer rood licht (een nanometer is een miljoenste millimeter). Cadmiumselenide geeft momenteel de meest efficiënte lichtomzetting, maar bevat helaas wel het schadelijke cadmium. Cadmiumvrije quantumdots die dezelfde efficiëntie halen, zijn echter in aantocht. Indiumfosfide is daarvoor een goede kandidaat.
+TRUC QD Visions lichtgevend filter bestaat uit twee dunne glasplaatjes met daar tussenin de quantumdots, één milligram in totaal. De truc is om quantumdots van verschillende afmetingen met elkaar te combineren en zo verschillende kleuren licht met elkaar te mengen. Laat blauw LED-licht - het meest energierijke zichtbare licht - op de quantumdots vallen en ze zenden bij elkaar genomen wit licht uit met een veel rijkere kleurschakering dan dat van conventioneel wit LED-licht.
+Nanowetenschapper Erik Bakkers, voormalig onderzoeker bij Philips en sinds een paar maanden universitair hoofddocent aan de TU Eindhoven, noemt deze oplossing voor het kleurprobleem van conventioneel wit LED-licht 'elegant'. "Bij bestaand wit LED-licht, valt blauw LED-licht op fosforiserende materialen, die piekjes van geelachtig licht aan het blauwe LED-licht toevoegen. Het resultaat is dan een kil soort wit licht. Met quantumdots hebben ze een heleboel piekjes aan het kleurspectrum toegevoegd en zo benaderen ze het kleurspectrum van zonlicht beter."
+KLEURSCORE
+QD Vision claimt dat zijn quantumdots minder licht verloren laten gaan dan een coating van fosforen, maar het geeft geen cijfers over de efficiëntie. Bakkers vermoedt dat het zo'n negentig procent kan zijn. Dan zou dus slechts tien procent van de energie verloren gaan. En hoe zit het met de kleurscores? Als zonlicht een kleurscore van 100 heeft, dan scoort gloeilamplicht tussen 95 en 100 en gewoon wit LED-licht tussen 75 en 80. Maar de kleurscore van LED-lampen wordt steeds beter. De Pharox 300 van de Nederlandse fabrikant Lemnis zou al 90 halen. De Quantum-LED haalt een kleurscore van 91, waarbij hij wel zo'n twintig procent meer lichtopbrengst (in lumen per watt) zou leveren dan de Pharox 300. De Quantum-LED verbruikt 11 watt en levert een vergelijkbare lichtprestatie als een 15 watt-spaarlamp of een 70-watt gloeilamp. Hij zou vijftigduizend uur moeten meegaan, tegenover tienduizend voor een spaarlamp.
+KOSTEN In theorie levert hij dus een mooie prestatie qua lichtopbrengst, kleur en levensduur. Maar hoe zit het met de kosten? De Quantum-LED-lamp werd begin maart officieel gepresenteerd en moet binnenkort op de Amerikaanse markt verschijnen. Naar verwachting gaat hij zo'n honderd dollar kosten, ofwel ruim zeventig euro (de Pharox 300 kost minder dan de helft). Flink aan de prijs dus. Hij gaat een kleine zes jaar mee wanneer hij continu brandt. In dezelfde tijd heb je vijf spaarlampen nodig. Pas na zo'n vijf jaar heb je dan de Quantum-LED-lamp terugverdiend. Alleen als je installatiekosten voor de spaarlampen zou meerekenen, dan verdien je hem eerder terug. De lamp is dan ook niet bedoeld voor de gewone consument, maar voor bijvoorbeeld grootverbruikers die honderden lampen moeten installeren die ook nog het merendeel van de tijd branden.
+DISPLAYS
+Quantumdots voor de lichtmarkt zijn in opkomst. Een tweede ontwikkeling is om quantumdots te maken die, gevoed door elektriciteit, zelf als een LED licht gaan geven (elektroluminescentie in plaats van fotoluminescentie). Helaas halen elektroluminescente quantumdots nu nog slechts een energie-efficiëntie van vijftien procent. "Dat is leuk academisch onderzoek, maar ik geloof niet dat je daarmee een efficiënte LED kunt maken", zegt Erik Bakkers. "Wel kun je elektroluminescente quantumdots goed gebruiken voor het maken van displays. Conventionele LCD-schermen, waarin bronlicht op een kristalfilter schijnt, laten maar zo'n vijftien procent van het licht door. Een scherm dat het licht niet filtert, maar zelf de juiste kleuren uitzendt, zou veel efficiënter kunnen zijn."
+Bakkers verwacht dat quantumdots de komende jaren de displaymarkt zullen binnendringen. Zo coat het Amerikaanse bedrijf Nanosys nu al blauwe LED's met quantumdots om ze te gebruiken als witte lichtbron in LCD-schermen. Om dezelfde lichtopbrengst te halen als traditionele witte LED's, zou maar de helft van de energie nodig zijn. Afgelopen januari heeft Nanosys al een contract afgesloten met LG Electronics voor het gebruik van quantumdot-displays in mobiele telefoons.
+Graphic
+
+ 
+Boven en links LED-lampen van het Amerikaanse bedrijf QD Vision. Linksonder  Zeshoekig glasplaatje met minuscule kristallen van cadmiumselenide: quantumdots. Rechts  Quantumdots in oplossing. De diameter van de dots bepaalt de kleur van het uitgezonden licht.  
+Foto's QD Vision & Nexxus Lighting  Inc
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Nanotechnology (69%)
+Organization: MASSACHUSETTS INSTITUTE OF TECHNOLOGY (56%)
+Industry: Computer Equipment (94%); Paints + Coatings (70%); Manufacturing (67%); Entertainment + Arts (64%)
+Load-Date: March 27, 2010
+
+End of Document
+Schemerlamp
+
+Schemerlamp
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

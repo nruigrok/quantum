@@ -1,0 +1,60 @@
+Domper voor quantumcomputer Delft
+de Volkskrant
+5 februari 2021 vrijdag
+Copyright 2021 DPG Media B.V. All Rights Reserved
+
+Section: Ten Eerste; Blz. 3
+Length: 1035 words
+Byline: STAN VAN PELT
+Highlight: Een megadeal met Microsoft, de koning die zijn lab opende, de hoogste wetenschappelijke onderscheiding: dat kreeg Leo Kouwenhoven allemaal voor elkaar. Maar zijn droom van een doorbraak bij het quantumrekenen lijkt aan diggelen.
+Body
+
+Twee stappen vooruit, één achteruit. Dat is gebruikelijk in de wetenschap. Maar de stap achteruit die de Delftse hoogleraar Leo Kouwenhoven en zijn onderzoeksgroep nu moeten zetten is wel een heel pijnlijke. Kouwenhoven is een van de internationale sterren van de quantumcomputer, de computer van de toekomst die de rekenprestaties van de huidige supercomputers moet verpulveren. Een megadeal met Microsoft, koning Willem-Alexander die zijn lab opent, de hoogste onderscheiding van de Nederlandse wetenschap (de Spinozapremie): Kouwenhoven bokste het allemaal voor elkaar. 
+Nu trekken zich donkere wolken samen boven zijn gedroomde machine, en dat zit hem in een publicatie over een mysterieus majarona-deeltje; het had een bouwsteen van die toekomstige computers moeten worden. 
+In 2012 plopten de champagneflessen. Zijn groep vond aanwijzingen dat het gelukt was zulke majorana's te maken, zes jaar later volgde het 'definitieve' bewijs. Dat bewijs blijkt nu boterzacht, schrijven de onderzoekers zelf in een nieuwe publicatie. 
+Een majorana is een bijzonder geval in de 'dierentuin' aan elementaire deeltjes. Volgens natuurkundige wetten heeft elk deeltje een antideeltje met tegenovergestelde kenmerken. Majorana's zijn echter identiek aan hun antideeltjes en die unieke eigenschap maakt ze minder gevoelig voor verstoringen. Daardoor zijn ze interessant om te gebruiken als qubits - de rekeneenheden van quantumcomputers. Waar de bits in normale computers alleen de waardes nul óf een kunnen hebben, kunnen qubits tegelijk nul én een zijn. 
+Door die bizarre eigenschap, die volgt uit de wetten van de quantumfysica, kunnen quantumcomputers prestaties leveren waartegen zelfs die van de huidige supercomputers mager afsteken. Ongekend veel toepassingen liggen dan in het verschiet, van betere klimaatmodellen tot het ontwerpen van revolutionaire medicijnen. 
+Bedrijven als Google maken al prototypen van quantum-pc's, op basis van andere soorten qubits. Door de relatief stabiele majorana's te gebruiken in een eigen type qubit hoopt Microsoft in de toekomst de concurrentie, die een voorsprong heeft, de loef af te steken. 
+Maar de majorana's uit Delft staan op losse schroeven, rapporteren de ontdekkers na heranalyse van de meetgegevens, in een artikel op Arxiv (een site voor natuurkundeonderzoek). En ze gaan het Nature-artikel intrekken. 
+Daarmee is een basis weggeslagen onder een mogelijke quantumcomputer op basis van majorana's, zegt Christian Schönenberger, hoogleraar quantumfysica aan de universiteit van Basel en niet bij het onderzoek betrokken, desgevraagd. 'Het is de vraag of het ooit zal lukken die te maken.' 
+In april maakte het wetenschappelijk tijdschrift Nature bekend dat er mogelijk iets mis was met de bevindingen uit 2018. Hoe de problemen boven zijn komen drijven, is niet helemaal duidelijk. Nature schreef dat de wetenschappers zelf zeiden te twijfelen of de meetgegevens op de juiste manier geanalyseerd waren. Op Arxiv zeggen de auteurs dat de problemen hun 'onder de aandacht gebracht werden'.
+Nano-hotdog
+Vanwege de zorgen rond de publicatie begon ook een wetenschappelijke integriteitscommissie van de TU Delft een onderzoek. Dat is nog gaande. 
+In het experiment uit 2018 maakten Kouwenhoven en zijn collega's een soort nanohotdog (1 nanometer is een miljoenste van een millimeter) waarbij een halfgeleidend draadje deels bedekt wordt door supergeleidend materiaal. Bij iets boven het absolute nulpunt van -273 graden Celsius zouden aan beide uiteinden van die hotdog tegelijk twee majorana-deeltjes zijn ontstaan. 
+Het signaal dat volgens Kouwenhovens team wees op de aanwezigheid ervan kan net zo goed een andere oorsprong hebben, blijkt uit het artikel op Arxiv. 'Het problematische is dat je met de gebruikte testopstelling niet kunt onderscheiden of je een echte majorana meet of een soort nep-majorana', legt hoogleraar Schönenberger uit via Zoom. 'Het kan zelfs gewoon meetruis zijn geweest, schrijven de auteurs.' 
+De vraag is of de auteurs, onder aanvoering van Hao Zhang, die de experimenten uitvoerde, dit in 2018 niet al door hadden moeten hebben. Misschien, zegt Schönenberger, maar destijds had iedereen hooggespannen verwachtingen. De huidige ontwikkelingen benadrukken volgens hem hoe belangrijk het is dat wetenschappers hun onderzoeksgegevens openbaren.
+Voortschrijdend inzicht
+'Achteraf waren we wellicht collectief wat te enthousiast, als onderzoeksveld', denkt ook zijn collega Piet Brouwer, hoogleraar quantumfysica aan de Freie Universität Berlin en evenmin bij de experimenten betrokken. Het is goed dat de onderzoeksgroep zelf de nieuwe conclusies naar buiten brengt, zegt hij aan de telefoon. 'Het is een vorm van voortschrijdend inzicht, dat hoort bij de wetenschap.' 
+Kouwenhoven wil pas reageren als het Arxiv-artikel (dat nog formeel door vakgenoten beoordeeld moet worden) is verschenen in een vakblad. 
+Het is nog geen einde verhaal voor een Microsoft-quantumcomputer. Delftse onderzoekers werken ook aan andere type qubits, zonder majorana's.
+De man die de mysterieuze majoranadeeltjes al in 1937 voorspelde. Ook hij verdween ineens
+Majorana-qubits hebben hun naam te danken aan Ettore Majorana (1906-1938). Deze Italiaanse natuurkundige voorspelde in 1937 dat er deeltjes moesten bestaan die bijzonder gedrag vertonen. Hoewel die majorana-deeltjes zelf nooit in experimenten zijn gevonden, leek het tot voor kort alsof Kouwenhoven er desondanks in geslaagd was ze in zijn lab na te bouwen en gebruiken. 
+Het leven van Ettore Majorana is minstens zo mysterieus als de quantummechanica zelf, waaraan hij werkte. Op zijn 31ste werd Majorana hoogleraar in Napels, om een jaar later in het niets te verdwijnen - als twee botsende deeltjes in de quantummechanica. Eind maart 1938 nam hij de boot naar Sicilië, daarna is nooit meer iets van hem vernomen. Achtergelaten brieven duidden op zelfdoding, maar in de jaren vijftig waren er geruchten dat de Italiaan in Zuid-Amerika zou verblijven. Anderen speculeerden weer dat hij - als diepgelovig katholiek - monnik werd en de goddeloze natuurkunde achter zich wilde laten.
+Majorana's mogelijk toch niet gezien, zeggen de onderzoekers zelf na heranalyse van hun meetgegevens
+Bekijk de oorspronkelijke pagina: pagina 3
+Graphic
+
+ 
+Leo Kouwenhoven in 2015. Zijn ontdekking dat majoranadeeltjes quantumrekenen dichterbij zouden kunnen brengen, staat op losse schroeven.
+Ettore Majorana
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Educational Institution Employees (67%); Physics (62%)
+Industry: Computing + Information Technology (94%)
+Load-Date: February 4, 2021
+
+End of Document
+Domper voor quantumcomputer Delft
+
+Domper voor quantumcomputer Delft
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

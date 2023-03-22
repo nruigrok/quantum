@@ -1,0 +1,45 @@
+Nieuwe led geeft licht én energie
+NRC.NEXT
+11 February 2017 nn zaterdag
+Copyright 2017 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 28
+Length: 457 words
+Byline: Bruno van Wayenburg
+Body
+
+ABSTRACT
+techniek
+Een Amerikaans team heeft iets nieuws ontwikkeld op beeldschermgebied: leds die licht afgeven én invallend licht omzetten in energie.   
+Je zou zeggen dat schermpjes van smartphones, tablets en andere computers wel zo'n beetje uitontwikkeld zijn: heldere kleuren, resoluties en snelheden fijner dan het oog kan onderscheiden, en complexe multitouch-aanraakmogelijkheden.
+Toch publiceren Moonsub Shim van de University van Illinois in de VS en collega's een nieuwigheid in Science: lichtgevoelige pixels. Dat zijn kleine leds die licht uit kunnen zenden, maar ook de intensiteit kunnen meten van invallend licht, en daar zelfs energie uit  halen.
+In Science beschrijft Shims groep hoe ze lichtgevoelige pixels gemaakt hebben van dubbele-heterojunctie-nanobuisjes (double heterojunction nanorods, DHNR). 
+DHNRs zijn een variant van Quantum Dots, die sinds de jaren negentig furore maken in de materiaalkunde. Quantum Dots zijn korrels van halfgeleidermateriaal van slechts een paar nanometer doorsnede, waarin een enkel elektron opgesloten kan worden. Ze zijn gevoelig voor licht van een specifieke golflengte.
+Nieuwe led geeft licht én energie
+In 2014 publiceerde Shim al over een nieuw type leds, gemaakt met DHNR's, die bestaan uit een quantumdot van cadmiumselenide die vastzit aan de uiteinden van nanobuisjes van cadmiumzwavel. 
+Nu laat de groep zien dat zulke DHNR-leds bij een bepaalde schakeling ook elektrische energie kunnen omzetten in licht, zodat ze kunnen werken als fotodetector of minizonnecel. Door de aansturing snel te wisselen kunnen de leds beide functies combineren.   De onderzoekers laten zien hoe je zulke lichtgevoelige pixels kunt gebruiken om de lichtsterkte van een scherm aan te passen aan het opvallend licht. 
+Nu al kunnen tablet-schermen automatisch helderder worden in zonlicht, en minder helder in het donker, wat het leescomfort bevordert. Maar met lichtgevoelige pixels kunnen kan ook rekening gehouden worden met plaatselijke schaduwen op het scherm.
+Ook valt te denken aan aanrakingsloze touchscreens, waarbij alleen de schaduw van een vinger gedetecteerd wordt, of aan schermen waar je op kunt schrijven met een lichtbundel. 
+Lichtgevoelige schermen zouden bovendien data uit kunnen wisselen: door ze tegenover elkaar te zetten kan het ene scherm zenden en het andere ontvangen langs alle pixels tegelijk. 
+Daarnaast kan ook invallend zonlicht gebruikt worden om de batterij (deels) op te laden, zonder dat daarvoor een zonnecel nodig is. 
+Een scherm dat zelf video-opnamen maakt, net zoals smartphone-camera's nu doen, ligt overigens niet voor de hand. Daarvoor is, naast lichtgevoeligheid, ook scherpstelling nodig, en dus een goede lens. 
+Bruno van Wayenburg
+Lichtgevoelige schermen als deze  kunnen mogelijk data gaan uitwisselen
+Graphic
+
+ 
+De leds kunnen worden gebruikt in tal van nieuwe producten.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Page 2 of 3
+Nieuwe led geeft licht én energie
+Journal Code: nrc.next
+Subject: Internet Social Networking (71%)
+Industry: Consumer Electronics (94%); Entertainment + Arts (93%); Computer 
+Equipment (86%); Personal Computers (73%); Movie Industry (65%); Electronic Mail (63%)
+Load-Date: February 10, 2017
+
+End of Document
+Page 3 of 3

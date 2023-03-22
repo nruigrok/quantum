@@ -1,0 +1,29 @@
+Natuurkunde Gamers helpen bij ontwerp van quantumcomputer 
+NRC Handelsblad
+15 april 2016 vrijdag
+Copyright 2016 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. NH_NL01_018
+Length: 322 words
+Byline: Door onze medewerkerBruno van Wayenburg
+Body
+
+        Amsterdam. Quantummechanica, de natuurkunde van het allerkleinste, is berucht lastig te begrijpen, maar een nieuw computerspel kan helpen. In Nature van donderdag beschrijven onderzoekers van de Universiteit van Aarhus Quantum Moves, een spel waarin spelers quantummechanische atomen moeten manipuleren. Dat doen de gamers zo goed dat hun prestaties helpen bij het ontwerpen van een supersnelle quantumcomputer.  
+Naar de website dus: www.scienceathome.org. Op het scherm verschijnt een glooiend kuiltje, waarin een kalm klotsende vloeistof staat. Die vloeistof is een virtueel atoom, quantummechanisch uitgesmeerd in de ruimte. Het kuiltje is de 'optische pincet': een stel laserbundels waarmee een atoom op één plaats gehouden wordt.  
+Dat gaat goed zolang het kuiltje stilstaat, maar zo gauw je het verplaatst, begint het gedonder: de vloeistof blijkt vreemd en kwikzilverig. Wie het kuiltje te snel versleept, eindigt met een woest golvend atoom dat over de randjes spoelt. Poging mislukt. 
+Het doel van de spelvariant BringHomeWater is om de vloeistof toch zo snel mogelijk van de ene plek naar de andere over te hevelen. Zonder morsen. 
+Dit is niet alleen spel: het snel overhevelen van atomen is een belangrijk onderdeel van het type quantumcomputer waar de Denen aan werken. Maar goede overhevel-recepten zijn lastig te vinden, zelfs met de beste zoekalgoritmes.  
+           Natuurkunde Gamers helpen bij ontwerp van quantumcomputer 
+Gamers doen dat een stuk beter, melden de Denen. Twaalfduizend potjes BringHomeWater leverden twee nieuwe overhevelstrategieën op, waarmee de overheveltijd gehalveerd kon worden. 
+        'Gamification' van wetenschappelijke problemen (het voorleggen ervan in gamevorm) is niet nieuw. Gamers leveren al bijdragen aan het ophelderen van eiwitstructuren met de game FoldIt, en in GalaxyZoo delen ze astronomische objecten in. Maar dat het gamersbrein ook grip krijgt op de onalledaagse en tegen-intuïtieve wereld van de quantummechanica is toch een verrassing. 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Computer Games (94%); Internet Social Networking (68%); Physics (65%)
+Industry: Computing + Information Technology (78%)
+Load-Date: April 15, 2016
+
+End of Document
+Page 2 of 2

@@ -1,0 +1,33 @@
+Diamantstructuur op chip dooft lichtbronnen  uit
+NRC Handelsblad
+12 november 2011 zaterdag
+Copyright 2011 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap
+Length: 380 words
+Byline: Margriet van der Heijden
+Body
+
+Na 25 jaar is het gelukt. Fysici van het Mesa+-instituut van de Universiteit Twente en van het Amolfinstituut in Amsterdam hebben  lichtbronnen uitgezet. Nee, niet met een ordinaire schakelaar. Zij maakten  een 'fotonisch kristal' -  een kunstmatig kristal met eigenschappen die de fysici Eli Yablonovitch en Sajeev John een kwart eeuw geleden al schetsten. Die  zijn zo gekozen dat licht in zo'n kristal   niet  kan bestaan, zodat een  lichtbron er  dus géén licht in kan uitzenden (Physical Review Letters, 4 november 2011). Een huzarenstukje dat ooit misschien perfecte lasers, leds,  en andere gadgets oplevert.
+Het kristal is gemaakt door met  kunst- en vliegwerk een driedimensionale gaatjesstructuur in silicium te etsen. Elk gaatje heeft een doorsnee van krap 300 nanometer (miljoenste millimeter) en een diepte van ruwweg 8 micrometer (duizendste millimeter). De benodigde technieken komen gewoon uit de chipindustrie. De extra kunst is dat  loodrecht op elkaar staande  gaatjes heel precies ten opzichte van elkaar zijn uitgelijnd -- beter dan  20 nanometer. Zo ontstond een diamantstructuur met gaatjes op de plekken van atomen (en 2.000 keer groter dan een echte diamantstructuur).
+Past daar een lichtbron in? Ja, wel de lichtbronnetjes die Willem Vos en zijn collega's   gebruikten. Zij dompelden het kristal in een suspensie van zwavellooddeeltjes die fungeerden als quantumdots. Ofwel: als kunstmatige atomen die spontaan licht  kunnen uitzenden. Zoals ook  atomen in neonlampen of leds  doen.
+Helemaal spontaan verloopt dat proces niet. Het treedt op als elektronen in een atoom, die eerst in een hogere energietoestand zijn gebracht, weer in hun oorspronkelijke 
+Diamantstructuur op chip dooft lichtbronnen  uit
+toestand terugvallen en daarbij licht uitzenden. Dat lijkt spontaan te gebeuren  als er geen waarneembare oorzaak  is, maar  in feite  speelt wisselwerking met de omgeving mee. Preciezer: wisselwerking met quantumfluctaties. Nog preciezer: met de ruis van lichtdeeltjes die voortdurend, zelfs in vacuüm, kortstondig ontstaan en verdwijnen.
+Ze zorgen voor  'lichtvelden'  waarop de  (kunstmatige) atomen kunnen  reageren. Behalve in het nieuwe kristal dus: de structuur daarvan onderdrukt zelfs de kleinste  ruis van zulke lichtvelden - en houdt  zo deze lichtbronnen in hun hogere energietoestand gevangen.
+Graphic
+
+ 
+Met een lichtmicroscoop is nog net het gaatjespatroon te zien dat in silicium is geëtst (boven)  volgens de structuur  van diamantkristal (rechts). 
+Beeld  UT
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Superconductors (94%); Nanotechnology (84%); Fiber Optics (63%); Physics (63%)
+Industry: Manufacturing (75%); Computer Equipment (61%)
+Load-Date: November 11, 2011
+
+End of Document
+Page 2 of 2

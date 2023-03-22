@@ -1,0 +1,69 @@
+Een (bijna) onzichtbaar gevechtsvliegtuig
+NRC Handelsblad 
+07 July 2018 NH zaterdag
+Copyright 2018 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 8
+Length: 1907 words
+Byline: Karel Berkhout
+Body
+
+ABSTRACT
+ ~ STEALTH-TECHNOLOGIE ~
+Deze zomer verkent de wetenschapsredactie  'het verborgene' in een serie artikelen. 
+Deze  aflevering gaat over verborgen vliegtuigen. Door onze redacteur Karel Berkhout
+8/9 Stealth Zijn de nieuwe F-35-straaljagers nu écht onzichtbaar?
+Nederland heeft inmiddels de eerste van zijn F-35-gevechtsvliegtuigen. De komende jaren moeten die de F-16-toestellen gaan vervangen. De F-35, voorheen bekend als JSF, 	ontleent 	zijn 	faam 	aan 	zijn 	lange 	wordingsgeschiedenis 	en 	hoge ontwikkelingskosten, maar vooral aan zijn 'onzichtbaarheid'.Stealth-technologie maakt het 	toestel 	in 	principe 	onzichtbaar 	voor 	radar 	en 	dus 	ongrijpbaar 	voor luchtafweergeschut.
+Deze haast mythische eigenschap is inmiddels inzet van een verbale oorlog. Zo beweert Rusland sinds enige tijd te beschikken over radarstations die de F-35 wel degelijk kunnen 'zien'. Aan de andere kant  zijn er onbevestigde - en volgens buitenlandse experts  onwaarschijnlijke - berichten dat Israëlische F-35-toestellen  onopgemerkt over Iraans grondgebied hebben gevlogen.
+De onzichtbaarheid van een stealth-vliegtuig is bepaald geen triviale kwestie. De bliksemoverwinning van de Amerikanen tijdens de Eerste Golfoorlog was voor een aanzienlijk deel te danken aan de inzet van zulke vliegtuigen, de F-117's, die in 1990 zonder enige schram de Iraakse luchtafweer uitschakelden en zo een veilig luchtruim schiepen voor de andere Amerikaanse gevechtsvliegtuigen. Het gevoel van onkwetsbaarheid kreeg echter in 1999 een deuk toen de Serviërs tijdens de Balkanoorlog eenzelfde F-117  wisten te traceren en zelfs neerhaalden.
+De staaltjes oorlogsvoering zetten de schijnwerpers op een aanhoudende technologische race tussen het verbergen van vliegtuigen en het opsporen ervan. En roepen de vraag op: hoe goed is stealth? En hoe goed is radar?
+Antwoorden zijn te vinden bij het Nederlands Lucht- en Ruimtevaartcentrum (NLR) in Amsterdam, dat onder veel meer ook voor de Nederlandse overheid onderzoek doet aan de militaire technologie van de toekomst. In een zaaltje in het beeldschone architectuurmonument van beton en glas zit een handvol specialisten klaar. Ze zeggen: ,,Wij verrichten hier onderzoek aan technologie, die binnen 1 tot 10 jaar wordt toegepast. Zo kunnen we advies geven aan het ministerie van Defensie bij de aankoop, inzet en verbetering van vliegtuigen en helikopters." Hun namen zijn niet voor in de krant, geluidsopnamen zijn niet toegestaan en militair operationele informatie geven ze niet. 
+Maar ze zijn bereid uitleg te geven over stealth - én radar.
+Wat is stealth eigenlijk?
+Stealth is Engels voor heimelijk. Vliegtuigen worden getraceerd met een radarinstallatie, die  elektromagnetische straling uitzendt. Deze radiogolven worden gereflecteerd door het vliegtuig en weer opgevangen met een antenne. Uit deze echo kun je de hoogte, snelheid, vliegrichting en afstand tot de radar afleiden.
+Stealth fopt de radar op twee manieren: door het (gedeeltelijk) absorberen van de radiogolven en vooral door het zo afbuigen van de golven dat die niet kunnen worden opgevangen. Dat afbuigen gebeurt door het vliegtuig speciale vormen te geven.
+De Russische natuurkundige Pjotr Oefimtsev, die nu geldt als de 'vader van stealth',  beschreef deze bijzondere vormen al in 1962. De machthebbers in de toenmalige Sovjet-Unie zagen geen praktisch nut en stonden toe dat Oefimtsevs boek in 1971 werd vertaald in het Engels. Ingenieurs van vliegtuigbouwer Lockheed Martin gebruikten het voor de ontwikkeling van stealth-vliegtuigen. Pas twintig jaar later konden de vliegtuigen massaal worden ingezet, in de Eerste Golfoorlog.
+Hoe belangrijk is stealth?
+Heel belangrijk, zo blijkt onder meer uit een analyse van de Amerikaanse luitenantgeneraal Arend Westra in het vakblad Joint Force Quarterly (2009).  In beginsel is in een oorlog de verdediging sterker dan de aanval, zo leerde oorlogstheoreticus Von Clausewitz al. Met de definitieve doorbraak van het gevechtsvliegtuig in het interbellum van de vorige eeuw leken aanvallers echter de overhand te krijgen. In de Tweede Wereldoorlog herstelde radar het machtsevenwicht, dat met de komst van stealth weer werd doorbroken. Het neerhalen van de F-117 op de Balkan betekende volgens Westra een mokerslag voor stealth en dus de aanvallers. De NLR-experts willen dat beeld wat nuanceren.
+ Is volledige onzichtbaarheid nodig? 
+Om te beginnen zijn stealth-vliegtuigen nooit helemaal onzichtbaar geweest. ,,Stealth heeft grenzen en dat zijn gewoon de grenzen van de fysica", zegt een NLR-radarexpert. Hij tekent op een whiteboard radiogolven die botsen op een plaat. ,,Stealth-techniek werkt vooral goed bij korte golven, hoge frequenties. Bij lange golven, lage frequenties, zie je het vliegtuig vaak wel." Maar dat hoeft niet erg te zijn, want lange golven geven een onscherp beeld. ,,Voor een nauwkeurige geleiding van je luchtdoelwapens heb je korte golven met een hoge  frequentie nodig." En die worden doorgaans wel afgebogen. Het neerhalen van een vliegtuig is een lange keten van handelingen - van de eerste waarneming tot het laatste salvo - die wel wordt omschreven als 'kill chain'. Een gedeeltelijk zichtbaar stealth-toestel haalt genoeg schakels uit deze ketting om te ontsnappen aan luchtafweer. Of zoals de radarexpert zegt: ,,Als je maar dicht genoeg bij komt, zul je een stealth-vliegtuig met radar zien. De essentie van stealth is dat je dicht genoeg ongezien kan naderen en wegvliegen en zodat je je missie kan uitvoeren." Waardoor de F-117 in de Balkan is getraceerd is onduidelijk, maar mogelijk met elementen van zogeheten passieve radar.
+Wat is passieve radar?
+Dat is radar die geen radiogolven verstuurt, maar die alleen signalen ontvangt - doorgaans met meerdere ontvangers, op verschillende locaties. Er zijn twee vormen. De eerste registreert reflecties van bestaande signalen van tv-zenders of gsm-masten, die in botsing komen met het vliegtuig. De tweede vorm bestaat uit passieve sensoren  in bijvoorbeeldsatellieten  of op andere vliegtuigen. Die sensoren registreren de radar of communicatiesignalen die het vliegtuig zelf uitzendt. Door al die signalen van verschillende plekken, hoe weinig precies ook, te combineren kun je afleiden waar het vliegtuig is en waar het heen gaat.
+Passieve radar is een machtig verdedigingswapen, erkennen de NLR-experts: ,,Je kunt ervan uitgaan dat veel landen, in het westen in elk geval, een vorm van passieve radar hebben." Hoe ziet die eruit in Nederland? Dat is uiteraard geheim. Maar het is geen geheim dat de NLR onderzoek doet aan dit soort technologie,
+Een probleem van dit type radar is dat het luchtruim zwanger is van signalen die niets met het vliegtuig te maken hebben: achtergrondruis. De kunst is om uit die oceaan van signalen de gegevens over de locatie van het stealth-vliegtuig te filteren, met speciale computerprogramma's. ,,Die vergen veel rekenkracht en die is pas recentelijk groot genoeg geworden om dit soort operaties te kunnen doen", zegt een NLR-expert.  ,,We zijn bezig met de ontwikkeling van slimme algoritmen, die uit de achtergrondruis de juiste informatie kunnen selecteren en samenvoegen." En met kunstmatige intelligentie, waardoor computers zelf moeten leren hoe ze de data moeten filteren.
+Juist omdat deze ontwikkeling nog in volle gang is, kun je volgens de NLR-experts niet zeggen dat met  passieve radar de verdediging weer de bovenhand heeft. Temeer daar ook stealth verder wordt ontwikkeld.
+Hoe gaat het verder met stealth?
+Dat is lastig te zeggen, omdat er zoveel verschillende ontwikkelingen zijn, van heel groen tot rijp. Een interessant idee, zeggen de NLR-experts, is bijvoorbeeld plasma stealth. Door zeer grote hitte wordt de lucht rondom een luchttoestel geïoniseerd, en een plasma gevormd waar geen golven meer doorheen komen. ,,Dat verschijnsel kennen we van de re-entry van een spaceshuttle, waarmee op een gegeven moment geen communicatie meer mogelijk is. In theorie kun je een vliegtuig omhullen met plasma, maar de hoeveelheid energie die daarvoor nodig is, is gigantisch."
+Een interessante vorm van stealth bieden 'onzichtbaarheidsmantels' van metamaterialen. Metamaterialen zijn synthetische materialen met als unieke eigenschap dat ze in plaats van een positieve brekingsindex - de hoek waaronder een golf wordt weerkaatst - een negatieve brekingsindex hebben. Met metamaterialen kun je licht (of radar) manipuleren en zo buigen dat het om een object heengaat waardoor je dat niet meer ziet. Chinese wetenschappers hebben onlangs in persberichten gezegd dat ze op termijn hun gewone gevechtsvliegtuigen kunnen veranderen in een stealth-toestel met een mantel van metamaterialen.
+De NLR-experts zijn niet onder de indruk: ,,Dit soort dingen wordt gedaan in een laboratorium met  een klein object. Dat is nog iets heel anders dan een grote 'onzichtbaarheidsmantel' maken van metamateriaal. En dat vervolgens bevestigen op een vliegtuig dat ook aan tal van andere vereisten moet voldoen." 
+Dezelfde praktische problemen spelen bij  veelbelovende ideeën voor de andere vorm van stealth: de absorptie van golven. Zo ontwikkelde een Poolse onderzoeksgroep een koolstof met 'nanotubes', mini-kanaaltjes, die golven zo goed zou kunnen opnemen dat ze niet weerkaatst worden. ,,Koolstof is een prachtig materiaal: licht en sterk", erkennen de NLR-experts. En ja, ,,koolstof met mini-kanaaltjes zou inderdaad weleens heel mooi golven kunnen absorberen, dat is op labschaal aangetoond." Maar: ,,Het is heel erg lastig om zulk koolstof op grote schaal te maken en tegelijkertijd de eigenschappen van het materiaal te behouden."
+Veel concreter is dan ook het verder ontwikkelen van 'jamming', het uitzenden van stoorsignalen. Deze vorm van bescherming wordt nu al toegepast door het plaatsen van stoorzenders op het eigen vliegtuig, op andere vliegtuigen, in de ruimte, in een bepaalde regio, zoals is gebeurd tijdens de Golfoorlog. Gewerkt wordt aan meer geavanceerde stoorsignalen. En dus nog meer ruis.
+ Kun je de ruis verwijderen?
+Ja, zeggen opnieuw Chinezen in persberichten: het is ons al gelukt met dank aan de quantumfysica. Het sleutelbegrip is hier de verstrengeling tussen deeltjes die ooit bij elkaar hoorden en nu op afstand van elkaar zijn. Fotonen worden doorgesneden met een kristal, waarna je het ene deeltje de ruimte inschiet en het andere thuislaat.  Het idee is dat je in de ruis de weggeschoten deeltjes kunt lokaliseren en hun eigenschappen kunt bepalen door de thuisgebleven tweelingdeeltjes. Een Canadese groep deed dit in 2015 voor radiogolven. ,,In een lab-opstelling dus", benadrukt een NLR-expert. ,,De levensduur van verstrengelde deeltjes is op dit moment ook nog te kort om objecten op een afstand van tientallen kilometers te detecteren.  En op de plek waar je informatie van de deeltjes 'leest' moet de temperatuur dicht bij het absolute nulpunt liggen. Dus het duurt nog wel even voor dat dit ook in de praktijk werkt."
+De essentie van stealth  is dat je dicht genoeg ongezien kan naderen 
+Anonieme NLR-expert 
+Stealth in NL Hij komt! 
+Het is de bedoeling dat Nederland uiteindelijk 37 F-35-vliegtuigen koopt. Op dit moment heeft Nederland twee toestellen, die in de VS staan. Daar worden ze gebruikt voor testen en voor het trainen van  vliegers en technici.
+De toestellen kwamen in 2016 even naar Nederland. De volgende 8 F-35's worden vanaf 2019 geleverd. Daarnaast komt er  een 'Air System', met onder meer bijbehorende simulatoren, reserveonderdelen, meet- en testapparatuur en opleidingen.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Defense Departments (82%); Armed Forces (74%)
+Industry: Aircraft (94%); Aerospace Industry (68%)
+Load-Date: July 6, 2018
+
+End of Document
+Een (bijna) onzichtbaar gevechtsvliegtuig
+
+Een (bijna) onzichtbaar gevechtsvliegtuig
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

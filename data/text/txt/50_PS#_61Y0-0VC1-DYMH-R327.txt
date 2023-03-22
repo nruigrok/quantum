@@ -1,0 +1,45 @@
+Materiaal leert van zijn omgeving
+NRC Handelsblad 
+6 februari 2021 zaterdag 1ste Editie
+Copyright 2021 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 4
+Length: 664 words
+Byline: Dorine Schenk
+Dateline: Amsterdam 
+Body
+
+ABSTRACT
+Natuurkunde Kobaltatomen kunnen met elkaar communiceren. ,,Het was magisch om te zien dat het materiaal informatie verwerkte."
+VOLLEDIGE TEKST:
+Een netwerk van zeven kobaltatomen op een fosforrooster verandert zichzelf in reactie op elektrische spanningen. De atomen reageren als groep steeds op dezelfde manier bij dezelfde spanning. Zo'n systeem kan een opstapje zijn naar een quantummateriaal dat fysiek kan leren, schrijven natuurkundigen van de Radboud Universiteit, vergelijkbaar met hoe zenuwcellen in hersenen leren. Hun resultaten verschenen maandag in Nature Nanotechnology.
+De onderzoekers vergelijken het netwerk van zichzelf aanpassende kobaltatomen met synapsen in de hersenen. De synapsen die neuronen onderling verbinden kunnen veranderen. Een synapsverbinding kan sterker of zwakker worden. Als je leert of traint ontstaan er nieuwe of sterkere verbindingen.
+Patroonherkenning wordt steeds vaker toegepast in algoritmen, zoals in vertalingsmachines en gezichtsherkenning. Deze systemen werken met machine learning. ,,Dit netwerk begon zich te gedragen volgens een soort machine learning 
+Materiaal leert van zijn omgeving
+model", vertelt Alexander Khajetoorians, hoogleraar aan de Radboud Universiteit. ,,Het was magisch om te zien dat het materiaal op een minimale manier informatie verwerkte en opsloeg."
+Het onderzoek bouwt voort op werk uit 2018 waarbij de Radboud-onderzoekers aantoonden dat je informatie kunt opslaan in een kobaltatoom op een fosfor-ondergrond. Door een elektrische spanning aan te brengen konden ze het atoom in twee verschillende toestanden brengen: 1 of 0, net als bits, de informatie-eenheden van computers.
+In het nieuwe systeem liggen zeven kobaltatomen in een rasterpatroon en kunnen ze met elkaar communiceren. Als het ene atoom wisselt tussen de 1- en 0-toestand, dan heeft dat invloed op de naburige atomen. De atomen die horizontaal naast elkaar liggen communiceren snel in reactie op een inputsignaal. Dit is vergelijkbaar met neuronen in hersenen die 'vuren' als er een signaal binnenkomt. De atomen die verticaal ten opzichte van elkaar liggen reageren langzamer, vergelijkbaar is met een soort geheugen.
+,,Als inputsignalen brachten we elektrische spanningen aan", zegt Khajetoorians. De onderzoekers wisselden bijvoorbeeld van 560 naar 580 millivolt. Bij verschillende spanningen 'vuurden' de kobaltatomen in verschillende patronen. Keerden de onderzoekers terug naar een eerdere spanning, dan veranderde het vuur-patroon weer terug. Het materiaal 'herkende' dus het eerdere signaal. ,,Wanneer we het materiaal langere tijd blootstelden aan dezelfde elektrische spanning, dan zagen we dat de langzame, verticale atoom-communicatie veranderde. Het materiaal paste zich dus fysiek aan, aan het inputsignaal."
+De fysieke verandering had te maken met hoe sterk of zwak kobaltatomen met elkaar verbonden zijn.
+Met hun onderzoek hebben de onderzoekers nog niet aangetoond dat het materiaal kan 'leren' van data. ,,Het zelf-aanpassende vermogen van het materiaal is een eerste stap naar leren", zegt Radboud-hoogleraar Bert Kappen. ,,De volgende stap is het systeem opschalen en kijken of het instaat is tot leren van data en beeld- of geluidsherkenning."
+,,Dit is state-of-the-art onderzoek", zegt Beatriz Noheda, hoogleraar functionele nanomaterialen in Groningen, die niet betrokken was bij het onderzoek. ,,Het is een eerste stap naar de hardware die nodig is om breinachtige computersystemen te maken."
+Wilfred van der Wiel, hoogleraar nano-elektronica aan de Universiteit Twente sluit zich hierbij aan. ,,Het is fantastisch fundamenteel onderzoek dat een eerste stap zet naar het maken van intelligente materialen. Het is wel een modelsysteem dat enkel werkt onder laboratoriumomstandigheden, in vacuüm en bij een temperatuur van -269°C. Praktisch toepasbaar is het dus nog niet. Maar het is een inspiratiebron om bijvoorbeeld opzoek te 
+Page 2 of 3
+Materiaal leert van zijn omgeving
+gaan naar andere materialen. En het laat zien hoeveel potentie er zit in nanomaterialen als toepassing voor computers."
+Link naar PDF
+Graphic
+
+ 
+Het lerende netwerk van zeven kobaltatomen. Als het ene atoom wisselt tussen twee toestanden, dan heeft dat invloed op de naburige atomen.
+Foto Spinlab Nijmegen
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Nanotechnology (94%); Information Management + Technology (76%); Superconductors (67%)
+Industry: Computer Equipment (64%)
+Load-Date: February 8, 2021
+
+End of Document
+Page 3 of 3

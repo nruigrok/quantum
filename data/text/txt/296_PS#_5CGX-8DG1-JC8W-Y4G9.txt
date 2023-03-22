@@ -1,0 +1,24 @@
+Quantumsom niet sneller 
+de Volkskrant
+23 juni 2014 maandag
+Copyright 2014 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap; Blz. 17
+Length: 164 words
+Byline: VAN ONZE VERSLAGGEVER MARTIJN VAN CALMTHOUT
+Body
+
+Onderzoekers hebben gerede twijfels of de zogeheten quantumcomputer die het Canadese bedrijf D-wave voor 10 miljoen dollar per stuk verkoopt, daadwerkelijk een quantumcomputer is. In een artikel in Science schrijven experts van onder meer universiteit ETH in Zürich, Google en Microsoft dat de D-wavemachine die ze kochten in tests niet sneller presteerde dan gewone snelle computers. Dat is wel de belofte van quantumrekenen, die D-wave als eerste zegt te realiseren. 
+In een quantumcomputer wordt niet met enen en nullen gerekend, maar met 'qubits', die dankzij quantumvaagheid tegelijk 1 en 0 zijn. In theorie leidt die dubbelzinnigheid tot exponentieel meer rekenkracht. 503 supergeleidende stroomkringetjes vormen in de D-wave magnetische qubits. Volgens het artikel in Science leveren die alleen bij heel specifieke vraagstukken iets sneller een antwoord dan klassieke computers. 'Geen bewijs voor quantumversnelling', schat ook informaticus Harry Buhrman van het CWI in Amsterdam. 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Company:  GOOGLE INC (57%);  MICROSOFT CORP (57%)
+Quantumsom niet sneller
+Industry: Computing + Information Technology (94%)
+Load-Date: June 22, 2014
+
+End of Document
+Page 2 of 2

@@ -1,0 +1,54 @@
+Bouwen aan een monster van een computer
+AD/Algemeen Dagblad
+13 februari 2021 zaterdag
+Copyright 2021 DPG Media B.V. All Rights Reserved
+
+Section: Centraal Z; Blz. 10, 11
+Length: 1059 words
+Byline: HANS VAN ZON
+Highlight: We koesteren onze laptop en pc. Maar die verbleken in rekenkracht bij de quantumcomputers. Hoe staat het met de ontwikkeling ervan? ,,We zijn de komende tien jaar al bezig om ze niet al na één milliseconde te laten crashen'', zegt Carlo Beenakker, hoogleraar theorie van de vaste stof.
+Body
+
+Ingenieuze quantumcomputer kan de wereld veranderen
+Hoe kun je een quantumcomputer in een laboratorium bouwen? Het is bijna een duivels dilemma, maar voor Carlo Beenakker is het een bron van energie en inspiratie. Zijn onderzoeksteam aan de Universiteit van Leiden werkt als een denktank voor QuTech, een samenwerkingsverband van de TU Delft en TNO en waaraan ook Microsoft bijdraagt. Zij proberen een quantumcomputer en -internet te ontwikkelen met behulp van quantummechanica. Een belangrijk uitgangspunt van deze uiterst complexe natuurkundige theorie is dat deeltjes tegelijkertijd op twee verschillende plekken kunnen zijn. ,,De quantumcomputer rekent compleet anders dan de computer van nu. Die werkt voor de overdracht van informatie met bits die twee waarden aannemen: 0 of 1. De quantumcomputer werkt met qubits die tegelijkertijd 0 én 1 kunnen zijn'', legt Beenakker uit. 
+Die andere rekenmethode maakt een wereld van verschil. Als je de uitgang zoekt in een ingewikkeld doolhof, gaat een digitale computer één voor één alle mogelijke routes af. Een quantumcomputer doet dat in één keer. Ook het ontrafelen van versleutelde codes is een makkie. De Enigma-code waarmee de nazi's in de oorlog hun communicatie versleutelden zou in no-time worden gekraakt. 
+,,Het mooie is dat de quantumcomputer al bestaat'', zegt Beenakker. ,,Al vijf jaar. Er zijn er meer van. Het best uitgewerkte platform is Quantumexperience van IBM. De TU Delft heeft er een sinds april 2020, met de naam Quantuminspire.''
+Beginstadium
+Maar de hoogleraar waarschuwt voor te hoge verwachtingen. ,,We zitten in het beginstadium. Vergelijk het met de opkomst van de allereerste computer die met ponskaarten werkte. Daarmee kon je sommetjes maken die je ook uit je hoofd kon doen. Met de quantumcomputer zitten we in eenzelfde fase. We schrijven programma's uit om te kijken wat hij wel of niet kan. Natuurlijk kan ik die sommen uitrekenen op mijn bestaande pc. Maar het is hartstikke spannend.'' 
+Een groot struikelblok is de ontwikkeling van betrouwbare qubits. ,,Er zijn verschillende soorten maar de race is nog niet gelopen'', concludeert Beenakker. ,,De computertechnologie van nu is gebaseerd op siliciumchips. Het zou geniaal zijn als je qubits kon opbouwen uit bits en chips. Dan kun je de bestaande infrastructuur en laboratoria gebruiken. De TU Delft en Intel proberen juist dat te bereiken. Dat blijkt niet eenvoudig. 'Delft' heeft nu een quantumcomputer op basis van siliciumchips met twee qubits. Het is de enige in de wereld. Maar het zijn maar twee qubits. Alleen met behulp van supergeleiding (zonder elektrische weerstand) kun je werken met enkele tientallen qubits. De computer van IBM gebruikt er tien tot twintig. Het platform van Google telt er vijftig. Dat is geen spielerei meer. Daar kun je wetenschappelijke berekeningen mee doen.'' 
+Denk niet dat er straks overal quantumcomputers staan. ,,Het rekenen met qubits is uiterst kwetsbaar. Ze zijn heel gevoelig voor invloeden van buitenaf. Bij de kleinste trilling of inval van licht vervalt de qubit tot een bit die 1 of 0 nul is. Dat er ooit een computer in elke huiskamer staat, lijkt ook erg onwaarschijnlijk omdat je er enorm veel ruimte voor nodig hebt en een extreem lage temperatuur, -270 graden Celsius. Maar ja, IBM zei ooit dat er misschien een markt zou zijn voor vijf gewone computers.'' 
+Eerst zullen er qubits moeten komen die lang mee kunnen. Beenakker: ,,Het uitgangspunt is nu: laten we er een paar maken die betrouwbaar zijn, die niet na één milliseconde crashen. Daar zijn we de komende tien jaar al zoet mee.''
+Majoranadeeltjes
+De fysicus maakte onder vakgenoten indruk met de introductie van een eigen qubit, op basis van zogeheten majoranadeeltjes. ,,Het deeltje heeft geen lading, geen massa en toch kun je er quantuminformatie in opslaan'', aldus de hoogleraar. De deeltjes zouden aan uiteinden van supergeleidende nanodraadjes moeten zitten. Is het majoranadeeltje dé oplossing? Beenakker: ,,Dan moet ik u teleurstellen. Op dit moment zijn er nul majoranadeeltjes en nul qubits. Het gaat om een veelbelovende technologie, omdat deze qubits veel minder gevoelig zouden zijn, alleen is het uiterst lastig ze te maken.'' 
+Hoogleraar nanofysica Leo Kouwenhoven dacht de deeltjes te hebben waargenomen, maar neemt daar nu afstand van. En als de deeltjes daadwerkelijk bestaan, moet eerst nog de majoranaqubit worden uitgedacht, hoe je die met elkaar verbindt, van data voorziet en weer uitleest. Het is de vraag of dat zal lukken. ,,Je vecht tegen de natuur. Als die je het niet geeft, dan is het gewoon klaar.''
+Google en IBM
+De verwachting is dat toch binnen een jaar of vijf bedrijven geld betalen om op een quantumcomputer sommen uit te rekenen die bestaande computers te boven gaan. ,,Dan gaan bedrijven als Google, IBM, Amazon, Microsoft daar een businessmodel in zien'', voegt de fysicus eraan toe. ,,Maar de quantumcomputer is een ding met beperkingen. Het is absoluut geen black box waar je alles in kan gooien om problemen op te lossen. Misschien kan de computer iets betekenen voor kunstmatige intelligentie, 'machine learning', de ontwikkeling van medicijnen, bijdragen aan de voedsel- en kunstmestproductie. We weten het nog niet. Het kan best zijn dat als je eind deze eeuw terugkijkt mensen zullen zeggen 'kun je je een wereld voorstellen zonder quantumcomputer?' Dat je een technologie hebt ontwikkeld die de wereld beter heeft gemaakt'', filosofeert Beenakker. 
+Als ontwikkelingsplek neemt QuTech in Delft een belangrijke plaats in. En hoe staat het buiten Nederland? ,,In Amerika is IBM een grote speler. Ook Google, Amazon leveren clouddiensten. China loopt qua investeringen mijlenver op iedereen vooruit en het heeft al een eigen satelliet voor quantuminternet'', zegt Beenakker. Zorgt dat verschil voor moedeloosheid? ,,We hebben hier ook een hoop te bieden. In opleiding, in innovatie. Quantumtechnologie is met een bedrag van 600 miljoen euro een van de beoogde projecten in het groeifonds (20 miljard) voor innovatie. Als je mee wilt doen zijn dat de bedragen. Nederland kan een hub zijn voor kennis, opleiding. Mijn missie is om het quantumprogramma in Nederland van de grond krijgen. Je moet immers in de toekomst blijven investeren.''
+'Het deeltje heeft geen lading, geen massa en toch kun je informatie er in opslaan' -
+Bekijk de oorspronkelijke pagina: pagina 10, pagina 11
+Graphic
+
+ 
+De TU Delft heeft een quantumcomputer op basis van siliciumchips met twee qubits.
+Carlo Beenakker maakte indruk op collega's met zijn eigen qubit.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Educational Institution Employees (62%)
+Industry: Computing + Information Technology (94%)
+Load-Date: February 12, 2021
+
+End of Document
+Bouwen aan een monster van een computer
+
+Bouwen aan een monster van een computer
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

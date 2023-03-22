@@ -1,0 +1,68 @@
+Iedereen kan mag quantumrekenen
+de Volkskrant
+2 juli 2016 zaterdag
+Copyright 2016 De Persgroep Nederland BV All Rights Reserved
+
+Section: Sir Edmund; Blz. 48, 49, 50
+Length: 1650 words
+Byline: MARTIJN VAN CALMTHOUT
+Body
+
+Fysica 
+Rekenen met een quantumcomputer: het klinkt als de verre toekomst. Maar IBM laat liefhebbers alvast online met een echte quantumchip in New York spelen. De Volkskrant experimenteerde even mee. 
+Sinds begin mei staat hij op internet: de IBM Quantum Experience, een mogelijkheid om te werken met een echte quantumcomputer die het bedrijf in een van zijn labs in Yorktown Heights heeft staan. Van klooiende amateurs tot nieuwsgierige concurrenten, iedereen is welkom om het rekenen van de toekomst uit te proberen. 
+Belangstelling had bedenker Jay Gambetta van de computerfirma wel verwacht, maar wat er in de twee maanden nadien is gebeurd, heeft hem toch verbluft. Als we elkaar spreken hebben - hij checkt zijn gegevens even - ruim 23 duizend mensen ingetekend op de kans om zelf met een echte quantumcomputer te werken. Intussen, zien we deze week op de site, zijn dat er al meer dan 25 duizend. 'Vooral studenten denken we', denkt Gambetta, zelf een hardcore quantumfysicus. 'Maar ook gewoon mensen die het zelf eens willen meemaken. Of die een slim ideetje willen uitproberen.' 
+Quantumcomputing is hot. Wereldwijd jagen de knapste koppen uit de natuurkunde op een kip met potentieel meer dan gouden eieren. De gewone computer, hoe snel ook, begint tegen zijn grenzen te lopen. En dus is er ruimte voor radicale ideeën. Een ervan is het gebruik van quantumvaagheid voor berekeningen. 
+In een digitale computer zijn bits 1 of 0. Rekenen is eigenlijk het husselen van die enen en nullen via een rekenrecept, het algoritme. Mooi, maar ook beperkt. In de wereld van de kleinste deeltjes kunnen bits zonder blikken of blozen tegelijk zowel 1 als 0 zijn, alsof een lichtschakelaar op hetzelfde moment aan én uit staat. In gewone computers is zoiets een probleem. Maar in de quantumwereld is het juist een kans. Sinds de jaren negentig zijn er nieuwe rekenmethoden bedacht om ook dubbelzinnige bits te husselen tot er wel echte antwoorden zijn. Op vraagstukken die voor iedere gewone computer allang te ingewikkeld zijn. De snelste route door een miljoen steden, onkraakbare e-mails, het ontwerpen van eiwitten voor nieuwe geneesmiddelen. De sky, denken quantumprofeten, is the limit. 
+Een quantumcomputer kan dat allemaal wel doordat het rekenwerk niet klassiek stap voor stap gebeurt, maar in feite op extreem veel manieren tegelijk. Voor vijf quantumschakelaars zijn al die mogelijke berekeningen ook nog met een gewone computer na te rekenen. Maar als dat honderd qubits worden, of zelfs duizenden, wordt dat narekenen principieel onmogelijk. 'We zijn op weg naar een niemandsland in het rekenen', zegt IBM-man Gambetta stellig. 
+Juist daarom, zegt hij, is er een nieuwe generatie fysici en informatici nodig die het nu al gewoon gaan vinden om met quantumtechnieken te werken en rekenen. Gambetta: 'Wij denken dat de praktische ervaring de beste methode is om interesse te wekken en talent te stimuleren. En wie weet meldt zich iemand met een rekentruc die we gewoon nog niet kennen.' Met vijf quantumschakelaars zal dat niet zo'n vaart lopen. Maar IBM denkt al na over een nieuwe versie met tien of nog meer qubits. 
+In Delft zit op verzoek van de Volkskrant promovenda Julia Cramer van het QuTechinstituut aan de grote houten tafel in een glazen vergaderzaal, midden tussen de open werkplekken van het lab. Voor haar op een beeldscherm wacht geduldig de interface van IBM waarmee gebruikers hun opdrachten aan de verre computer haast letterlijk kunnen componeren. Blokjes en balkjes plaatsen op een notenbalk lijkt voldoende. We willen het zelf weleens uitproberen, maar vermoeden ook dat wat echte deskundigheid geen kwaad kan. 
+De eerste quantumsom die we maken is geen som, maar een demonstratie dat we met een echte quantumchip werken, daarginds in New York. We tikken in wat er met een van de qubits op de IBM-chip moet gebeuren. Een van de supergeleidende circuits moet naar een hogere energiestand, daarna moet er een energiemeting komen. 
+Run, klikken we. 
+Het blijft even stil, er zijn kennelijk wachtenden voor ons. En dan komt het resultaat: de meting ziet een hoge energietoestand. De qubit staat dus op 1. Maar dat is als een lot uit de quantumloterij, benadrukt Cramer. 'Om te weten hoe die loterij werkt, moeten we de metingen vaak genoeg herhalen om statistiek te maken.' In een nieuwe sessie doet het systeem vliegensvlug 1.024 metingen en spreekt de meetgrafiek boekdelen: in de helft van de gevallen is de energie hoog, in de andere helft laag. De qubit is grofweg half om half 1 en 0 en tot de meting weet niemand wat er aan de hand is. 
+Dat de gemeten waarden niet precies kloppen, is in deze demonstratie niet zo erg, zegt Cramer. 'Als je echt in een lab meet, is er altijd ruis die fouten geeft. Het is alleen zaak om dat bij echte quantumsommen goed in de gaten te houden. Je wilt geen quantumgeheugen waar foutjes in kunnen zitten.' Zelf promoveert ze op studies van zogeheten quantumcorrectie, waarbij duplicaten van identieke qubits worden gebruikt om afwijkingen op te sporen en fouten tijdig recht te zetten. 
+Overal om ons glazen hok heen hangen jonge fysici geconcentreerd onderuit aan hun laptops. Op de glazen wanden tussen de werkplekken zijn met stift ingewikkelde diagrammen en berekeningen genoteerd, die op de filmset van een wetenschapsdrama niet zouden misstaan. Maar dit is écht de plek waar met alle hens aan dek wordt gewerkt aan de rekenmachines van de toekomst. Beneden in de Delftse laboratoria staan allerlei ingewikkelde opstellingen, minuscule experimentele chips in koelvaten, met supergeleidende circuits, diamantroosters, kunstmatige atomen, doorgaans omgeven door een wirwar van elektronica, lasers, pompen en leidingen. Niet veel anders dan wat IBM in York Town Heights heeft staan, overigens. Maar hier kunnen alleen de experimentatoren zelf erbij. 
+In feite, zegt Cramer, zijn de kelders net zo ver weg als de machine in Amerika. 'Ik bedien mijn opstellingen ook vanaf een computerscherm. Je geeft opdrachten: dit stroompje daar, dit magneetveld, deze meting op die punten. Als ik wil kan ik vanuit de trein of uit bed proeven doen. Ik heb weleens stiekem onder tafel doorgewerkt tijdens een kerstdiner.' 
+De afstand en het online werken met een quantumexperiment, bedoelt ze maar, is niet echt vreemd. Het apparaat waarop het echte werk bij IBM gebeurt, is dat eigenlijk ook niet: een chip met vijf supergeleidende circuitjes die met vloeibaar helium extreem gekoeld wordt. Vermoedelijk is dat niet eens een techniek die ooit in een serieuze quantumcomputer kan worden toegepast. Maar het gaat om de principes. 
+Cramer componeert intussen, al schuivend met de gekleurde blokjes en verbindingslijntjes en tussentijdse metingen, een ingewikkelder opdracht aan de New Yorkse quantumchip. Ze wil twee van de qubits met elkaar verstrengelen, een ander opwindend quantumconcept waarbij de ongewisse toestand van het ene qubit gekoppeld is aan een even ongewisse toestand van een andere. Dat soort toestanden is belangrijk voor haar eigen onderzoek naar foutcorrectie met quantumduplicaten. 
+Het proefje moet in theorie eindigen in een meetgrafiek met vier even hoge piekjes naast elkaar, telkens een kwart. De echte meting, ditmaal 2.048 keer herhaald, lijkt er na wat wachten, best op. Maar door ruis en meetfouten ook weer niet helemaal overtuigend; is dat ene piekje van 0,21 bijna een kwart of juist helemaal niet? 
+Echt rekenen is het allemaal nog steeds niet, wat we doen zijn meer basisstappen voor echte quantumberekeningen. Pas de gevorderde gebruiker krijgt van IBM rekentijd voor het echte werk in de experience. Tussen nu en dat moment zitten tientallen pagina's taaie quantumtheorie. Officieel voor beginners. Maar in werkelijkheid gewoon serieus studeren. 
+En dan nog is de vraag wat je met vijf qubits kunt uitrichten. Weinig, zegt later deze ochtend hoogleraar Lieven Vandersypen van QuTech. Hij was het die lang geleden als eerste een echte quantumsom met zeven qubits maakte in een meetopstelling, nota bene ook bij IBM. Die was nog niet eens met een quantumchip uitgerust, maar met organische moleculen in een vloeistof die bij wijze van bits met een magnetron werden gemanipuleerd. 
+Vandersypen: 'De berekening die we deden was een klassieker: het ontbinden van het getal 15 in priemgetallen. Dat was een hels karwei, waarbij we meer dan 300 manipulaties nodig hadden om op zeven qubits het antwoord te vinden: de delers zijn 3 en 5. Drie maal vijf is vijftien namelijk. Het klinkt triviaal, maar om dat met voldoende zekerheid uit een bekerglas moleculen te leren, is toch wel indrukwekkend.' 
+Julia Cramer heeft intussen voor de zekerheid het dikke Quantum Information-handboek opengeslagen, dat alle fysici op QuTech verplicht in de kast hebben. Zonder die quantumbijbel is het ook met maar vijf qubits al gemakkelijk verdwalen in de quantuminformatica, zelfs voor de expert. Dat de meetopstelling die je mag programmeren een halve planeet verderop staat, is eigenlijk nog maar het kleinste probleem. Denken als een quantum, dat is de truc. 
+QUANTUMSPOKEN 
+Op het allerkleinste niveau van de materie hebben deeltjes geen exacte eigenschappen. Hun kenmerken worden als een loterij, waarin bij een meting één bepaalde eigenschap uit vele wordt getrokken. Dat geldt niet alleen voor deeltjes maar bijvoorbeeld ook voor andere minuscule systemen. Een bijzonder gevolg daarvan is zogeheten verstrengeling, waarbij deeltjes elkaars quantumtoestand kunnen onthouden. Het is als twee loterijen die van elkaar weten wat de ander doet, ook al is alles toeval. Dicht bij elkaar op een kleine quantumchip klinkt dat misschien nog niet zo heel gek. Maar proeven, ook in Delft, laten zien dat de spookachtige verstrengeling zelfs bij kilometers afstand nog stand houdt. 
+'We zijn op weg naar een niemandsland in het rekenen. Wie weet meldt zich iemand met een rekentruc die we gewoon nog niet kennen' 
+Bekijk de oorspronkelijke pagina: pagina 48, pagina 49, pagina 50
+Graphic
+
+ 
+Promovenda Julia Cramer bedient in de vergaderzaal van het QuTech-instituut in Delft de IBM-quantumcomputer in de staat New York.
+Foto Adrie Mouthaan
+Op de wanden bij QuTech staan overal ingewikkelde berekeningen.
+Foto Adrie Mouthaan
+QuTech-fysici
+Foto Adrie Mouthaan
+Julia Cramers met verslaggever Martijn van Calmthout.
+Foto Adrie Mouthaan
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Industry: Computing + Information Technology (94%)
+Load-Date: July 1, 2016
+
+End of Document
+Iedereen kan mag quantumrekenen
+
+Iedereen kan mag quantumrekenen
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

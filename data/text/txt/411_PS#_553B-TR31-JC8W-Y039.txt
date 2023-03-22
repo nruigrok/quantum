@@ -1,0 +1,54 @@
+Het droomdeeltje uit Delft 
+de Volkskrant
+3 maart 2012 zaterdag
+Copyright 2012 PCM Uitgevers B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 3
+Length: 1058 words
+Byline: Martijn van Calmthout
+Body
+
+Mooier kan natuurkunde niet worden, mijmerde Kouwenhoven vorig jaar nog, toen hij alleen nog maar geld had en plannen. 'Een deeltje ontdekken, in je eigen lab. Dat maak je nooit mee. Dan denk je onwillekeurig toch even aan een Nobelprijs.' Het was de enige zin die hij schrapte uit het stuk over zijn nieuwe project dat in de Volkskrant verscheen.
+Wat de toekomst brengt is afwachten, maar Microsoft kan nu al tevreden zijn. De structuur waarin de voortvluchtige deeltjes ontstaan, gaat al redelijk in de richting van het felbegeerde stabiele qubit. Om te beginnen materialiseren de Majorana's in paren, waardoor ze vanzelf een richting hebben, die als een bit kan worden opgevat. Die staat, zoals een quantumsysteem betaamt, echter niet vast maar is in feite simultaan in beide richtingen. Het tweetal vormt geen digitale 1 of 0, maar is 1 en 0 tegelijk.
+Hecht
+Maar anders dan in eigenlijk alle andere quantumsystemen is het tweetal via bijzondere quantumregels wel zeer hecht met elkaar verbonden. De koppeling van het tweetal is wat wiskundigen noemen topologisch, naar de wiskunde die de essentiële vormen van objecten beschrijft.
+Neem bijvoorbeeld een breed post-elastiek, dat per definitie een band is met twee gescheiden flanken en dat ook blijft, hoezeer het elastiek ook wordt verdraaid of uitgerekt. Wie er een Möbiusband van wil maken moet met schaar en lijm in de weer. Op dezelfde manier blijven de gekoppelde eigenschappen van het Majorana-tweetal in essentie steeds dezelfde, zolang er niet geknipt wordt. Dat maakt dit speciale qubit dat ze vormen ook buitengewoon stabiel, terwijl normale quantumtweetallen hun eigenschappen verliezen zodra er zelfs maar naar gegluurd wordt. Extreem gekoeld en ver van alle rumoer doen ze het misschien. Maar zeker niet onder alledaagse omstandigheden. De nieuwe Majorana-qubits wel althans in theorie.
+Majorana gevonden, en nog min of meer in een qubit op de koop toe. Is de quantumcomputer nu ook eindelijk onder handbereik? Zover lijkt het, alle opwinding ten spijt, nog niet. Kouwenhovens resultaat is, als het stand houdt, vooral een proof of principle, en nog lang geen werkend computergeheugen. Laat staan een werkende supercomputer, waarin miljarden Majorana-paren tegelijk moeten functioneren en onwaarschijnlijk ingewikkelde bewerkingen moeten worden uitgevoerd.
+De researchers van Microsoft kunnen meer dan tevreden zijn met hun Delftse vrienden. Maar de verkoopafdeling moet nog veel geduld hebben.
+Ettore Majorana: genie dat zomaar verdween
+Onder Italianen met een natuurwetenschappelijke achtergrond wordt zijn naam nog altijd met een zeker ontzag uitgesproken. Ettore Majorana, de briljante fysicus die in het rijtje van Fermi en Pauli hoort. Maar ook Ettore Majorana, de man die op 26 maart 1938 van de aardbodem verdween, 31 jaar oud en net drie maanden hoogleraar natuurkunde aan de universiteit van Napels.
+Sindsdien is hij vooral een raadsel, een schim, en toch ook de nooit helemaal ingeloste belofte van de Italiaanse natuurkunde.
+Geruchten dat hij door de Russen is ontvoerd vanwege zijn inzichten in het splijtbare atoom, dat hij zou zijn ingetreden in een klooster of naar Zuid-Amerika gevlucht, doen nog altijd de rond. Anderen houden het toch maar op zelfmoord, mogelijk door uiteindelijk toch nog van de veerboot naar huis te springen. En ook een ongeluk is eigenlijk niet uitgesloten. Zelfs nu wordt hij wel eens op straat gesignaleerd, zoals dat met raadselachtige legenden nu eenmaal gaat.
+Feit is dat hij op de ochtend van zijn verdwijning voorjaar 1938 niet op de universiteit verschijnt, maar wel een telegram stuurt vanuit Palermo, Sicilië. Maak je geen zorgen, staat daar, er is een brief onderweg die alles duidelijk zal maken. De brief een dag later legt uit dat hij alsnog heeft afgezien van zelfmoord, en spoedig zal terugkeren naar Napels. Maar dat laatste gebeurt nooit. 'Verdwijning, met de intentie tot zelfmoord', staat er in het politierapport over de zaak Majorana. Later blijkt de jonge geleerde voor zijn vertrek al zijn spaargeld te hebben opgenomen en zijn notitieboeken bij een van zijn studenten te hebben achtergelaten.
+Wat rest zijn negen theoretisch-fysische artikelen die Majorana, een breekbaar, schuchter en zeer katholiek mathematisch wonderkind uit Catania, in zijn korte leven schreef. Enkele ervan zijn zonder meer baanbrekend te noemen. Hij is de eerste die bedenkt dat in een atoomkern neutronen voorkomen en dat die een elementair deeltje zijn, geen combinatie van een proton en een elektron zoals Heisenberg voorstelde. Zijn grootste ontdekking ligt waarschijnlijk op het gebied van de neutrino's, spookachtige deeltjes die ontstaan bij kernreacties en na ontstaan dwars door vrijwel alle materie heen vliegen.
+In 1937 voorspelde Majorana dat neutrino's massaloos zijn, tenzij ze verschillende identiteiten kunnen aannemen waartussen ze van tijd tot tijd wisselen. Een halve eeuw later werden die neutrino-oscillaties werkelijk aangetoond. Onder meer het OPERAexperiment tussen CERN en Gran Sasso onder de Italiaanse Apenijnen het laatste half jaar in het nieuws vanwege de vermeende overtreding van de lichtsnelheid door neutrino's is bedoeld om die gedaantewisselingen nauwkeuriger te bestuderen.
+Ook in 1937 maakte Majorana studie van de beroemde vergelijkingen die de Brit Paul Dirac in 1928 opstelde voor de eigenschappen van elektronen. Dirac zelf leidde daaruit af dat het elektron nog een antideeltje moest hebben, een positief geladen elektronachtige die verdwijnt in een flits van energie als het een elektron zou ontmoeten. Maar Majorana ziet, op puur theoretische gronden, nog een onvermoede oplossing van Diracs vergelijkingen: een soort elektron dat zijn eigen antideeltje is.
+Diracs positron wordt in 1932 werkelijk ontdekt in de kosmische straling. Maar hoe er na 1937 ook is gezocht naar het deeltje dat Majorana voorspelde, dat is nooit in het wild ontdekt. Terwijl het volgens sommige theoretici wellicht zelfs de donkere materie in het heelal zou kunnen vormen, en daarmee het normaalste deeltje van de universum.
+Romantisch was de draai die theatermaker Jan van de Berg in 2007 aan Majorana's verdwijning gaf in een stuk over Majorana's leven en werk. Majorana, besloot hij, was zijn eigen antideeltje. Op de boot terug van Palermo, waar hij had afgezien van zelfmoord, kwam hij alsnog zichzelf tegen. En verdween spoorloos.
+Graphic
+
+ 
+Fysicus Leo Kouwenhoven: 'Een deeltje ontdekken in je eigen lab, dat maak je nooit mee.' Foto Sam Rentmeester Universiteitspasfoto van Ettore Majorana 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: De Volkskrant
+Subject: Physics (94%); Educational Institution Employees (67%)
+Company:  MICROSOFT CORP (57%)
+Industry: Computing + Information Technology (75%)
+Load-Date: March 2, 2012
+
+End of Document
+Het droomdeeltje uit Delft
+
+Het droomdeeltje uit Delft
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

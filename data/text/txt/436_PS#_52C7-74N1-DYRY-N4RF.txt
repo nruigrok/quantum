@@ -1,0 +1,64 @@
+De werkelijkheid wordt steeds geschifter; Interview quantumfysicus dirk bouwmeester
+de Volkskrant
+12 maart 2011 zaterdag
+Copyright 2011 PCM Uitgevers B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 8
+Length: 1220 words
+Byline: Door Martijn van Calmthout
+Body
+
+Natuurkundige Dirk Bouwmeester kijkt enigszins verontrust uit zijn raam op de negende verdieping van het Huygensgebouw aan de Einsteinweg in Leiden. Beneden, richting Leiden CS, zijn de laatste weken vele tientallen forse bomen geveld en worden hele percelen voortvarend bouwrijp gemaakt.
+Niet alleen lelijk, al die kaalslag, verzucht Bouwmeester. 'Als ze straks gaan heien zullen we alleen nog 's nachts onze metingen kunnen doen. Omgevingsruis is nu al het grootste probleem waarmee we in het lab worstelen', zegt hij.
+Bouwmeester moet haast als geen ander de bouwactiviteiten in de omgeving vrezen. In het lagetemperatuurlab van de Universiteit Leiden balanceert hij op de rand van het fysisch meetbare. Iedere verstoring is meteen een ramp.
+In zijn meetopstellingen elders in het gebouw, waaraan hij al jaren werkt, tikken individuele lichtdeeltjes tegen microscopische spiegeltjes; de hoop is subtiele maar veelzeggende trillingen te detecteren. Inzet daarbij is niet meer of minder dan de realiteit zelf. Gelden, is de vraag, de wetten van de quantumtheorie ook voor objecten die veel groter zijn dan een enkel atoom?
+'Uiteindelijk draait het erom of we niet gewoon moeten aannemen dat de realiteit zich bij bepaalde gebeurtenissen splitst in verschillende parallelle realiteiten, net als in de atomaire realiteit. In de ene werkelijkheid neem ik dan nu de trein, in een andere pas morgen. En beide gebeurt.'
+Dat klinkt, realiseert Bouwmeester zich als geen ander, op het eerste gezicht idioot. In elk geval staat het haaks op het sterke, intuãtieve gevoel dat de werkelijkheid (c)(c)n is, en dat gebeurtenissen zich hooguit door toeval ontwikkelen. En hoe zit het met mijn 'andere ik', als er zich zo'n splitsing voordoet?, is onwillekeurig ook een vraag die zich opdringt. Die bestaat ook, voert Bouwmeester de strikt fysisiche redenering nog even tot het gaatje. 'Alleen merk je daar in praktische zin waarschijnlijk nooit iets van.'
+Hoogleraar experimentele quantumfysica Dirk Bouwmeester (1967) kreeg onlangs een VICI-miljoenenbeurs van NWO voor zijn onderzoek naar de geschifte quantumrealiteit. 
+Hij verdeelt zijn tijd tussen Leiden, waar hij experimenteert in het lagetemperatuurlab, en Santa Barbara, waar de crux van zijn meetsysteem wordt gemaakt: piepkleine spiegeltjes van enkele micrometers, opgehangen aan ragfijne chip-structuren.
+'Daar een meetlab opzetten is te duur, hier een nanolab bouwen ook', verklaart Bouwmeester zijn eigen gespleten bestaan als wetenschapper.
+Spiegeltjes
+In Bouwmeesters experiment is alles erop gericht aan te tonen dat zulke microscopische spiegeltjes tegelijk wel en niet kunnen trillen.
+Voor atomen is zulk onbepaald gedrag volkomen normaal, de quantumtheorie van onder anderen Schr3/4dinger en Heisenberg zegt dat sommige eigenschappen van atomen of deeltjes niet vastliggen. Ze kunnen verschillende waarden aannemen, maar tot er bij een meting (c)(c)n wordt vastgesteld, is het systeem in feite in alle toestanden tegelijk.
+Natuurkundigen zijn er al zeker een halve eeuw van overtuigd dat de werkelijkheid op atomair niveau op die manier werkt. Maar de laatste tien jaar worden in laboratoria de grenzen van dat gegeven verkend. Als (c)(c)n atoom geschift is, kunnen twee dat dan ook zijn? Of twee miljard? Of een hele zandkorrel? Een mens? Klassiek is het verhaal met Schr3/4dingers kat, die in een doos zit waarin het verval van (c)(c)n radioactief atoom bepaalt of de kat gifgas inademt en sterft of niet. Quantumtheoretisch gezien is de macroscopische kat daarmee tegelijk levend en dood. Pas wanneer de doos wordt geopend, wordt een van beide toestanden gerealiseerd. Of, maar dat is speculatie, misschien komt de waarnemer dan ook wel in twee toestanden: een waarin hij een dode kat ziet en een waarin hij hem levend waarneemt.
+Bouwmeester doet een vergelijkbare proef met losse lichtdeeltjes en twee microscopische spiegeltjes. Een foton wordt naar een halfdoorlatende spiegel gestuurd, waar het evenveel kans heeft om erdoorheen te gaan als om weg te kaatsen. In het ene geval komt het lichtdeeltje in een holte met een spiegeltje aan een slap veertje, dat door de duw van het foton gaat trillen, waarna het foton naar een detector vliegt. In het andere geval treft het een holte die geen beweeglijk spiegeltje heeft, waarna het foton naar de detector komt.
+De quantumwetten dicteren dat het foton in principe beide paden volgt tot er wordt gemeten. Dat betekent dat het beweeglijke spiegeltje zowel w(c)l als niet getroffen is, en dus in twee toestanden tegelijk bestaat: trillend en niet.
+Dat aantonen zou voor het eerst quantumgeschiftheid koppelen met een klassieke mechanische beweging. In zeker opzicht een riskant experiment, zegt Bouwmeester.
+'Je weet echt niet wat er gaat gebeuren. En tegelijk moet je het systeem extreem goed isoleren van de buitenwereld, zowel thermisch als mechanisch. Anders meet je daarom al niks meer.' Bouwmeesters meetwerk gebeurt bij miljoensten van een graad boven het absolute nulpunt.
+Lang is ervan uitgegaan dat in grote systemen de quantumeigenschappen van de onderdelen er steeds minder toe doen. Dat is de reden dat biljartballen, raketten naar de maan en hele planeten keurig met de klassieke natuurkunde te beschrijven zijn.
+Maar waar zit dan de overgang en hoe werkt die? Vooralsnog, zegt Bouwmeester, is van grote moleculen en wolkjes geprepareerde ijskoude atomen het quantumgedrag aangetoond. En eind vorig jaar noemde het blad Science een microscopische quantumstemvork van twee van zijn collega's in Californiœ de vondst van het jaar 2010. 'Macroscopische quantumsystemen, dat begint een hype te worden. Dat is mooi, maar de concurrentie groeit dus', zegt Bouwmeester.
+Penrose
+Bouwmeester werkt al sinds zijn studietijd in de quantumfysica. Als postdoc deed hij bij 
+Anton Zeilingers groep in Innsbruck baanbrekende proeven met teleportatie, ë la Startrek, van quantuminformatie. Later werkte hij in Oxford met onder anderen de befaamde collega van Steven Hawking, (Sir) Roger Penrose, die hem het idee aan de hand deed waarop zijn metingen nu berusten.
+'Penrose wilde met een heel systeem van kunstmanen met piepkleine spiegeltjes en losse fotonen aantonen dat macroscopische systemen niet lang in een quantumsuperpositie kunnen bestaan, omdat dat via Einsteins E=mc2 te veel energie vergt. Die proef is wel erg hoog gegrepen. Maar het idee van superpositie van de toestand van een spiegeltje is gebleven.
+'De metingen zijn nog niet gedaan, maar mijn gevoel zegt me dat we eraan zullen moeten wennen dat de macroscopische realiteit echt geschift is. Geef het een jaar of vijf.'
+Dat de alledaagse realiteit daardoor toch niet in een onnavolgbaar ratjetoe ontaardt, komt volgens Bouwmeester doordat individuele quantumgebeurtenissen in de praktijk eigenlijk niet zo heel vaak een rol spelen.
+Bouwmeester: 'Mijn Israœlische collega Lev Vaidman heeft een polshorloge ontwikkeld dat je via een quantumproces een 1 of een 0 geeft bij belangrijke beslissingen in je leven. Maar dat is toch vooral Spielerei, al geloof ik dat Vaidman het wel heel serieus bedoelt. En zijn tijd misschien wel ver vooruit.'
+Een Israœlische collega heeft al een quantumhorloge dat hem helpt met alledaagse beslissingen
+In een Leids lab meet Dirk Bouwmeester of de werkelijkheid door quantumeffecten gespleten is, of niet. Zolang er buiten niet geheid wordt. Door Martijn van Calmthout
+Graphic
+
+ 
+Dirk Bouwmeester in Leiden. Foto Martijn Beekman / de Volkskrant 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: De Volkskrant
+Subject: Physics (94%)
+Industry: Computing + Information Technology (75%)
+Load-Date: March 11, 2011
+
+End of Document
+De werkelijkheid wordt steeds geschifter; Interview quantumfysicus dirk bouwmeester
+
+De werkelijkheid wordt steeds geschifter; Interview quantumfysicus dirk bouwmeester
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

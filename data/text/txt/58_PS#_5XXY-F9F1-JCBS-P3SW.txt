@@ -1,0 +1,37 @@
+Quantumsprong naar nieuwe rekenwonders
+De Telegraaf 
+9 januari 2020 donderdag Gehele Oplage
+Copyright 2020 De Telegraaf All Rights Reserved
+
+Section: FINANCIEEL; Blz. 25
+Length: 657 words
+Byline: Wouter van Bergen
+Body
+
+'Klassieke supercomputer nog niet ingehaald' door Wouter van Bergen
+Rüschlicon - Of quantumcomputers inmiddels hun conventionele tegenhangers de  baas zijn, hangt af van aan wie je het vraagt. De eerste bedrijven laten  inmiddels bij wijze van experiment quantumcomputers al rekenen aan serieuze  doorbraken, zoals duizend keer betere batterijen.
+Quantumsuprematie of geen quantumsuprematie was de vraag waar Google en IBM  afgelopen najaar over bakkeleiden. Het was Google dat in oktober victorie  kraaide in wetenschappelijk tijdschrift Nature. Zijn quantumcomputer Sycamore  had als eerste een wiskundig probleem opgelost dat de snelste klassieke  supercomputer nooit binnen een praktisch tijdbestek zou kunnen kraken. Daarmee  zou Google als eerste de heilige graal van quantumsuprematie hebben bereikt.
+'Niet waar', reageerden wetenschappers van IBM in een blog. Hun snelste  conventionele computer, genaamd Summit, zou zeker geen 10.000 jaar doen over de  som zoals Google beweerde, maar slechts' 2,5 dag doen over de opgave die  Sycamore in 200 seconden kraakte, met bovendien veel betrouwbaarder resultaat.
+In Las Vegas kwam IBM woensdag op elektronicabeurs CES met zijn eigen  quantumrecord. Volgens de -door IBM zelf ontwikkelde- maatstaf van het  'quantumvolume' (qv) haalde zijn eigen quantumcomputer een recordwaarde van 32,  
+Quantumsprong naar nieuwe rekenwonders
+meldde het trots. Hoewel ook een woordvoerder niet exact kon uitleggen wat dit  betekende, zou de maatstaf een betere zijn dan het tellen van het aantal  werkende quantumbits (qubits). Volgens IBM is met de qv-score van 32 de  klassieke supercomputer nog niet verslagen, maar is dit 'weer een brug in de  richting' van quantumtechnologie die klassieke computers uiteindelijk wel zal  overtreffen.
+Nul en één tegelijk
+Anders dan conventionele computers, die rekenen met bits die de waarden nul of  één 
+kunnen aannemen, gebruiken quantumcomputers onderling verbonden qubits die  gelijktijdig 	één 	én 	nul 	kunnen 	zijn, 	zoals 	deeltjes 	volgens 	de  quantummechanicatheorie zich op twee plekken tegelijk kunnen bevinden.
+In een ruimte die te krap is om acht bezoekers binnen te laten in IBM's lab net  buiten de Zwitserse hoofdstad Zürich blijkt bij een werkende quantumcomputer  vooral het gebrom te horen van de koelkast die de temperatuur van de chips rond  min 273 graden Celsius te houden, nodig voor de supergeleiding die noodzakelijk  is voor een zo betrouwbaar mogelijk resultaat uit de notoir instabiele qubits.
+Als het uiteindelijk lukt om systemen van rond de honderd qubits stabiel te  laten werken, zal dat enorme sprongen in rekenkracht mogelijk maken, vertelt  IBM-onderzoeker Heike Riel aan bezoekende journalisten. Waar normale computers  tekortschieten, zou quantum onder meer simulaties van ingewikkelde moleculen  kunnen berekenen. Dat kan leiden tot doorbraken in onderzoek naar betere  materialen, batterijen en medicijnen. Ook zouden quantumcomputers superieur  kunnen rekenen aan financiële portfolio's, kunstmatige intelligentie, klimaat-  en weersvoorspellingen en cybersecurity, maar ook de huidige  dataversleutelingstechnieken kraken.
+Hoewel in de hele wereld wetenschappers en techbedrijven op zoek zijn -  waaronder in Delft hoogleraar Leo Kouwenhoven voor Microsoft - laat dé  doorbraak, nog op zich wachten, erkent Riel. "Experts denken dat het nog tien  tot dertig jaar duurt, maar het komt."
+Hoewel ze de normale supercomputer nog niet voorbij zijn, wordt de rekenkracht  van de huidige quantumcomputers door veel partijen die daar mee bezig zijn, wel  al opengesteld voor derden die al willen proeven van de rekenwonders van de  toekomst. Op de CES meldde IBM met honderd partijen samen te werken en met  autobouwer Daimler te rekenen aan technologie voor duizend keer sterkere  batterijen. Met de financiële instelling Morgan Chase doet IBM onderzoek naar  algoritmes voor het optimaliseren van optieprijzen, kredietrisico en  portfoliomanagement.
+'Doorbraak verwacht in tien tot dertig jaar'
+Classification
+
+Page 2 of 3
+Quantumsprong naar nieuwe rekenwonders
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: telegraaf,Telegraph
+Industry: Computing + Information Technology (94%); Computer + Electronics Mfg (62%)
+Load-Date: January 8, 2020
+
+End of Document
+Page 3 of 3

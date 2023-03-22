@@ -1,0 +1,25 @@
+Computertoekomst ligt in Delft
+De Telegraaf 
+22 november 2016 dinsdag Gehele Oplage
+Copyright 2016 De Telegraaf All Rights Reserved
+
+Section: FINANCIEEL; Blz. 021
+Length: 264 words
+Byline: Rolf Venema
+Body
+
+  door  Rolf Venema
+ Delft -  Als het aan Microsoft ligt zijn de dagen van de traditionele computer  geteld. De softwaregigant opent op de campus van TU Delft een lab waar  onderzoek wordt gedaan naar 'quantum computing'.
+  Het lab komt onder leiding te staan van professor Leo Kouwenhoven, die voor de  universiteit al onderzoek deed naar de nieuwe rekenwijze. Het opzetten van het  lab is onderdeel van een groter initiatief van Microsoft waarbij het doel is om  een bruikbare kwantumcomputer te bouwen. Hoewel de techniek al decennia wordt  bestudeerd is het nog niet op praktisch niveau ingezet omdat dergelijke  computers bijzonder gevoelig zijn voor invloeden van buitenaf, zoals straling  of temperatuur. Het bedrijf denkt echter tegen een doorbraak aan te zitten die het mogelijk  maakt om kwantumcomputers te maken die buiten laboratoria zijn in te zetten.  "We zijn bij een punt gekomen waarbij we van onderzoek kunnen overstappen op  ontwikkeling", aldus projectleider Todd Holmdahl. Een kwantumcomputer verschilt van een reguliere computer in dat hij niet binair  is. Waar een normale computer berekeningen via bits uitvoert die een waarde van  één of nul kunnen hebben, kan een 'quantum bit' (qubit) ook een één en een nul  tegelijkertijd zijn. Daarnaast kan een qubit een oneindig aantal andere waarden  tussen de één en de nul hebben.  Het voordeel is dat kwantumcomputers effectiever zijn bij het maken van  berekeningen die verschillende uitkomsten hebben omdat ze berekeningen  tegelijkertijd kunnen uitvoeren in plaats van één voor één, zoals traditionele  computers.
+Computertoekomst ligt in Delft
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: telegraaf,Telegraph
+Subject: Physics (63%)
+Industry: Computing + Information Technology (94%)
+Load-Date: November 21, 2016
+
+End of Document
+Page 2 of 2

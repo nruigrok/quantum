@@ -1,0 +1,39 @@
+Een magisch magneetveld
+de Volkskrant
+3 mei 2018 donderdag
+Copyright 2018 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap; Blz. 27
+Length: 599 words
+Byline: MARTIJN VAN CALMTHOUT
+Highlight: Vlak materiaal omtoveren tot magneet, door het slechts te buigen. Utrechtse theoretici ontdekten dat het kan.
+Body
+
+Het lijkt magie. Maar als het effect dat Utrechtse en Deense theoretici hebben ontdekt echt bestaat, is het vooral een enorme openbaring voor de natuurkunde. Zij kunnen voorrekenen dat sommige vlakke materialen in een magneet veranderen als ze worden verbogen of gedeukt. Er gaan dan elektrische stromen over het oppervlak lopen die pas weer verdwijnen als de buiging ongedaan wordt gemaakt. 
+Het 'geometro-Meissnereffect' noemen oud-student Anton Quelle en zijn vroegere hoogleraar Cristiane Morais Smith van het instituut voor theoretische fysica het verschijnsel. Hun artikel erover in het toptijdschrift Physical Review Letters, samen met twee Zweedse theoretici, is net tot editor's choice gebombardeerd, onder fysici een fikse aanbeveling. Quelle zelf werkt sinds zijn afstuderen (cum laude) overigens bij een grote Nederlandse automatiseerder.
+Supergeleiders
+Mogelijk kan het nieuwe effect een test opleveren voor supergeleidende materialen die een rol kunnen gaan spelen in quantumcomputers, de vermeende superrekenmachines van de toekomst. Supergeleiders laten stroom door zonder weerstand, als ze tenminste koud genoeg zijn. In gewone supergeleiders zorgen tweetallen elektronen voor dat verschijnsel; in zogeheten chirale supergeleiders draaien die ook nog om elkaar heen als dansparen in een wals. 
+Een magisch magneetveld
+Dat de naam Meissner in het nieuwe effect voorkomt is geen toeval. Op YouTube wemelt het van de filmpjes waarin een klein magneetje gewichtloos boven een zwart schijfje supergeleider zweeft, zolang vloeibaar stikstof de boel ijskoud houdt.
+Wrijvingsloos
+Dat Meissner-effect, ontdekt in de jaren dertig van de vorige eeuw, ontstaat doordat een supergeleider geen magneetvelden in zijn inwendige duldt en desnoods zelf een magneetveld aanmaakt om het te compenseren. Een externe magneet wordt daardoor weggeduwd en blijft zweven, een effect dat bijvoorbeeld wordt gebruikt om zweeftreinen wrijvingsloos over een baan te laten zoeven. 
+De theoretici van Utrecht en Stockholm laten in hun nieuwe artikel zien dat sommige supergeleiders niet eens een externe magneet nodig hebben om zulke defensieve magneetvelden te genereren. Krombuigen of indeuken volstaat ook al. Rondwalsende elektronenparen worden dan uit het platte vlak geduwd waardoor een inwendig magneetveld dreigt te ontstaan. Om dat te vermijden beginnen oppervlaktestromen te lopen die een precies tegengesteld magneetveld geven. Binnen compenseert dat, buiten geeft het een magneetveld. 
+In theorie kunnen chirale supergeleiders een belangrijke rol spelen in de bits van zogeheten quantumcomputers. Die machines rekenen niet met enen en nullen maar dankzij quantummechanica tegelijk met alle mogelijkheden daar tussenin, waardoor simultaan heel veel meer berekeningen worden gedaan. De qubits van zo'n computer zijn echter uiterst gevoelig voor storingen, tenzij ze van nature beschermd zijn. Het vermoeden is dat chirale supergeleiders dat doen, maar in welke materialen precies is nog giswerk. Sommige verbindingen van platina lijken veelbelovend en sommige strontiumzouten, maar dat meten blijkt tot nog toe ingewikkeld.
+Onderbelicht
+Een fris inzicht, zo'n onverwacht nieuw Meissnereffect, zegt de Twentse hoogleraar magneetnatuurkunde Hans Hilgenkamp, zelf niet bij het onderzoek betrokken. 'De kromming is in elektronische materiaalstudies sowieso een wat onderbelicht onderwerp vergeleken met bijvoorbeeld temperatuur of druk. Daar lijkt meer te halen dan we denken.' Vooral voor het flexibele één atoomlaag dunne koolstof grafeen kan dat een belangrijke toevoeging zijn, schat hij in.
+Bekijk de oorspronkelijke pagina: pagina 27
+Graphic
+
+Page 2 of 3
+Een magisch magneetveld
+ 
+Het klassieke Meissnereffect: een magneetje zweeft boven een supergeleider, afgekoeld met vloeibaar stikstof.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Superconductors (95%)
+Load-Date: May 2, 2018
+
+End of Document
+Page 3 of 3

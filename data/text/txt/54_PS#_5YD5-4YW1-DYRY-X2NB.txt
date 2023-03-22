@@ -1,0 +1,38 @@
+Silicium redt quantumcomputer
+de Volkskrant
+11 maart 2020 woensdag
+Copyright 2020 DPG Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 23
+Length: 595 words
+Byline: GEORGE VAN HAL
+Highlight: Gaat de quantumcomputer net als de huidige computers gebruikmaken van silicium? Nieuw onderzoek laat zien dat je zo zulke, behoorlijk storingsgevoelige, toekomstcomputers kunt beschermen tegen rekenfouten.
+Body
+
+Na de steentijd, bronstijd en ijzertijd leven we sinds de moderne computerrevolutie in zekere zin in de siliciumtijd. Plakjes van het materiaal, in de computerwereld beter bekend onder de Engelse naam 'silicon', vormen de basis waarop moderne computerchips verrijzen. Om exact die reden noemt men de thuishaven van veel technologiebedrijven in de Amerikaanse stad San Francisco ook wel Silicon Valley. 
+Moderne chipfabrikanten zoals Intel en AMD hebben hun productieprocessen volledig ingericht op de verwerking van het donkergrijze, metaalachtige spul. Daarom hopen zij dat ook de toekomstige quantumcomputer - een beloftevolle toekomstcomputer - het materiaal gaat gebruiken. 
+Onderzoek dat Japanse natuurkundigen onlangs publiceerden in het vakblad Nature Communications heeft die wens nu een stap dichterbij gebracht. Zij lieten zien dat het mogelijk is om de basisrekeneenheden van zo'n computer - zogeheten quantumbits, of kortweg qubits - uit te lezen zonder hun informatie te vernietigen. 
+In tegenstelling tot 'gewone' bits, de nullen en enen waarmee computers rekenen, kunnen qubits ook nul én één tegelijk zijn. Dat is een van de redenen dat quantumcomputers bepaalde sommen exponentieel sneller kunnen uitrekenen dan klassieke computers. De verwachtingen zijn daarom hooggespannen. Sommige experts 
+Silicium redt quantumcomputer
+dromen zelfs al hardop dat dergelijke computers nieuwe medicijnen gaan ontwikkelen of materialen kunnen ontwerpen die ons energieprobleem kunnen oplossen. 
+Quantumcomputers hebben echter ook een belangrijke achilleshiel: quantuminformatie is extreem gevoelig voor verstoringen van buitenaf. Daarom moeten quantumcomputerbouwers hun chips bijvoorbeeld koelen tot een fractie van een graad boven het absolute temperatuurnulpunt. Alleen zo hou je kwalijke warmtetrillingen buiten de deur. 
+Om dezelfde reden is het lastig om te controleren of qubits geen rekenfouten maken. In gewone computers kun je dat checken door bits nog tijdens een berekening uit te lezen, maar in quantumcomputers is dat niet mogelijk omdat je met een meting de vluchtige quantuminformatie verstoort. Daarom gebruikt men een omweg: de quantuminformatie wordt overgeheveld naar een andere qubit. Wanneer je die uitleest verdampt zijn informatie, terwijl de oorspronkelijke qubit zijn eigenschappen behoudt. 
+In hun artikel beschrijven de onderzoekers hoe ze die truc nu voor het eerst hebben toegepast in een qubit op basis van silicium, een zogeheten 'silicium quantum dot'. In 99 procent van de gevallen lukte het om de oorspronkelijke informatie te behouden, terwijl die in 95 procent van de gevallen ook correct werd uitgelezen. 
+Dat is nog niet goed genoeg voor industriële toepassingen, benadrukken de onderzoekers in een persverklaring, maar is wel 'erg opwindend'. Ronald Hanson, directeur van het Nederlandse quantumtechnologie-instituut QuTech, noemt het resultaat heel belangrijk voor de ontwikkeling van zo'n computer. Wel benadrukt hij dat concurrerende typen qubits - op basis van andere materialen - een dergelijke stap al eerder hebben gezet. 'De eerste keer gebeurde dat zelfs al in 2007', zegt hij. 'Dit is dus een beproefde methode.' 
+Volgens hem is het belang van het Japanse resultaat dat quantumcomputers dicht kunnen aanschurken tegen de huidige computerpraktijk. 'Silicium is in de industrie nu eenmaal erg belangrijk. Daarom investeert onder meer Intel in de ontwikkeling van dit type qubits. De afgelopen jaren hebben ze daardoor sterk aan populariteit gewonnen.'
+Experts dromen dat quantumcomputers nieuwe medicijnen gaan ontwikkelen Bekijk de oorspronkelijke pagina: pagina 23
+Page 2 of 3
+Silicium redt quantumcomputer
+Graphic
+
+ 
+Zo zou de buitenkant van een toekomstige quantumcomputer er misschien uit kunnen zien, denkt IBM.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Industry: Computing + Information Technology (94%); Computer Equipment (63%)
+Load-Date: March 10, 2020
+
+End of Document
+Page 3 of 3

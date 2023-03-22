@@ -1,0 +1,54 @@
+Een kilogram nauwkeurigheid
+de Volkskrant
+25 januari 2014 zaterdag
+Copyright 2014 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap; Blz. 5
+Length: 919 words
+Byline: MARTIJN VAN CALMTHOUT
+Body
+
+Metrologie: moeilijk meten 
+Hij komt eraan, de nieuwe universele kilogram. Die hangt niet langer af van een kwetsbaar blokje metaal in Parijs, maar wortelt in de quantumfysica. 
+Het was een beetje een verstopt bericht, vorige week op de website van het Amerikaanse meetinstituut NIST in Boulder, Colorado. Het instituut, dat waakt over de juiste maten en gewichten voor de VS, had een nieuwe waarde voor de constante van Planck vastgesteld. 'Na twee jaar van moeilijk en nauwgezet werken', stond er voor de zekerheid bij. 
+Dat, zegt fysicus Marc Pieksma van het Van Swinden Laboratorium in Delft - voorheen het Nederlandse meetinstituut - is het understatement van het jaar. 'NIST heeft de laatste jaren een lastige positie in het internationale meetwereldje gehad. Hun waarde voor de constante van Planck leek systematisch veel lager uit te vallen dan elders in de wereld. Dat heeft de komst van een nieuwe standaard voor de kilogram bepaald niet versneld.' 
+Het lijkt een vreemde omweg: een natuurconstante uit de quantumtheorie die een nieuw fundament voor de kilogram moet leveren. Een standaardgewicht lijkt stukken eenvoudiger. Een weegschaal volstaat dan om te weten of een ander object ook een kilo weegt. 
+Dat standaardgewicht is er dan ook allang. Dat wordt in de vorm van een platina-iridium cilinder sinds 1889 bewaard in een kluis in een instituut in Sèvres bij Parijs. Van de standaardkilo zijn officiële kopieën gemaakt, die nationale meetinstituten weer gebruiken voor het ijken van gewichten. Ook in Nederland. 
+Maar de standaardkilogram, dat is al decennia duidelijk, heeft problemen. Het systeem met een tastbare standaard is kwetsbaar. De kilo kan zomaar gestolen worden of beschadigd raken bij een ramp. Maar erger is dat het systeem niet stabiel is. Het is allang bekend dat in de loop der jaren tussen de kopieën en de echte standaard verschillen zijn ontstaan, maar niemand weet waaraan dat ligt: aan de kopieën of aan het origineel. 
+En dan is er nog het probleem van de gebrekkige universaliteit, zegt Pieksma: 'Hoe leg ik aan iemand op Mars uit wat een echte kilo is? Daarvoor wil je geen object, maar een recept, liefst aan de hand van natuurconstanten.' 
+De internationale meetwereld heeft inmiddels voor alle maten en gewichten een koppeling aan natuurconstanten als de lichtsnelheid of de elektronlading afgesproken. Maar de kilo is de hardnekkige uitzondering. Afgesproken is wel dat er nog dit decennium een nieuwe standaard moet worden gevonden. Sommige groepen richten zich daarbij op het letterlijk tellen van voldoende atomen, bijvoorbeeld van silicium, tot een standaardaantal is bereikt dat dan per definitie een kilo weegt. 
+Maar de echte oplossing lijkt te liggen in de zogeheten elektrische kilogram. Daarbij wordt een gewicht gebalanceerd met een trekkracht van een elektromagneet, die wordt bepaald door de stroomsterkte in de spoelen. Als alle sommen zijn gemaakt, komt die vergelijking neer op het secuur meten van de constante van Planck, aangegeven met het symbool h. Door af te spreken wat de standaardwaarde van h is, kan iedereen met de juiste wattbalans daarna op recept een standaardgewicht van precies een kilogram maken. Desnoods aan het andere eind van het zonnestelsel. 
+In 2011 is internationaal afgesproken dat de wattbalans en de constante van Planck de standaard moeten worden, liefst al in 2015. Maar er was een probleem: NIST. Daar staat een van de mooiste wattbalansen ter wereld, prozaïsch de NIST-3 gedoopt. Maar dat voorkwam niet dat de Amerikanen systematisch een lagere waarde voor de constante van Planck vonden dan de rest van de wereld. Waarom was volstrekt onduidelijk. 
+Dat heeft tot rigoureuze maatregelen geleid, ziet Pieksma nu. 'Ze hebben niet alleen hun hele instrument en de procedures binnenstebuiten gekeerd, maar ook hun hele team vervangen. Dat zou natuurlijk ook een punt kunnen zijn: dat het team te goed wist wat eruit moest komen.' 
+Dat geldt zeker voor de constante van Planck: iedere fysicus kent die uit zijn hoofd. Maar bij de nieuwe metingen in Boulder is die niet rechtstreeks gemeten, maar via een afgeleide grootheid waarvan vooraf niet bekend was hoe groot die zou moeten zijn. 
+Nu komt die waarde uit op om precies te zijn: 6,62606979 × 10-34 Js, met een onzekerheid van 30 in de laatste twee cijfers achter de komma. Dat is behoorlijk wat dichter bij de internationaal aanvaarde waarde. Maar nog steeds niet gelijk binnen de foutenmarge. NIST bouwt nu een nieuwe balans, de NIST-4, voor nog betere metingen. 
+Pieksma: 'Ze zijn duidelijk op de goede weg. Maar ik betwijfel of we 2015 gaan halen voor de nieuwe standaardkilogram. Daarvoor voelt het nog net niet goed genoeg. De internationale meetgemeenschap is conservatief. En terecht.' 
+Als de nieuwe standaard - eventueel later - er wel is, zal dat voor het Van Swinden Laboratorium niet heel veel uitmaken. Nederland zal hoe dan ook geen eigen wattbalans bouwen, maar zijn eigen fysieke standaardkilo blijven ijken bij een ander lab - waarschijnlijk dat in Parijs, waar wel zo'n balans in aanbouw is. Die tripjes, gemiddeld eens in de tien jaar, blijven, zegt Pieksma. 
+Tegelijk betekent een nieuwe waarde van de constante van Planck wel degelijk werk aan de winkel voor het Delftse lab. Dat beheert ook standaarden voor elektrische lading en elektrische weerstand, die via ingewikkelde quantumeffecten worden bepaald. Daarvoor is de exacte waarde van h cruciaal. 'Niet zozeer voor een fabrikant van een spanningsmetertje, misschien. Maar wel voor wetenschappelijke instellingen.' 
+Graphic
+
+ 
+De wattbalans bij het Amerikaanse meetinstituut NIST.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Alternative Fuel Vehicles (94%); Astronomy + Space (78%); Physics (76%); 
+Educational Institution Employees (73%); Emissions (70%); Labor Force (69%)
+Industry: Computer Equipment (83%); Computer + Electronics Mfg (63%); Personal Computers (63%)
+Load-Date: January 24, 2014
+
+End of Document
+Een kilogram nauwkeurigheid
+
+Een kilogram nauwkeurigheid
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

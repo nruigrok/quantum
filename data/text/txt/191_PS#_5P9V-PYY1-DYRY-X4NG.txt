@@ -1,0 +1,33 @@
+Quantumcomputer lijkt stap dichterbij
+de Volkskrant
+24 augustus 2017 donderdag
+Copyright 2017 De Persgroep Nederland BV All Rights Reserved
+
+Section: Ten Eerste; Blz. 18
+Length: 599 words
+Byline: MARTIJN VAN CALMTHOUT
+Highlight: In de wereldwijde jacht op de eerste werkende quantumcomputer denken Eindhovense en Delftse fysici een beslissende slag te hebben geslagen. In Nature presenteerden ze woensdag een geheugenunit die van nature bestand is tegen verstoringen.
+Body
+
+Overgevoeligheid voor verstoringen is volgens experts tot nog toe verreweg het grootste probleem voor quantumcomputers. Zulke computers gebruiken de extreem subtiele wetten van de deeltjeswereld om veel sneller dan gewone computers berekeningen uit te voeren. In alledaagse computers is informatie vastgelegd in enen en nullen, zogeheten bits, waarmee berekeningen stap voor stap worden gedaan. In een quantumcomputer zijn de bits deeltjes met een dubbelzinnige toestand, waardoor ze in talloze berekeningen tegelijk kunnen worden gebruikt. 
+Dit maakt rekenwerk mogelijk aan extreem ingewikkelde problemen, van klimaat- en stromingsmodellen tot de talloze manieren waarop farmaceutische eiwitten kunnen vouwen, waar zelfs met de huidige supercomputers geen beginnen aan is. Bedrijven als Microsoft investeren miljarden in de research naar quantumcomputers, onder meer door grote investeringen in de QuTech groep in Delft. De Delftse hoogleraar Leo Kouwenhoven trad onlangs zelfs helemaal in dienst bij het bedrijf. 
+Microsoft is geïnteresseerd vanwege een vinding uit 2012 van de groep van Kouwenhoven, die toen zeer veelbelovend leek voor quantumrekenen. Ze creëerden aan de uiteinden van een speciaal deels supergeleidend nanodraadje zogeheten majoranadeeltjes. Zulke deeltjes werden al sinds 1937 voorspeld, maar waren nog nooit gevonden. Majorana's hebben zeer exotische eigenschappen, die maken dat een paar ervan nauwelijks uit elkaar te halen is. Dat maakt ze heel geschikt als stabiele bits voor 
+Quantumcomputer lijkt stap dichterbij
+een quantumcomputer. Andere kandidaten voor quantumbits zijn doorgaans extreem gevoelig voor minieme verstoringen.
+Topologisch vlechten
+De robuustheid van de majorana-bits berust op een vreemde wiskundige eigenschap, die maakt dat ze hechter verbonden raken als ze een paar keer om elkaar heen bewegen. Dat effect wordt wel topologisch vlechten genoemd, omdat het lijkt alsof de deeltjes aan touwtjes zitten die meer en meer verstrengeld raken. De uitdaging, zegt hoogleraar Erik Bakkers van de TU Eindhoven, was om die draaibewegingen werkelijk uit te voeren. 'Twee kralen op eenzelfde snoer kun je niet zomaar van plaats verwisselen. Dan moet je iets slims doen.' 
+Bakkers en teams in Delft en bij Microsoft hebben nu een manier gevonden om die wisseltruc wel tot stand te brengen. Daartoe laten ze vier majoranaproducerende nanodraadjes zo groeien dat ze een hashtag-achtig patroon met vier kruisingen vormen. Onder de kruisingen kunnen majoranadeeltjes worden opgesloten. Met kleine stroomstootjes worden die vervolgens in het vierkantje rondgedirigeerd, tot ze het rondje hebben voltooid dat het paar stabiliseert. 
+Volgens Bakkers zal het nog een half jaar duren voor de teams waterdicht hebben aangetoond dat op deze manier stabiele quantumbits te maken zijn. In feite, zegt hij, is eerst zelfs nog te bewijzen dat de gecreëerde deeltjes daadwerkelijk de tachtig jaar geleden voorspelde majorana's zijn. 'Daarvoor is het gedrag onder verwisseling essentieel', zegt hij. Tot nog toe hield ontdekker Kouwenhoven ook altijd een slag om de arm. 'Als het loopt en kwaakt als een eend, moet het haast wel een eend zijn, maar je moet het bewijzen', zei hij. 
+De Leidse hoogleraar theoretische natuurkunde Carlo Beenakker is desgevraagd enthousiast over de nieuwe Delfts-Leidse experimenten en Nature-publicatie. 'Als deze aanpak inderdaad stabiel blijkt, is het een belangrijke ontwikkeling voor het topologische quantumrekenen.' Maar valt het tegen, dan vreest hij dat de speciale aanpak van Microsoft dood zou kunnen lopen. 'Het wordt een spannende tijd.'
+Bekijk de oorspronkelijke pagina: pagina 18
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Page 2 of 3
+Quantumcomputer lijkt stap dichterbij
+Industry: Computing + Information Technology (94%)
+Load-Date: August 23, 2017
+
+End of Document
+Page 3 of 3

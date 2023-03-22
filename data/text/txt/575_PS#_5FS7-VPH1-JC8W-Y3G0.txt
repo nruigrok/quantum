@@ -1,0 +1,25 @@
+Alles te kraken met kwantumcomputer
+De Telegraaf
+16 april 2015 donderdag
+Copyright 2015 De Telegraaf All Rights Reserved
+
+Section: NieuwsVanDeDag; Blz. 7
+Length: 393 words
+Body
+
+Bart Olmer  Zoetermeer  De geheime dienst AIVD slaat alarm over de ontwikkeling van kwantumcomputers, een nieuwe generatie computers die oneindig veel krachtiger zijn dan de huidige, traditionele computers.  Voor deze 'supercomputers', waarvan deskundigen zeggen dat die rond 2030 op grote schaal praktisch toepasbaar zijn, is het een eitje om de huidige computerversleuteling te kraken.  Met de huidige techniek komt de beveiliging van digitale gegevens ernstig in gevaar. We moeten investeren in nieuwe cryptografische oplossingen.   
+        De geheime dienst vreest dat informatie die momenteel wordt buitgemaakt door hackers   maar nog onbruikbaar is vanwege encryptie   in de toekomst simpel wordt ontrafeld met kwantumcomputers.  Informatie die langdurig beschermd moet worden, kan nu al onderschept worden om later te ontcijferen.   
+         Kwantumcomputers zijn van grote toegevoegde waarde voor de wetenschap, de medische wereld en de chemie. Ze kunnen bepaalde zaken een stuk sneller dan traditionele computers. Ze kunnen onder andere ook veel beter encryptie breken dan traditionele computers. Daarom is het belangrijk om voorbereid te zijn op de komst van de kwantumcomputer. Ook de informatie die nu versleuteld is en die voor langere tijd beschermd moet blijven, is kwetsbaar , aldus de AIVD.   
+        Cloud  Functionerende prototypes van kwantumcomputers zijn er al, maar staan slechts in enkele laboratoria over de hele wereld en zijn daarom geen bedreiging. Experts voorspellen echter dat rond 2045 zelfs burgers capaciteit kunnen huren van een kwantumcomputer via de 'cloud'.   
+Alles te kraken met kwantumcomputer
+        Het Nationaal Bureau voor Verbindingsbeveiliging, onderdeel van de AIVD, zegt hard te werken aan oplossingen voor het probleem. Grootste zorg is het veilig opslaan van staatsgeheimen. Bedrijven kunnen advies krijgen voor het opslaan van geheimen.         De TU Delft is wereldwijd één van de voorlopers in het bouwen van een krachtige kwantumcomputer, die rond 2035 zijn supercapaciteit moet kunnen bereiken. Inlichtingendiensten wereldwijd zijn zeer geïnteresseerd in de technologie.  Uit de Snowden-leaks blijkt bijvoorbeeld dat de Amerikaanse geheime dienst NSA al in 2011 bezig was met onderzoek naar het bouwen van kwantumcomputers. In de gelekte notities staan ambitieuze doelstellingen en grote budgetten voor deze ontwikkeling , aldus de AIVD.   
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Telegraaf
+Subject: Experimentation + Research (63%)
+Industry: Computing + Information Technology (94%); Internet + Www (62%) Load-Date: April 16, 2015
+
+End of Document
+Page 2 of 2

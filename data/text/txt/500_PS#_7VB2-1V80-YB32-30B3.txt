@@ -1,0 +1,33 @@
+Eindelijk gemaakt: een atoom als een miniatuurzonnestelsel
+NRC Handelsblad
+March 28, 2009 zaterdag
+Copyright 2009 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP & ONDERWIJS; Blz. 07
+Length: 357 words
+Byline: Bennie Mols
+Body
+
+Een icoon uit de schoolboeken: elektronen cirkelen rond de atoomkern zoals planeten rond de zon. Alleen klopt dit aantrekkelijke beeld niet, zo bleek al bijna een eeuw geleden uit de wetten van de quantummechanica. Elektronen hebben naast een deeltjeskarakter ook een golfkarakter. Dat maakt dat elk elektron als een vage wolk rond de kern spookt. Toch hebben drie natuurkundigen van de Universiteit van Virginia (VS) voor het eerst een atoom gecreëerd waarin een elektron wel strakke baantjes rond de kern trekt (Physical Review Letters, 13 maart).
+Ze gebruikten microgolfstraling in een lithiumatoom om een fenomeen uit de sterrenkunde op atomaire schaal uit te buiten. Lang voor de ontdekking van de quantummechanica was al bekend dat er in het gecombineerde zwaartekrachtveld van de zon en de aarde vijf bijzondere punten bestaan: Lagrange-punten. Als een kleine satelliet zich in een van deze punten bevindt, dan beweegt hij in een vaste positie ten opzichte van de zon en de planeten. In 1994 werd theoretisch aangetoond dat zulke stabiele punten ook in een atoom gemaakt kunnen worden, door het gebruik van microgolfstraling in een aangeslagen atoom.
+Vorig jaar liet een andere groep fysici het buitenste elektron van een kaliumatoom enkele baantjes op een klassieke manier rond de kern trekken. Maar na een paar omwentelingen werd het gedrag toch weer quantummechanisch. Nu is het voor het eerst gelukt om een elektron net zo lang op een klassieke manier rond de kern te laten draaien als gewenst.
+Eindelijk gemaakt: een atoom als een miniatuurzonnestelsel
+De natuurkundigen uit Virginia gebruikten een lithiumatoom waarvan het buitenste elektron in een hoge aangeslagen toestand zit (Rydberg-toestand met quantumgetal 72). Op een slimme manier zorgden ze ervoor dat de microgolfstraling de aantrekkende kracht tussen de positief geladen kern en het negatief geladen elektron opheft. Door het veld van de externe microgolfbron langzaam aan te passen, maakten ze een Lagrangepunt, zodat het elektron in een klassieke baan rond de kern bewoog, zonder zich als een quantumwolk uit te spreiden.
+De onderzoekers willen de overgang van een quantummechanisch naar een klassiek systeem bestuderen.
+Bennie Mols
+Graphic
+
+ 
+Schoolboekmodel van een atoom.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Physics (94%); Superconductors (82%); Astronomy + Space (68%)
+Industry: Computing + Information Technology (74%); Manufacturing (70%); 
+Telecommunications (62%)
+Load-Date: March 28, 2009
+
+End of Document
+Page 2 of 2

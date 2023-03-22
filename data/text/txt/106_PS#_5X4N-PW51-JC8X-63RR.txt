@@ -1,0 +1,54 @@
+Google biedt glimp van nieuw computertijdperk
+de Volkskrant
+27 september 2019 vrijdag
+Copyright 2019 De Persgroep Nederland BV All Rights Reserved
+
+Section: Ten Eerste; Blz. 13
+Length: 918 words
+Byline: GEORGE VAN HAL
+Highlight: Google heeft een futuristische computer ontworpen die op rekensnelheid de geavanceerdste 'traditionele' computer met gemak aftroeft. Het is een mijlpaal vergelijkbaar met het moment dat de auto voor het eerst harder ging dan het paard. Hoe zinvol is deze quantumcomputer?
+Body
+
+Vijf vragen over quantumcomputer
+De eerste grote doorbraak in het tijdperk van de quantumcomputer begint met stilte. In plaats van gelikte pr-filmpjes of schreeuwerige persconferenties, hoorde de wereld dat Googles quantumcomputer sneller rekent dan klassieke computers via een op internet gelekt artikel. Dat werd snel weer verwijderd, maar experts menen dat het echt is. Google geeft geen commentaar. Waarschijnlijk treedt het bedrijf pas naar buiten als de resultaten van zijn quantumcomputer in een vakblad zijn gepubliceerd.
+1 Wat presteert Googles quantumcomputer?
+Google had met zijn quantumcomputer tweeduizend seconden nodig voor een berekening waar de beste huidige supercomputers - kolossale rekenmachines waar vooral universiteiten gebruik van maken - tienduizend jaar over zouden doen. Het record werd gevestigd met een specialistisch taakje, zonder praktisch nut. Maar de gebeurtenis markeert een moment dat vergelijkbaar is met dat van de eerste auto die sneller ging dan een paard, of de eerste keer dat een computer sneller rekende dan een mens. 
+Quantumcomputers kunnen op termijn de deur openen naar radicale, nieuwe toepassingen. Ze zouden ooit alle versleuteling van onze huidige computergegevens kunnen kraken. Maar kunnen ook de aanzet geven tot het ontwerpen van medicijnen die exact toegespitst zijn op een individu. Vandaar dat alle grote computerbedrijven nu investeren in de ontwikkeling van deze technologie. In de praktijk moet de quantumcomputer zich nog bewijzen. De mijlpaal die Google nu heeft bereikt, vormt daartoe een eerste voorzichtige stap.
+2 Hoe werkt een quantumcomputer?
+Quantumcomputers maken gebruik van de wetten van de quantummechanica, de natuurkundetheorie die het gedrag van de wereld op het allerkleinste niveau beschrijft. Op de schaal van deeltjes, de elementaire bouwblokjes van alles om ons heen, blijkt de werkelijkheid zich te gedragen op een manier die het menselijk voorstellingsvermogen te boven gaat. Deeltjes kunnen bijvoorbeeld op meerdere plekken tegelijkertijd zijn, terwijl een mens dat niet kan. 
+Die gekke eigenschappen vertalen zich ook naar de rekeneenheden van de quantumcomputer. Waar gewone computers rekenen met bits, die nul of één kunnen zijn, rekent een quantumcomputer met qubits, die ook nul en één tegelijkertijd kunnen zijn. Dankzij die fundamenteel andere manier van rekenen kunnen ze sommige berekeningen vele malen sneller uitvoeren dan een gewone computer. 
+De quantumcomputer van Google maakt gebruik van een processor - 'Sycamore' - met 53 van die qubits. 'Qua technisch ontwerp een heel grote stap', zegt Ronald Hanson, wetenschappelijk directeur van quantuminstituut QuTech van de TU Delft en TNO, dat onder meer samenwerkt met Google-concurrenten Microsoft en Intel. 'Wat ze in het artikel laten zien, is heel indrukwekkend.'
+3Hoe bewijs je dat een quantumcomputer sneller rekent dan een gewone computer?
+Dat is lastig. 'Het probleem is dat je die Sycamore-processor niet meer kunt simuleren op een klassieke computer', zegt Hanson. 'Je kunt dus eigenlijk niet controleren of de uitkomst van hun berekening juist is.' Toch zien de resultaten van Google er volgens Hanson betrouwbaar uit. 'Er zal altijd iets van twijfel blijven of dit nu echt beter is dan een klassieke computer', zegt hij. Het is bijvoorbeeld niet uitgesloten dat iemand een manier bedenkt om de berekening op een 'gewone' supercomputer toch sneller te laten verlopen dan de tienduizend jaar die volgens Google nodig is. 'Maar ik denk dat dit moment wel de geschiedenisboeken ingaat als het punt waarop quantumcomputers voor het eerst sneller waren dan klassieke computers.'
+4 Moet ik mijn computer de deur uit doen en een quantumcomputer bestellen?
+Nee. Googles Sycamore-processor kun je nu nog niet voor iets nuttigs gebruiken. Datzelfde geldt voor de quantumprocessoren van concurrenten als Intel en IBM. Die laatste lanceerde vlak voor Google ook een processor met 53 qubits. 
+De quantumcomputers die nu worden ontwikkeld, kun je het best vergelijken met supercomputers. Het zijn apparaten waarmee vooral wetenschappers en bedrijven rekenen aan gespecialiseerde problemen. Ze hebben veel ruimte nodig en staan daarom ergens in een loods. Wie er gebruik van maakt, logt op afstand in. In de toekomst zal dat vanzelf veranderen, stelt Hanson.
+5 Wat is de volgende quantummijlpaal?
+Uiteindelijk willen wetenschappers een zogeheten 'universele quantumcomputer' bouwen. Eentje waarop je niet alleen één bepaalde berekening kunt uitvoeren, maar die je elk denkbaar probleem kunt voorschotelen. 
+'Ik denk dat het nog minimaal tien jaar duurt voordat we zover zijn', zegt Hanson. Dergelijke computers moeten onder meer de fouten corrigeren die tijdens quantumberekeningen kunnen ontstaan. Zonder efficiënte foutcorrectie is een universele quantumcomputer onmogelijk. Daarom is dat de belangrijkste toepassing waar quantuminstituten als QuTech en bedrijven als Intel, IBM en Microsoft nu aan werken. 
+Google hoopt met een simpelere processor de rest voor te blijven. Zij zetten in op iets dat ze een 'ruizige quantumcomputer van tussenformaat' noemen: een kleinere quantumcomputer die nog veel rekenfouten maakt, maar waar je op termijn misschien tóch iets nuttigs mee kunt doen. Het enige probleem: niemand weet nog wat voor nuttigs dat dan moet zijn. Of, zoals de onderzoekers van Google het zelf in hun artikel stellen: 'We zijn nu nog slechts één creatief algoritme verwijderd van waardevolle toepassingen op de korte termijn.'
+Bekijk de oorspronkelijke pagina: pagina 13
+Graphic
+
+ 
+De Google quantumcomputer zit in een constructie die ervoor zorgt dat de 53 qubits worden gekoeld tot even boven het absolute nulpunt van âˆ'273 graden Celsius. 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Industry: Computing + Information Technology (94%)
+Load-Date: September 26, 2019
+
+End of Document
+Google biedt glimp van nieuw computertijdperk
+
+Google biedt glimp van nieuw computertijdperk
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

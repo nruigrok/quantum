@@ -1,0 +1,42 @@
+De bal ligt op de stip én in het doel 
+Trouw
+5 oktober 2013 zaterdag
+Copyright 2013 De Persgroep Nederland BV All Rights Reserved
+
+Section: Vandaag; Blz. 7
+Length: 623 words
+Byline: Joep Engels redactie wetenschap 
+Body
+
+TU Delft en TNO moeten elektronen netjes in het gelid zien te krijgen  Joep Engels redactie wetenschap 
+Lange tijd was de quantumcomputer een fantastisch idee. Een rekenmachine, talloze malen sneller dan bestaande computers. Maar het bleef bij een idee, wetenschappers kwamen niet veel verder dan onderdelen ervoor. 
+Maar nu gaat de TU Delft een echte quantumcomputer bouwen. Minister Kamp van economische zaken heeft bekendgemaakt dat de TU samen met TNO en enkele bedrijven jaarlijks 10 miljoen euro steekt in een project dat over vijftien jaar een werkende machine moet opleveren. Dat moet kunnen lukken, zegt prof. Ronald Hanson, een van de dragende krachten van het project. "Vijftien jaar is een optimistische schatting, maar geen onrealistische." 
+Een quantumcomputer maakt slim gebruik van de vreemde eigenschappen van de atomaire wereld. Atomen of elektronen gehoorzamen aan andere wetten dan voorwerpen uit het dagelijks leven. "Een voetbal ligt ergens op het veld", legt Hanson uit. "Op de middenstip of in het doel. Bij een elektron is dat anders. Volgens de quantumtheorie is een elektron op beide plaatsen tegelijk. Hij ligt een beetje in het doel en een beetje op de middenstip." 
+Van dit twijfelende elektron maken wetenschappers een rekeneenheid, een computerbit of qubit. Een gewoon bit kent twee standen: hij staat aan of uit. In computertaal: 1 of 0. 
+De bal ligt op de stip én in het doel 
+Maar een elektron staat in beide standen. Zo'n qubit is 1 én 0 tegelijk. Hanson: "De winst zit hem erin dat een quantumcomputer de berekening waarin de qubit op 0 staat tegelijk uitvoert met de berekening waarin hij op 1 staat. Die parallelle rekenkracht maakt hem een stuk sneller." 
+Een qubit is twee keer zo snel als een bit, twee qubits zijn vier keer zo snel en tien qubits al duizend keer. Dat loopt dus heel snel op, maar zo ver is de wetenschap nog lang niet. Zelfs in Delft, een grote speler in deze wereld, zijn ze nog niet verder dan vier aaneengeschakelde qubits. "Daarmee kun je net laten zien dat er een quantumeffect is", zegt Hanson. "Bij zes of zeven qubits gaat het al mis. Terwijl we de eerste mijlpaal pas bij dertig qubits bereiken. Als je daar voorbij gaat, heb je een apparaat dat niet meer met een gewone computer is na te bootsen. Het doel is dat we qubits zo goed kunnen schakelen dat hun aantal er niet meer toe doet." 
+Dat was al langer hun streven, maar de laatste jaren komen de Delftse fysici erachter dat dat aaneenschakelen een vak apart is. Werk voor ingenieurs. Dat wordt dan ook het nieuwe van QuTech, het instituut dat de quantumcomputer moet gaan bouwen: er worden vooral ingenieurs aangetrokken, onder wie vijf nieuwe hoogleraren elektrotechniek. 
+Maar de wetenschap houdt voorlopig een belangrijke rol. "In QuTech zitten vier groepen van de TU die allemaal hun eigen qubit hebben. De komende drie jaar leggen we die naast elkaar en dan kiezen we de bouwsteen voor onze quantumcomputer." 
+Terwijl de onderzoekers in Delft nog aan de bouw van hun quantumcomputer moeten beginnen, claimt het Canadese bedrijf D-Wave al een werkend exemplaar te hebben. Deze zomer demonstreerde het apparaat zijn kunnen. Google en Nasa hebben al belangstelling getoond. 
+Ronald Hanson van de TU Delft is nog niet overtuigd. "Niemand weet precies wat de DWave doet. Is het echt een quantumcomputer? Dat wordt pas duidelijk als het bedrijf een grotere versie laat zien." 
+Bovendien heeft de Canadese computer een beperkte toepassing - bij de test loste hij sudoku's op. Hanson: "Ons doel is een quantumcomputer die alle problemen aankan." 
+Canada heeft er al een, althans... 
+De supercomputer komt er (straks) aan! vandaag 
+Qubits zijn een 1 en 0 tegelijk, en een quantumcomputer gebruikt beide waarden om tegelijkertijd verschillende berekeningen uit te voeren  
+Graphic
+
+Page 2 of 3
+De bal ligt op de stip én in het doel 
+                      illustratie nanne meulendijks                  
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Trouw
+Subject: Physics (65%); Educational Institution Employees (61%)
+Industry: Computing + Information Technology (94%)
+Load-Date: October 4, 2013
+
+End of Document
+Page 3 of 3

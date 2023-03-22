@@ -1,0 +1,32 @@
+Delftse vinding helpt supercomputer verder
+de Volkskrant
+6 mei 2016 vrijdag
+Copyright 2016 De Persgroep Nederland BV All Rights Reserved
+
+Section: Ten Eerste; Blz. 11
+Length: 428 words
+Byline: VAN ONZE VERSLAGGEVER MARTIJN VAN CALMTHOUT
+Body
+
+De supersterke rekenmachine van de toekomst, de quantumcomputer, is deze week een stuk dichterbij gekomen. Natuurkundigen van het QuTech-instituut in Delft hebben een systeem ontwikkeld waarmee zulke computers foutloos kunnen rekenen, iets waarover experts tot nog toe veel zorgen hadden. 
+Quantumcomputers gelden als de toekomst van het superrekenen, omdat ze, op papier, biljoenen malen sneller zijn dan de grootste supercomputer. Dat biedt enorme perspectieven voor simulaties, bijvoorbeeld in medicijnontwerp en genetica. Ook kunnen de quantumcomputers codes kraken die data of bankgegevens beschermen. 
+Onlangs stak de EU een miljard euro in het quantumrekenen, iets waarin Europa sterk vooroploopt. Onder meer QuTech in Delft profiteert daarvan. De quantumcomputer ziet ergens in de komende tien jaar het levenslicht, denken veel experts. 
+Quantumcomputers maken berekeningen niet stap voor stap met enen en nullen, de klassieke bits. In plaats daarvan gebruiken ze zogeheten qubits, mengvormen van 1 en 0 die pas bij een meting daadwerkelijk een 1 of 0 worden. Daardoor rekenen ze veel sneller dan tot dusverre mogelijk was, omdat ze alle mogelijkheden in één klap bekijken. 
+De kracht van de onbestemde qubits is meteen ook hun zwakte, zegt promovenda Julia Cramer van QuTech. 'Zodra er naar een qubit gekeken wordt, is het hele quantumeffect weg.' 
+Delftse vinding helpt supercomputer verder
+In de huidige ontwerpen voor quantumcomputers worden de qubits daarom zo goed mogelijk geïsoleerd tijdens een berekening. Dat isolement maakt het onmogelijk te controleren of het systeem daadwerkelijk in een quantumtoestand verkeert en niet onderweg ontspoort. Dat maakt de uitkomsten ongewis. 
+Identiek 
+Cramer en haar groepsleider Tim Taminiau hebben nu een systeem getest waarmee ze de qubits bekijken zonder ze te verstoren. Ze beschrijven donderdag in het tijdschrift Nature Communications de procedure. Daarin worden van een qubit twee reservekopieën gemaakt, waarna alleen wordt gecheckt of de drie wel identiek zijn. 
+Voor hun proeven gebruiken ze rondtollende koolstofatomen in een diamantrooster. De meeste qubit-systemen zijn gebaseerd op supergeleidende stroomkringetjes op chips. Wat de beste technologie is, staat nog niet vast. 
+Volgens de Nederlandse quantumtheoreticus dr. Barbara Terhal van de Universiteit van Aken is de Delftse demonstratie van quantum-foutcorrectie een belangrijke stap voorwaarts. 'Het is een babyversie van wat er in de praktijk nodig is voor een effectieve quantumcomputer. Zonder blijft quantumrekenen een rommelige aangelegenheid', zegt ze. 
+Bekijk de oorspronkelijke pagina: pagina 11, pagina 11
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Industry: Computing + Information Technology (95%); Budgets (65%)
+Load-Date: May 5, 2016
+
+End of Document
+Page 2 of 2

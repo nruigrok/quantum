@@ -1,0 +1,54 @@
+  Een spoorbaan voor Majoranadeeltjes 
+NRC Handelsblad
+14 oktober 2013 maandag
+Copyright 2013 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap
+Length: 962 words
+Body
+
+SAMENVATTING
+Natuurkunde Nederlandse fysici bouwen rails en kruisingen waarover Majoranadeeltjes kunnen bewegen. Zo zal het misschien ook in toekomstige, supersnelle quantumcomputers gaan .
+VOLLEDIGE TEKST:
+Amsterdam.  Majorana, Majorana... Bij al het nieuws over het Higgsdeeltje zou je haast vergeten dat de jacht op een ander deeltje nog loopt: die op het Majorana-deeltje, dat raadselachtige deeltje dat zichzelf is én zijn eigen antideeltje. Over dat deeltje  publiceerde een team onder leiding van Leo Kouwenhoven (TU Delft)  en  Erik Bakkers (TU Eindhoven) gisteravond een artikel in de online editie van  Nature Nanotechnology. Liever: niet zozeer over het deeltje zelf, maar over een 'kruispunt' van ragfijne, halfgeleidende nanodraadjes, waarover de fysici zulke Majorana-deeltjes nu  als treintjes willen laten rijden. 
+ ,,Dit geeft ons een forse voorsprong op  andere groepen die het bestaan van het Majorana-deeltje definitief willen bevestigen", zegt Bakkers aan de telefoon vanuit Sicilië. ,,Het is een essentiële stap, en we liggen er ver mee voor op anderen", zegt Kouwenhoven vanuit Londen. 
+Maar ho, was dat Majorana-deeltje  niet al in 2012 ontdekt? Nee, zo heeft Kouwenhoven  keer op keer in lezingen gezegd. Zijn team in Delft, met Vincent van Mourik als eerste auteur, vond destijds  iets wat 'walks, talks and looks like a Majorana' - een deeltje dat in alle opzichten op een Majorana lijkt. Maar of het dat ook is, dat is pas zeker  als het deeltje zich ook  gedraagt als een Majorana. En  daarbij zijn die kruispunten cruciaal: daarover kun je de vermeende Majorana's als treintjes heen en weer  bewegen en van plek laten wisselen, en alleen zo kan blijken of deze deeltjes zich inderdaad zo tegendraads (formeel: niet-Abels) gedragen als fysici verwachten. 
+Dat gedrag  hangt nauw samen met de bijzondere eigenschappen van Majorana's. Deeltjes die hun eigen antideeltje zijn,  zijn feitelijk deeltjes zonder eigenschappen. Zo dragen ze geen elektrische lading: anders zouden ze van elkaar te onderscheiden zijn doordat de lading in het antideeltje tegengesteld was. Om dezelfde reden zijn ze niet magnetisch, en dragen ze geen energie. Het gekke is tegelijk dat zo'n deeltje zonder eigenschappen in Delft juist opdook uit het samenspel van vele elektronen in een ragfijn nanodraadje - die dus elk afzonderlijk wél elektrische lading dragen en  kleine magneetjes zijn.  
+Om dat te verklaren, vergelijkt Kouwenhoven het draadje graag met rails, en de elektronen met wagonnetjes die samen een lange trein vormen. Alleen: er ontbreekt  aan het uiteinde één wagonnetje. Daar zit  een lege plek, een gat. En omdat het draadje als geheel elektrisch neutraal is, heeft dat gat een positieve lading, 
+Er is met dat gat nog iets aan de hand. Schuiven alle wagonnetjes één plek op, dan zit het gat ineens aan de andere kant van de trein. Niet bij de kop, maar bij de staart. Net zoals wanneer, heel klassiek,  alle mensen in een rij stoelen (met aan het uiteinde een onbezette plek) één stoel zouden opschuiven. Maar  volgens de wetten van de quantummechanica zit het nóg subtieler: aan beide uiteinden, bij kop én  staart, zit een mengeling van die twee mogelijkheden. Daar zit dus een half gat en een half elektron - het Majorana. 
+ Quantumbit  
+Ingewikkeld? Ja, maar niet  als je inzoomt op één zo'n uiteinde. Dan leert een simpele 
+optelsom: de lading van zo'n 'half-om-half deeltje' is precies nul, het magneetveld is nul,  en als de materiaaleigenschappen goed gekozen zijn is bovendien sprake van een energieloze evenwichtstoestand. Exact wat Kouwenhovens team destijds in  de metingen  zag, en wat andere teams later repliceerden - op een wat omstreden manier in Israël, robuuster in het Zweedse Lund.  
+Maar: echt wetenschappelijk bewijs is er pas als je met meerdere van die deeltjes kunt schuiven. Alleen zo kun je ze het tegendraadse gedrag ontlokken dat Majorana's eigen is, én dat ze zo geschikt maakt als informatiedrager in toekomstige quantumcomputers. En voor dat schuiven zijn de kruispunten nodig. ,,In feite willen we daarmee het bouwsteentje van zo'n quantumcomputer maken", zegt Kouwenhoven. Ofwel: een 'qubit' die tegelijk '0' (een gat) en '1' (een elektron) kan zijn, en waarin je informatie kunt wegschrijven, en later weer uitlezen. 
+De  Leidse groep van Carlo Beenakker  rekende onlangs voor  dat zo'n qubit twee kruispunten vergt (Physical Review B, 17 juli 2013).  Twee 'X'-en, gemaakt uit die ragfijne nanodraadjes. En met kunst- en vliegwerk is het Bakkers'  team van materiaalkundigen nu gelukt om een chip vol   kruispunten te maken. Geconstrueerd uit indiumantimoon, het halfgeleidermateriaal dat bij uitstek geschikt is om Majorana's in te vormen.  
+,,Daarmee zijn we er nog niet", zegt hij relativerend. Om de 'treintjes' te laten lopen, moeten de draadjes worden aangesloten op stukjes goud en  supergeleider, en moet  er een heel circuitje omheen worden gebouwd. Kouwenhoven en Bakkers geven zichzelf daarvoor twee jaar. Toch: ze zullen nu  niet snel meer door anderen worden ingehaald, verwachten zij. 
+  Majorana Wereldwijde jacht op eigenaardig deeltje   
+In2012  nam het team van Leo Kouwenhoven in Delft voor het eerst een Majoranadeeltje waar.  Het team stuurde  een  rij elektronen door een ragfijn draadje halfgeleidend materiaal, een draadje duizend keer dunner dan een haar. Aan beide uiteinden van de elektronenrij dook een 'toestand' op die in alle opzichten op een Majoranadeeltje leek.   
+Definitief bewijs is er pas als aan het deeltje ook het bijbehorende eigenaardige (nietAbelse) gedrag kan worden ontlokt. Wereldwijd proberen fysici dat nu voor elkaar te krijgen. Mede omdat juist dit gedrag de Majorana's bij uitstek geschikt maakt als informatiedrager in  toekomstige, extreem snelle  en krachtige quantumcomputers. 
+Graphic
+
+ 
+Het draadje (grijs, uitvergroot) waarin Majorana's opdoken en het nieuwe kruispunt (onder)
+Beeld TU Delft (vincent van Mourik) en TU Eindhoven (Erik Bakkers)
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Superconductors (86%); Physics (74%); Nanotechnology (70%); Standards + Measurements (64%)
+Industry: Computing + Information Technology (94%); Manufacturing (65%)
+Load-Date: October 14, 2013
+
+End of Document
+  Een spoorbaan voor Majoranadeeltjes 
+
+  Een spoorbaan voor Majoranadeeltjes 
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

@@ -1,0 +1,65 @@
+De quantumhuiscomputer is nog ver weg; Interview; Lieven Vandersypen wil dat Nederland leidend wordt in quantumcomputers wetenschap ; xxx  xxxxx 
+NRC Handelsblad
+17 augustus 2020 maandag
+Copyright 2020 NRC Media B.V. All Rights Reserved
+
+Section: ECONOMIE; Blz. 1
+Length: 1179 words
+Byline: Dorine Schenk
+Body
+
+ABSTRACT
+Interview Lieven Vandersypen hoogleraar QuTech, op de campus van de TU Delft, werkt aan technologie voor quantumcomputers. Lieven Vandersypen wordt er directeur.
+VOLLEDIGE TEKST:
+'Twintig jaar word ik al gedreven door de belofte dat we met quantumcomputers belangrijke problemen kunnen oplossen die nu nog buiten ons bereik liggen", zegt hoogleraar Lieven Vandersypen van het onderzoeksinstituut QuTech, een samenwerking tussen de TU Delft en onderzoeksorganisatie TNO. Per 1 september wordt hij wetenschappelijk directeur van dit instituut dat hij mede oprichtte. ,,Ik ben sinds mijn middelbareschooltijd gefascineerd door quantummechanica, maar als ik zeker zou weten dat het nergens toe zou leiden, dan zou ik mijn motivatie verliezen", vertelt hij in de schaduw voor het QuTech-gebouw op de campus van de TU Delft.
+Óf quantummechanica tot bruikbare technologie gaat leiden, is nu nog de vraag. Bij QuTech wordt gewerkt aan de ontwikkeling van krachtige quantumcomputers en een intrinsiek veilig quantuminternet. Een quantuminternetverbinding kan onmogelijk ongemerkt afgeluisterd worden. En een quantumcomputer zou veel sneller zijn dan huidige supercomputers. Bouwstenen van een quantumcomputer, genaamd qubits, kunnen niet alleen één of nul zijn - zoals bits van een gewone computer - maar ook een combinatie daarvan, waardoor je berekeningen tegelijkertijd kunt uitvoeren. ,,Met toekomstige quantumcomputers kun je bijvoorbeeld het gedrag van moleculen en materialen uitrekenen", vertelt Vandersypen. ,,Daarmee kun je materialen ontwerpen voor efficiëntere batterijen of versneld medicijnen ontwikkelen."
+Hoe ver is de ontwikkeling van de quantumcomputer?
+,,We zijn nu op een punt dat een quantumcomputer uit zoveel qubits bestaat die zo goed onder controle staan, dat het voor een conventionele supercomputer niet meer is bij te houden. Dit toonden Google-onderzoekers afgelopen herfst aan met hun quantumcomputer, die bestaat uit 53 qubits. Google noemde dat quantum supremacy (quantumsuperioriteit). Ik houd niet van die term, onder meer omdat het impliceert dat die quantumcomputer nu al relevante problemen sneller kan oplossen dan een supercomputer. Dat is niet zo.
+,,Google's quantumcomputer rekende zichzelf uit. De qubits werden zo geprogrammeerd dat ze willekeurige bewerkingen uitvoeren, wat een willekeurige getallenreeks opleverde met een bepaalde verdeling. Geen enkele supercomputer kon die berekening efficiënt narekenen.
+,,De stap van daar naar een nuttige toepassing is groot, omdat qubits gemakkelijk hun quantumtoestand verliezen, waardoor er fouten ontstaan. Om die te corrigeren zijn extra qubits nodig, de overhead. Om een chemisch vraagstuk op te lossen, zijn in theorie bijvoorbeeld 200 qubits nodig. Maar omdat de overhead nu een factor duizend is, heb je 200.000 qubits nodig. Het zal nog een aantal jaren duren voordat we een efficiënte oplossing hebben."
+Waarom is het lastig om een quantumcomputer op te schalen van 53 naar een paar duizend qubits?
+,,Om te beginnen is het controleren van qubits niet eenvoudig. Ze zijn fragiel en raken snel verstoord. Daarvoor ontwikkelen we speciale materialen en ontwerpen van de quantumchips. Er zijn ook praktische uitdagingen. Zo heeft elke qubit nu een eigen draadje nodig voor de aansturings- en uitleessignalen. Het is een klus om die allemaal in het benodigde koelsysteem te krijgen. Voor tienduizenden qubits moeten er zoveel kabels in dat het niet meer past.
+,,Ten slotte kost de aansturingsapparatuur nu 50.000 tot 100.000 euro per qubit. De kosten zijn een reëel probleem voor het opschalen. Bij QuTech werken we aan goedkopere oplossingen."
+Kunnen startups en grote bedrijven iets bijdragen aan de technologie?
+,,Sinds het begin van QuTech weten we dat we baat hebben bij toegang tot de kennis en infrastructuur van bedrijven. Het onderzoek aan universiteiten is goed voor het genereren en testen van nieuwe ideeën, maar minder voor het omzetten van die ideeën in iets dat betrouwbaar is, altijd werkt en wat je kunt verkopen."
+QuTech werkt sinds een paar jaar samen met onder meer chipmaker Intel en softwareontwikkelaar Microsoft. ,,Ze doen meer dan geld investeren. Het is een actieve samenwerking waarbij we informatie uitwisselen en gebruikmaken van hun faciliteiten. Omdat wij alles willen publiceren en zij bedrijfsgeheimen hebben, maken we duidelijke afspraken." Rondom QuTech is zo een ecosysteem van bedrijven en startups ontstaan.
+Raakt de quantumtechnologie daardoor in een stroomversnelling?
+,,De industrie is één belangrijke factor. Technologische ontwikkelingen de andere. Daardoor kunnen fragiele quantumtoestanden tot tienduizend keer langer standhouden en foutencorrecties efficiënter zijn. Twintig jaar geleden mocht je één fout maken per tienduizend rekenstappen, nu is dat één per honderd.
+,,Verder zie ik de laatste jaren meer aandacht voor nieuwe toepassingen van de quantumcomputer en in de ontwikkeling van quantumalgoritmen. Dat onderzoek is belangrijk om de potentie van de quantumcomputer goed te benutten.
+,,Door die vooruitgang ben ik optimistischer over de potentie van quantumtechnologie dan vijf jaar geleden. Ik wil de beloftes van de quantumcomputer waarmaken, met een voortrekkersrol voor Nederland. Daarvoor is wel ook langdurige en forse steun van de overheid nodig."
+Wanneer is er een toepasbare quantumcomputer?
+,,Ik verwacht dat er de komende jaren wereldwijd af en toe technische doorbraken zullen zijn waardoor we ineens het aantal qubits kunnen vertienvoudigen of verhonderdvoudigen, waarna de ontwikkelingen vertragen tot de volgende doorbraak. Met elke doorbraak krijgen we hopelijk toegang tot steeds complexere toepassingen. 
+Een grootschalige, krachtige quantumcomputer zal nog zeker tien jaar duren."
+Voorlopig heb ik dus geen quantumcomputer in huis?
+,,Nee, maar er zijn algemeen toegankelijke demonstratieprojecten, zoals Quantum Inspire. Daarbij kun je vanuit huis online echte qubits in een QuTech-lab aansturen om te ervaren hoe het is om een quantumcomputer te programmeren. Dat platform laat bedrijven de mogelijkheden zien. Daarnaast gebruiken we het in ons eigen onderwijs en proberen we het op middelbare scholen te laten landen. We zijn ervan overtuigd dat dit platform een belangrijke rol kan spelen in het opleiden van de toekomstige 'quantum workforce'.
+,,Ik verwacht niet dat er ooit in ieder huis een quantumcomputer staat. Het lijkt nu het meest waarschijnlijk dat ze een gelijkaardige rol krijgen als supercomputers waarvan er wereldwijd een paar bestaan voor specifieke toepassingen, zoals rekenen aan klimaatmodellen. Maar je weet het nooit. In de jaren veertig verwachtte de oprichter van IBM dat er een wereldmarkt zou zijn voor zo'n vijf computers."
+CV Delft en Stanford
+Lieven Vandersypen (Leuven, 1972) is hoogleraar quantum-nanowetenschappen aan de TU Delft en QuTech, waar hij per 1 september wetenschappelijk directeur wordt. Hij promoveerde aan Stanford University. ,,De kroon op mijn promotie was het vinden van de delers van 15 (3 en 5) met een quantumcomputer." In 2013 richtte hij mede QuTech op.
+Link naar PDF
+Link naar PDF
+Graphic
+
+ 
+Lieven Vandersypen: ,,Twintig jaar geleden mocht je één fout maken per 10.000 rekenstappen, nu is dat één per 100."
+Foto Roger Cremers
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Educational Institution Employees (68%)
+Industry: Computing + Information Technology (94%); Budgets (62%)
+Load-Date: August 17, 2020
+
+End of Document
+De quantumhuiscomputer is nog ver weg; Interview Lieven Vandersypen wil dat Nederland leidend wordt in quantumcomputers wetenschap ; xxx xxxxx 
+
+De quantumhuiscomputer is nog ver weg; Interview Lieven Vandersypen wil dat Nederland leidend wordt in quantumcomputers wetenschap ; xxx xxxxx 
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

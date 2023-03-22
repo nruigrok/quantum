@@ -1,0 +1,39 @@
+Nieuwe diamant kan quantuminformatie lang opslaan
+NRC.NEXT
+06 July 2018 nn vrijdag
+Copyright 2018 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 16
+Length: 414 words Byline: Dorine Schenk Dateline: Amsterdam. 
+Body
+
+ABSTRACT
+Natuurkunde
+Siliciumonzuiverheden in diamanten zijn geschikt om qubits op te slaan. Daarmee zijn ze bruikbaar voor quantumcommunicatie. 
+ Door onze medewerker Dorine Schenk
+Er is een nieuw soort diamant ontwikkeld die gebruikt kan worden voor toekomstige quantumcommunicatie. De synthetische diamant kan dienst doen als qubit, de basiseenheid om quantuminformatie in op te slaan. De resultaten van de Amerikaanse natuurkundigen die de diamant onderzochten, verschenen donderdag in Science.  
+Qubits zijn populair. Het zijn de bouwstenen van een toekomstige quantumcomputer. Ze kunnen meer informatie bevatten dan de klassieke bits in gewone computers en bepaalde berekeningen kunnen met qubits veel sneller worden uitgevoerd. Dat komt doordat qubits tegelijkertijd een '1' en een '0' zijn, terwijl gewone bits een '1' óf een '0' zijn. 
+Maar qubits zijn fragiel.  De quantumdeeltjes hebben daarom een veilige omgeving nodig. Diamanten bieden die: ze zijn stevig, ruisvrij en doorzichtig, waardoor licht voor metingen doorgelaten kan worden.  
+Nieuwe diamant kan quantuminformatie lang opslaan
+Diamanten worden al langer gebruikt om quantuminformatie op te slaan. Hiervoor wordt een kleine onzuiverheid in de kristalstructuur gebruikt. Een diamant bestaat uit een regelmatig rooster van koolstofatomen. Het qubit-systeem bestaat uit een onzuiverheid (een ander atoom dan koolstof) en een gat (een of twee missende koolstofatomen in het diamantrooster). 
+,,In de diamanten die nu gebruikt worden voor quantumonderzoek is die onzuiverheid meestal een stikstofatoom", mailt Nathalie de Leon van Princeton University. Stikstofonzuiverheden zijn goede qubits die quantuminformatie tot een seconde vast kunnen houden. ,,Maar stikstofonzuiverheden zijn erg gevoelig voor elektrische lading, wat tot verstoringen kan leiden." 
+Daarom gingen de onderzoekers opzoek naar een alternatief. Ze kwamen uit bij silicium. Siliciumonzuiverheden zijn niet gevoelig voor elektrische lading. En uit het Amerikaanse onderzoek blijkt dat ze, net als stikstofonzuiverheden, quantuminformatie lang kunnen vasthouden. ,,Silicium-qubits zijn minder goed onderzocht omdat het lastiger om diamanten te laten groeien met deze onzuiverheden", legt De Leon uit. 
+,,Een  veelbelovende techniek om alle voordelen van diamanten met onzuiverheden te benutten voor quantumcommunicatie", mailt Peter Humphreys, postdoc bij het Delftse instituut QuTech. ,,Er is meer onderzoek nodig om zeker te zijn dat deze onzuiverheden doen wat we willen, maar het is een grote stap vooruit." 
+Graphic
+
+ 
+Quantumdiamant met silicium.
+Foto Brendon Rose
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: nrc.next
+Subject: Conflict Minerals (65%); Gemstone Markets (63%)
+Page 2 of 3
+Nieuwe diamant kan quantuminformatie lang opslaan
+Industry: Computing + Information Technology (94%)
+Load-Date: July 5, 2018
+
+End of Document
+Page 3 of 3

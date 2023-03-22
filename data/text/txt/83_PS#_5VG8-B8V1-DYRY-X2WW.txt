@@ -1,0 +1,63 @@
+Mogelijk het lab van de revolutie
+de Volkskrant
+21 februari 2019 donderdag
+Copyright 2019 De Persgroep Nederland BV All Rights Reserved
+
+Section: Ten Eerste; Blz. 11
+Length: 1184 words
+Byline: GEORGE VAN HAL
+Highlight: Met miljoenen van Microsoft werkt de Nederlandse natuurkundige Leo Kouwenhoven aan de computer van de toekomst. Vandaag wordt in Delft een lab geopend waar zomaar een nieuwe computerrevolutie kan beginnen.
+Body
+
+Reportage Quantumcomputers
+'Wat vind je van mijn nieuwe kamer', vraagt Leo Kouwenhoven, bouwer van een quantumcomputer, directeur van Microsoft Quantum Lab en hoogleraar. Hij neemt plaats op de bank in zijn nieuwe kantoor. Lachend: 'Een bank, kussens, het kan niet op'. 
+Wie door het grauwe Technische-Natuurkundegebouw van de TU Delft naar het nieuwe quantumlab loopt, ziet dat de nieuwe Microsoftvleugel naar academische maatstaven inderdaad aardig luxe is. 
+Zodra je met je pasje - de vleugel is verboden toegang voor onbevoegden - voorbij de deur komt, verruil je grijze bakstenen en versleten zeil voor een fris, modern bedrijfspand: keurig tapijt, een verse laag verf, nieuwe bureaustoelen en een hippe koffiecorner. Op de gang tref je glazen stiltehokjes waar je rustig kunt skypen, en in de pauzeruimte - 'onze woonkamer', zegt een medewerker - komt binnenkort een spelcomputer. Geen playstation van Sony, maar een Xbox van werkgever Microsoft. 
+Vandaag opent koning Willem-Alexander dit nieuwe Microsoft Quantum Lab. Hier bouwen Kouwenhoven en collega's aan een nieuw soort quantumcomputer, de computer van de toekomst die de rekenkracht van een huidige laptop of mobiele telefoon moet reduceren tot die van een primitief telraam. Een quantumcomputer bovendien die is gebaseerd op Kouwenhovens majorana, een deeltje dat hij in 2012 voor het eerst bouwde in zijn lab. Het majorana bleek op papier al snel bijzonder geschikt voor de bouw van zo'n quantumcomputer.
+273 graden onder nul
+Hier in het belangrijkste deel van het quantumlab - het wetenschappelijk laboratorium zelf - moet de revolutie gaan beginnen. Er staan vijf manshoge vrieskasten, waarvan er drie aanstaan. Het kwik wijst zo'n 273 graden onder nul aan, slechts een fractie boven het absolute temperatuurnulpunt. Die extreme temperaturen zijn nodig omdat alle quantumbits ofwel qubits, dus ook Kouwenhovens majoranadeeltjes, hun opmerkelijke gedrag alleen vertonen bij zeer lage temperatuur. 
+Wat de quantumcomputer zo bijzonder maakt, is dat hij niet rekent met traditionele bits, de nullen en enen waarin computers hun informatie opslaan. Hij rekent met qubits, die vanwege de tegendraadse eigenschappen van de quantumfysica niet louter 0 óf 1 kunnen zijn, maar ook 0 én 1. Tegelijk. 
+En dan kunnen qubits ook nog eens 'verstrengelen', een spookachtige verbintenis aangaan waardoor een berekening op één qubit invloed heeft op alle qubits waarmee hij is verstrengeld. Door die radicaal nieuwe manier van rekenen kan de quantumcomputer talloze sommen tegelijk maken - sommen die een klassieke computer één voor één zou moeten uitrekenen. 
+Dit opent de deur naar een verhoging van de rekensnelheid die haar weerga niet kent. Hoewel geavanceerde quantumalgoritmen en computerprogramma's nog ontwikkeld moeten worden, zijn de verwachtingen hooggespannen. Kenners denken dat quantumcomputers in de toekomst bijvoorbeeld nieuwe medicijnen kunnen ontwerpen doordat ze tegelijk talloze mogelijke vormen van de moleculen van die medicijnen kunnen simuleren. Dat ze wondermaterialen kunnen ontwikkelen die ons energieprobleem kunnen oplossen doordat wetenschappers alle opties simultaan kunnen uitproberen in een simulatie. Ze kunnen mogelijk zelfs tot in detail de binnenkant van een mensenlichaam simuleren, zodat medische behandelingen eerst virtueel kunnen worden uitgeprobeerd.
+Warmtetrilling
+Het lastige is alleen dat qubits de eigenschap hebben hun magische quantumeigenschappen te verliezen wanneer ze met de buitenwereld in aanraking komen. De kleinste verstoring of warmtetrilling kan dan funest zijn. Vandaar dat elk quantumcomputerlab, ook het nieuwe van Microsoft, vol staat met grote vrieskasten waarin de qubits ongestoord kunnen rekenen. 
+Terwijl bedrijven als Google en IBM de eerste qubits aan elkaar knopen tot rudimentaire quantumcomputers, bestaat de majoranacomputer van Kouwenhoven nog slechts op papier. Maar op dat papier is hij wel meteen een stuk beter dan de concurrentie, zegt Kouwenhoven. 'Een quantumcomputer die mensen echt kunnen gebruiken is stabiel, goed beschermd tegen de invloed van de buitenwereld en maakt weinig rekenfouten.' En die stabiliteit is de belangrijkste eigenschap van zijn majorana's. 
+Voor elke qubit bestaat een limiet die beschrijft hoelang het deeltje zijn quantumeigenschappen kan bewaren voordat fouten in de berekeningen opduiken waardoor uitkomsten onbetrouwbaar worden. Die tijd is voor majoranaqubits in potentie 10 duizend keer langer dan die van de qubits waaraan de meeste anderen sleutelen. 
+'Als majoranaqubits inderdaad een veel langere vervaltijd blijken te hebben, zal deze quantumcomputer de concurrentie wegvagen', zegt theoretisch natuurkundige Carlo Beenakker (Universiteit Leiden), zelf niet bij het Microsoft Quantum Lab betrokken. 
+Dat denkt zelfs de concurrentie. 'De aanpak met een majoranaqubit is heel interessant, omdat die qubits in theorie zo weinig fouten maken', zegt John Martinis (Universiteit van Santa Barbara), die voor Google aan de quantumcomputer werkt. 
+Volgens hem kijkt de hele quantumcomputergemeenschap reikhalzend uit naar de eerste experimenten met die qubits. 'Pas na de eerste resultaten weten we of de verwachtingen realistisch zijn.' Zelf gaat Google voorlopig verder op de ingeslagen weg, met hun huidige qubits.
+Open race
+Kouwenhoven verwacht in zijn nieuwe laboratorium binnen een jaar te kunnen laten zien dat zijn majorana's inderdaad het gehoopte gedrag vertonen. Terwijl concurrenten als Google en IBM in de race om de quantumcomputer nu nog aan kop liggen, verwacht Kouwenhoven dat hij zijn concurrentie uiteindelijk te slim af zal zijn. Maar zoals altijd in de wetenschap, kan een kleine tegenvaller alsnog roet in het eten gooien. De race om de quantumcomputer ligt nog volkomen open.
+BEDRIJF BETAALT VLEUGEL UNIVERSITEIT
+Leo Kouwenhoven drong er bij Microsoft al jaren op aan: een bedrijfslaboratorium aan de TU Delft, direct verbonden met quantumcomputerinstituut QuTech waarvan Kouwenhoven destijds directeur was. Het leverde hem stabiele financiering op van zijn onderzoek en betere faciliteiten. Microsoft kreeg een instituut dicht bij de bron: het bedrijf kan profiteren van de academische infrastructuur. Kouwenhoven trad in 2016 volledig in dienst bij het technologieconcern, en blijft daarnaast verbonden aan de universiteit. 
+Hij heeft nu 18 fulltime medewerkers en beschikt over een cleanroom waarin materialen voor qubits kunnen worden gefabriceerd. 'Hiervoor gebruikten we de cleanroom van de universiteit, die we deelden met 400 andere gebruikers. Erg chaotisch.' Ook het bedrijf Bluefors - producent van de koelmachines die bij het quantumonderzoek worden gebruikt - gaat zich vestigen in Delft. Eerder investeerde computerchipbouwer Intel in een onderzoekslijn van QuTech. 
+Carlo Beenakker (Universiteit Leiden), niet betrokken bij het lab, noemt de opening een spannende ontwikkeling. 'Hiermee treden ze in Delft buiten de gebaande paden. Dat is risicovol, maar vooral ook beloftevol. Dit is uniek in Nederland.'
+Als het werkt, zal deze quantumcomputer de internationale concurrentie wegvagen Bekijk de oorspronkelijke pagina: pagina 11
+Graphic
+
+ 
+Een medewerker in het nieuwe lab.
+Technisch detail.
+Technisch detail.
+Technisch detail.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Educational Institution Employees (63%)
+Industry: Computing + Information Technology (94%)
+Load-Date: February 20, 2019
+
+End of Document
+Mogelijk het lab van de revolutie
+
+Mogelijk het lab van de revolutie
+
+Page 2 of 5
+
+Page 2 of 5
+
+
+
+
+

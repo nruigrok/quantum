@@ -1,0 +1,31 @@
+Licht lijkt glasvezel een zetje te geven als het eruit naar buiten komt
+NRC Handelsblad
+January 3, 2009 zaterdag
+Copyright 2009 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP & ONDERWIJS; Blz. 4-5
+Length: 418 words
+Byline: Rob van den Berg
+Body
+
+Meer dan honderd jaar hebben natuurkundigen gestreden over de vraag of licht zich afzet als het uit glas overgaat in lucht, of juist het glas een beetje met zich meetrekt. Een experiment van Chinese natuurkundigen aan een dunne glasvezel geeft eindelijk antwoord, al ligt de waarheid misschien wel in het midden (Physical Review Letters, 12 december).
+Wat er gebeurt, hangt af van de impuls, een natuurkundige grootheid die voor dagelijkse voorwerpen afhangt van massa en snelheid. Nu is de snelheid van licht in lucht groter dan die in glas of water - daardoor treedt er breking op en verandert een lichtstraal van richting. Volgens de Duitse natuurkundige Max Abraham in 1909 lag het daarom voor de hand dat ook de impuls van licht toeneemt als het van glas naar lucht overgaat. Maar zijn collega Hermann Minkowski dacht daar anders over: je mag licht helemaal niet beschouwen als een stroom klassieke deeltjes, maar je moet er met een quantummechanische bril naar kijken. En die quantummechanica is ook duidelijk: licht dat zich in glas voortbeweegt heeft een kortere golflengte en daarmee juist een grotere impuls dan in lucht. Twee redenaties, twee tegengestelde conclusies, en dat al honderd jaar lang.
+Weilong She en zijn collega's van de Sun Yat Sen universiteit in Guangzhou besloten aan deze onzekerheid voor eens en voor altijd een eind te maken. She bedacht dat als licht een glasvezel verlaat dit een meetbaar effect zou moeten hebben, net als een slang waar water uit spuit: de vrij naar beneden hangende glasvezel wordt meegetrokken als Minkowski gelijk heeft en weggeduwd als Abraham het bij het rechte eind heeft. 
+Eenvoudig was het experiment niet, want om het effect te kunnen waarnemen, mocht de 
+Licht lijkt glasvezel een zetje te geven als het eruit naar buiten komt
+glasvezel niet veel breder dan een halve micrometer zijn en bovendien ultralicht. Toen She en zijn collega's infrarode laserpulsen door de glasvezel stuurden, gedroeg deze zich precies zoals Abraham had voorspeld. Alternatieve verklaringen, zoals opwarming van de glasvezel door de lichtpulsen, wisten ze overtuigend te ontzenuwen.
+Maar volgens Miles Padgett van de universiteit van Glasgow in een commentaar op de website van de American Physical Society bewijzen experimenten uit 2005 aan de wisselwerking van licht op ultrakoude atomen indirect het gelijk van Minkowski. En dus lijkt de geschiedenis zich te herhalen: net zoals licht zich afhankelijk van de aard van het experiment kan voordoen als een golf of een deeltje, heeft het ook een tegengestelde uitwerking op materie. Rob van den Berg
+Graphic
+
+ 
+0301WETlicht, Een dunne glasvezel buigt nadat een laserpuls uit de punt naar buiten is gekomen., Foto's PRL
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Fiber Optics (94%); Physics (82%); Science & Technology (85%) (%)
+Load-Date: January 2, 2009
+
+End of Document
+Page 2 of 2

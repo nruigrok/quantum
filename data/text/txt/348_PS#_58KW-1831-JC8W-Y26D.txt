@@ -1,0 +1,68 @@
+Schrödingers kat gevat 
+de Volkskrant
+8 juni 2013 zaterdag
+Copyright 2013 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap
+Length: 1732 words
+Byline: MARTIJN VAN CALMTHOUT
+Body
+
+Interview: Klaas Landsman, mathematisch fysicus
+Het is het klassieke voorbeeld van de waanzin die quantumtheorie heet: Schrödingers kat die tegelijk leeft en dood is. Volgens een Nijmeegse wiskundige is het allemaal best te begrijpen.
+Jawel, hij heeft zelf een kat, zegt mathematisch fysicus Klaas Landsman van de Radboud Universiteit in Nijmegen. Twee zelfs. Sterker nog, die hebben ook wel een zekere rol gespeeld in wat hij beschouwt als de beste publicatie in zijn 30-jarige carrière als wiskundige en fysicus. 
+Dat zit zo. Katten hebben vlooien, ook de zijne. En dus is het zo gek nou ook weer niet, dat een 35 pagina's lang artikel vol wiskundige afleidingen en diagrammen over harde natuurkunde in de titel een vlo heeft. Die vlo is een kleine invloed met grote gevolgen, is het idee. Maar afgezien van de speelse titel is A Flea on Schrödingers Cat, vorige maand gepubliceerd in Foundations of Physics, bloedserieus. Het lost, claimt Landsman, het probleem in het hart van de quantumtheorie op: hoe uit talloze mogelijke uitkomsten van een meting, er altijd maar één realiteit wordt. 
+Dat zogeheten meetprobleem is al zo oud als de natuurkunde van de allerkleinste deeltjes oud is. Die deeltjes - fotonen of misschien elektronen - gedragen zich niet als piepkleine biljartballen, maar als vage vegen energie. Een deeltje is niet op een bepaalde plaats, in een bepaalde toestand, maar er is een zekere kans dat dat zo is. En dus ook een zekere kans dat dat niet zo is. 
+Maar in 1935 schreef de legendarische Oostenrijkse fysicus Erwin Schrödinger een naar zijn eigen idee belachelijke bespottelijke versie op van het probleem. Die komt er in essentie op neer dat een kat in een speciaal geprepareerde stalen doos letterlijk tegelijkertijd levend én dood is zolang niemand die doos open maakt. Terwijl in de echte wereld katten toch echt alleen maar levend óf dood zijn. 
+Maar zodra de doos open gaat is slechts één van die beide toestanden een feit. Dan is de kat zoals dat nu eenmaal in de echte wereld gaat dood óf levend. Het raadsel daarbij is: is er een reden dat het systeem wel de ene toestand kiest en niet de andere? Of eigenlijk: wat is de reden dat het systeem überhaupt een enkele toestand kiest?
+Golven
+Schrödinger zelf was de bedenker van de zogeheten golfbenadering van de quantummechanica, waarin niet zozeer met deeltjes wordt gerekend als met golven die de kans aangeven dat deeltjes ergens zijn. In een systeem dat zijn eigen gang gaat, zijn die golven overal en nergens. Maar bij een meting stort de golf in tot er maar één positie voor het deeltje overblijft. Het meetprobleem heet in jargon daarom ook wel de collapse of the wave function. 
+In de quantumnatuurkunde van alledag is dat alles eigenlijk helemaal geen probleem. Daar zijn zogeheten superposities van toestanden van deeltjes als elektronen, atomen of lichtdeeltjes de gewoonste zaak van de wereld. Die kunnen zonder problemen tegelijk linksom als rechtsom draaien, of op zowel de ene plaats als de andere zijn. Waar het om gaat is dat de quantumtheorie aan al die mogelijkheden kansen kan toekennen. Bij één meting lijkt de uitkomst willekeurig. Bij veel metingen laat de statistiek precies de voorspelde kansen zien. 
+Fysici hebben in feite ook niets te klagen over de quantumtheorie, die geldt als een van de meest succesvolle van de hele natuurkunde. Het enige probleem is de intuïtie: hoe een deeltje twee identiteiten tegelijk kan hebben, is nu eenmaal moeilijk voorstelbaar. 
+Raar of niet, fysici hebben een nogal pragmatische instelling ontwikkeld. Die gaat al terug op de Deense fysicus Niels Bohr - vader van de atoomtheorie en de vroege quantummechanica. Volgens Bohr was er op het allerdiepste niveau geen reden nodig dat een systeem een bepaalde toestand kiest; dat is zuiver en fundamenteel toeval, dat kennelijk op dat niveau de dienst uitmaakt. De quantumtheorie voorspelt welke uitkomsten in welke mate waarschijnlijk zijn, en doet dus eigenlijk alleen uitspraken over waarschijnlijkheden. 
+In feite, zegt theoreticus Klaas Landsman in zijn werkkamer in Nijmegen, is het meetprobleem van de quantumtheorie in de loop der jaren vooral een probleem voor filosofen geworden. En het domein van merkwaardige, bijna onfysische oplossingen, zoals de meerwerelden-interpretatie, die zegt dat bij een meting aan een quantumsysteem alle mogelijke uitkomsten realiteit worden, maar in steeds weer een ander parallel universum. Bij iedere meting splitst de werkelijkheid zich in die visie in talloos veel geïsoleerde realiteiten. Dat is op zijn minst een duizelingwekkend idee.
+Hart
+En te gemakkelijk, vindt Landsman, want het meetprobleem gaat recht naar het hart van de theoretische natuurkunde. Maar wat hem meer stoort: in feite heeft zelden iemand alles op alles gezet om het meetprobleem theoretisch precies te doorgronden. 'Ik erger me al twintig jaar aan de wat vage formuleringen waarvan we ons moesten bedienen.' 
+En daaraan komt, in elk geval als het aan Landsman ligt, nu een einde. Het meetprobleem, laat hij in het vorige maand verschenen artikel en in een vorige week verschenen vervolg zien, is niet alleen strikt mathematisch te beschrijven. Daar zinde hij al jaren op, maar het verhaal gaat verder. Het probleem is er ook echt mee te doorgronden. In elk geval in de zin dat Landsman kan laten zien hoe júist voor een groot object als een hele kat piepkleine verstoringen de levend/dode kan dwingen naar één uitkomst. 
+Sterker, de specifieke wiskundige beschrijvingen die Landsman samen met zijn student Robin Reuvers (nu in Cambridge) ontwikkelde, laten haarfijn zien dat er minder invloed van buiten af nodig is om tot één toestand te komen, naarmate het quantumsysteem groter is. De geringste verstoring volstaat dan al, omdat grote quantumsuperposities instabieler zijn dan kleine. 
+In het geval van de kat, is de kans dat bij het openen van de doos de kat leeft 50 procent en dat de kat dood is ook 50 procent. Maar in feite is het als een stemming in een parlement, waarin een partijtje met één zetel toch de doorslag kan geven. Landsman: 'De crux is dat zelfs als je parlement tienduizend plus één zetels telt, het net die ene stem is die de uitkomst bepaalt. Zolang de rest maar exact 50-50 ligt. Het is die ene vlo die bepaalt hoe de hele kat beweegt.' 
+Bijzonder is vooral dat Landsmans wiskundige afhandeling van het vraagstuk geen principieel onderscheid meer maakt tussen echte quantumsystemen van deeltjes - waarvan eigenlijk iedereen accepteert dat ze meerdere toestanden tegelijk kunnen aannemen - en macroscopische systemen zoals een hele, tastbare kat, die echt gewoon óf leeft óf dood is. Het gaat in essentie om precies hetzelfde verschijnsel, zo blijkt uit de Nijmeegse berekeningen en beschouwingen. En er is geen nieuwe natuurkunde nodig om te begrijpen dat een macroscopisch systeem altijd in één toestand belandt. Door de vlo- instabiliteit kan het niet anders. 
+Landsman: 'Schrödingers kat lijkt vooral een paradox omdat wij als macroscopische wezens nu eenmaal geen superpositie van grote objecten kennen. Die bestaan niet in onze waarneming, maar is er in aanleg wel. Als we zelf quantumduivels zouden zijn, vonden we de superpositie van quantumdeeltjes volstrekt normaal, stel ik me zo voor.' Dobbelen
+Saillant detail aan Landsmans werk is dat het verschenen is in Foundations of Physics, het tijdschrift waarvan uitgerekend Nobelprijswinnaar Gerard 't Hooft hoofdredacteur is. Van de Utrechtse theoreticus is bekend dat hij ernstig betwijfelt dat de quantumwereld echt op louter toevalligheden kan berusten. Precies zoals Einstein ooit fanatiek tekeerging tegen dat idee, en noteerde dat Onze Lieve Heer niet dobbelt. Er moet, is het idee, in een diepere laag een reden zijn dat de dingen gaan zoals ze gaan. 
+Maar is Landsmans oplossing van het meetprobleem ook waar? Wordt een superpositie in een quantumsysteem gevoeliger voor een kleine verstoring naarmate het om grotere systemen gaat? 
+Uiteindelijk, geeft Landsman zelf als eerste aan, kan alleen een experiment dat aantonen. Daartoe heeft hij inmiddels bij een groep fysici in Oxford de eerste voorbereidingen lopen voor proeven met vermoedelijk magnetische quantumsystemen. Met - tot zijn verbazing - ruime financiering van de Templeton Foundation, een Amerikaanse christelijke wetenschapsfinancier die vooral geïnteresseerd is in onderzoek dat aantoont dat er meer is tussen hemel en aarde. 
+Landsman: 'Ik zeg er geen nee tegen, alleen al gezien de moeizame financiering in het Nederlandse topsectorenklimaat. Maar als Templeton denkt dat dit experiment kan aantonen dat er op de overgang van quantum naar macroscopische systemen iets bovennatuurlijks gebeurt, moet ik ze teleurstellen. Mijn theorie zegt nou net dat dat niet zo is.' 
+Aandacht trekt Landsmans werk intussen zeker. Deze week hield hij er twee lezingen over in Oxford. En hoogleraar natuurkunde Dennis Dieks in Utrecht - een internationaal vermaard specialist in de grondslagen van de quantumtheorie - heeft het artikel van collega Landsman met bovengemiddelde belangstelling gelezen, zegt deze. Het raakt aan de fundamenten van de quantumtheorie en doet daar veel goed werk, vindt Dieks. 'Als dit inderdaad iets algemeens is, zou het een oplossing van het meetprobleem kunnen zijn. Maar alles hangt af van in hoeverre het wiskundige toy model dat Klaas gebruikt representatief is voor echte meetsituaties.' 
+Ook Spinozaprijswinnaar Erik Verlinde - theoretisch fysicus aan de UvA en bedenker van een nieuwe theorie van de zwaartekracht - heeft het artikel van Landsman bekeken. 
+Het meetprobleem, zegt hij nuchter, is in zijn ogen toch vooral een filosofische kwestie. 'Bijna iedere natuurkundige voelt zich in het begin wat ongemakkelijk met de quantummechanica, omdat deze kan leiden tot vreemde situaties zoals Schrödinger's kat. Maar de quantummechanica werkt wel, en daar gaat het om.' 
+Landsmans en Reuvers oplossing noemt hij vooral wel interessant omdat die simpel en elegant is. 'Het voorbeeld dat ze uitwerken klopt, en dat is belangrijk nieuws. Maar er zal meer werk gedaan moeten worden om te bepalen of hun oplossing ook in het algemeen juist is. Als dat zo blijkt te zijn, dan hoort hun werk direct thuis in alle standaardleerboeken op de universiteit', aldus Verlinde.
+Er is geen principieel verschil tussen deeltjes en iets groots zoals een kat
+Schrödingers puzzel is in de loop der jaren eigenlijk een probleem voor filosofen geworden - helaas
+Graphic
+
+ 
+Klaas Landsman, fysicus met twee ondubbelzinnig levende katten.
+Foto Mike Roelofs
+Schrödingers Cat
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Physics (94%); Educational Institution Employees (68%)
+Industry: Computing + Information Technology (68%)
+Load-Date: August 23, 2013
+
+End of Document
+Schrödingers kat gevat
+
+Schrödingers kat gevat
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

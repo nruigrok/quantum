@@ -1,0 +1,30 @@
+Een kwestie van qubits
+De Telegraaf
+13 oktober 2012 zaterdag
+Copyright 2012 De Telegraaf All Rights Reserved
+
+Section: 1; Blz. 4
+Length: 487 words
+Body
+
+Dit jaar is  Turingjaar. Die naam zal de meesten weinig  zeggen, maar wiskundigen hebben massaal de slingers opgehangen. De Brit Alan Turing stond in 1936 aan de wieg van de computer. En daarmee  veranderde hij ons leven...
+Een decennium eerder ontwikkelden grootheden als Albert Einstein en Niels Bohr de eerste ideeën over de kwantummechanica. Pas in 1985 komen de twee succesvolle vakgebieden bij elkaar en wordt de basis gelegd voor de computer van de toekomst: de kwantumcomputer.
+Een belangrijk begrip in de kwantummechanica is de term  superpositie , een hersenkraker voor de wetenschappers. Het fenomeen maakte aannemelijk dat een deeltje, bijvoorbeeld een lichtdeeltje (foton), zich tegelijkertijd in meerdere toestanden kan bevinden. Dat was een theorie waarbij zelfs Einstein zich ongemakkelijk voelde.
+Lange weg  De kwantumcomputer zal  op nog te bepalen terreinen  de bestaande supercomputers degraderen tot simpele telramen.  Bepaalde terreinen  is een wat wazige omschrijving, maar daaruit blijkt wel duidelijk dat de wetenschappers nog een lange weg te gaan hebben voordat de kwantumcomputer inzetbaar is in de maatschappij.
+Prof.dr. Harry Buhrman van het Centrum Wiskunde & Informatica (CWI) in Amsterdam is gespecialiseerd in kwantumcomputers:  Niet enen en nullen maar qubits (kwantumbits, red.) gaan voor ons in de toekomst het denkwerk grotendeels doen. Door de eigenschap van superpositie kan een qubit zowel een één als een nul tegelijkertijd zijn. En dit maakt de kwantumcomputer in snelheid onverslaanbaar, omdat hij meerdere berekeningen tegelijkertijd kan uitvoeren.
+Een kwestie van qubits
+In het brein van deze computer spreiden de paden waarover de berekeningen lopen zich uit tot een onvoorstelbaar groot netwerk.
+ Een kwantumcomputer is in staat om versleutelde berichten en   persoonlijke   codes die nu niet te breken zijn, in één klap te kraken. Waar onze huidige computers 100 jaar nodig hebben om een beveiligd bericht te ontcijferen, kan een kwantumcomputer het in 1 minuut. Aan de andere kant kunnen qubits ook worden gebruikt om geheime informatie volledig veilig te verzenden. Door de fragiele toestand van de qubits is het voor verzender en ontvanger direct waarneembaar als er wordt afgeluisterd."
+Computergigant IBM denkt binnen tien jaar de eerste 100 qubits-kwantumcomputer te kunnen bouwen.  En daarmee kunnen wetenschappers een nieuwe bril opzetten bij het uitvoeren van onderzoeken. Wereldwijd zullen kwantumcomputers met elkaar communiceren, wat met qubits veel efficiënter kan. Dat biedt ongekende mogelijkheden."
+Toch is het volgens Buhrman niet zeker of de kwantumcomputer de magische toverstaf is.  Hij werkt zeer specifiek en is niet voor alles te gebruiken. Op het CWI wordt momenteel met internationale topwetenschappers onderzoek gedaan naar die toepassingsmogelijkheden. In ieder geval moeten we de stap kunnen maken naar deze nieuwe generatie computers, anders kan de wetenschap straks niet verder  
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Telegraaf
+Subject: Physics (71%)
+Industry: Computing + Information Technology (95%)
+Load-Date: October 12, 2012
+
+End of Document
+Page 2 of 2

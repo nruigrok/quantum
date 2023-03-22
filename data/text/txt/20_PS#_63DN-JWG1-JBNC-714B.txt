@@ -1,0 +1,25 @@
+Quantum: De rekenbelofte van de toekomst
+De Telegraaf 
+21 augustus 2021 zaterdag Nederland
+Copyright 2021 Mediahuis Nederland BV All Rights Reserved
+
+Section: FINANCIEEL; Blz. 35
+Length: 160 words
+Body
+
+Quantumcomputers maken gebruik van principes uit de quantummechanica. Die zorgen ervoor dat een processor berekeningen over een enorme hoeveelheid data in één keer kan uitvoeren, waar een normale rekenchip dezelfde rekenbewerking voor elk stukje data opnieuw moet doen. Rekenopdrachten waar normale computers jaren over doen, worden met quantummachines haalbaar omdat ze zo honderd miljoen keer sneller kunnen rekenen. Voor bepaalde specifieke toepassingen opent dat hele nieuwe mogelijkheden. Zo wordt het onder andere mogelijk om chemische reacties en eigenschappen van moleculen door te rekenen, zodat daarmee nieuwe materialen en geneesmiddelen ontwikkeld kunnen worden. Daarnaast opent quantumtechnologie radicaal nieuwe mogelijkheden op gebied van kunstmatige intelligentie en cryptografie. Terwijl quantum oude versleutelingsmethoden voor datacommunicatie kan kraken, belooft het volledig veilige verbindingen mogelijk te maken.
+PDF-bestand van dit document
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Tlg-NL
+Quantum: De rekenbelofte van de toekomst
+Subject: Artificial Intelligence (94%); Chemistry (83%); Computer Science (81%); 
+Educational Institution Employees (75%); Software Services + Applications (65%)
+Industry: Computing + Information Technology (94%); Data Mining (77%); Computer 
+Equipment (69%); Autonomous Vehicles (65%)
+Load-Date: August 20, 2021
+
+End of Document
+Page 2 of 2

@@ -1,0 +1,57 @@
+'Een bij heeft bewustzijn. Maar een computer?'; Interview; Een bij heeft meer bewustzijn dan een computer
+NRC Handelsblad
+7 maart 2020 zaterdag
+Copyright 2020 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 1
+Length: 1553 words Byline: Bennie Mols
+Body
+
+ABSTRACT
+           Kunstmatige intelligentie  Bewustzijn is niet iets magisch, ook machines kunnen bewustzijn krijgen. Maar dan hebben we wel heel andere computers nodig dan we nu kennen. Neurowetenschapper Christof Koch ontwikkelde een wiskundige bewustzijnstheorie. 
+VOLLEDIGE TEKST:
+Neurowetenschapper Christof Koch, expert op het terrein van het bewustzijn, dreef al twee uur in een prikkelvrije drijfcabine toen zijn bezorgde dochter op de wand bonkte: ,,Hé papa, is alles in orde?" Kochs tijdgevoel was volledig in de war geraakt. Zelf dacht hij dat hij maar vijf minuten in de drijfcabine had gelegen.
+,,Ik was geheel naakt in het water gaan liggen", vertelt hij in een Skype-interview. ,,Zelfs mijn ring had ik afgedaan. Het water is zo zout dat je erin drijft als in de Dode Zee. Ik hoorde niets, ik zag niets. In het begin spookten dagelijkse beslommeringen nog door mijn hoofd en hoorde ik mijn hart kloppen. Na een tijdje verdwenen alle gedachten en hoorde ik ook mijn hart niet meer. Ik raakte in een toestand die eigenlijk niet in woorden is te omschrijven. Ik voelde mijn lichaam niet meer en ik verloor elk gevoel van ruimte en tijd. Alsof ik een stipje in een oneindige ruimte was. Ik was volledig bij bewustzijn, maar dat bewustzijn had geen enkele inhoud. De psycholoog William James heeft die ervaring een mystieke ervaring genoemd."
+Koch is de wetenschappelijke baas van het Allen Institute for Brain Science in Seattle (VS), een instituut dat de volledige bedrading van het menselijk brein in kaart probeert te brengen. Samen met de mede-ontdekker van dna, Francis Crick, stond Koch aan de wieg van het neurobiologische onderzoek naar bewustzijn. En samen met neurowetenschapper en psychiater Giulio Tononi ontwikkelde hij de Integrated Information Theory, een soort wiskundige bewustzijnstheorie.
+In 2019 publiceerde Koch het boek The feeling of life itself - Why consciousness is widespread but can't be computed. En over dat laatste wil ik hem spreken: Kunnen onze steeds slimmer wordende machines bewustzijn ontwikkelen? Het mooie van zijn bewustzijnstheorie is namelijk dat deze ook kan testen of machines bewustzijn hebben.
+In de wereld van de kunstmatige intelligentie wordt er van alles geroepen over slimme computers die vanzelf bewustzijn gaan ontwikkelen. Maar als er iemand in de wereld wel iets zinnigs kan zeggen over of computers bewustzijn kunnen ontwikkelen, dan is het Christof Koch wel. Hij heeft natuurkunde en filosofie gestudeerd, promoveerde in de biofysica, werkte als postdoc vier jaar in een AI-laboratorium en ontwikkelde zich daarna tot vermaard neurowetenschapper.
+Geen herinneringen, geen verlangens
+Gevraagd naar wat hij als bewustzijnsonderzoeker heeft geleerd van zijn ervaring in de drijfcabine, vertelt hij vol vuur: ,,In het dagelijks leven kan ik als het ware van buiten naar mezelf kijken: dit ben ik, Christof. Maar dat was helemaal verdwenen. Ik had geen waarnemingen meer, geen herinneringen, geen verlangens. Die ervaring leerde me dat je je ego volledig kunt verliezen en toch volledig bewust kunt zijn. Ik mediteer zelf niet, maar van mensen die daar goed in thuis zijn hoor ik dat ik in een toestand lag die sterk lijkt op die tijdens diepe meditatie. Ik ervoer iets wat een essentieel onderdeel is van onze bewustzijnstheorie, namelijk dat bewustzijn een toestand van zijn is en geen informatieverwerking."
+De Integrated Information Theory van Tononi en Koch zegt dat elk fysiek systeem dat van zichzelf een bepaalde causale kracht heeft, bewust is. Dat klinkt abstract, dus licht Koch toe wat hij bedoelt: ,,Causale kracht betekent dat het een het ander veroorzaakt. Bijvoorbeeld hersencellen die ergens in het brein beginnen te vuren veroorzaken dat iets later andere hersencellen even verderop gaan vuren. Maar ook een netwerk van transistoren op een computerchip heeft causale kracht: de huidige toestand van de chip wordt bepaald door de toestand net ervoor en zal op zijn beurt de toestand net iets later bepalen. Geïntegreerde informatie is een getal dat je met onze theorie kunt berekenen. Hoe groter dat getal, hoe groter de geïntegreerde informatie en hoe bewuster het systeem is."
+Laten we het nog concreter maken. Stel, je kijkt naar een scherm dat afwisselend licht en donker wordt. Naast je staat een digitale camera die ook naar het scherm kijkt. Wanneer jij als mens ziet dat het scherm donker is, betekent dat méér dan dat het niet licht is. Het betekent ook dat het scherm geen kleuren weergeeft, geen vormen, dat het geen geluid maakt en geen geur heeft. Maar voor de digitale camera is een donker scherm alleen maar het tegendeel van een licht scherm. Alle miljoenen pixels van de camera zitten in dezelfde toestand en zijn volledig onafhankelijk van elkaar. Daarentegen is jouw menselijke ervaring die van één enkel geïntegreerd systeem. Kochs bewustzijnstheorie zegt dat jij bewust bent en de digitale camera niet.
+Op filosofisch niveau impliceert de theorie dat bewustzijn niet uniek is voor mensen, maar dat elk systeem met een geïntegreerde informatie groter dan 0 iets zal aanvoelen, iets van bewustzijn heeft. Koch geeft als voorbeeld een bij, die een miljoen neuronen heeft. ,,Onze theorie zegt dat het iets voelt om een bij te zijn. Niet dat een bij een stem in zijn hoofd heeft of dat hij plannen maakt voor het weekend. Maar wanneer een bij naar een bloem vliegt en beladen met stuifmeel terugkeert, dan kan hij iets voelen dat lijkt op plezier. Andere keren, bijvoorbeeld als de bij geen voedsel heeft gevonden, kan hij zich slecht voelen. Onze theorie impliceert dat bewustzijn veel wijder is verspreid dan wordt aangenomen in de westerse cultuur."
+De Integrated Information Theory is veel meer dan een speeltje voor theoretici. Ze heeft geleid tot de bouw van een bewustzijnsmeter die momenteel wordt getest in klinieken in de VS en in Europa. Koch: ,,Het idee is om te detecteren of patiënten met een ernstige hersenbeschadiging zich bewust zijn. Patiënten in zo'n vegetatieve toestand liggen in bed, kunnen niet vrijwillig bewegen of praten, en kunnen soms zelfs hun ogen niet meer bewegen. Maar de bewustzijnsmeter vertelt ons dat ongeveer een vijfde van hen bewust is. Dat komt overeen met wat we uit experimenten met hersenscans weten."
+Wat voorspelt deze theorie nu over het bewustzijn van computers? ,,Onze theorie zegt dat we daarvoor niet naar het gedrag van de machine moeten kijken, maar naar het feitelijke substraat dat causale kracht heeft. Voor de huidige AI-systemen betekent dit het niveau van de computerchip. Standaardchips gebruiken de Von Neumannarchitectuur waarin een transistor invoersignalen ontvangt van een paar andere transistors, en typisch zijn uitvoersignalen ook slechts naar een paar andere transistoren stuurt. Dit is radicaal anders dan het causale mechanisme in de hersenen. Dat is veel complexer en de informatie is veel meer geïntegreerd. Je kunt berekenen dat de causale kracht van Von Neumann-chips heel klein is. Elk AI-programma dat op zo'n chip draait, hoe intelligent het zich ook gedraagt, zal zich nog steeds niet bewust zijn zoals een menselijk brein. Intelligentie en bewustzijn hangen in biologische wezens weliswaar vaak samen, maar conceptueel zijn het twee totaal verschillende dingen. Intelligentie gaat over gedrag en bewustzijn gaat over zijn."
+Volgens Koch zal zelfs een toekomstige supercomputer die tot in het diepste biologische detail het menselijk brein nabootst geen bewustzijn hebben: ,,Het maakt niet uit of de computer een weersimulatie uitvoert, poker speelt of het menselijk brein simuleert. Zolang de supercomputer werkt met een Von Neumann-architectuur is de geïntegreerde informatie minimaal. Bewustzijn gaat niet over rekenen. Het is een causale kracht die samenhangt met de fysica van het systeem."
+Dat betekent helemaal niet dat bewustzijn iets magisch is, nee, ook machines kunnen bewustzijn krijgen, maar alleen met een radicaal andere architectuur, legt Koch uit. ,,Wat we nodig hebben om een bewuste machine te bouwen, is een hoge mate van geïntegreerde informatie. Momenteel worden ook andere typen computers ontwikkeld, zoals een analoge computer die neurale netwerken in hardware nabootst - een zogeheten neuromorfe computer - maar ook de quantumcomputer. Beide soorten computers kunnen in principe een veel hogere mate van geïntegreerde informatie hebben. Het is nu nog speculeren, maar misschien leiden zij ons wel naar bewuste machines. Onze huidige computers zullen geen bewustzijn ontwikkelen, hoeveel slimmer dan de mens ze ook zullen worden."
+Ik raakte in een toestand  die niet in woorden is te omschrijven. Ik voelde mijn lichaam niet meer en verloor elk gevoel van ruimte en tijd
+           Koch Chief  scientist
+De Duits-Amerikaanse neurowetenschapper Christof Koch (63) is chief scientist en president van het Allen Institute for Brain Science in Seattle (VS). Van 1987 tot 2013 was hij hoogleraar aan het California Institute of Technology. Koch is vooral bekend vanwege zijn werk aan de neurale basis van het bewustzijn, waaraan hij jarenlang samen met Nobelprijswinnaar Francis Crick werkte. Hij houdt van filosofie, klassieke muziek, literatuur, fietsen, rotsklimmen en andere outdoor-activiteiten.  Vorig jaar verscheen van hem The feeling of life itself - Why consciousness is widespread but can't be computed.
+Link naar PDF
+Link naar PDF
+Graphic
+
+ 
+Christof Koch in zijn instituut in Seattle. Achter hem een foto van Francis Crick.
+Foto The Allen Institute
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Computer Science (94%); Educational Institution Employees (80%); Artificial Intelligence (76%)
+Industry: Computing + Information Technology (80%)
+Load-Date: March 6, 2020
+
+End of Document
+'Een bij heeft bewustzijn. Maar een computer?'; Interview Een bij heeft meer bewustzijn dan een computer
+
+'Een bij heeft bewustzijn. Maar een computer?'; Interview Een bij heeft meer bewustzijn dan een computer
+
+Page 2 of 5
+
+Page 2 of 5
+
+
+
+
+

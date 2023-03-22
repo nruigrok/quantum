@@ -1,0 +1,71 @@
+Machine impossible
+de Volkskrant
+16 juni 2018 zaterdag
+Copyright 2018 De Persgroep Nederland BV All Rights Reserved
+
+Section: Sir Edmund; Blz. 54, 55, 56, 57
+Length: 1988 words
+Byline: GEORGE VAN HAL
+Highlight: Een groep fysici werkt aan machientjes die niemand voor mogelijk hield - van superbatterijen tot motoren die sneller draaien dan onze natuurwetten toestaan.
+Body
+
+Natuurkunde
+Tot voor kort waren er nog zekerheden in het leven. Neem de verse kop koffie op het bureau. Die wordt niet uit zichzelf warmer, maar koelt langzaam af tot de omgevingstemperatuur. Want dat is wat warme vloeistoffen doen, overal, altijd. 
+Of toch niet? Aan het Freiburg Institute for Advanced Studies in Duitsland stapten wetenschappers onlangs een totaal nieuwe werkelijkheid binnen. Een wereld waar de regels die wij kennen niet lijken te gelden. Het instituut - plat dak, drie etages, ramen met ouderwetse luxaflex - bevindt zich op de campus, tussen het ziekenhuis en de universiteitsbibliotheek. Aan de buitenkant verraadt niets dat zich in zijn binnenste iets bijzonders voltrok. Toch is het juist hier dat fysicus Tobias Schaetz samen met collega's een experiment deed dat onze natuurwetten tot het uiterste wist te tarten. 
+In zijn opstelling voert hij energie aan atomen die gevangen zijn in een stuk kristal. 'We zagen hoe die energie vervolgens langzaam weglekte, totdat deze ineens - schijnbaar uit het niets - toenam', zegt Schaetz. Alsof je kopje koffie halverwege het koelen toch weer heet wordt. Volkomen belachelijk, natuurlijk, maar het gebeurde, schrijft hij in 2016 in het toonaangevende vakblad Physical Review Letters. 
+Magie? Niet bepaald. Net als enkele honderden anderen kwam Schaetz de afgelopen jaren terecht in een ontluikend nieuw vakgebied. Een vakgebied dat sindsdien de hoop voedt dat we radicaal nieuwe machientjes kunnen bouwen. Motoren die sneller draaien dan onze natuurwetten toestaan, bijvoorbeeld, batterijen die belachelijk efficiënt opladen en koelkastjes die op nanoschaal kunnen koelen. 
+De afgelopen honderd jaar konden we nog prima uit de voeten met de basisregels van de natuur- en scheikunde. Die beschrijven hoe biljartballen op elkaar botsen, hoe moleculen met elkaar reageren, waarom boten blijven drijven en zelfs hoe je raketten de ruimte in kunt schieten. Maar toen wetenschappers steeds verder gingen inzoomen, begon het te schuren. Voorbij moleculen, op de schaal van atomen, golden heel andere regels: de wetten van de quantummechanica. 
+Die wetten keerden vrijwel de gehele natuurkunde op z'n kop. Deeltjes konden plotseling op meerdere plaatsen tegelijk zijn. Bovendien bleken ze soms onderling zodanig verbonden - 'verstrengeld', zeggen natuurkundigen - dat iets doen met het ene deeltje direct invloed heeft op het andere, ook als ze kilometers uit elkaar zitten. En nu heeft diezelfde rare quantumtheorie zijn zinnen gezet op een van de laatste hoekjes van de natuurkunde dat nog onaangetast was: de thermodynamica, de natuurkundige warmteleer. De botsing van die twee theorieën onthult mogelijk zelfs het basale weefsel van onze werkelijkheid.
+Kopje koffie wordt nooit heter
+De thermodynamica is een kind van de industriële revolutie. Een periode waarin het gehijg en gepuf van gloednieuwe stoommachines het broeierige ritme dicteerde waarop de gehele economie begon te dansen. Ook de natuurkunde liet zich niet onberoerd. Evergreens als tijd en positie verdwenen naar de achtergrond, verdrongen door nieuwe supersterren als energie, warmte en arbeid. 
+In die smeltkroes ontstonden verse natuurwetten, die tegenwoordig bekend staan als de drie hoofdwetten van de thermodynamica. Inzichten die nog even stevig op hun sokkel staan als in de 19de eeuw. Althans: totdat wetenschappers als Schaetz er eens voorzichtig aan begonnen te sjorren en tot hun stomme verbazing ontdekten dat ze de hoofdwetten aan het wankelen konden brengen. 
+Die wetten vertellen onder meer waarom je vergeten kopje koffie nooit heter wordt. En hoe je vanuit dat principe machines kunt aandrijven die warmte omzetten in arbeid en energie - en vice versa. Dat lukt alleen nooit honderd procent efficiënt. Altijd lekt ergens warmte weg. Niet omdat de machines gebrekkig zijn, maar omdat de natuur ons nu eenmaal fundamentele limieten oplegt. 
+De bekendste daarvan is de zogeheten Carnot-efficiëntie, vernoemd naar de 19deeeuwse Franse ingenieur Sadi Carnot. Hij wilde beter begrijpen hoe stoommachines werken en stuitte pardoes op een limiet die voor elk soort motor bepaalt wat de maximale arbeid is die je kunt verrichten. 
+Twijfelen aan dat soort limieten stond lange tijd gelijk aan wetenschappelijke zelfmoord. Claims over de kwetsbaarheid van de thermodynamica zijn al zo oud als de eerste stoommachine, maar waren tot voor kort het exclusieve domein van zolderkameringenieurs die sleutelen aan perpetuum mobiles of eeuwige energiebronnen - pseudowetenschappelijke dwaalsporen die gebaseerd zijn op begripsfouten of misleidende bouwtekeningen. 
+Schaetz en al die anderen gooien het over een andere boeg. Zij nemen de thermodynamische limieten onder vuur met quantummunitie en vervangen de zuigers en piepende ventielen van stoommachines door atomen, lasers en hypermoderne kristallen. 'Met een volledige quantumversie van een warmtemotor is het zelfs niet uitgesloten dat we Carnot kunnen verslaan', zegt Vlatko Vedral, verbonden aan het Imperial College in Londen.
+Kopje koffie wordt tóch heter
+Zover is het nog niet. Toch zetten wetenschappers die antwoord zoeken op de vraag of al dat quantumgeweld straks nog iets heel laat van de thermodynamische regels sinds kort de stap van theorie naar praktijk. 'Er bestaan enorm veel ideeën', zegt Gleb Maslennikov in zijn werkkamer aan het centrum voor quantumtechnologie in Singapore. 'Maar tot nog toe zijn er verbazingwekkend weinig experimenten gedaan. Wij moeten nu orde scheppen in die ideeënchaos.' 
+De verwachtingen voor dergelijke experimenten zijn hoog. Want een theorie die zulke vreemde dingen mogelijk maakt als de quantumfysica, moet - zou je denken - ook de thermodynamica wel in z'n hemd zetten. En dat gebeurde. 
+Het begon al bij de energetische escapades van de atomen van Schaetz. En wat te denken van het werk van Maslennikov? Hij was aan het stoeien met atomen en licht, stuitte op ruis, en zette daarmee de deur op een kier naar een machientje dat thermodynamische effecten vertaalt naar de schaal van quantumdeeltjes. Vorig jaar deelde hij op een vakbijeenkomst het resultaat: een rudimentair minikoelkastje dat - verrassend - snéller kan koelen dan grote, klassieke varianten. 
+'In de toekomst misschien handig voor allerlei moleculaire machientjes', oppert hij. Wie zijn fantasie een beetje laat gaan, ziet hoe nakomelingen van Maslennikovs machine de motoren van nano-onderzeeërs koel houden, terwijl deze door onze bloedvaten sjezen om medicijnen af te leveren. Of hoe nanobouwvakkertjes het koelsysteem op hun rug meetorsen terwijl ze een complete muur optrekken uit een hoopje stof. 
+Minstens zo handig zijn de kleine quantumbatterijen die natuurkundigen de afgelopen twee jaar bouwden. Ook deze apparaatjes bleken op punten sneller dan hun klassieke evenknieën. Wanneer je ze maakt van bits - nullen en enen - en die ook nog eens met elkaar verstrengelt (het quantumsausje), dan kun je de boel zelfs zodanig versnellen dat je een batterij met een miljoen bits kunt opladen in dezelfde tijd die nodig is voor een klassieke variant van duizend bits, berekenden zij. 
+Drie nul voor de quantumtheorie, dus. 'De natuur legt een veelvoud aan limieten aan klassieke motoren op', zegt Maslennikov. 'En onze experimenten beginnen die limieten nu te breken.' Het beste voorbeeld is de hoeveelheid vermogen die een motor levert, iets dat natuurkundigen definiëren als de arbeid die je per seconde kunt verrichten. Op dat punt verslaan de nieuwe wondermachientjes nu al hun klassieke collega's. 'We zijn ervan overtuigd dat we het vermogen van motoren enorm kunnen verbeteren', zegt Vedral, die onlangs over zijn ideeën publiceerde in New Scientist.
+Wiskundig onmogelijk
+Er is alleen één probleem voor wie droomt van de heilige graal onder de thermolimieten: Carnot speel je daarmee nog niet uit de wedstrijd. Daarbij draait het immers om de totale hoeveelheid arbeid die een machine kan verrichten, niet om hoe snel die dat doet. En toch... sla de vakliteratuur erop na en je krijgt de indruk dat ook die limiet allang is gesneuveld. 'In dit experiment hebben we gedemonstreerd dat de efficiëntie van onze machine niet gebonden is door de standaardlimiet van Carnot', jubelde Jan Klaers vorig jaar bijvoorbeeld in het vakblad Physical Review X. Maar laat je door die grootspraak niet in de luren leggen: Carnot staat nog gewoon overeind. 
+Klaers, sinds kort verbonden aan de universiteit Twente, geeft ruiterlijk toe dat hij een beetje valsspeelde bij het experiment. Zo begon hij pas de energiehuishouding van zijn machine te turven nadat hij een quantumtruc met de opstelling had uitgehaald. 'Als je de arbeid die dat kost meetelt, halen we de limiet niet', zegt hij. Dat is een beetje alsof je een stoommachine eerst stiekem voorverwarmt, dat niet meerekent en dan roept: kijk, kost ineens veel minder energie. 
+Optimisten als Vedral zien in experimenten zoals die van Klaers desondanks een belangrijke eerste stap naar machines die Carnot op termijn wel aan hun zwaard rijgen. Lang niet iedereen is daarvan overtuigd. Stephanie Wehner, verbonden aan quantumcomputerinstituut QuTech in Delft, is bijvoorbeeld stellig. 'Het is wiskundig bewezen onmogelijk om Carnot te verslaan', zegt zij. 'Als Vedral meent dat het anders zit, dan loopt hij achter.' 
+Vedral lacht die kritiek weg. 'Alleen een wiskundige kan denken dat je met een berekening kunt bewijzen hoe de wereld werkt', zegt hij. Het bewijs van Wehner bestaat namelijk alleen op papier, en is nog nooit aan een experimentele test onderworpen. Eerst zien, dan geloven, lijkt Vedral te willen zeggen. 'Pas dan weten we wat de quantumwetten van de thermodynamica wel en niet toelaten.'
+Het cement van de werkelijkheid
+Zodra we die wetten kennen, leidt dat overigens niet alleen tot wondermachientjes. Diezelfde wetten openen ook de deur naar radicaal nieuwe inzichten over het cement dat onze werkelijkheid aan elkaar plakt. 
+Kijk bijvoorbeeld naar de tijd. In bijna alle natuurkundetheorieën maakt het niet uit of die voor- of achteruit loopt. 'Alleen de thermodynamica geeft tijd een richting', zegt Vedral. 
+De film van een botsing tussen twee biljartballen - beschreven door de klassieke natuurkunde - is vooruit hetzelfde als wanneer je terugspoelt. Maar keer de film van een afkoelend kopje koffie om, en je ziet de vloeistof steeds warmer worden. Volstrekt onzinnig, behalve dan dat Schaetz met zijn atomen liet zien dat het in de quantumfysica misschien toch kan. 
+Het is een teken dat de vaste richting van de tijd in een quantumthermodynamisch heelal zomaar zou kunnen sneuvelen. Over wat dat betekent, lopen de meningen uiteen. 'Het kan best zo zijn dat de tijd in verschillende delen van het heelal een andere richting heeft', zegt Vedral. Tikt de klok op aarde vooruit, dan kan deze een sterrenstelseltje verderop zomaar terug tikken. Waanzinnig en onvoorstelbaar, dat zeker. Maar wie de deur voor de quantumfysica op een kier zet, mag achteraf niet klagen dat de werkelijkheid maffer blijkt dan gedacht.
+QUANTUM IN JE LIJF
+Quantumapparaten een ver-van-je-bedshow? Zelfs in je lijf huizen quantummachines, denkt Vlatko Vedral. Omdat evolutie alles optimaliseert, ligt het voor de hand dat de natuur soms quantumgedrag vertoont, meent hij. Fysici suggereerden eerder al dat fotosynthese, de manier waarop planten energie maken, gebruikmaakt van quantumtrucjes. Zulk quantumgedrag kun je alleen zien wanneer je kijkt op de schaal van afzonderlijke deeltjes. 
+Vedral denkt dat de warmtemotoren in onze cellen - de mitochondriën - ook quantummechanisch zijn. Dergelijke inzichten kunnen zelfs gevolgen hebben voor medische behandelingen. 'Wanneer mitochondriën zich misdragen, kan dat leiden tot aandoeningen zoals parkinson', zegt Vedral. Goed snappen of quantumeffecten daarbij een rol spelen, kan dan ineens van levensbelang zijn.
+Bekijk de oorspronkelijke pagina: pagina 54, pagina 54, pagina 55, pagina 55, pagina 55, pagina 56, pagina 56, pagina 56, pagina 57, pagina 57, pagina 57
+Graphic
+
+ 
+De opstelling met lenzen en spiegels van Vlatko Vedral. Op de foto een collega van hem.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Physics (94%); Computer Science (65%); Educational Institution Employees (62%)
+Industry: Computing + Information Technology (78%)
+Load-Date: June 15, 2018
+
+End of Document
+Machine impossible
+
+Machine impossible
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

@@ -1,0 +1,46 @@
+Atomen meten in een diamantkristal
+NRC.NEXT
+27 december 2019 vrijdag
+Copyright 2019 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 17
+Length: 682 words
+Byline: Dorine Schenk
+Dateline: Amsterdam 
+Body
+
+ABSTRACT
+           Natuurkunde  In Delft is het gelukt de positie van zware atomen  in een diamantkristal te meten. De diamant zélf was het meetinstrument.
+VOLLEDIGE TEKST:
+         De structuur van  moleculen  komt in beeld met een nieuwe techniek die naar de minuscule magnetische velden van atoomkernen kijkt. Onderzoekers van het Delftse onderzoeksinstituut QuTech kunnen  hiermee de positie van individuele atomen in een diamant in kaart brengen. Ze publiceerden hun resultaten deze maand in Nature.
+Er bestonden al technieken om plaatjes te maken van piepkleine structuren zoals moleculen, maar die vereisen meestal erg lage temperaturen, een hoog vacuüm of ze kunnen alleen het oppervlak van een structuur bekijken, vertelt onderzoeksleider Tim Taminiau van QuTech. Het voordeel van de nieuwe, magnetische meettechniek is dat die de moleculen niet beschadigt en in theorie ook werkt bij kamertemperatuur en bijvoorbeeld in vloeistoffen.
+De techniek maakt er gebruik van dat de atoomkernen van sommige atomen zich gedragen als een klein magneetje. Dit heet de magnetische kernspin. Als je die atoomkernen in een magnetisch veld brengt, gaan ze wiebelen. Daarbij zenden ze een meetbaar signaal uit.
+Atomen meten in een diamantkristal
+Het is al langer mogelijk om dat magnetische signaal te meten op de schaal van grote groepen atomen of moleculen. Het beeld van MRI-scanners in ziekenhuizen is bijvoorbeeld gebaseerd op de kernspin van moleculen in bepaalde weefsels. 
+Door een sensor te gebruiken die veel gevoeliger is dan een MRI-scanner, is het de Delftse onderzoekers gelukt om een ingewikkelde structuur, atoom voor atoom in kaart te brengen. Hiervoor gebruikten ze een nauwkeurige, piepkleine quantumsensor.
+,,Normaal gesproken werken wij aan quantumcomputers en het quantuminternet", vertelt Taminiau. ,,We richten ons op de bouwstenen daarvan: qubits, of quantumbits. Het blijkt dat goede qubits ook heel gevoelig gemaakt kunnen worden voor bijvoorbeeld magneetvelden in hun omgeving."
+Bij het bouwen van een quantumcomputer is het belangrijk om ervoor te zorgen dat de gevoelige qubits niet door invloeden van buitenaf verstoord raken. De onderzoekers ontwikkelden daarom technieken om qubits goed af te schermen. ,,Doordat we de invloed van die omgevingsfactoren nu goed kunnen controleren kunnen we ook heel precies kiezen wat een qubit wél oppikt. Zo kunnen we een quantumsensor maken die bijvoorbeeld heel gevoelig is voor de magnetische spin van atoomkernen in de buurt. Een goede qubit is daarom vaak ook een goede sensor."
+De quantumsensor die de onderzoekers gebruiken is een zogeheten NV-center. Dit is een soort defect dat voorkomt in diamant. Diamanten bestaan uit een kristalrooster van netjes gerangschikte koolstofatomen. Een NV-center is een onregelmatigheid in dat rooster waardoor er een extra elektron in gevangen zit. Dat elektron kan dienstdoen als qubit of als quantumsensor.
+De Delftse fysici testten hun meettechniek in een ultrapure diamant die speciaal hiervoor werd geproduceerd door het bedrijf Element Six. Ze keken naar 27 zogeheten koolstof13-atoomkernen met een magnetische kernspin. Deze zaten verspreid door de diamant. 
+In dezelfde diamant zat ook de quantumsensor. Die sensor detecteerde heel precies de magnetische signalen van alle koolstof-13-atomen om hem heen. Met een nieuwe methode lukte het vervolgens om de interacties tussen de koolstof-13-atomen te meten. De interactie tussen twee atomen geeft informatie over hun locaties, zodat een computer vervolgens kan berekenen op welke posities precies de koolstof-13-atomen in het diamantrooster zitten.
+,,Deze demonstratiemeting duurde ongeveer vierhonderd  uur", vertelt Taminiau. ,,Vervolgens kostte het een computer een dag om de meting te analyseren en een 3Dafbeelding te maken van de positie van de 27 koolstof-13-atomen." 
+De volgende stap is om de meting sneller en efficiënter te maken. Uiteindelijk willen de 
+Delftenaren de structuur kunnen detecteren van moleculen die zich buiten de diamant 
+Page 2 of 3
+Atomen meten in een diamantkristal
+bevinden. Dan kan de techniek gebruikt worden om de opbouw van bijvoorbeeld een eiwit heel precies in kaart te brengen.
+Link naar PDF
+Graphic
+
+ 
+Driedimensionaal beeld van een diamantkristal, waarbij de gemeten zware koolstofkernen in geel zijn aangegeven. De quantumsensor is groen-blauw. Illustratie Ernst de Groot, Qutech
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Nanotechnology (73%); Physics (73%); Superconductors (73%)
+Industry: Computing + Information Technology (94%)
+Load-Date: December 26, 2019
+
+End of Document
+Page 3 of 3

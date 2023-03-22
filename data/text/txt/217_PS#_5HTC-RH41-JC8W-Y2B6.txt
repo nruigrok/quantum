@@ -1,0 +1,52 @@
+De opmars van de zeer snelle quantumcomputer
+Het Parool
+9 januari 2016 zaterdag
+Copyright 2016 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap; Blz. 43
+Length: 706 words
+Byline: JORIS JANSSEN
+Body
+
+Harry Buhrman ontwikkelt software voor de quantumcomputer, de nieuwe, supersnelle computer van de toekomst. 'Straks kunnen we de natuur om ons heen veel beter simuleren.' 
+Hoewel ze nog in geen enkele huiskamer staan, ontketenen quantumcomputers binnenkort een revolutie op computergebied - als de voortekenen niet bedriegen. Harry Buhrman is wetenschappelijk directeur van het recent opgerichte QuSoft, een instituut dat alvast software gaat ontwikkelen voor de nieuwe, supersnelle computer van de toekomst. 
+QuSoft is een samenwerkingsverband tussen het Centrum Wiskunde en Informatica (CWI), de UvA en de VU. Net als bij de 'gewone' computer, worden de eerste stappen in de richting van de quantumcomputer gezet in de academische wereld. 
+Waarin verschilt een quantumcomputer van een normale computer? 
+"Een pc werkt met bits die 0 of 1 zijn. Een quantumcomputer maakt gebruik van vreemde effecten op de kleine schaal van atomen, waar een deeltje zich in meerdere toestanden tegelijk bevindt. De bits van een quantumcomputer, qubits, kunnen daardoor als het ware 0 en 1 tegelijk zijn. Elke extra qubit in een computer verdubbelt het aantal mogelijkheden. Bij een relatief klein aantal, van bijvoorbeeld driehonderd qubits, kun je daardoor al een astronomische hoeveelheid berekeningen tegelijk uitvoeren: meer dan het totale aantal moleculen in het heelal." 
+Daarvoor is andere software nodig? 
+De opmars van de zeer snelle quantumcomputer
+"Uit die enorme brij aan berekeningen moet je zien te vissen waar je op een specifiek moment naar op zoek bent. Hoe je dat doet, is vergelijkbaar met de manier waarop een koptelefoon omgevingsgeluid filtert. Die neemt dat geluid op en stuurt tegengestelde geluidsgolven naar je oor. De pieken en dalen van de golven doven elkaar uit, waardoor het omgevingsgeluid verdwijnt. Een quantumcomputer wil op diezelfde manier berekeningen uitdoven die je niet wilt zien en berekeningen versterken die je wel wilt zien. Dat vereist een heel nieuw soort software." 
+Wat kunnen we straks met zulke snel rekenende computers? 
+"Eerst zullen alle manieren waarop we nu digitale gegevens beveiligen worden gebroken. Die beveiliging hangt af van berekeningen met heel grote getallen. Quantumcomputers kunnen die codes heel eenvoudig kraken. Ook kunnen we de natuur om ons heen straks veel beter simuleren. De natuur werkt grotendeels volgens dezelfde logica als de quantumwereld. Door het narekenen van biologische en scheikundige systemen kun je bijvoorbeeld materialen ontwerpen met precies de eigenschappen die je zoekt. En we kunnen straks veel efficiënter door ongeordende databases zoeken." 
+Moet een bedrijf als Google bang zijn voor concurrentie? 
+"Niemand hoeft echt bang te zijn, behalve veiligheidsinstanties, omdat elke digitale beveiliging gekraakt kan worden. Google is juist erg geïnteresseerd in dit onderzoek en heeft onlangs een van de beste qubitbouwers benaderd. Ze willen straks niet achteroplopen." 
+Hoe snel gaan de ontwikkelingen? 
+"Op dit moment hebben we kleine computertjes die werken met ongeveer tien qubits. Om de huidige computers naar de kroon te steken, hebben we richting de vijftig qubits nodig. Een struikelblok voor grotere aantallen qubits is dat ze heel instabiel zijn. De kleinste verstoring gooit de boel in de war. Daarnaast moet je qubits een voor een kunnen aansturen en dat levert weer verstoringen op. De prognose van onderzoekers van QuTech uit Delft is dat we binnen vijf jaar met vijftig qubits werken." 
+Wordt QuSoft het quantum-Microsoft van Nederland? 
+"Dat zou mooi zijn. Er is zeker ambitie. In het buitenland zijn ook groepen die aan quantumsoftware werken, maar wij zijn het eerste instituut ter wereld dat zich er geheel op focust. We zijn natuurlijk een academisch instituut en geen bedrijf. We hebben geen winstoogmerk en willen vooral gewoon zo nuttig mogelijke ideeën creëren." 
+HARRY BUHRMAN 
+Amsterdam, 6 juni 1966 
+Page 2 of 3
+De opmars van de zeer snelle quantumcomputer
+1985-1989: informatica UvA 
+1993: promotie UvA. Titel: Resource bounded reductions 
+1993: postdoc Universitat Politècnica de Catalunya, Barcelona 
+1994-heden: onderzoeker CWI 
+2000-heden: hoogleraar wiskunde en informatica aan de UvA 
+2015-heden: directeur en medeoprichter van QuSoft 
+'Google is erg geïnteresseerd in dit onderzoek; ze willen straks niet achteroplopen' Bekijk de oorspronkelijke pagina: pagina 43
+Graphic
+
+ 
+Bob Bronshoff
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Het Parool
+Company:  GOOGLE INC (58%)
+Industry: NAICS519130 INTERNET PUBLISHING & BROADCASTING & WEB 
+SEARCH PORTALS (58%); Computing + Information Technology (94%); Budgets (64%) Load-Date: January 8, 2016
+
+End of Document
+Page 3 of 3

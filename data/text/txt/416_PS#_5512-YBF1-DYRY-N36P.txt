@@ -1,0 +1,26 @@
+Werkende nanotransistor bestaat uit één atoom
+NRC Handelsblad
+21 februari 2012 dinsdag
+Copyright 2012 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 16
+Length: 350 words
+Body
+
+,,There is plenty of room at the bottom." Dat zei de befaamde fysicus Richard Feynman in 1959 in een intussen al even befaamde lezing. Er is niet zomaar ruimte op de kleinste schalen, betoogde hij daarin, maar héél veel ruimte. En hij beschreef een nanowereld waarin mensen atomen manipuleerden  en waarin alle informatie die de mensheid over de eeuwen in boeken had vastgelegd, zou passen in een uit atomen opgebouwd geheugen zo klein als het kleinste stofspikkeltje dat nog met het blote oog zichtbaar is. Dankzij fysicus Michelle Simmons van de University of New South Wales  en haar collega's   is die nanowereld nu ietsje dichterbij. In Nature nanotechnology beschrijven zij deze week een transistor -  het fundamentele schakelaartje van de computer -  die slechts uit één atoom bestaat.
+Helemaal nieuw is dat niet. Enkel-atooms-transistoren  waren al eens eerder gebouwd. Maar of ze functioneerden was toen vooral een kwestie van geluk: er veel maken en kijken of er eentje werkt. De groep van Simmons daarentegen kan de dwergtransistoren nu heel precies volgens ontwerp maken. Bovendien gebruikt de groep technieken die afgeleid zijn van standaardtechnieken uit de chipindustrie.
+Om het enkele atoom, een fosforatoom, op de juiste plek in het elektronisch circuitje neer te leggen, bedekten ze eerst een plakje silicium met waterstof. Met een zogeheten scanning-tunneling-microscoop kerfden ze in dat waterstoflaagje putjes. Als ze daarna de plak blootstelden aan fosfaangas, kon steeds één fosforatoom uit dat gas in een putje 'rollen' en zich daar aan het siliciumoppervlak hechten. Daarna  werd de chip dan verder 'opgebouwd'.
+Werkende nanotransistor bestaat uit één atoom
+Voor de productie van computerchips met miljarden transistoren lenen deze technieken zich niet: wegens het gebruik van de speciale microscoop, en omdat bij extreem lage temperaturen wordt gewerkt. Maar in een verre toekomst zal dit type transistor - dat werkt   volgens quantummechanische principes   - misschien wel de bouwsteen zijn van supersnelle quantumcomputers. En één ding is zeker, zeggen ook de fysici zelf, kleiner dan dit kunnen transistoren niet worden.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Nanotechnology (87%); Physics (75%); Superconductors (64%); Information 
+Management + Technology (63%); DNA (62%)
+Industry: Computer Equipment (94%); Computing + Information Technology (86%); Manufacturing (82%)
+Load-Date: February 21, 2012
+
+End of Document
+Page 2 of 2

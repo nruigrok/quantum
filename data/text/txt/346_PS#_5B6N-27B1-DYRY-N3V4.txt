@@ -1,0 +1,35 @@
+Met supercomputer is code sneller te kraken 
+Trouw
+4 januari 2014 zaterdag
+Copyright 2014 De Persgroep Nederland BV All Rights Reserved
+
+Section: Vandaag; Blz. 5
+Length: 650 words
+Byline: Bas den Hond 
+Body
+
+NSA vreest Europese voorsprong in race om 'qubits'  
+Boston 
+De Amerikaanse spionagedienst NSA heeft een laboratorium waarin hij probeert om quantumcomputers te bouwen. Met zulke computers kunnen versleutelde documenten worden geopend die nu zelfs voor heel krachtige computers nog gesloten blijven. 
+Het bestaan van het lab werd gisteren onthuld in de Washington Post, op basis van documenten die de krant kreeg van klokkenluider Edward Snowden. Volgens de documenten wil de NSA de prestaties evenaren van Europese onderzoekers op dat gebied. Onlangs begon in Nederland een project van de TU Delft, TNO en enkele bedrijven dat over vijftien jaar een werkende quantumcomputer moet opleveren. 
+Uit eerdere onthullingen van Snowden bleek dat veel gegevens en communicatie waarvan computergebruikers dachten dat die privé was, door de Amerikaanse regering worden verzameld en geanalyseerd. Het gaat daarbij om telefoonnummers waarnaar mensen bellen, locatiegegevens van telefoons, e-mails en chats. Sommige diensten, zoals gesprekken en chats via Skype, worden standaard versleuteld, zodat iemand die de gegevensstroom onderweg aftapt er zonder het wachtwoord niets aan heeft. Volgens eerdere onthullingen van Snowdon werkt een aantal bedrijven mee aan het zwakker maken van die versleuteling, zodat de NSA de berichten toch kan lezen. 
+Er bestaat ook heel goede versleutelings-software die niet door bedrijven, maar door groepen deskundige vrijwilligers wordt gemaakt. Nog steeds kan iemand die zwaar aan zijn privacy is gehecht, gegevens opslaan en versturen buiten het zicht van de 
+Met supercomputer is code sneller te kraken 
+Amerikaanse en andere westerse geheime diensten. Een flinke computer kan de code alleen kraken door jarenlang te rekenen. En als die diensten snellere computers aanschaffen, dan is het een kleine moeite om het wachtwoord weer wat langer te maken, waardoor het toch weer jaren duurt. 
+Een quantumcomputer kan daar verandering in brengen. In zo'n computer zitten gegevens niet opgeslagen als nullen en enen, maar als een reeks getallen die ieder een waarde kunnen hebben als 'vermoedelijk nul, maar heel misschien toch één'. Een getal dat alleen nul of één kan zijn, heet in computerjargon een bit, de tegenhanger in een quantumcomputer heet een qubit. Zo'n qubit kan bestaan dankzij het feit dat op heel kleine schaal de wereld, en dus ook het binnenwerk van een computer, blijkt te functioneren als een loterij. 
+Wie een quantumcomputer wil maken, moet dan ook aan de slag met apparatuur waarin elementjes van het formaat van een atoom of nog kleiner worden gemanipuleerd. Experimentele computers telden tot nu toe maar een stuk of vier qubits en konden hun informatie maar een paar uur onthouden. 
+Maar de belofte is groot: berekeningen met een quantumcomputer kunnen veel sneller gaan dan met een gewone computer, omdat je bij het veranderen van qubits veel meer doet dan alleen het veranderen van een één in een nul of andersom. Het is alsof je een mooie vorm snijdt in een hele stapel papier in plaats van een vel simpel doormidden te knippen. 
+Voor een quantumcomputer, zo valt uit te rekenen, zijn de nu bekende manieren van versleuteling altijd bij te houden: een langer wachtwoord levert maar een beetje meer rekentijd op. Volgens de Washington Post krijgt de NSA elk jaar 60 miljoen euro om aan quantumcomputers te werken. Dat is zes keer zoveel als het Nederlandse project. 
+Omdat er nog geen praktisch bruikbare quantumcomputers bestaan, lijkt de privacy van goed versleutelde software voorlopig gewaarborgd. Lijkt: want de NSA is ook erg goed geworden in het installeren van software die toetsaanslagen bijhoudt op computers, en die dus ook wachtwoorden kan achterhalen. Onlangs onthulde Der Spiegel, ook op basis van documenten van Snowden, dat de dienst desnoods gloednieuwe computers onderschept voor ze naar de nietsvermoedende klant gaan. De NSA manipuleert desnoods computers voor ze naar de klant worden gestuurd  
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Page 2 of 3
+Met supercomputer is code sneller te kraken 
+Journal Code: Trouw
+Industry: Computing + Information Technology (94%); Internet + Www (69%)
+Load-Date: January 3, 2014
+
+End of Document
+Page 3 of 3

@@ -1,0 +1,64 @@
+De cryptocalypse komt eraan 
+NRC Handelsblad
+05 September 2016 Maandag
+Copyright 2016 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 18
+Length: 1013 words
+Byline: Marcel aan de Brugh Dateline: Nijmegen. 
+Body
+
+ABSTRACT
+Interview
+Peter Schwabe
+Nijmeegse cryptograaf  wil internet  quantumproef' maken; bestand tegen aanvallen van toekomstige quantumcomputers.
+ Stel je voor dat alles wat je mailt, wat je online bankiert, wat je opslaat op je computer, niet meer veilig is. Omdat alle nu bestaande technieken om websites en  internetverkeer  te versleutelen, in een handomdraai te kraken zijn. Peter Schwabe (35), cryptograaf aan de Radboud Universiteit Nijmegen,  maakt zich over dat scenario serieus zorgen. Want met de aanstaande komst van  quantumcomputers, die een ongekende rekenkracht beloven, wordt dit een reëel  gevaar.   Die komst wordt ook wel omschreven als de cryptocalypse , zegt Schwabe op zijn werkkamer.
+ Wanneer? Niemand weet het precies , zegt hij.  Maar we kunnen er niet op vertrouwen dat het nog heel ver weg is.    In Amerika heeft de National Security Agency,  NSA, vorig jaar gewaarschuwd dat bedrijven en agentschappen moeten beginnen met hun overgang naar een quantumbestendige cryptografie. Wij zijn al benaderd door de Nederlandse overheid, die is geïnteresseerd in ons werk. 
+Dat werk, vertelt Schwabe, is het  quantumproof  maken van  internetverkeer. De  geboren Duitser heeft onlangs, samen  met zijn drie collega s,  een nieuw versleutelingssysteem bedacht dat zelfs  een quantumcomputer waarschijnlijk niet zal kunnen kraken. Het viertal publiceerde er vorig jaar november voor het eerst over, op de website van de IACR, de International Association for Cryptologic Research. Hun ideeën zijn snel opgepikt. Want afgelopen juli kondigde Google aan dit nieuwe systeem te gaan uittesten, op een aantal diensten van zijn webbrowser Chrome. En Facebook beloonde de vier auteurs twee weken geleden met een prijs van 100.000 dollar.
+Hoe versleutel je eigenlijk digitale gegevens?
+Schwabe:  Bij versleuteling wordt een tekst verhaspeld, en alleen de ontvanger kan die verhaspeling ongedaan  maken. Maar daar ligt vaak niet het probleem. De verhaspeling gebeurt met een cryptografische sleutel, en twee partijen moeten het eerst eens worden over een gezamenlijke sleutel. Dit heet key exchange, en daar gaat ons artikel over. 
+Beveiligen mensen hun computer en dataverkeer voldoende?
+Schwabe wijfelt.   Het bewustzijn is wel verbeterd sinds Edward Snowden de afluisterpraktijken van de NSA heeft ontmaskerd. Maar ik geef hier bijvoorbeeld les aan geneeskundestudenten, en ik weet dat  die via e-mail gewoon vertrouwelijke patiëntengegevens versturen, onbeveiligd. 
+Dat baart je zorgen?
+ Zeker.  En ook al zijn data nu wel goed beveiligd, de sleutels die we gebruiken zijn in de toekomst waarschijnlijk gemakkelijk te kraken. Denk dan aan de Arabische Lente, of aan Chinese dissidenten. Misschien zijn er oppressieve regeringen die nu al massaal berichten opslaan op harde schijven, in de wetenschap dat straks alsnog is vast te stellen wie ze heeft verstuurd, of wat erin heeft gestaan. Van de NSA is in ieder geval bekend dat ze massaal data opslaat. 
+ Beveilig je je eigen dataverkeer?
+ Zoveel mogelijk. Op mijn telefoon gebruik ik de encryptietechniek Signal, voor e-mail is dat GnuPG, mijn websitebezoek scherm ik af via Tor, en voor chatten heb ik Jabber met OTR. 
+Is dat een beroepsafwijking? Of moet je als cryptograaf extra op je hoede zijn?
+ We zijn een bovengemiddeld doelwit.  De Belgische cryptograaf  Jean-Jacques Quisquater is via een nep LinkedIn-profiel gehackt. Het vermoeden is dat het de Britse inlichtingendienst GCHQ was. Verder vind ik dat je als cryptograaf zoveel mogelijk beveiliging moet gebruiken, anders ben je niet geloofwaardig. 
+Het nieuwe encryptiesysteem dat Schwabe met zijn drie collega s bedacht, heet NewHope, naar de eerste, in 1977 uitgekomen film in de Star Wars-serie. Verder heeft Schwabe in zijn e-mailadres  cryptojedi  staan. Jedi komen ook uit Star Wars, ze vertegenwoordigen het Goede.
+Klinkt alsof je groot fan van Star Wars bent.
+Hij lacht.  Nee hoor. Het is eerder een running gag die ik heb met Michael Naehrig, bij wie ik in Aken ben afgestudeerd, in 2006. We hebben destijds voor de lol een website opgezet: cryptojedi.org. Michael is daarna gaan werken bij Microsoft. Ik zei tegen hem: nu ben je echt overgelopen naar de dark side. We hebben toen ook de site cryptosith.org geregistreerd en dat is nu zijn website. De Sith belichamen het Kwaad in Star Wars.
+ Maar we gebruiken de populaire cultuur breder. Léo Ducas, hij is een van de vier auteurs van ons prijswinnende artikel, heeft een andere variant op key exchange bedacht. Dat heeft hij Frodo genoemd, naar de held uit Lord of the Rings. Frodo vernietigt daarin een machtige ring.  In NewHope maken we gebruik van een zogeheten mathematische ringstructuur, maar Léo s variant Frodo doet dat niet meer. 
+En het   cryptojedi  in je e-mailadres? Wil dat zeggen dat jij voor het Goede vecht?
+Weer een lach.  Ik voel het in ieder geval als mijn taak om het  dataverkeer veilig te houden. Dat is de belangrijkste reden dat ik in de cryptografie werk. 
+Waarom koos je voor cryptografie?
+ Op de middelbare school las ik het boek Geheime Botschaften van Simon Singh, over de geschiedenis van versleuteling. Dat fascineerde me. Ik ben toen computerwetenschappen gaan studeren. Ook omdat er werd gezegd dat veel eerstejaars uitvallen omdat ze de wiskunde niet aankunnen. Ik vond wiskunde juist leuk. Het lag me.  Wat me ook een zetje heeft gegeven is dat mijn vader zei dat ik er waarschijnlijk niet goed in zou zijn. 
+De Duitser Peter Schwabe studeerde   computerwetenschappen in Aken en legde zich toe op cryptografie. In 2011 promoveerde hij aan de Technische Universiteit Eindhoven. Hij werkt sinds eind 2012 als universitair docent bij de Digital Security Group aan de Radboud Universiteit Nijmegen. 
+Twee weken geleden ontving hij een prijs van 100.000 dollar van Facebook voor een nieuw encryptiesysteem dat hij heeft bedacht samen met drie collega s, Erdem Alkim (Ege University, Turkije), Léo Ducas (Centrum voor Wiskunde en Informatica, Amsterdam), en Thomas Pöppelmann (Infineon Technologies, München).  Schwabe wil zijn deel besteden aan hardware voor zijn onderzoek, en aan reizen.
+Graphic
+
+ 
+Peter Schwabe:  Ik versleutel al mijn dataverkeer, telefoon, e-mail, browser en chat. Ik vind dat je als cryptograaf zoveel mogelijk beveiliging moet gebruiken, anders ben je niet geloofwaardig. 
+Foto Flip Franssen
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Internet Social Networking (94%)
+Industry: Computing + Information Technology (82%); Electronic Mail (62%)
+Load-Date: September 5, 2016
+
+End of Document
+ De cryptocalypse komt eraan 
+
+ De cryptocalypse komt eraan 
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

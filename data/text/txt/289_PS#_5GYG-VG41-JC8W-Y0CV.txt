@@ -1,0 +1,64 @@
+'Brute rekenkracht in plaats van trial-and-error'
+Het Parool
+19 september 2015 zaterdag
+Copyright 2015 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap; Blz. 39
+Length: 746 words
+Byline: TEKST GEORGE VAN HAL EN JIM JANSEN FOTO BOB BRONSHOFF
+Body
+
+De quantumcomputer staat op het punt een ware ict-revolutie te ontketenen. Fysicus Leo Kouwenhoven is een van de wegbereiders van deze doorbraak die op tal van terrein merkbaar zal zijn. 
+Nog even en dan is hij er: de quantumcomputer. Dat rekenwonder belooft een hoeveelheid rekenkracht te ontsluiten die groter is dan dat van alle huidige computers bij elkaar. Berekeningen die met de krachtigste supercomputer nu nog langer dan de leeftijd van het universum duren, kunnen daardoor straks in een klein weekje worden afgerond. Voor die exponentiële sprong voorwaarts maakt die computer gebruik van de bizarre wetten van de quantummechanica. 
+Dat is ingewikkelde materie, maar voor iemand als fysicus Leo Kouwenhoven is het gesneden koek. "Wanneer je elke dag met quantumfysica werkt, ga je aan haar contraintuïtieve wetten wennen," zegt hij. 
+Wat gebeurt er wanneer we straks een quantumcomputer hebben? 
+"Dit is een makkelijke vraag, waar je eigenlijk geen antwoord op kunt geven. Als men die vraag had gesteld aan de bedenker van het http-internetprotocol, had hij ook niet gezegd: dit gaat ons straks Facebook opleveren. Toen was er misschien gezegd: wetenschappers kunnen hun data aan elkaar toesturen en dus kun je gemakkelijker op verschillende plekken met elkaar werken." 
+Is er dan nog helemaal niets over te zeggen? 
+"Er zijn een paar dingen die we graag zouden willen doen met een quantumcomputer. Bijvoorbeeld materiaaleigenschappen voorspellen en optimaliseren. Wanneer je een materiaal wilt hebben dat nog sterker is, of dat elektriciteit beter geleidt of dat minder energie verliest doordat het warmte afstaat, kun je daar met een quantumcomputer naar zoeken. Normaal gesproken zou je dat in het lab doen met trial-and-error en dat is heel langzaam. Een quantumcomputer kan dat sneller. En dan niet een beetje, maar heel veel sneller. Berekeningen die met het huidige type computers nog zo lang duren als de leeftijd van het universum, kun je straks in een week doen." 
+Welk nut heeft die enorme rekenkracht? 
+"Er is een enorme schaarste aan stoffen; of het nu zeldzame aardmetalen zijn, waarvan de Chinezen bijvoorbeeld zeggen: die houden we voor onszelf, of energie. Dat die schaarste er is, komt onder andere doordat de manier waarop we stoffen gebruiken erg 
+inefficiënt is." 
+"Neem bijvoorbeeld energie. De meeste energie gaat verloren. Van de energie die elektriciteitscentrales opwekken, gooien we heel veel weg in de vorm van restwarmte. Als je die energie perfect kunt opslaan, zonder verliezen, win je enorm veel en heb je ineens geen energieprobleem meer. Met medicijnen is dat ook zo. Medicijnen zijn overigens wel een gevaarlijk voorbeeld, want iedereen denkt dan ineens: die quantumcomputer gaat me beter maken. Misschien is dat wel zo, maar dat is nu natuurlijk wel speculatie. Het is misschien zelfs meer fantasie, iets wat absoluut nog niet bewezen is. Maar toch: de manier waarop we nu medicijnen gebruiken is dat je een pil inneemt en dan kijkt of het werkt. Dat is natuurlijk belachelijk. Dat is echt trial-and-error. Uit ervaring weet je wel: oké, met mijn hoofdpijn werkt die pil. Maar je zou gewoon willen kunnen berekenen welke stof je nodig hebt om iets te genezen. Niet proefondervindelijk, maar gewoon het antwoord. Door de computer de biochemie van het ontbrekende stofje te laten analyseren." 
+Zou dat echt kunnen? 
+"Nogmaals, dit is echt wishful thinking. Maar ik weet van de grote Amerikaanse bedrijven dat farmaceuten graag een quantumcomputer willen hebben om gewoon farmaceutische moleculen mee door te kunnen rekenen. Zodat ze er straks vanaf zijn om alles met potjes te doen, met bakken en roeren. Nu weet men vaak wel welke molecuulstructuur een probleem veroorzaakt, maar niet welke molecuulstructuur dat probleem kan neutraliseren. Dat kunnen we straks misschien uitrekenen." 
+Wanneer zou het zover kunnen zijn? 
+"Dat duurt nog minstens tien jaar." 
+Leo Kouwenhoven is donderdag de keynotespreker tijdens de uitreiking van het New Scientist Wetenschapstalent 2015 in Pakhuis De Zwijger. 
+Leo Kouwenhoven 
+Pijnacker, 10 december 1963 
+1988toegepaste natuurkunde, Technische Universiteit Delft 
+1992promotie aan de Technische Universiteit Delft 
+1999hoogleraar natuurkunde, Technische Universiteit Delft 
+2007Spinozapremie 
+2007universiteitshoogleraar, Technische Universiteit Delft 
+2012vondst majoranadeeltje 
+2013oprichter en directeur Qu Tech 
+'Berekeningen die nu nog onmetelijk lang duren, doen we straks in een week' Bekijk de oorspronkelijke pagina: pagina 39
+Graphic
+
+ 
+Bob Bronshoff
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Het Parool
+Subject: Educational Institution Employees (65%)
+Company:  FACEBOOK INC (55%)
+Ticker: FB (NASDAQ) (55%)
+Industry: NAICS519130 INTERNET PUBLISHING & BROADCASTING & WEB SEARCH PORTALS (55%); Computing + Information Technology (94%)
+Load-Date: September 18, 2015
+
+End of Document
+'Brute rekenkracht in plaats van trial-and-error'
+
+'Brute rekenkracht in plaats van trial-and-error'
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

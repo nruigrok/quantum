@@ -1,0 +1,62 @@
+Hoe de&discReturn; õber-pc contouren krijgt Technologie; Reportage Geavanceerd speurwerk bij een multinational
+de Volkskrant
+13 oktober 2012 zaterdag
+Copyright 2012 PCM Uitgevers B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 4
+Length: 1393 words
+Byline: Door Peter van Ammelrooy
+Body
+
+Hoe maak je een pc nog sneller? Met nog meer geheugen? Het onderzoekslab van computerfabrikant IBM in Zõrich is een van de kraamkamers voor de computer van de toekomst. 'We kijken zo'n tien jaar vooruit.' Door Peter van Ammelrooy
+Er zijn werkplekken die meer inspiratie wekken. Matthias Walser en Gian Salis, twee onderzoekers van het researchlab van IBM in Zõrich, brengen hun dagen door in een verduisterde kamer van krap vijf bij vijf meter zonder daglicht en omringd door meetinstrumenten, laserapparatuur en tafels vol spiegels en lenzen. Het opvallendste object in de ruimte is een manshoog metalen vat op onverwacht wendbare wieltjes. Aan het gevaarte bungelt een bord met in het Duits het opschrift 'Vloeibare stikstof. Leeg'. Voor een Nobelprijs moet je iets over hebben.
+Op feestjes zijn Walser en Salis snel uitgepraat over hun werk. Niet omdat wat ze onderzoeken oninteressant zou zijn. Het is domweg ontiegelijk complex. Hun werkgever hoopt dat het geleerde gepriegel ooit een keer resulteert in een nieuw soort computergeheugen. Eentje dat niet langer gegevens opslaat met behulp van de elektrische lading van elektronen, zoals nu in de pc op ons bureau gebeurt. Dat is een methode die stroom vr(c)(c)t.
+De doorbraak waarvan IBM droomt, houdt zich nog schuil in de exotische krochten van de natuurkunde. Walser en Salis bestuderen de 'spin' van elektronen. Dat is een term die in 1925 door drie Nederlandse natuurkundigen werd gemunt en een begrip is in de kwantummechanica de theorie die het gedrag van atomen en nog kleinere deeltjes beschrijft.
+'Spin' roept het beeld op van deeltjes die om hun as draaien, maar beschrijft veeleer de toestand van een elektron eentje die nog geen miljardste van een seconde duurt. Wat het ingewikkeld maakt om er informatie in te bewaren in de vorm van de bits waaruit elk tekstbestand en mp3-liedje bestaat.
+Twee maanden geleden konden Walser en Salis met onderzoekers van de technische hogeschool ETH in Zõrich in het vakblad Nature melden dat ze de levensduur van een elekronenspin met een factor 30 hadden weten op te krikken tot 1,1 miljardste van een seconde. Dat zet de deur op een mierenkiertje open naar IBM's futuristsche computergeheugen.
+Chip
+Wat Walser en Salis nog moeten bedenken: hoe ze hun elektronen kunnen manipuleren in iets dat in een chip past. In hun werkkamer hebben ze nu nog een omvangrijke testopstelling nodig, waarin ze de temperatuur terugbrengen naar 233 graden Celsius onder nul 40 graden boven het absolute nulpunt. Dat zal in een pc of een iPhone moeilijk gaan. Met de vraag hoe snel ze dat karwei denken te klaren is Walser snel klaar: 'Geen enkel idee.'
+Dat is een antwoord dat vaker klinkt bij een rondgang door het onderzoekslab in Zõrich. Hun directeur, Matthias Kaiserwerth, is tegenover zijn bezoekers explicieter over de doelen die IBM met zijn research nastreeft. 'In onze labs kijken we tien jaar vooruit.' Blijven voortborduren op bestaande technologie is niet meer genoeg om grote sprongen te maken, stelt de labdirecteur. 'Je hebt ook ideeœn nodig die de boel op zijn kop zetten.'
+Van de 4,65 miljard euro waarmee IBM 3.000 knappe koppen in zijn twaalf onderzoekscentra aan het werk houdt, gaat 40 procent naar studies als die van Walser en Salis. Die zijn ooit wellicht leuk voor een oorkonde uit handen van de Zweedse koning. In het verleden viel twee Zõrich-geleerden die eer ten beurt. Het Amerikaanse computerbedrijf wil voor de rest boter bij de vis. Kaiserwerth: 'De andere 60 procent van het onderzoeksbudget moet bijdragen aan de winstgevendheid.'
+Evangelos Eleftheriou is een van de weinige wetenschappers binnen de muren van het Zwitserse lab die toch een deadline heeft. In 2017 moet IBM de digitale componenten hebben uitgeknobbeld voor de Square Kilometre Array (SKA), het grootste 'oor' waarmee de mensheid naar signalen gaat luisteren uit het vroegste heelal, van meer dan 13 miljard jaar geleden. De radiotelescoop bestaat uit duizenden onderling verbonden kleinere antennes in Zuid-Afrika en Australiœ. In 2024 wordt hij aangezet.
+'De Square Kilometre Array gaat een ontstellende hoop radiosignalen uit de ruimte opvangen', zegt Eleftheriou. 'Neem de hoeveelheid digitaal verkeer die nu op (c)(c)n dag over het internet gaat en vermenigvuldig die met tien. Elke dag.' Genoeg om zeker 15 miljoen iPod-mp3-spelers met elk 64 gigabyte geheugenruimte te vullen.
+Al dat kosmische geknetter opslaan op harde schijven zou de SKA-telescoop nu al begroot op 1,5 miljard euro onbetaalbaar maken, zowel in beheer als in energieverbruik. IBM moet dus een supercomputer bouwen die direct het kosmische kaf van het koren kan scheiden.
+'Je moet de data stante pede analyseren en de ruis eruit verwijderen. Dat vergt technologie die we nu nog niet hebben', beaamt Eleftheriou. Maar de supercomputer die straks de oerknal moet ontraadselen, zal ook inzetbaar zijn voor andere toepassingen, is zijn overtuiging.
+Big Data
+IBM heeft al zijn kaarten gezet op Big Data, een term voor de tsunami aan gegevens waarmee computers de komende jaren de wetenschap en het bedrijfsleven zullen overspoelen. Die computers kunnen niet langer meer gegevens verwerken nadat die eerst netjes in een database zijn geklopt. Imense systemen moeten oceanen aan ongestructureerde data denk aan het internet, het klimaat, de effectenhandel razendsnel analyseren. De SKA-telescoop moet aantonen dat het werkt: IBM gaat eerst even oefenen met de kosmos.
+Een van de oplossingen die het bedrijf in zijn toekomstige supercomputers wil toepassen is een 3D-chip. 'De computer is vandaag de dag meestal een platte printplaat, waarop alle componenten met koperdraden met elkaar zijn verbonden. Bij het transport van gegevens gaat daardoor veel stroom verloren, in de vorm van wrijvingswarmte. We werken nu aan een chip waarvan de componenten dicht op elkaar gestapeld zijn. Dan hoeven de gegevens niet zo ver te reizen', stelt Eleftheriou.
+Ook 3D-chips blijven warmte produceren. Hedendaagse supercomputers worden op temperatuur gehouden door met ventilatoren koele lucht een rekencentrum in te blazen. Waterkoeling is een alternatief. Normaal zweven de buizen daarbij los door de computerbehuizing heen, ver weg van de elektronische componenten die zo slecht tegen water kunnen. In Zõrich is een gewaagdere oplossing bedacht.
+'We laten het water in een afgesloten circuit vlak over de processor stromen', zegt Bruno Michel, terwijl hij een leidingstelsel laat zien dat nog over conventionele rekenchips voert. 'Het opgewarmde water voeren we af en gebruiken we elders om gebouwen te verwarmen.' In de toekomst, is de gedachte, sluit je je computer aan op het lichtnet en op de centrale verwarming. Hoe snel die toekomst voor de gewone gebruiker aanbreekt? 
+'Moeilijk te zeggen', reageert Michel. Hij kijkt er vrolijk bij.
+Hoe Zwitserse Albert alles goed houdt
+Het IBM-lab in Zõrich doet ook eenvoudiger computerresearch. Bijvoorbeeld voor Migros, Zwitserlands grootste kruidenier. In 2050 moet op last van Europa 20 procent van de energie van duurzame bronnen komen. Wind- en zonne-energie zijn niet zo betrouwbaar. Dat kan zijn weerslag hebben op de inmense koelhuizen van Migros. IBM doet een proef met een systeem dat schommelingen in de energielevering opvangt. Een computer voorspelt op basis van actuele weergegevens en historische data wanneer de koelhuizen meer of minder stroom verbruiken. Ook pieken en dalen in het stroomnetwerk kan het systeem opvangen, evenals storingen. De proef loopt sinds juni. 'Het verbruik volgt onze modellen', zegt IBM-onderzoeker Doug Dykemann. 'Het weer is minder van invloed dan we hadden verwacht. Ook is Migros goed in het snel weer sluiten van deuren als vrachtwagens bevroren ladingen aan- en afvoeren.' De temperatuur in de koelhuizen is 26 graden onder nul.
+Filebestrijding op zijn Afrikaans
+IBM heeft in augustus zijn twaalfde onderzoekscentrum geopend. Het lab in Kenia gaat zich specifiek richten op Afrikaanse problemen, zegt directeur Kamal Battacharaya, een Indiœr. Hij noemt als voorbeeld de verkeerschaos in Nairobi, zijn nieuwe standplaats. 'In Bangalore, waar ik voorheen werkte, is de toestand niet meer te verhelpen. Dat is bijna politiek bepaald. In Nairobi kun je veel bereiken met verkeerslichten en camera's. Maar die zijn duur. Er zijn dus slimme oplossingen nodig.'
+Van de research bij IBM hoeft slechts 60 procent rechtstreeks bij te dragen aan de winstgevendheid
+Graphic
+
+ 
+IBM leverde zijn eerste supercomputer (rechts) in 1954 af aan de Amerikaanse marine. Deze NORC kon 15 duizend berekeningen per seconde maken. IBM werkt nu aan een 'gestapelde' chip , die duizend keer sneller is dan de huidige processor in een mobiele telefoon. Die zijn al tot 1,65 miljard berekeningen per seconde in staat. 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: De Volkskrant
+Subject: Information Management + Technology (63%); Software Services + Applications (63%)
+Industry: Computer + Electronics Mfg (94%); Computing + Information Technology 
+(80%); Data Mining (68%); Computer Networks (67%)
+Load-Date: October 12, 2012
+
+End of Document
+Hoe de&discReturn; õber-pc contouren krijgt Technologie; Reportage Geavanceerd speurwerk bij een multinational
+
+Hoe de&discReturn; õber-pc contouren krijgt Technologie; Reportage Geavanceerd speurwerk bij een multinational
+
+Page 2 of 5
+
+Page 2 of 5
+
+
+
+
+

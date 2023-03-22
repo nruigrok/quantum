@@ -1,0 +1,33 @@
+KPN wapent netwerk vast tegen aanval met quantumcomputer
+de Volkskrant
+18 mei 2016 woensdag
+Copyright 2016 De Persgroep Nederland BV All Rights Reserved
+
+Section: Ten Eerste; Blz. 6
+Length: 749 words
+Byline: VAN ONZE VERSLAGGEVER, HUIB MODDERKOLK
+Body
+
+KPN wapent zijn netwerk tegen de komst van quantumcomputers. Een deel van het datanetwerk is voortaan beveiligd met een nieuw soort versleuteling, zo heeft het telecombedrijf dinsdag aangekondigd. Tussen twee datacenters in Rotterdam en Den Haag wordt op de veiligst mogelijke manier data uitgewisseld. 
+De quantumcomputer is wel de atoombom van de 21ste eeuw genoemd. Een razendsnelle computer die in een fractie een complexe berekening kan uitvoeren die een normale computer miljarden jaren zou kosten. Wie hem als eerste heeft, heeft een enorm strategisch voordeel op de rest van de wereld. 
+Al jaren werken landen en universiteiten koortsachtig aan deze nieuwe supercomputer, maar informatie over de termijn waarop hij er zal zijn is er niet. Experts rekenen op zeker tien jaar. De Amerikanen denken aan mogelijk vijf tot acht jaar. Niemand die het weet: de exacte stand van onderzoek en ontwikkeling is topgeheim. In Nederland doet de universiteit Delft onderzoek, gesteund door onder meer de AIVD. De Europese Unie steekt 1 miljard euro in de ontwikkeling. 
+Dát de quantumcomputer er komt is dus wel een zekerheid. Mede daarom heeft KPN dinsdag alvast maatregelen getroffen. Het telecombedrijf gaat een deel van zijn netwerk extra beveiligen met quantumversleuteling. Een kenmerk van quantumversleuteling is dat de partijen die communiceren kunnen zien of iemand anders ook bij de uitgewisselde data wil. Bovendien is de quantumgedistribueerde informatie niet te kopiëren of af te tappen en zijn afluisteraars of hackers te detecteren. 
+KPN wapent netwerk vast tegen aanval met quantumcomputer
+Jaya Baloo, Chief Information Security Officer bij KPN, stelt dat de verwachte komst van de quantumcomputer over een 'paar jaar' KPN heeft aangespoord deze stap te zetten. 'De quantumcomputer is in staat rekenopdrachten die nu oneindig veel tijd vereisen, zoals een wiskundige aanval op een cryptografisch algoritme, razendsnel op te lossen. Dit betekent dat bedrijven nu al moeten nadenken over nieuwe strategieën voor versleuteling.' Volgens KPN is het stukje netwerk tussen Rotterdam en Den Haag nu van een 'ongekend veiligheidsniveau'. 
+Anders dan gewone computers werken supercomputers niet stap voor stap met enen en nullen, de klassieke bits. In plaats daarvan gebruiken ze zogeheten qubits, mengvormen van 0 en 1 die pas bij een meting daadwerkelijk een 0 of 1 worden. Daardoor rekenen ze veel sneller dan tot dusverre mogelijk was, omdat ze alle mogelijkheden in één klap bekijken. In theorie zijn ze biljoenen malen sneller dan de beste computers van dit moment. Dat maakt de standaard versleuteling van dit moment in één klap onbruikbaar, net zoals bankgegevens of wachtwoorden. 
+Eén geruststelling: niet alles is per definitie verloren als de quantumcomputer er morgen ineens is. In februari zei wiskundige Ronald Cramer nog in de Volkskrant dat de supercomputer echt geen 'toverstok' is. Cramer: 'In werkelijkheid is een heel specifiek soort cryptosystemen kwetsbaar. Maar helaas zijn dat net die dingen die veel commercieel worden gebruikt.' 
+Miljard voor Europees quantuminitiatief 
+Computers met eindeloze rekenkracht, sensoren die losse atomen opsporen en materialen op maat: Europa gaat een miljard euro steken in de quantumtechnologie die zulke wonderen mogelijk moet gaan maken. Met name de industrie heeft daarbij nog een slag te maken, zei eurocommissaris Günther Oettinger dinsdag op een Europese quantumconferentie in Amsterdam. Daar werd hem en minister Henk Kamp van Economische Zaken een manifest overhandigd waarin steun vanuit de researchwereld wordt uitgesproken voor het idee om van de nieuwe quantumrevolutie een Europese te maken. In het Europese researchprogramma Horizon 2020 wordt daarvoor nu ruimte gemaakt. 'Het was in feite de aanvraag voor het Flagship-programma van een miljard dat de Commissie heeft aangekondigd', zegt prof. Leo Kouwenhoven van het QuTech instituut aan de TU Delft. 'Researchers, ingenieurs en bedrijven moeten samen gaan optrekken.' Volgens Oettinger kent de quantumtechnologie een sterke Europese traditie. Ook Amerikaanse bedrijven steken er hier miljoenen in. Brusselse beleidsmakers verwachten een tweede quantumrevolutie. De eerste leverde zaken op als transistoren en lasers. Inmiddels worden de principes gebruikt voor communicatie en informatie, zodat bijvoorbeeld quantumcomputers mogelijk worden. Nederland speelt een toonaangevende rol in het Europese quantuminitiatief, waarover de Europese ministers zich later deze maand zullen buigen. (Martijn van Calmthout) 
+Page 2 of 3
+KPN wapent netwerk vast tegen aanval met quantumcomputer
+Bekijk de oorspronkelijke pagina: pagina 6
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Industry: Computing + Information Technology (94%)
+Load-Date: May 17, 2016
+
+End of Document
+Page 3 of 3

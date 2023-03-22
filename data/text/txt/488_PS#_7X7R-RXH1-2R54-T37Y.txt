@@ -1,0 +1,55 @@
+Scherp in de superscanner
+NRC Handelsblad
+5 december 2009 zaterdag
+Copyright 2009 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 11
+Length: 1086 words
+Byline: Jop de Vrieze
+Body
+
+SAMENVATTING
+Een ultrasterke MRI-scanner maakt gedetailleerdere beelden van hersenen en het menselijk lichaam. Dat gaat niet zonder problemen. Jop de Vrieze
+VOLLEDIGE TEKST:
+Een nieuw gebouw is er voor neergezet, bij het UMC Utrecht: de supergeleidende MRIscanner, met een veldsterkte van 7 Tesla. Zesendertig ton weegt de magneet die de patiënt of proefpersoon omringt, 440 ton ijzer schermt het magnetisch veld van de buitenwereld af. Hoogleraar functionele medische beeldvorming Peter Luijten laat de scanner van dichtbij zien. Heel anders dan een standaard MRI van 1,5 Tesla of een modernere van 3 Tesla ziet het apparaat er niet uit.
+Het verschil zit hem puur in de veldsterkte, vertelt Luijten. "Hou mijn bril maar even vast, vlakbij de koker waar de patiënt normaal ligt", zegt hij. Het montuur trekt, zou na loslating direct de lucht in vliegen. "En til dit aluminium krukje maar eens op." Verwoede pogingen om het krukje de koker in te duwen stranden op een sterk tegenwerkende kracht. Luijten glimlacht: "Dit soort effecten treden bij lagere veldsterktes niet op."
+Eind 2006 startten drie '7T projecten' in Nederland, nadat NWO geld beschikbaar stelde. 
+Het UMC Utrecht en het LUMC bouwden voor zo'n 20 miljoen euro een installatie, de Radboud Universiteit Nijmegen kocht scantijd bij de universiteit in het Duitse Essen. De nieuwe generatie scanners, momenteel zo'n 25 in de wereld, geeft een gedetailleerder beeld van weefsels en structuren in het lichaam dan gangbare scanners. Vooral in de hersenen, maar ook in de rest van het lijf. Dat is belangrijk, want veel structuren zijn kleiner dan de voor standaardscanners haalbare 3 millimeter. Maar er treden ook processen op die bij lagere veldsterktes geen probleem vormen. Het veld wordt niet meer gelijkmatig verdeeld, waardoor zwarte vlekken op het beeld komen. En mensen in de scanner kunnen warm worden.
+MAGNEETJES
+Beeldvorming met MRI-scanners is gebaseerd op voor het lichaam onschadelijke magnetische resonantie en maakt onderscheid tussen weefsels door de dichtheid van waterstofmoleculen. Het apparaat wekt drie velden op: het grote magneetveld, een radiogolf en kleine magnetische velden. Het grote veld, van in dit geval 7 Tesla, maakt de waterstofatomen - strikt genomen hun kernspins - in het lichaam tot een soort kleine quantummechanische magneetjes.
+Zulke magneetjes gaan in de richting van het veld staan, of er tegenin. Stuur je vervolgens een radiogolf door dit magneetveld, dan kunnen deze waterstofmagneetjes omklappen in de andere toestand, waarbij ze een beetje elektromagnetische energie opnemen. Die energie staan ze vervolgens weer af in de vorm van een foton, dat wordt geregistreerd. De kleine lokale magnetische velden leggen een gradiënt aan in het magnetische veld en bepalen zo de positie van de waterstofatomen in het beeld.
+"Als je het magnetisch veld opvoert, krijg je een lading praktische problemen over je uitgestort", vertelt technicus Fredy Visser, collega van Luijten. Het belangrijkste probleem is dat je bij een hogere veldsterkte hogere radiofrequenties gebruikt. Die hebben een kortere golflengte, die nauwelijks in het hoofd, en al helemaal niet meer in het lichaam past. Daardoor verschijnen op het beeld 'zwarte vlekken'. En wat nog vervelender is: er kan een soort magnetroneffect optreden. De geabsorbeerde elektromagnetische straling wordt door het lichaam geabsorbeerd in de vorm van warmte; de weefsels warmen dus op. Neemt het veld toe in sterkte, dan stijgt de opgenomen warmte kwadratisch. De stap van 1,5 Tesla naar 7,0 Tesla betekent een factor (7/1,5)2 = 22 in warmteopname. En juist omdat het magnetisch veld niet homogeen verdeeld is, kunnen zogeheten 'hot spots' in het weefsel ontstaan.
+HOMOGENITEIT
+In theorie, want, benadrukt Luijten: "er zijn heel strenge normen om die opwarming te voorkomen." Maar die normen bemoeilijken het werken met de scanner. Tijdens een scan mag bijvoorbeeld niet langer dan een bepaalde tijd met radiogolven gezonden worden. De onderzoekers werken er dus hard aan om meer homogeniteit te bereiken. Visser laat wat voorbeelden zien van attributen waarmee de groep experimenteert, waaronder een met aluminiumfolie omwikkelde koker. "Hier kunnen de benen van de patiënt in, zodat alle energie naar bijvoorbeeld de prostaat gaat, niet naar de benen." De nieuwe scanners moeten straks niet één radiozender en één ontvanger bevatten, maar meerdere, op verschillende plekken. De groep van Luijten werkt aan een algoritme om voor iedere patiënt een optimale afstelling van die radiozenders te berekenen, "om de verschillende individuele geluidsgolven samen tot een welluidend akkoord te laten samenvallen."
+Het zijn pragmatische oplossingen. Hebben ze dan te vroeg toegehapt door ruim twee jaar geleden al hun apparaat aan te schaffen? Nee, zegt Luijten. "Wij wisten waar we aan zouden beginnen. We ontwikkelen de technologie samen met de fabrikanten, in ons geval Philips Healthcare. Philips werkt nauw samen met onze groep en steunt het onderzoek dat we nu doen, zodat de technologie in nauwe samenhang met de klinische toepassingen ontwikkeld wordt."
+Luijten verwacht dat het wel tien jaar kan duren voordat alle mogelijkheden van de 7 Tesla MRI-scanner voor de patiëntzorg kunnen worden ingezet. Dat lijkt lang, maar de introductie van MRI-scanners met een magneetveld van 3 Tesla ging in de jaren negentig niet veel sneller.
+Tot die tijd zullen er steeds meer deeltoepassingen beschikbaar komen.
+Sommige zijn er zelfs al, vooral in het brein. Daar treden de minste resonantieproblemen op. Microscopische bloedingen in de hersenen kunnen nu voor het eerst met grote nauwkeurigheid in beeld gebracht worden. En bij functionele scans worden de verschillende lagen van de grijze stof zichtbaar, die elk een eigen functie hebben. Dat onderzoek is nu nog vooral experimenteel, en levert louter wetenschappelijke inzichten op. Heel af en toe maken artsen ook al voor diagnostisch onderzoek gebruik van de scanner. Luijten: "Als de andere analyses nog veel vragen onbeantwoord laten, kan een MRI-scan in bijvoorbeeld de grote hersenen al toegevoegde waarde hebben."
+NABIJE TOEKOMST
+Maar om bijvoorbeeld borst- of prostaatweefsel te bestuderen zijn nog wel wat stappen nodig. En voor een MRI aan het hart moet alles uit de kast gehaald worden om ook nog voor de ademhaling en het bewegende hart te corrigeren. Toch stemt een blik op de nabije toekomst de heren positief. Visser: "Bij de ontwikkeling van de 3 Teslascanner heb ik ooit gezegd dat het niks zou worden. Die fout maak ik niet meer."
+Graphic
+
+ 
+Breindoorsneden. De grote plaat links is gemaakt met een magneetveld van 3 Tesla, de plaat rechts met een veld van 7 Tesla. Daaronder opnamen waarop respectievelijk kleine bloedvaten en grote aderen in de hersenen zichtbaar zijn gemaakt met een 7 Teslascanner. 
+Foto's PTB/ UMC Utrecht
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Radiology (94%); Diagnostic Imaging (77%); Cancer (74%); Superconductors (63%)
+Load-Date: December 4, 2009
+
+End of Document
+Scherp in de superscanner
+
+Scherp in de superscanner
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

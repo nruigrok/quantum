@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/corpustools_data
+/runs
+/.Rhistory
+/.Rproj.user/
+/.idea/
+/*.udpipe
+\#*\#
+
+.~lock*

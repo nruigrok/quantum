@@ -1,0 +1,52 @@
+Reclamebord maakt eigen licht
+NRC
+27 oktober 2021 woensdag
+Copyright 2021 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 16
+Length: 963 words
+Byline: Bram van Duinen
+Dateline: Eindhoven 
+Body
+
+ABSTRACT
+Reportage Techniek Met fluorescente inkten kunnen doorzichtige panelen overdag stroom opwekken. 's Avonds kunnen ze daarmee weer licht geven.
+VOLLEDIGE TEKST:
+Het chemische lab van de TU Eindhoven is gehuld in een gele gloed, waardoor het er altijd lijkt of de zon net onder gaat. ,,We werken hier met veel materialen die uitharden in blauw of uv-licht. Gele verlichting voorkomt dat de materialen al uitharden in de cartridge", zegt Jeroen ter Schiphorst van het bedrijf Lusoco, gehuld in labjas en veiligheidsbril. Hij is amper te verstaan onder het luide gezoem van de onderzoeksprinter. Ter Schiphorst monteert en demonteert de printkop alsof het een lego-set is. In dit lab test en ontwikkelt het Eindhovense bedrijf nieuwe fluorescente inkten om te printen op lichtgevende borden die hun eigen energie opwekken.
+Fluorescente inkt kan niet alleen licht absorberen - net als normale inkt - maar ook uitzenden. Dit type inkt wordt nu bijvoorbeeld gebruikt om bankbiljetten of paspoorten te controleren op echtheid. De geprinte inkt licht dan op zodra die met uv-licht beschenen wordt. Maar die inkten kunnen óók gebruikt worden om energie op te wekken. Daarvoor wordt fluorescerende inkt geprint op een folie en in doorzichtig (plexi)glas geplaatst. De techniek wordt LSC genoemd: luminescent solar concentrator.
+Fluorescentie, het onderliggende concept, werkt als volgt. Overdag valt zonlicht op speciale, fluorescerende inkt. Daarin zit een dragend materiaal met de kleurstof. Die kleurstofmoleculen kunnen fotonen, lichtdeeltjes, met een bepaalde golflengte absorberen. Die geabsorbeerde fotonen bevatten energie, daardoor raken de moleculen in een hogere energietoestand. Die toestand is energetisch niet zo gunstig, daarom willen de moleculen de energie even later weer kwijt om te stabiliseren. Dat doen ze door weer een lichtdeeltje uit te zenden met een net iets grotere golflengte, zegt Ter Schiphorst, die zelf is gepromoveerd in de organische chemie.
+Het concept achter de borden van Lusoco is dat de uitgezonden lichtdeeltjes naar de zijkant van het bord geleid worden door interne reflectie in het glas. Zo komen ze uit bij zonnecellen in de zijkant. Die zetten de fotonen om in elektriciteit die opgeslagen wordt in een klein batterijtje.
+Als sterren in kinderkamers
+'s Nachts is het proces omgekeerd. Dan drijft het batterijtje een ledlampje aan in de zijkant van het bord. Dat lampje beschijnt de fluorescerende moleculen en via hetzelfde absorptie-uitzendfenomeen stralen ze nu juist licht van binnen naar buiten uit. Het bord geeft dan licht in het donker. Zo ontwikkelt Lusoco reclameborden die overdag hun eigen energie opwekken en opslaan in een batterijtje. Ter Schiphorst toont in zijn kantoor een aantal voorbeeldborden. De inkt licht op, terwijl het ongeprinte gedeelte van het glas transparant blijft. Het licht lijkt op de lichtgevende sterren die in veel kinderkamers te vinden zijn - die overigens geen gebruik maken van luminescentie. De eerste grotere pilotborden van Lusoco staan al op het voormalige Philips-terrein Strijp-S in Eindhoven.
+De eerste LSC-borden werden al in de jaren 70 gemaakt. Ter Schiphorst toont een aantal oude borden die ontwikkeld zijn door Michael Debije, onderzoeker aan de TU Eindhoven en tevens adviseur van Lusoco. Debije is al twintig jaar bezig met LSC's. Deze borden zijn volledig rood of geel, om zoveel mogelijk licht naar de zijkant te leiden waar een zonnecel geplaatst kan worden. ,,Kijk maar aan de zijkant, dan zie je het doorgeleide licht." Een geel bord is bedekt met een graffitikunstwerk van elektriciteitspionier Nikola Tesla. Dat bord was onderdeel van een experimentele energie-opwekkende geluidswal van LSC-panelen.
+Het originele doel van LSC was energie-opwekking, maar conventionele zonnepanelen zijn veel efficiënter gebleken. Toch komt LSC als technologie weer op, omdat ze esthetisch zijn. Op plaatsen waar zonnepanelen niet mogelijk zijn, wordt nu helemaal geen energie opgewekt. Maar met een LSC-paneel, dat bijna zo doorzichtig kan zijn als normaal glas, is er toch nog wat opwekking van duurzame energie. Lusoco wil opwekking en verbruik van energie bij elkaar brengen met hun lichtgevende reclameborden. Die worden niet volledig bedrukt, maar alleen op de plekken die licht moeten geven. De fluorescerende inkten moeten voor deze toepassing heel andere eigenschappen hebben dan die in paspoorten en bankbiljetten.
+Terug naar het lab in Eindhoven, dus. Lusoco begon ooit met alleen magenta-inkt en maakte daarmee eenkleurige borden. Later werd geel toegevoegd. Door magenta en geel te mengen met cyaan, is een groot aantal andere kleuren te creëren, zoals bij een drukproces. Een goede cyaankleur is echter nog steeds niet beschikbaar. ,,Dus die proberen we nu zelf te maken. Die kleurstof kan aan bestaan uit een organisch molecuul. Maar het kan ook een nanokristal zijn in de vorm van een quantum dot." Dat zijn piepkleine deeltjes die zo gemaakt kunnen worden dat ze precies de goede kleur uitzenden. Ze worden bijvoorbeeld al gebruikt in QLED-televisies. Lusoco test het gebruik van onder andere deze quantumkleurstoffen in het chemisch lab op de superprecieze printer.
+Ook buiten wordt er geëxperimenteerd. Lusoco is ook druk aan het testen hoe de energiebalans varieert onder verschillende omstandigheden: het bord naar het noorden of naar het zuiden gericht, een bewolkte of een zonnige dag. ,,Het lijkt erop dat onze balans behoorlijk richting energie opwekken ligt en dat we overschot in de batterij kunnen opslaan om de donkerste dagen door te komen. Maar het wordt nog wel vervelend als we het in Scandinavië willen toepassen, waar veel minder licht is. De tijd zal leren wat we daar kunnen doen."
+De LSC-borden zijn te gebruiken op plekken waar zonnepanelen niet passen
+Link naar PDF
+Graphic
+
+ 
+Fluorescerende inkt wordt op een folie geprint (grote foto), dat vervolgens geplaatst wordt in doorzichtig plexiglas (zoals hierboven).
+Foto's Merlin Daleman
+Panelen oogsten overdag energie
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Industry: Alternative + Renewable Energy (94%); Energy + Utility Trade (74%); Computer Equipment (69%)
+Load-Date: October 26, 2021
+
+End of Document
+Reclamebord maakt eigen licht
+
+Reclamebord maakt eigen licht
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

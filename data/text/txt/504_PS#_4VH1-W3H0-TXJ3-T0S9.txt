@@ -1,0 +1,59 @@
+Kippengaas van koolstof
+NRC Handelsblad
+January 31, 2009 zaterdag
+Copyright 2009 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP & ONDERWIJS; Blz. 7
+Length: 1121 words
+Body
+
+SAMENVATTING:
+Het ultradunne grafeen is al een paar jaar hot. Nu blijkt dat je er ook nog waterstof in kan opslaan. Margriet van der Heijden
+VOLLEDIGE TEKST:
+Het is het ultieme dunne materiaal", zegt prof. dr. Carlo Beenakker, hoogleraar theoretische fysica in Leiden. &quotDunner dan grafeen bestaat niet." &quotGrafeen is platter dan plat", zegt ook de Nijmeegse theoretisch fysicus, prof. dr. Mikhail Katsnelson.
+Maar het is niet alleen plat. De bijzondere elektronische en mechanische eigenschappen laten fysici ook dromen van uiteenlopende toepassingen.
+Nu al vormt een snipper grafeen een minilab om bijzondere quantummechanische effecten in te bestuderen. In de toekomst werken snelle computers wellicht met chips van grafeen. En wie weet sporen gevoelige sensoren van grafeen ooit zelfs de kleinste hoeveelheden gifgas op.
+In Science voegen onderzoekers van de universiteit van Manchester - onder wie grafeenontdekker André Geim, en onderzoekers van de Radboud Universiteit Nijmegen, onder wie Mikhail Katsnelson - er nóg een mogelijke toepassing aan toe: grafeen als ruggegraat van uiteenlopende kristallen met 'maakbare' elektronische eigenschappen. Om te gebruiken in toekomstige elektronica.
+En passant ontdekten zij bovendien dat grafeen een aanzienlijke hoeveelheid waterstof kan binden, en daarna weer kan loslaten. Aantrekkelijk, want waterstof wordt wel gezien als een ideale energiedrager van de toekomst - als het tenminste zou lukken om het vluchtige en explosieve waterstof veilig en compact op te slaan in één of ander materiaal.
+SCOTCH
+Grafeen is het dunne laagje koolstof, één atoom dik, dat je krijgt wanneer je grafiet, zoals in potloodpunten, met plakband laagje voor laagje afpelt. Die 'Scotchmethode' werd ontdekt door de Russische fysicus Geim die aan de universiteit van Manchester is verbonden.
+Belangrijker, zei Geim later, was dat hij óók inzag hoe je kon bewijzen dat werkelijk sprake is van zo'n enkellaags velletje koolstofatomen. Namelijk door het op een ondergrond van siliciumoxide te leggen, want daarop geeft grafeen een kleurverandering - een beetje zoals een laagje olie op water dat doet. Ruwweg gezegd zorgen 100 laagjes grafeen voor een geel, 40 laagjes voor een blauw, 10 laagjes voor een roze, en 1 laag voor een amper zichtbaar bleekroze waas. En toen dat eenmaal bekend was, stortten onderzoeksgroepen uit de hele wereld zich op het 'kippengaas van koolstof'.
+In grafeen is elk (vierwaardig) koolstofatoom in een honingraatstructuur aan drie buuratomen gebonden, waardoor er steeds één bindingsmogelijkheid - één vrij, naar buiten stekend 'pootje' en één elektron - overblijft. De kippengaasstructuur maakt het materiaal buigzaam, rekbaar en uitzonderlijk sterk. De vrije elektronen zorgen daarnaast voor bijzondere elektronische eigenschappen: ze bewegen met hoge snelheid door het geordende materiaal, waarbij hun snelheid niet afhangt van hun energie. Anders gezegd: ze gedragen zich alsof ze net zo massaloos zijn als lichtdeeltjes - en alleen dat al zorgde voor een stroom aan publicaties.
+CHIPS
+Voor toepassingen in elektronica beschikt grafeen over een mix van héél gunstige en héél ongunstige eigenschappen, legt Katsnelson uit. Doordat het zo plat is, zou het tot uiterst dunne chips kunnen leiden. En voor elektronica geldt: hoe minder ruimte het inneemt, des te beter. De snelheid waarmee de elektronen bewegen zou bovendien tot snellere schakelingen en snellere computers kunnen leiden.
+Maar een groot obstakel is dat de elektronen geheel vrij door het grafeen bewegen, en elke hindernis op hun pad negeren. &quotEn dat wil je in elektronische schakelingen nou net niet hebben", zegt Katsnelson. &quotEen transistor bijvoorbeeld laat alle elektronen vrij stromen, óf houdt ze allemaal tegen. Het is een kwestie van aan of uit." Maar in grafeen bestaat 'uit' niet.
+Het komt doordat de elektronen zich als massaloze deeltjes gedragen, zegt Katsnelson. Dat leidt tot een quantummechanisch fenomeen waarbij hindernissen simpelweg niet als zodanig ervaren worden. Het effect is genoemd naar de Zweedse fysicus Oskar Klein die het in een heel andere context gebruikte. Dat het Klein-effect zich ook in grafeen voordoet, was een voorspelling van Katsnelson. &quotEn ik ben er best trots op, dat dat later experimenteel bevestigd is."
+Het maakt alleen toepassing in elektronica wel ingewikkeld. Maar op papier vond Katsnelson met collega's een oplossing: grafaan. Ofwel, grafeen met aan elk vrij uitstekend 'pootje' een waterstofatoom - afwisselend naar boven en naar beneden wijzend.
+In het geordende grafaan bewegen elektronen zich eveneens snel, zegt Katsnelson. Maar verder gedraagt het materiaal zich als silicium - de huidige grondstof van chips. Als een halfgeleider dus. Anders gezegd: alleen elektronen die over voldoende extra energie beschikken, bijvoorbeeld doordat een spanningsverschil is aangelegd, kunnen vrij bewegen. Hebben ze die niet, dan 'liggen ze stil'. Een energiekloof - de bandgap - scheidt de twee toestanden, en maakt het mogelijk van grafaan wél gewoon transistoren te bouwen.
+Dat wil zeggen - in theorie. Want hoewel de eerste proeven met grafaan in Manchester overtuigend worden beschreven in Science, is het geproduceerde materiaal nog niet zo ordelijk als in de berekeningen. En dat maakt, bijvoorbeeld, de elektronen traag. &quotHet zou kunnen", zegt Katsnelson, &quotdat andere atomen dan waterstof beter blijken te werken. Dat we fluor moeten aankoppelen bijvoorbeeld. Misschien levert dat een tweedimensionaal kristal met veel gunstiger elektronische eigenschappen dan het grafaan."
+Daarin schuilt ook het grootste belang van dit onderzoek, denkt hij. Dat grafeen als ruggegraat kan dienen van uiteenlopende tweedimensionale kristallen met gunstig gekozen elektronische eigenschappen. &quotEen heel mooi resultaat", zegt de Leidse theoretisch fysicus Beenakker.
+KIEM
+En de waterstofopslag? Uit het paper in Science blijkt dat grafeen bij verhitting tot een paar honderd graden Celsius het waterstof ook weer afgeeft. Dat is handig in een brandstofcel, waarin het vrijgekomen waterstof met zuurstof schoon tot water verbrandt. &quotHet is maar een begin", relativeert Katsnelson, &quotmaar grafeen doet het al wel even goed als de intermetallische materialen die veel langer als kandidaat voor waterstofopslag gelden." Beenakker: &quotAls het later inderdaad wat wordt met die waterstofopslag, dan was dit de 'kiem'."
+Maar wat zowel voor de eventuele waterstofopslag als voor de elektronica nog ontbreekt, waarschuwt Katsnelson, is een beproefde methode voor massaproductie. &quotIk heb goede hoop dat die wel komt", zegt hij. &quotVoorlopig komt het erop neer dat studenten met veel gepeuter en gedoe ongeveer één grafeensnipper per week maken", zegt Beenakker.
+Graphic
+
+ 
+3101WETgrafeen, Gerimpeld velletje grafeen (20 micrometer breed) op een ondergrond van silicium en gezien met een rasterelektronenmicroscoop., foto universiteit van Manchester .
+310109WET_grafietlaag
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Superconductors (94%); Nanotechnology (63%)
+Industry: Manufacturing (71%); Computer Equipment (62%)
+Load-Date: January 30, 2009
+
+End of Document
+Kippengaas van koolstof
+
+Kippengaas van koolstof
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

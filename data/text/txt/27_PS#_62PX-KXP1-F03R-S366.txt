@@ -1,0 +1,37 @@
+Minuscule antennes maken elektriciteit van warmte
+NRC
+20 mei 2021 donderdag
+Copyright 2021 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 16
+Length: 644 words
+Byline: Dorine Schenk
+Dateline: Amsterdam 
+Body
+
+ABSTRACT
+Natuurkunde Warmte is straling die je met een antenne kunt opvangen en omzetten in elektriciteit. Maar dat klinkt makkelijker dan het is.
+VOLLEDIGE TEKST:
+Warmte is vaak een restproduct. Warmte van ovens, fabrieken en de warmte die het aardoppervlak 's nachts de ruimte instraalt, gaat grotendeels verloren. Daar kan verandering in komen dankzij minuscule antennes die warmtestraling opvangen en omzetten in elektriciteit.
+Door slim gebruik te maken van een bijzondere quantumeigenschap van elektronen hebben onderzoekers van de Amerikaanse University of Colorado Boulder het voor elkaar gekregen om hun zogeheten rectennes, die te klein zijn om met het blote oog te zien, ruim 100 keer efficiënter te maken dan vergelijkbare warmte-energiewinnende apparaatjes. Ze publiceerden hun resultaten dinsdag in Nature Communications.
+Rectennes werken net als radio-antennes. Maar in plaats van radiogolven vangen ze warmtestraling 	op. 	Die 	elektromagnetische 	golven 	veroorzaken 	elektrische wisselstromen in antennes. Aan het einde van antennes zit een zogeheten diode die deze wisselstroom omzet in gelijkstroom, wat je vervolgens kunt gebruiken voor je computer, tv of andere apparaten.
+Minuscule antennes maken elektriciteit van warmte
+Het klinkt eenvoudig maar is lastig. Warmtestraling heeft namelijk een hoge frequentie: een biljoen trillingen per seconde. Om die hoogfrequente straling op te vangen, moeten de antennes veel kleiner zijn en de diodes veel sneller. ,,In ons onderzoek hebben we ons gericht op het maken van een zo snel mogelijke diode", vertelt Amina Belkadi, die onlangs promoveerde op het rectenne-onderzoek.
+Elektronen in een tunnel
+De onderzoekers gebruiken minuscule rectennes van een paar duizendste millimeter groot. De diode is slechts enkele honderdduizendsten van een millimeter groot. ,,De diode bestaat uit twee metalen met daartussen een isolerend materiaal", vertelt Belkadi. De elektronen waaruit de opgewekte stroom bestaat, moeten zich een weg banen door de isolerende laag om bruikbare gelijkstroom te leveren. In de huidige diodes, waarbij de isolator uit één materiaal bestaat, ervaren de elektronen veel weerstand waardoor ze moeizaam bewegen en uiteindelijk weinig elektriciteit opleveren.
+Een paar decennia geleden voorspelden theoretici dat er een bijzonder quantumeffect, resonant-tunneling, optreedt als je de enkele isolerende laag vervangt door twee of meer verschillende lagen. ,,Als je meerdere lagen gebruikt, dan kunnen elektronen op bepaalde energieniveaus bijna weerstandsloos door het materiaal schieten", zegt Belkadi. Het effect zorgt er als het ware voor dat er een 'tunnel' ontstaat waardoor de elektronen gemakkelijk van de ene naar de andere kant bewegen.
+,,De theorie voorspelde niet precies welke materialen je moet gebruiken", vervolgt Belkadi. ,,Tijdens mijn promotie heb ik met verschillende materialen van verschillende diktes gespeeld. Uiteindelijk kwamen we uit bij een diode met twee isolerende lagen van enkele miljoensten van een millimeter dik: nikkeloxide en aluminiumoxide." Om het bijzondere quantumeffect te testen maakten de onderzoekers twee sets met elk een kwart miljoen rectennas. De ene set had een enkele isolerende laag nikkeloxide, de andere had de twee lagen. Alleen de set met de twee lagen bleek in staat om uit warmtestraling een meetbare hoeveelheid elektriciteit op te wekken. Het quantumeffect werkte. Al werd bij de test slechts een procent van de warmte-energie omgezet in elektriciteit.
+,,Het is een mooie stap vooruit", zegt Huib Visser, hoogleraar aan de TU Eindhoven en niet betrokken bij het onderzoek. ,,Maar de weg naar commercialisatie zal nog even duren. Zo zal er ook aandacht nodig zijn voor het verbeteren van de antennes." Belkadi beaamt dat: ,,De efficiëntie is nog lang niet wat we willen en wat nodig is om een rendabel commercieel apparaat te maken. Maar we hebben dat doel wel dichterbij gehaald."
+Link naar PDF
+Classification
+
+Page 2 of 3
+Minuscule antennes maken elektriciteit van warmte
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Superconductors (94%); Nanotechnology (69%)
+Industry: Manufacturing (80%)
+Load-Date: May 19, 2021
+
+End of Document
+Page 3 of 3

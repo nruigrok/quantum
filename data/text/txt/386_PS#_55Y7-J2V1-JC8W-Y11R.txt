@@ -1,0 +1,109 @@
+Wereldraadsel oplossen in ijskoude kerk
+NRC Handelsblad
+23 juni 2012 zaterdag
+Copyright 2012 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap
+Length: 2511 words
+Byline: Margriet van der Heijden
+Body
+
+SAMENVATTING
+Natuurkunde Leo Kouwenhoven haalde de wereldpers met zelf gemaakte 'majoranadeeltjes'. Dat zijn mogelijk bouwstenen van grote quantumcomputers, die vele geheimen van het leven kunnen helpen doorgronden.
+Margriet van der Heijden
+VOLLEDIGE TEKST:
+Elf uur. Leo Kouwenhoven drinkt koffie  met emeritushoogleraar Hans Mooij, zijn voormalige baas. Op crocs. "Mijn fietskleren", gebaart hij ter verklaring,  en hij verdwijnt  in één van de brede gangen om zich om te kleden.
+Het is zo rustig en stil in het jarenzestiggebouw  op de campus van de Technische Universiteit Delft. Rustig. Je voelt niets  van opwinding,  die je wél zou verwachten nu de namen van Kouwenhoven en zijn  collega's door  laboratoria wereldwijd gonzen.
+Hier in Delft  doet fysicus Kouwenhoven al jaren onderzoek naar de bouwstenen van toekomstige  quantumcomputers.  Bij wijze van computerbits sloot hij  bijvoorbeeld elektronen op in 'doosjes'  op de schaal van nanometers (miljoenste millimeters). Het leverde hem in 2007 een Spinozapremie op.
+Maar zelf zat Kouwenhoven  niet  vaak meer achter de elektronenmicroscoop of labcomputer. Te  veel leidinggevende taken. Tot een jaar geleden,  vertelt hij  als we even later  naar een Delfts terras lopen.  Zo spannend werd toen  ineens het onderzoek weer. "Ik moest gewoon naar het lab om mee te kijken wat er uit de metingen kwam."
+Na veel gepruts, herhalen en  controleren waren dat: 'majoranadeeltjes'   (Science, 25 mei) - nooit eerder waargenomen deeltjes, die zich anders gedragen dan  alle andere tot dusver ontdekte deeltjes.  Na een lezing daarover begin maart in Amerika vlogen de majorana's over twitter en internet. Ze maakten Kouwenhoven en collega's beroemd.  
+Minister-president Rutte riep Kouwenhoven alvast uit tot toekomstig Nobelprijswinnaar.
+Hoe was al die aandacht?
+Kouwenhoven: "Het was een hype. Sommige dingen waren leuk:   zoals een uitzending van Pauw en Witteman  meemaken. Maar andere dingen vond ik een beetje beschamend."
+Beschamend?
+"Ja. Sommige organisaties buiten ons werk uit. Zo hoorde ik bij toeval dat ScienceGuide  (lobbygroep van het hoger onderwijs in Nederland, red.)  rondleidingen aanbiedt  'door het lab van de toekomstig Nobelprijswinnaar'." Kijkt vorsend opzij. "Ik wist van niks; en  zit trouwens op die rondleidingendag in het buitenland. Maar  vooral: we hebben helemaal  geen   Nobelprijs gewonnen."
+De ontdekking van een nieuw type deeltje is  wel Nobelprijswaardig.
+"In elk geval niet dit jaar -  voor je het weet wordt dat er ook bij gezegd. Zelf denk ik dat het comité de prijs pas toekent als óók is aangetoond  dat majoranadeeltjes aan de nietAbelse statistiek gehoorzamen."  Dat ze zich dus inderdaad anders gedragen dan alle andere deeltjes. "En dat proberen we nu naarstig voor elkaar te krijgen."
+En daarmee kunnen andere groepen  jullie  nog aftroeven?
+"Ja, dat kan. In onze publicatie hebben we  de  resultaten heel sec gepresenteerd, met  een gedetailleerde uitleg van de experimenten. Bewust: we wilden niks opdringen. Collega's moesten zelf de conclusie kunnen trekken: dit zijn majorana's. Maar  ze lezen zo natuurlijk ook  welke punten we nog moeten verbeteren   om  het gedrag van majorana's  te bestuderen."
+Loopt u dus af en toe nagelbijtend rond?
+"Nee, zo erg is het niet. Tijdens onze vorige meetreeks keek ik wel elke ochtend op arXiv (de webserver waar fysici hun jongste resultaten plaatsen , red.)   Als er in een titel  'majorana' stond", haalt diep adem, "dan  hield ik wel even mijn adem in.
+Weet u hoe ver andere groepen zijn?
+"Ja, daar hebben we aardig zicht op. Maar zelfs al lopen we nu voor, er kan altijd iets misgaan. In februari, midden in onze eerste  meetreeks, gingen we  schaatsen en  viel  Vincent van Mourik, de eerste auteur van ons artikel, na een botsing op zijn hoofd. Zijn kortetermijngeheugen was helemaal weg. In het ziekenhuis vroeg hij telkens wat er gebeurd was,  en als we het hem vertelden, dan vroeg hij het vijf minuten later weer.  Op het laatst schreven we het op een briefje, en  intussen dachten we: daar gaat ons experiment, want van sommige aspecten kende alleen Vincent alle ins en outs."
+Het kwam goed.
+"Gelukkig wel."
+Majoranadeeltjes zijn vernoemd naar de  Italiaanse fysicus Ettore Majorana, die hun  bestaan in 1937 voorspelde en een jaar later spoorloos verdween. Majorana vond een buitenissige oplossing van de befaamde Diracvergelijking (die een groot deel van de elementaire deeltjes beschrijft), namelijk:  deeltjes die hun eigen antideeltje zijn.
+Dat kan  alleen als zulke deeltjes  geen elektrische  lading dragen (anders onderscheiden hun  antideeltjes zich met een tegengestelde lading). Als ze  geen energie dragen (anders  onderscheiden hun antideeltjes zich met negatieve energie). Als ze niet om hun as tollen (anders tollen hun antideeltjes  in tegengestelde richting) enzovoorts. Eigenlijk zijn het 'deeltjes zonder eigenschappen'.
+Misschien bestaat de geheimzinnige donkere materie in het heelal wel uit  die onopvallende en daardoor haast niet waarneembare  majorana's, zo vermoeden fysici.  Maar in het lab maakten Kouwenhoven en collega's  andersoortige majorana's. Hun 'kunstmatige' majorana's bestaan uit duizenden elektronen - met elektrische lading en tollend -   die zich netto toch gedragen als deeltje zonder lading, dat níet om zijn as tolt enzovoorts.
+Quasideeltjes heten zulke samengestelde deeltjes die verder net 'echte' deeltjes zijn.  Kouwenhoven en  collega's maakten ze naar een recept waarvoor  de basis ruim tien jaar geleden werd gelegd door de   Russische  mathematisch-fysicus Alexei Kitaev   (Physics Uspekhi, oktober 2001).  Ze werkten  met  structuren zo klein dat die alleen door een elektronenmicroscoop zichtbaar zijn. En bij temperaturen zo laag (een paar duizendste graad boven het absolute nulpunt) dat het zelfs in  de  kosmos warmer is.
+In die kou maakten de Delftse fysici    een 'nanodraadje' van  halfgeleidermateriaal supergeleidend, door het als een brug te leggen tussen een strookje goud en een strookje  supergeleidend materiaal. Door   bovendien te spelen met materiaaleigenschappen en  magneetvelden, konden ze    de elektronen in dat draadje temmen. Zodat dus duizenden  elektronen aan elk uiteinde ervan  een majorana vormden.
+Dat  waren echt majorana's?
+"Daarvan zijn we  vrijwel zeker. Een groot deel van ons werk bestond uit het uitsluiten van  andere verklaringen voor het fenomeen.  Bovendien hebben fysici van het Weizmann Instituut in Israël onze resultaten nu gerepliceerd."  (arXiv  1205.7073v1, 31 mei 2012)
+En zulke deeltjes vallen niet gemakkelijk weer uit elkaar?
+"Nee, de elektronen  houden elkaar in de greep. De beste vergelijking vind ik nog altijd die met de wave op de tribunes van een voetbalstadion.  Ik zou daar  in mijn eentje  kunnen opstaan en gebaren: 'stoppen nu',  maar dat zou geen enkel effect hebben. Die wave, die collectieve beweging, blijft bestaan. Net als een majorana."
+Als het tenminste ijskoud is en het draadje minuscuul...
+"Dat laatste hoeft niet. In structuren van bijvoorbeeld een meter lang kun je majorana's moeilijker ontdekken. Maar als je eenmaal weet hoe je ze moet maken, dan zijn  majorana's in zulke grote structuren zelfs stabieler. Dat komt óók doordat de supergeleiding die  ervoor nodig is, onvoorstelbaar stabiel is.
+Nu glimmen zijn ogen. "Op basis van juist zulke grote structuren ligt er  nu een  praktisch ontwerp voor een quantumcomputer."
+Zo'n quantumcomputer gebruikt  het feit dat majorana's, zoals de twee in  uw draadje, via de regels van de quantummechanica met elkaar verweven zijn?
+"Het klassieke voorbeeld daarvoor is  de Möbiusband." Een smalle reep papier waarin je één slag draait en waarvan je daarna de uiteinden aan elkaar plakt. Gebarend: "Ik kan zo'n band verfrommelen,  hem in mijn zak stoppen, maar die slag blijft erin zitten. En als ik   in zo'n slag informatie stop, een code 010 bijvoorbeeld,  gaat die informatie dus niet verloren.
+"Net zo is de quantumtoestand van twee verweven majorana's heel stabiel - en in die toestand ligt informatie besloten.  In zo'n quantumcomputer kun je  op slimme wijze (volgens die niet-Abelse statistiek, red.)  gaan breien met vele majoranaparen - en zo complexe informatie verwerken."
+En zo'n computer komt er?
+"Jazeker. Een paar jaar geleden was ik nog sceptisch,  maar nu ben ik heel optimistisch.  Het mooie is dat we nu dat gedetailleerde  ontwerp hebben. Niet  uitsluitend op basis van majorana's, je kunt er op een uitgekiende manier ook   de quantumdoosjes in verwerken die we eerder maakten.
+Het cruciale inzicht, met dank dus aan Alexei Kitaev, is  de 'topologie'.  Ofwel:  het werken met 'objecten' die net als een Möbiusring hun vorm  bewaren, ook al verschuif je ze, druk je ze samen, of stuur je ze een bocht om. Tenzij je ze natuurlijk, al dan niet elektronisch, los  knipt.
+Hoe ziet die  computer eruit?
+"Een topologische quantumcomputer naar dit ontwerp  is enorm. Zoiets als de Oude Kerk", wijst op de scheve toren achter het terras. "Maar:  we hebben dus een plan. En ik verwacht dat in de komende paar jaar iemand een miljard op tafel legt om daarmee aan de slag te gaan. In de VS, denk ik."
+Een computer als een kerk?
+"Of een grote loods." Lacht droogjes. "Die dus   tot tegen het absolute nulpunt gekoeld moet worden. In Europa zouden we  zeggen: daar beginnen we niet aan. Maar in de VS  weten ze: als je   begint, en een eerste 'push' geeft, dan  lossen veel problemen zich gaandeweg wel op. Daar hebben ze vijftig jaar geleden ook miljarden   bij elkaar gebracht om een mens op de maan te zetten - terwijl vooraf totaal onduidelijk  was of dat zou lukken."
+Weer een vorsende blik. "'Een grote stap voor de mensheid'  is die mens op de maan genoemd. Maar quantumcomputers zullen een veel grotere revolutie teweegbrengen." Want?
+"Neem wijn. Dezelfde druivenstokken op dezelfde bodem geven  het ene jaar  andere wijn dan het andere jaar. Waarom? Zelfs die simpele vraag  -  wijn bestaat uit water, alcohol en maar een paar andere stofjes - kunnen we niet  beantwoorden. Met een quantumcomputer komen zulke én  complexere problemen wel binnen bereik. We zullen ineens veel meer begrijpen van de materialen die ons leven bepalen: in ons lichaam, in voedsel, in elektronica, noem maar op. En we zullen veel gerichter nieuwe materialen kunnen ontwerpen: voor medicijnen, om energie op te wekken..."
+Lachje. "Dus: het is  een groot ding, maar dan heb je  ook  wat."
+Wat bracht Kouwenhoven ertoe om te gaan werken aan die majorana's, die hem terug het lab in dreven en die  hem van een scepticus in een optimist veranderden? En die hij een paar jaar geleden  naar eigen zeggen "alleen  van naam" kende.
+"Een sabbatical in New York in 2009", zegt hij. In een half jaar bezocht hij vanuit die stad ruim dertig onderzoeksinstituten  in de VS en besprak daar de laatste ontwikkelingen in zijn vak. Waaronder  dus   recepten om majorana's te maken.
+U ging doelbewust inspiratie op doen?
+"Nou, het was mijn vrouw." Droog lachje. "Zij wilde  naar New York en dat paste  mooi bij  een Amerikaans project waarvoor ik toch al die instituten moest bezoeken."
+Zo ontmoette  u   Michael Freedman...
+"Ja, hij is  mijn held geworden. Heb je hem wel eens gezien?" Kouwenhoven schuift  op zijn iPhone een foto van drie mannen  tevoorschijn, bij een boot op het strand. "Michael  staat in het midden. Een echte nerd. Zie je? Hij heeft zijn blouse scheef dichtgeknoopt."
+Freedman won eerder een Fieldsmedaille, de Nobelprijs voor de wiskunde.  Hij werkt aan de Universiteit van Californië  in Santa Barbara  bij een onderzoeksinstituut van computerbedrijf Microsoft. Aan de  topologie  van quantumcomputers.
+Kouwenhoven: "Freedman was mijn lijntje naar de top van Microsoft.   Hij bracht me in contact  met de CEO's van dat bedrijf. Tijdens een strandwandeling   hebben we daarna met een handdruk een contract bezegeld."
+Hoeveel geld Kouwenhoven van Microsoft kreeg om de majorana's  te maken mag hij niet zeggen. Wel dat hem  nu weer zo'n bedrag is toegezegd. En na de ontdekking van de majorana's werd hij op het hoofdkantoor van Microsoft in Redmond (Washington) onthaald op een 'majoranataart'.
+Ze waren blij...
+"De CEO's van grote bedrijven in de VS zijn sowieso veel meer geïnteresseerd in onderzoek en  veel beter  op de hoogte. Ze vliegen naar je lab toe, in hun gewone kleren, en nemen een paar uur de tijd om je experimenten te bekijken.
+"In Nederland is dat zo anders. De CEO's van Philips en DSM zijn mannen met stropdassen die ergens belangrijke dingen doen. Ik ben er nog nooit een tegengekomen."
+Sterker, zijn onderzoek in Delft valt  buiten alle  topsectoren, zegt Kouwenhoven. Terwijl het topsectorenbeleid in principe de samenwerking tussen bedrijven en wetenschappers moet bevorderen.  "Maar mijn werk is te fundamenteel."
+Dus als er straks een Amerikaan een miljard op tafel legt voor het bouwen van zo'n quantumcomputer...
+"Als ik er  een rol in kan spelen, dan doe ik  mee." Lacht weer droogjes. "Zeker als die loods dan bij New York komt te staan, of bij San Francisco... Maar eigenlijk wil ik niet weg en ik wil de keuzes in mijn leven zeker niet laten bepalen door  de politiek."
+Bovendien, het onderzoek in zijn vakgebied mag dan wereldwijd een  "explosie" hebben doorgemaakt, hijzelf heeft eerst nog wat  in Delft te doen:  het gekke gedrag van de majorana's  vastleggen.
+"Dezelfde druivenstokken op dezelfde bodem geven  het ene jaar andere wijn dan het andere jaar. Waarom? Met een quantumcomputer komen deze  vragen binnen bereik" Leo Kouwenhoven
+Leo Kouwenhoven (1963) is universiteitshoogleraar in Delft. Op het Kavli Institute of Nanoscience (gefinancierd door de stichting van de Amerikaanse filantroop Fred Kavli) werkt hij  in de Quantum Transport Group. Op het terras in Delft nam Kouwenhoven een extra sterke latte, een sinaasappelsap en een broodje carpaccio. Hij is getrouwd met Marleen Huysman, hoogleraar bedrijfskunde,  en heeft twee zonen (13 en 17 jaar).
+Möbiusring kun je verfrommelen en verbuigen maar hij verandert niet
+Een Möbiusring (links) kun je binnenstebuiten proberen te keren of verfrommelen (midden), maar hij behoudt zijn vorm (rechts). Ook informatie die je toekent aan de ring blijft  behouden.
+Een toplogische quantumcomputer op basis van majoranadeeltjes werkt volgens een vergelijkbaar  principe. Telkens twee majorana's zijn daarin zozeer met elkaar verweven dat hun gezamenlijke quantumtoestand hetzelfde blijft, ook al verschuif je het paar, druk je het in elkaar of buig je het. Ook de informatie die in de gezamenlijk quantumtoestand van het paar besloten ligt blijft zo behouden.
+Dat maakt een topologische quantumcomputer veel  robuuster dan andere typen quantumcomputers waarin informatie juist gemakkelijk weg lekt.
+Het voordeel ten opzichte van bestaande computers is dat zo'n majoranapaar (eigenlijk dus één computerbit) niet simpelweg een '1'  representeert of een '0'. De quantumtoestand van het paar kan tegelijk '0' en '1' zijn en van alles daartussen. Daardoor kan zo'n quantumcomputer zeer complexe  informatie verwerken. De computer   'breit'  daarbij volgens ingewikkelde regels (de zogeheten niet-Abelse statistiek) met majoranaparen.
+Graphic
+
+ 
+Leo Kouwenhoven in zijn werkkamer in de TU Delft: "De aandacht voor majoranadeeltjes was een hype. Sommige dingen waren leuk, andere dingen een beetje beschamend." 
+Foto Leo van Velzen
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Physics (67%); Educational Institution Employees (64%); Superconductors (63%)
+Industry: Computing + Information Technology (94%)
+Load-Date: June 22, 2012
+
+End of Document
+Wereldraadsel oplossen in ijskoude kerk
+
+Wereldraadsel oplossen in ijskoude kerk
+
+Page 2 of 8
+
+Page 2 of 8
+
+
+
+
+

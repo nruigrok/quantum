@@ -1,0 +1,44 @@
+Majorana's betrapt in rijtje atomen; Quantumtoestand
+NRC Handelsblad
+4 oktober 2014 zaterdag
+Copyright 2014 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 50
+Length: 861 words
+Byline: Door Margriet van der Heijden
+Body
+
+Natuurkunde Opnieuw heeft een experiment aanwijzingen opgeleverd voor het bestaan van majoranadeeltjes. 
+'Een glimp van een ongrijpbaar deeltje', kopte het persbericht van Science deze week. Concreter: het majorana-deeltje is weer opgedoken. Eerder, in 2012, dook het op in Delft. Dit keer verscheen het, onder iets andere omstandigheden, in Princeton. 
+,,De nieuwe vondst vult het eerdere resultaat in Delft aan", zegt de eerste auteur van het Science-artikel, Stevan Nadj-Perge. ,,Samen vormen de resultaten een krachtige aanwijzing voor majoranadeeltjes." 
+Het bestaan van die raadselachtige deeltjes werd in 1937 voorspeld door de Italiaanse fysicus Ettore Majorana die kort daarna spoorloos verdween. 'Zijn' majoranadeeltjes kenmerken zich door het feit dat ze tegelijkertijd hun eigen antideeltje zijn - en ontzettend 'hard-to-get'. Wat ze daarnaast aantrekkelijk maakt, is dat majoranadeeltjes, op papier in elk geval, de bouwsteentjes kunnen zijn van supersnelle quantumcomputers van de toekomst. 
+Feitelijk gaat het in geen van deze twee experimenten om een echt 'deeltje'. In beide gevallen draait het om een quantumtoestand, om een samenspel tussen honderden elektronen die zich collectief gedragen als zo'n majoranadeeltje. En in beide gevallen wordt die toestand opgewekt in nanostructuurtjes van goed gekozen materialen met unieke elektrische en magnetische eigenschappen. 
+Majorana's betrapt in rijtje atomen; Quantumtoestand
+,,Het verschil zit in de manier waarop wij in Princeton de ingrediënten gecombineerd hebben", zegt Nadj-Perge. Hij kan het weten want voordat hij naar Princeton ging, werkte hij met de Delftse Leo Kouwenhoven aan de structuur waarin de majorana's voor het eerst opdoken. 
+Destijds in Delft werd het majorana 'gemaakt' in een ragfijn nanodraadje van halfgeleidermateriaal dat tussen een stukje goud en een supergeleider was gespannen. In Princeton werd een kettinkje van ijzeratomen opgedampt op een stukje supergeleidend lood. Monnikenwerk was dat, want het draadje moest overal precies een enkel atoom dik zijn. 
+Zo ontstond, op nog kleinere schaal dan eerder in Delft, een 'spoorlijntje' met daarin een treintje van elektronen. Beter gezegd: een treintje van een heleboel elektronen en een lege plek, een 'gat'. En daarin zit de crux. Zo'n gat heeft eigenschappen die precies tegengesteld zijn aan die van een elektron: waar het elektron bijvoorbeeld een negatieve elektrische lading heeft, heeft het gat juist effectief een positieve lading. 
+De theorie voorspelt verder dat zo'n gat altijd aan het uiteinde van het draadje zit. Aan het linkeruiteinde of aan het rechteruiteinde dus, zou je in de gewone wereld zeggen. Maar in de quantumwereld op deze nanoschalen liggen de zaken net even anders: het gat zit links en rechts tegelijk. Net zoals er aan beide uiteinden tegelijk een elektron zit. Of anders: aan beide uiteinden zit iets dat half gat en half elektron is. Nog anders: half elektron en half zijn eigen tegenhanger. Ofwel: een 'deeltje' dat zichzelf en zijn eigen antideeltje is: een majorana dus. 
+Het mooie is dat het atomaire kettinkje met een speciale microscoop, een scanning tunneling microscoop, afgetast kon worden. Daardoor kon nu, in tegenstelling tot eerder in Delft, het majorana precies gelokaliseerd worden. En inderdaad, het bevond zich aan de uiteinden van het kettinkje, zoals verwacht. Daar werd een toestand met energie 'nul' (energie plus 'anti-energie') gemeten. ,,Het hele experiment was ook met dit oogmerk ontworpen", zegt Nadj-Perge, ,,waarbij we geput hebben uit ideeën van theoretici uit Princeton en van de Leidse hoogleraar Carlo Beenakker." 
+Toch is het definitieve bewijs voor majorana's ook nu nog niet geleverd. Weer iets sterker dan voorheen is duidelijk dat een quantumtoestand gemaakt is die ,,walks, talks and smells like a majorana", zoals Kouwenhoven graag zegt. Maar het bewijs is pas rond als meer van die deeltjes tegelijk gemaakt worden en als die zich dan in een 'spoorwegennet' inderdaad gedragen als majorana's. 
+Dat zal nog jaren duren, schat Nadj-Perge. Zelf is hij intussen terug in Delft. Niet om daar zijn oude werk weer op te pakken, maar om met Kouwenhoven op een derde manier majorana's te maken: in minuscule tweedimensionale velletjes. Daarvan zou je in principe gemakkelijker circuitjes kunnen maken waarin je met majorana's kunt rekenen in 
+Page 2 of 3
+Majorana's betrapt in rijtje atomen; Quantumtoestand
+een quantumcomputer (elk majorana is dan een bit dat tegelijk '0' en '1' is). ,,En intussen is met dit nieuwe resultaat weer een mijlpaal bereikt." 
+Existentiële vraag  Is het majoranadeeltje een deeltje of niet? 
+De meeste mensen stellen zich bij een deeltje een minuscuul knikkertje voor. Maar het majoranadeeltje, waarvan Delft en Princeton een glimp oppikten, bestaat uit het samenspel van heel veel elektronen en een gat (een ontbrekend elektron). Is het dan wel een deeltje? 
+In de wereld van het kleinste regeert de quantummechanica die deeltjes ook als golven beschrijft. Raadsel is nog dat beide zienswijzen - knikkers en golven - een deel van de essentie van een deeltje vangen, terwijl geen van beiden het volledig beschrijft. Hoe dan ook: een majorana uit zo'n samenspel gehoorzaamt aan de quantumregels die voor deeltjes gelden - een deeltje dus, zeggen veel fysici. 
+Graphic
+
+ 
+Een kettinkje van ijzeratomen leverde aanwijzingen voor het bestaan van een majorana aan de uiteinden. Dat bleek uit metingen met een scanning tunneling microscoop.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Superconductors (94%); Physics (77%); Nanotechnology (68%)
+Industry: Computing + Information Technology (90%)
+Load-Date: October 3, 2014
+
+End of Document
+Page 3 of 3

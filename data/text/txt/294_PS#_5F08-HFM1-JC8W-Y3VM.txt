@@ -1,0 +1,36 @@
+Absoluut veilige creditcard dankzij verf met nanodeeltjes
+Trouw
+3 januari 2015 zaterdag
+Copyright 2015 De Persgroep Nederland BV All Rights Reserved
+
+Section: Economie; Blz. 17
+Length: 615 words
+Body
+
+Bankpassen 
+Onderzoekers van Universiteit Twente en Technische Universiteit Eindhoven werken aan onkraakbare bankpassen 
+JOOST MOREL 
+Een bankpas of een creditcard die onmogelijk te kraken is door criminelen? Nee, dat is geen utopie, zegt een groep Nederlandse wetenschappers. De onderzoekers van Universiteit Twente (UT) en de Technische Universiteit Eindhoven (TU/e) hebben een technologie ontwikkeld, gebaseerd op de ingewikkelde kwantumfysica, waardoor de eigenschappen van de pas niet nagebootst of gekopieerd kunnen worden. Zelfs niet als kwaadwillenden over alle informatie beschikken. 
+Technici proberen criminelen constant een stap voor te zijn. Vandaar dat de skimgevoelige magneetstrips op bankpassen zijn vervangen door een chip met een kleine microprocessor en een geheime code. Deze bankpas staat bekend als de smartcard. Maar ook deze valt te kopiëren en hackers weten de code te achterhalen. Autodieven zijn al in staat om auto's te stelen door de digitale deurvergrendeling te manipuleren. Daarvoor hebben ze geen kopie van de sleutel nodig. De criminelen kunnen met een laptop, het 'vraag-antwoord-spel' dat het slot met de sleutel speelt, imiteren. 
+Het team van wetenschappers heeft hun fraudebestendige methode Quantum-Secure Authentication genoemd. De technologie maakt gebruik van het bijzondere kwantumfysische gegeven dat lichtdeeltjes (fotonen) zich tegelijkertijd op meerdere 
+Absoluut veilige creditcard dankzij verf met nanodeeltjes
+plekken kunnen bevinden. Dit gegeven staat aan de basis van de kwantumfysica: de leer van zeer kleine, voor het blote oog onzichtbare, nanodeeltjes waaruit de wereld bestaat. "Maar ondanks de complexe theorie is de methode goedkoop en makkelijk toepasbaar", zegt hoogleraar Pepijn Pinkse die het onderzoek leidde. 
+De pas wordt voorzien van een flinterdunne laag witte verf waar miljoenen nanodeeltjes in zitten. Als een lichtdeeltje in de verf wordt gestuurd zal het als een balletje in een flipperkast tussen de nanodeeltjes heen en weer stuiteren tot het ontsnapt. De bedoeling is dat banken en andere organisaties bij een transactie een bepaald patroon van lichtdeeltjes (de 'vraag') op de pasjes projecteren. Deze informatie wordt als het ware door de kwantumeigenschappen van fotonen gecodeerd. Daarna registreert een uitleesapparaat het patroon van ontsnappende lichtdeeltjes (het 'antwoord'). Alleen als dit stipjespatroon klopt, keurt de bank het pasje goed. Pinkse: "De manier waarop de vragen door de kaart in antwoorden worden veranderd, is uniek. Dat is niet na te maken." 
+Volgens Pinkse kan de technologie worden ingezet om toegangssystemen voor gebouwen, bankpassen, creditcards, identiteitsbewijzen en auto's te beveiligen. Daarnaast is het een goedkope en eenvoudige technologie waarvan alle benodigde onderdelen al beschikbaar zijn. Een druppel verf kost niets en is eenvoudig aan te brengen. En de uitleesapparatuur bestaat uit een simpele laser, zoals ook in een cdspeler zit, een beeldsensor en een beeldvormende chip die ook in moderne beamers wordt gebruikt. Of de technologie ook daadwerkelijk op korte termijn in gebruik wordt genomen en commercieel haalbaar is? Aan zo'n uitspraak durft Pinkse zich nog niet te wagen. 
+"Wij zijn in zijn algemeenheid heel geïnteresseerd in technologische ontwikkelingen", zegt een woordvoerder van De Nederlandsche Bank. "We kijken altijd met een open blik naar nieuwe systemen die de beveiliging van betalingspassen verbeteren." 
+Het onderzoek werd eerder gepubliceerd in het wetenschappelijke vakblad Optica van The Optical Society. De Nederlandse technologiestichting STW maakte daarna bekend dat hoogleraar Pinkse en zijn onderzoeksteam een opstartsubsidie krijgen om de technologie op de markt te brengen. 
+Bekijk de oorspronkelijke pagina: pagina 17
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Page 2 of 3
+Absoluut veilige creditcard dankzij verf met nanodeeltjes
+Journal Code: Trouw
+Subject: Nanotechnology (94%); Educational Institution Employees (74%)
+Industry: Computing + Information Technology (84%); Computer Equipment (82%); 
+Computer + Electronics Mfg (70%); Banking, Lending + Credit Services (63%)
+Load-Date: January 2, 2015
+
+End of Document
+Page 3 of 3

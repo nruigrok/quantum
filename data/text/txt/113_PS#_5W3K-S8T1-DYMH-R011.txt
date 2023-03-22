@@ -1,0 +1,67 @@
+Met nanohekjes bouw je stabiele qubits
+NRC Handelsblad
+13 mei 2019 maandag
+Copyright 2019 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 16
+Length: 1174 words
+Byline: Dorine Schenk
+Dateline: Eindhoven 
+Body
+
+ABSTRACT
+Interview           Sasa Gazibegovic           Promovendus technische natuurkunde  Nanodraadjes 	kunnen 	majorana-quasideeltjes 	vormen: 	bouwstenen 	van quantumcomputers met ongeëvenaarde rekenkracht.
+VOLLEDIGE TEKST:
+         Vier nanodraadjes in de vorm van een hekje (#), sterk vergroot, sieren de kaft van het proefschrift van Sasa Gazibegovic. Op 10 mei promoveerde zij aan de TU Eindhoven op het maken van deze nanohekjes die in werkelijkheid iets meer dan een vierkante micrometer groot zijn. Met de minuscule bouwwerkjes kunnen majorana-quasideeltjes gemaakt worden. Die deeltjes kunnen de bouwstenen worden van quantumcomputers met ongeëvenaarde rekenkracht. Quantumcomputers rekenen niet met klassieke bits, die een één of een nul voorstellen, maar met 'qubits'. Qubits zijn dankzij hun quantummechanische eigenschappen gedeeltelijk  één en gedeeltelijk nul, waardoor je meerdere berekeningen tegelijkertijd kan uitvoeren. Dat maakt quantumcomputers veel sneller dan de huidige computers.
+Om zo'n quantumcomputer te maken heb je stabiele qubits nodig. Er zijn verschillende manieren om qubits te maken: van een elektron, een atoomkern, een diamant waarin een atoom en gaten in het diamantrooster samen een qubit vormen. Of met majoranaquasideeltjes dus.
+In 2012 publiceerden de onderzoeksgroepen van Leo Kouwenhoven van de TU Delft en Erik Bakkers van de TU Eindhoven voor het eerst over de mogelijke vondst van majorana-quasideeltjes. Door verder onderzoek, waaronder met de nanodraadjes gemaakt door Gazibegovic, werd het steeds waarschijnlijker dat er majorana's kunnen ontstaan. Kouwenhoven en Bakkers, bij wie Gazibegovic promoveerde, werken sinds die vondst aan een quantumcomputer op basis van majorana-quasideeltjes.
+         Wat maakt majorana-quasideeltjes tot geschikte bouwstenen voor een quantumcomputer?       
+,,De meeste qubits zijn kwetsbaar. De kleinste temperatuurverandering, trilling of 
+magnetisch veld verwoest hun bijzondere quantumeigenschappen. Majorana-
+quasideeltjes zijn minder verstoringsgevoelig, omdat ze geen losse deeltjes zijn, maar gebonden zijn aan nanodraadjes."
+         Wat zijn majoranadeeltjes?       
+,,De deeltjes, die in 1937 door Ettore Majorana voorspeld werden, zijn hun eigen antideeltje. Ze hebben een bijzondere eigenschap. Als je twee majoranadeeltjes van plek laat wisselen, verander je het systeem meetbaar. Die eigenschap hebben gewone deeltjes niet. Zo'n wissel is nog niet uitgevoerd met de quasideeltjes in onze nanostructuren. Als dat lukt, is dat bewijs dat het echt majorana's zijn."
+         Wat maakt een majoranadeeltje een quasideeltje?       
+,,De deeltjes die Majorana beschreef waren losse deeltjes, zoals elektronen. Die zijn nog nooit waargenomen. Zo'n vijftien jaar geleden zagen onderzoekers in materialen gedrag dat lijkt op wat Majorana voorspelde. Geen los deeltje, maar een verschijnsel dat ontstaat door het collectieve gedrag van deeltjes in het materiaal. Vergelijk het met een golf op de zee. Schijnbare deeltjes die zo ontstaan heten quasideeltjes.
+,,De majorana-quasideeltjes ontstaan aan de uiteinden van de nanodraadjes die we maken. Ze  bewegen niet vrij door het materiaal."
+         Wat voor materiaal is ervoor nodig?       
+,,In 2011 gaven onderzoekers de ingrediënten voor het maken van majoranaquasideeltjes. Als een soort recept voor een cake. Daarin beschrijven ze dat je nanodraadjes nodig hebt die duizend keer dunner zijn dan een haar, met daarop een laagje supergeleidend materiaal. De nanodraadjes moeten bestaan uit een materiaal waarin de elektronen snel en vrij kunnen bewegen. In het artikel worden ook de benodigde omstandigheden beschreven, zoals een magnetisch veld langs het draadje en een elektrische stroom door het draadje. Er zijn verschillende materialen die aan de eigenschappen voldoen. Wij gebruiken nanodraadjes van indiumantimonide met een aluminium supergeleidend laagje erop."
+         Waar in dat nanodraadje ontstaan de majorana-quasideeltjes?       
+,,Als je het draadje afkoelt tot ruim  -273°C, dan worden het aluminium en het stukje draad daaronder supergeleidend. Dat betekent dat stroom er weerstandsloos doorheen kan bewegen. Dit gedrag ontstaat doordat de elektronen in het materiaal tweetallen vormen. In het supergeleidende deel van de draad vormen de elektronen paren en in het halfgeleidende gedeelte bewegen ze alleen. Op de overgang bungelt er  aan de uiteinden van het supergeleidende laagje aluminium een helft van een elektronpaar. Dat halve paar gedraagt zich als majorana-quasideeltje."
+         Dat zagen de onderzoekers in 2012?       
+,,Ze zagen iets wat er erg op leek, maar de meting was zwak. Om te achterhalen waarom dat zo was, sneden we in Eindhoven de gebruikte nanodraadjes doormidden."
+Gazibegovic tekent een zeshoek met strakke, rechte lijnen op een notitiepapiertje. ,,Zo wil je dat de doorsnee eruitziet. Een nanodraadje groeit als een kristal en heeft daardoor een zeshoekige doorsnee. Op enkele zijden wordt supergeleidend materiaal aangebracht. Dat is nodig om majorana-quasideeltjes te maken."
+Nu tekent ze een zeshoek met rommelige lijnen. ,,Dit zagen we. Het oppervlak tussen het draadje en de supergeleider was ruw en beschadigd waardoor het contact met de supergeleider niet goed was. Dat kwam doordat de draadjes vervoerd en schoongemaakt waren voordat er supergeleidend materiaal op aangebracht werd."
+         Hoe hebben jullie de nanodraadjes verbeterd?       
+,,Samen met onderzoekers uit Delft en uit Santa Barbara in de VS heb ik de productiemethode van de draadjes veranderd om een glad oppervlak te krijgen. We ontwikkelden een ondergrond waarop je nanodraden in de gewenste richting laat groeien, zodat we ze niet hoefden te verplaatsen. Op die ondergrond kunnen we ze zo laten groeien dat ze elkaar bijvoorbeeld kruisen. Zo maakte ik draden en hekjes. De hekjes zijn nodig om quasideeltjes van plek te laten wisselen om aan te tonen dat het majorana's zijn.
+,,Ook kun je draadjes zo laten groeien dat ze een schaduw werpen op het draadje erachter. Als je er dan het supergeleidende aluminiumlaagje op spuit, bereikt dat de schaduwplekken  erachter niet. Zo kiezen we welke delen van de draadjes we bedekken met aluminium. Die nanodraadjes en hekjes plaatste ik op chips die naar Delft gaan. Daar zullen ze proberen om quasideeltjes van plek te laten wisselen. Voor het vervoer plaatsen we de draadjes met ondergrond en al in een bakje kleverige gel.
+,,Majorana's lopen nog achter op andere qubits. Het maken van nanodraadjes vergt veel werk. Voor een quantumcomputer moeten we de productie  opschalen. Als dat lukt en als de quasideeltjes werkende majorana's zijn, dan hebben we stabiele  qubits. Dan  is het naar mijn idee mogelijk om er over tien jaar een kleine quantumcomputer mee te bouwen."
+           Loopbaan  Twee keer Nature
+Sasa Gazibegovicc (1990) studeerde in Bosnië en Herzegovina en deed haar afstudeeronderzoek in Eindhoven, waar ze ook promoveerde, bij de afdeling Advanced Nanomaterials & Devices. Haar onderzoek leidde tot twee publicaties in Nature. 
+Link naar PDF
+Graphic
+
+ 
+Sasa Gazibegovic: ,,Quasideeltjes kun je vergelijken met een golf op de zee."
+Foto Merlin Daleman
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Superconductors (95%); Nanotechnology (75%)
+Industry: Manufacturing (75%); Computing + Information Technology (65%)
+Load-Date: May 13, 2019
+
+End of Document
+Met nanohekjes bouw je stabiele qubits
+
+Met nanohekjes bouw je stabiele qubits
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

@@ -1,0 +1,56 @@
+Zwaartekrachtgolfdetector kan 40.000 keer kleiner; Quantummechanica; Met een piepklein apparaatje zou je ook zwaartekrachtgolven kunnen meten wetenschap 
+NRC Handelsblad
+28 juli 2020 dinsdag
+Copyright 2020 NRC Media B.V. All Rights Reserved
+
+Section: ECONOMIE; Blz. 1
+Length: 790 words
+Byline: Dorine Schenk
+Dateline: Amsterdam 
+Body
+
+ABSTRACT
+Quantummechanica
+Detectoren die zwaartekrachtgolven meten zijn nu kilometers lang. Een apparaatje dat in je hand past kan het misschien ook, denken fysici.
+VOLLEDIGE TEKST:
+De eerste geobserveerde zwaartekrachtgolf, afkomstig van de samensmelting van twee zwarte gaten die de ruimtetijd deden trillen, werd in 2015 opgevangen door Amerikaanse LIGO-detectoren van elk vier kilometer lang. Deze gigantische apparaten zijn nodig om deze minuscule trillingen, van een tienduizendste van de grootte van een atoomkern, te meten. Fysici van de Rijksuniversiteit Groningen, University College London en Warwick University denken dat dit kleiner kan. In het New Journal of Physics stellen ze een 'draagbare' zwaartekrachtgolfdetector voor die vierduizend keer kleiner is dan de LIGOdetectoren.
+Dit apparaatje kan nu nog niet gebouwd worden, maar over enkele decennia wel. Het gebruikt een quantummechanisch verschijnsel om zwaartekrachtgolven te detecteren. Dit is niet eenvoudig. Er zijn talloze uitdagingen om de techniek werkend te krijgen. Het systeem is extreem gevoelig. En zelfs een voorbij vliegende vlinder kan de meting verstoren.
+In grote lijnen kijkt het bedachte quantumapparaatje, genaamd Mimac (Mesoscopic Interference for Metric and Curvature), naar hetzelfde als LIGO: de gevolgen die samentrekkingen en uitrekkingen van de ruimtetijd door een passerende zwaartekrachtgolf hebben op twee deeltjes of (licht)golven die een bepaald pad afleggen.
+Bij LIGO wordt gemeten met twee tunnels van vier kilometer in een L-vorm waar bundels laserlicht doorheen bewegen. De lichtbundels ontmoeten elkaar in de hoek van de L. De lichtgolven van de twee bundels zijn zo uitgekozen dat ze elkaar daar precies uitdoven als ze exact dezelfde afstand afleggen. De golftoppen van de ene lichtbundel overlappen dan met de dalen van de andere. Als er een zwaartekrachtgolf langskomt dan krimpt het ene pad iets in terwijl het andere pad iets oprekt. Hierdoor leggen de golven niet meer dezelfde afstand af en doven ze elkaar niet uit. Zo wordt het minieme effect van zwaartekrachtgolven zichtbaar.
+Het quantumapparaatje zal ook kijken naar golven die elkaar uitdoven als ze hetzelfde pad afleggen. Het gebruikt geen lasers, maar een diamantje van tien biljoenste milligram. ,,Voor quantummechanische begrippen is dat een gigantische massa", vertelt hoogleraar Steven Hoekstra, van de Rijksuniversiteit Groningen.
+Dit diamantje is atomair zo aangepast dat het in een quantummechanische superpositie gebracht kan worden. Dat betekent dat het in twee toestanden tegelijkertijd kan zijn, zoals het gedachtenexperiment met Schrödingers kat die tegelijkertijd levend en dood is. Dergelijke diamantjes worden ook gebruikt voor quantum-computeronderzoek.
+,,Een van de twee toestanden van het diamantje is magnetisch en de andere niet", vertelt Hoekstra. Met behulp van een niet homogeen magneetveld kunnen de onderzoekers de quantumtoestanden één meter bij elkaar vandaan trekken. Na ongeveer een seconde laat je de toestanden weer bij elkaar komen.
+,,Quantumtoestanden kun je zien als golven", zegt Hoekstra. Het experiment wordt zo ingesteld dat de magnetische toestand zichzelf uitdooft en de niet magnetische toestand versterkt als ze weer bij elkaar komen. Als je het diamantje meet, detecteer je dus enkel de niet magnetische toestand. Als een zwaartekrachtgolf passeert, dan wordt de superpositie van het diamantje aangetast waardoor de toestanden zichzelf niet meer keurig uitdoven en versterken. Daardoor detecteer je ineens de magnetische toestand. 
+Zo verraadt de magnetische toestand van het diamantje het passeren van een zwaartekrachtgolf.
+Technisch is dit experiment enorm lastig te realiseren omdat zelfs de kleinste omgevingsfactoren de kwetsbare superpositie kunnen verwoesten. Hoekstra: ,,Je hebt extreem lage temperaturen nodig, rond de minus 273 °C, omdat warmtetrillingen de toestand kunnen verstoren. Dat kan ook gebeuren als er een molecuul uit de lucht tegen het diamantje botst, dus er is een goed vacuüm nodig."
+Op dit moment is het technisch niet haalbaar. Hoekstra: ,,Maar ik zie geen onoverkomelijke obstakels." Tenzij die nog opduiken, denken de onderzoekers dat het experiment over twintig tot dertig jaar mogelijk is.
+,,Het idee is zeer innovatief en als de MIMAC-groep erin slaagt om superpositie te handhaven over een afstand van één meter, dan is dat uitermate indrukwekkend. Op dit moment is dat al lastig op een miljoenste van een meter", zegt Jo van den Brand, hoogleraar aan de Universiteit Maastricht en betrokken bij onderzoek met Italiaanse Virgo-zwaartekrachtgolfdetectoren. ,,Ik hoop dat ze erin slagen het principe aan te tonen."
+Quantumtoestanden kun je zien als golven Steven Hoekstra hoogleraar
+Link naar PDF
+Link naar PDF
+Graphic
+
+ 
+De LIGO-detector bij Livingston in Louisiana meet trillingen van een tienduizendste van de grootte van een atoomkern.
+Foto Caltech/MIT/LIGO Lab
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Superconductors (94%); Physics (92%)
+Industry: Computing + Information Technology (90%)
+Load-Date: July 28, 2020
+
+End of Document
+Zwaartekrachtgolfdetector kan 40.000 keer kleiner; Quantummechanica Met een piepklein apparaatje zou je ook zwaartekrachtgolven kunnen meten wetenschap 
+
+Zwaartekrachtgolfdetector kan 40.000 keer kleiner; Quantummechanica Met een piepklein apparaatje zou je ook zwaartekrachtgolven kunnen meten wetenschap 
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

@@ -1,0 +1,32 @@
+Duizenden jaren oude delfstof is kandidaat voor zuinige elektronica
+NRC Handelsblad
+11 juni 2011 zaterdag
+Copyright 2011 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap
+Length: 380 words
+Byline: Margriet van der Heijden
+Body
+
+Cinnaber wordt al meer dan tweeduizend jaar gedolven. De Romeinen gebruikten cinnaber, ofwel kwiksulfide (HgS), om er kwik uit te winnen of als kleurstof. In de Middeleeuwen werd de roodbruine kleurstof 'vermiljoen' genoemd. Hoogleraar Jeroen van den Brink van het IFW-instituut voor materiaalonderzoek in Dresden en  Franse collega's kennen het kwiksulfide nu op grond van  berekeningen een heel nieuwe eigenschap toe: het oppervlak ervan kan elektrische stroom vrijwel weerstandloos geleiden, zeggen zij  (Phys. Rev. Letters, 10 juni). Dat maakt het tot een kandidaat voor energiezuinige elektronica.
+De theoretisch fysici rekenden aan een variant van cinnaber, metacinnaberiet, die in de Verenigde Staten wordt gedolven. In het grijze metacinnaberiet zijn de zwavel- en kwikatomen in een  iets andere kristalstructuur gerangschikt. Daardoor is het materiaal een 'topologische isolator', schrijven de fysici.
+Zulke topologische isolatoren zijn hot in de fysica. Hun kristalstructuur verhindert elektrische stromen in hun binnenste, maar laat die wel vrijelijk over  het oppervlak lopen.
+Metacinnaberiet onderscheidt zich nog eens extra van de ongeveer tien andere kandidaten voor topologische isolatoren doordat de stroom een karakteristiek patroon volgt: het oppervlak verandert  in een 'meerbaanssnelweg' waarop het de elektronen niet is toegestaan om  van baan te verwisselen. Alsof het oppervlak  bestaat uit parallelle stroomdraadjes die elk moeiteloos elektronen geleiden.
+Duizenden jaren oude delfstof is kandidaat voor zuinige elektronica
+Daaraan ligt een exotische quantumeigenschap ten grondslag, ontdekten de fysici. Elektronen zijn op te vatten als minuscule magneetjes en in metacinnaberiet is de richting waarin zo'n magneetje wijst (de 'spin', meestal aangeduid met 'op' en 'neer') gekoppeld aan de richting waarin het  elektron reist. Dat verbiedt verstrooiing en het bijbehorende energieverlies: verstrooiing zou tot een verandering van richting leiden, maar dat is niet toegestaan want dan klopt  de  'spin' niet meer met de nieuwe richting.
+Omdat energieverlies zo wordt beperkt, zou  metacinnaberiet een veelbelovende kandidaat zijn voor energiezuinige transistoren, sensoren en magnetische geheugens. Al moet de praktijk uitwijzen of het  metacinnaberiet zuiver genoeg  gemaakt kan worden: onzuiverheden verstoren het patroon al snel.
+Graphic
+
+ 
+Een brokje glanzend grijs metacinnaberiet. 
+IFW Dresden
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Superconductors (94%)
+Load-Date: June 10, 2011
+
+End of Document
+Page 2 of 2

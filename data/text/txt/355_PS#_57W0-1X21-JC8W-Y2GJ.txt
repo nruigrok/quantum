@@ -1,0 +1,57 @@
+Licht uit leegte 
+de Volkskrant
+2 maart 2013 zaterdag
+Copyright 2013 PCM Uitgevers B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 5
+Length: 1066 words
+Byline: MARTIJN VAN CALMTHOUT
+Body
+
+Natuurkunde: Casimir-effect revisited
+Volgens de quantumtheorie bruist de lege ruimte van de activiteit. Finse wetenschappers trekken met een truc lichtenergie los uit de leegte. Denken ze.
+Oud-Philips-directeur en voormalig president van de Akademie van Wetenschappen, Hendrik B.G. Casimir (1909-2000) zou er als fysicus van genoten hebben, de blijvende aandacht voor 'zijn' effect. Kort na de oorlog beschreef hij hoe je zou kunnen meten dat de lege ruimte volgens de quantumwetten niet leeg is, maar een bruisende chaos van deeltjes die kortstondig opduiken en meteen weer verdwijnen. 
+Het quantumgewoel komt voort uit de beroemde onzekerheid van Heisenberg. Die zegt dat energie en tijdspanne altijd met een bepaalde onzekerheid omgeven zijn. Maar wel in een vaste verhouding: is de onzekerheid in de energie van een deeltje klein, dan is die in de tijdmeting groot. En omgekeerd: in een heel korte tijdspanne is de onzekerheid in de energie relatief groot. Waardoor zelfs in een lege ruimte energie kan opduiken, zolang het maar extreem kort is. Zo kort, dat fysici spreken van virtuele deeltjes die je in werkelijkheid nooit zult zien. 
+Maar wel indirect voelen. Casimir liet, op papier en samen met collega Dick Polder, in 1947 en 1948 zien dat tussen twee plaatjes metaal op nanometerafstand een luwte in het quantumgewoel ontstaat, een soort onderdruk die resulteert in een lichte aantrekking. En nu, een mensenleven later, is er niet alleen een kleine maar bloeiende gemeenschap van experimentatoren die jagen op dat befaamde Casimir-effect; ze worstelen zelfs nadrukkelijk met elkaars vaak uiterst subtiele resultaten. 
+Nieuwste loot aan de stam is een experiment aan de Aalto-universiteit in de Finse hoofdstad Helsinki, waar post-doc Pasi Lähteenmäki net een fijnzinnige variant van het Casimir-effect heeft waargenomen. Bij dat zogeheten dynamische Casimir-effect wordt niet zozeer de quantumkracht gemeten tussen plaatjes op een paar nanometer afstand, maar het effect van een spiegel die versneld door een vacuüm beweegt. Daarbij, aldus de Finnen in een artikel in het tijdschrift PNAS van vorige week, worden bij de juiste omstandigheden paren lichtdeeltjes bevrijd uit de greep van de quantumwetten. Ze maken licht uit het niets, letterlijk. 
+Althans: licht maken is een groot woord, waarschuwt Lähteenmäki over al te overspannen interpretaties bij de buitenwacht. 'Wat we in feite doen is energie in het vacuüm pompen waardoor je virtuele deeltjes de kans geeft te ontsnappen. We maken niet echt energie uit niets. Dat kan niemand.' 
+Bijzonder aan de experimenten in Helsinki is niet zozeer de uitkomst. Dat een bewegende spiegel in de lege ruimte licht kan vrijmaken, was een paar jaar geleden al aangetoond. Maar de methode waarmee de Finnen dat doen, is bijzonder, zegt bijvoorbeeld de Utrechtse theoretische fysicus Henk Stoof, zelf zeer actief in het doorgronden van de lege ruimte. 
+Stoof: 'Het werkelijk meten van dit dynamische Casimir-effect is altijd een uitdaging, omdat je mechanische bewegingen op nanoschaal moet maken. Er zijn verschillende groepen die het proberen, en er is steevast fikse discussie over wat ze in werkelijkheid zien.' 
+Iets soortgelijks zegt de Groningse fysisch-chemicus George Palasantzas, een specialist in Casimir-effecten in moleculaire systemen en oppervlakken. 'In 2011 hebben we op een conferentie in Padua letterlijk gestemd over de vraag of we dergelijke waarnemingen van het dynamische Casimir-effect moesten geloven of niet. Er zijn heel veel lastige onzekerheden. Het is echt een moeilijk ding.'
+Trilholte
+Bij de Finse proeven beweegt er gek genoeg niets. In plaats daarvan spelen de experimentatoren met de fundamentele eigenschappen van een zogeheten trilholte, een cilinder met spiegeltjes aan de uiteinden. Daarin kunnen lichtdeeltjes eindeloos heen en weer zoeven. In principe gebeurt dat met de lichtsnelheid. Maar door een slim stelsel van supergeleidende magnetische schakelingen is de lichtsnelheid in de holte te manipuleren, waardoor het voor een inkomend lichtdeeltje de afstand naar een spiegel verandert. Op papier, zegt Lähteenmäki, komt dat op hetzelfde neer als een bewegende spiegel. 
+En in werkelijkheid ook, zo lijken de metingen in Helsinki uit te wijzen. In de Finse trilholte ontstaat een kenmerkend zwaluwstaartpatroon van lichtdeeltjes die aan een van de spiegels ontspringt. Dat, zegt de onderzoeker vanaf zijn ziekbed in Helsinki --niets ergs hoor, een griepje-- is een sterkte aanwijzing dat er paren lichtdeeltjes ontstaan, zodra de bewegingen van de spiegel genoeg energie leveren om ze aan het vacuüm te ontrukken.
+Verstrengeld
+Zulke lichtdeeltjes uit niets, zegt in Utrecht Henk Stoof, zijn vooral interessant omdat ze in hun diepste eigenschappen verstrengeld zijn omdat ze uit dezelfde bron stammen. Die verstrengeling blijft volgens de quantumtheorie intact, ongeacht de onderlinge afstand; als de ene partner iets overkomt, bepaalt dat ook het lot van de ander. Zulke verstrengelde fotonenparen worden nu al gebruikt in de quantumcryptografie, waarmee sleutels van geheimtalen via glasvezels worden verstuurd. Afluisteren kan niet - dat vernietigt direct het signaal. Het ontbreken van mechanische bewegingen maakt een bron betrouwbaarder, schat Stoof. 
+En er is nog een fundamenteler belangstelling voor de slimme Finse bron van fotonen uit lege ruimte denkbaar, meent Lähteenmäki. Die zou kunnen komen uit de hoek van de kosmologie, waar de zogeheten Hawking-straling van zwarte gaten wordt bestudeerd. 
+Zwarte gaten laten door hun extreme zwaartekracht in principe zelfs geen licht los. Maar volgens een beroemde hypothese van Stephen Hawking komt er toch straling vanaf, doordat aan de rand van het zwarte gat uit de lege ruimte paren fotonen ontstaan waarvan er één ontsnapt en de ander in het gat verdwijnt. 'Zoiets zou je graag in het lab nabootsen', zegt de Finse onderzoeker.
+HENDRIK CASIMIR (1909-2000) was lang de levende verbintenis van de Nederlandse fysica met grootheden als Ehrenfest, Einstein en Bohr. Geboren in Den Haag studeerde hij als 16-jarige al natuurkunde in Leiden en promoveerde hij op 21-jarige leeftijd. In 1942 kwam hij in dienst van Philips, waar hij na de oorlog tot in de jaren zeventig leiding gaf aan het eigen onderzoek. Van 1973 tot 1978 was Casimir de eerste president van de Koninklijke Nederlandse Akademie van Wetenschappen.
+Bij de Finse proeven beweegt er gek genoeg niets
+Graphic
+
+ 
+Illustratie Raymond van der Meij
+Hendrik Casimir
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Superconductors (94%); Physics (75%); Lasers (68%); Nuclear Science (65%); 
+Educational Institution Employees (63%); Astronomy + Space (62%)
+Industry: Computing + Information Technology (80%); Manufacturing (68%)
+Load-Date: March 1, 2013
+
+End of Document
+Licht uit leegte
+
+Licht uit leegte
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

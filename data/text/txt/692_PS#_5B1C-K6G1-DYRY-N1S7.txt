@@ -1,0 +1,33 @@
+Erg veel geld voor slome computer
+NRC.NEXT
+7 december 2013 zaterdag
+Copyright 2013 NRC Media B.V. All Rights Reserved
+
+Section: Weten
+Length: 332 words
+Byline: Gerard Janssen
+Body
+
+Het Canadese bedrijf D-Wave Systems beweert de eerste commerciële kwantumcomputer te verkopen: de D-Wave 2, zo groot als een slaapkamer. Google en Lockheed Martin kochten er elk één voor 15 miljoen dollar (11 miljoen euro). Maar een Zwitserse natuurkundige ontmaskerde het apparaat. Het rekent niet sneller dan een laptop. 
+Een kwantumcomputer werkt met qubits die 0 en 1 tegelijk kunnen zijn, wat in speciale gevallen grote snelheidswinst kan geven. De DWave 2 zou volgens de makers voor ,,sommige problemen" 3.600 keer sneller zijn dan een klassieke computer. De D-Wave 2 is een grote zwarte doos, met zijvlakken van 10 vierkante meter. Daarbinnen een koelkast, met daarin weer een chip, met 512 supergeleidende qubits, die niet warmer mogen worden dan een paar milli-Kelvin. Hoe de chip werkt is geheim.   
+De Zwitserse theoretisch natuurkundige Matthias Troyer, die ook als adviseur voor Microsoft werkt, voerde met hulp van Google en Lockheed experimenten uit op de DWave 2 en vergeleek die met simulaties die hij draaide op ouderwetse digitale computers. Troyer presenteerde zijn resultaten vorige week bij de TU Delft. Een statistische analyse liet zien dat de D-Wave 2 wel degelijk gebruik lijkt te maken van kwantumeffecten. Maar ook liet hij zien dat de D-Wave bij Troyers experimenten niet sneller was dan een laptop die een D-Wave 2 simuleert.  
+De D-Wave 2 is dus een knap technologisch kunststukje dat gebruik maakt van kwantumeffecten, maar de claims van de makers zijn sterk overdreven. ,,De machine is misschien een kwantummachine, maar hij is niet sneller dan een klassieke computer."  
+Erg veel geld voor slome computer
+D-Wave Systems lijkt vooral sluw gebruik te maken van de magie rond de 'kwantumcomputer' om een systeem van 15 miljoen dollar te verkopen dat niet veel meer kan dan een slim geprogrammeerde laptop. ,,In theorie is het nog steeds mogelijk dat de opvolgers van de D-Wave 2 iets kunnen wat interessant is voor Google", zegt Troyer, ,,maar ik denk niet dat ze straks de D-Wave 3 zullen kopen." 
+Graphic
+
+ 
+Met ingebouwde koelkast. 
+FOTO MAE RYAN 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: nrc.next
+Subject: Physics (81%)
+Industry: Computing + Information Technology (94%); Computer Equipment (82%); 
+Personal Computers (73%); Computer + Electronics Mfg (68%)
+Load-Date: December 10, 2013
+
+End of Document
+Page 2 of 2

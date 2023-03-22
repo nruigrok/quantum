@@ -1,0 +1,55 @@
+De robot als 'menselijk' gevaar
+AD/Algemeen Dagblad
+27 juni 2020 zaterdag
+Copyright 2020 DPG Media B.V. All Rights Reserved
+
+Section: Centraal Z; Blz. 10, 11
+Length: 982 words
+Byline: HANS VAN ZON
+Highlight: Kunstmatige intelligentie verandert de wereld. Filosoof Stefan Buijsman brengt pluspunten en valkuilen in beeld: ,,De gevaren zijn menselijk. We kunnen er altijd iets aan doen.''
+Body
+
+Kunstmatige intelligentie heeftveel valkuilen
+Helder schrijven over moeilijke onderwerpen. Dat is Stefan Buijsman wel toevertrouwd. In zijn boek Plussen en minnen liet hij al zien welke rol de wiskunde speelt in ons leven. Nu is de kunstmatige intelligentie aan de beurt in AI: Alsmaar intelligenter (Uitgeverij De Bezige Bij). 
+Net als met de wiskunde wordt de mens omringd door kunstmatige intelligentie. De voorbeelden zijn legio en aansprekend. Zij wordt gebruikt voor gezichtsherkenning, voor de ontwikkeling van zelfrijdende auto's. Zonder kunstmatige intelligentie geen Tindermatches, algoritmisch nepnieuws. ,,Eén ding is duidelijk: kunstmatige intelligentie is de wereld aan het veranderen'', aldus Buijsman. ,,En zoals met iedere fundamenteel nieuwe technologie is het lang niet altijd duidelijk wat het effect daarvan is.'' 
+Onduidelijkheid schept wantrouwen en roept veel vragen op. Wat moeten we met computers die opeens veel meer kunnen dan ooit voor mogelijk werd gehouden? Nemen zij straks veel banen over? Ontwikkelen ze een eigen taal die we niet begrijpen? Of erger nog, vormen computers een existentiële dreiging voor de mensheid?
+Longkanker
+Als de toekomst doorspekt zal zijn met kunstmatige intelligentie en er zoveel risico's zijn, waarom gaan we dan toch door met de ontwikkeling ervan? Stefan Buijsman, in 1995 geboren in Leiden en werkzaam als onderzoeker bij het Institute for Futures Studies, heeft daar een duidelijk antwoord op: ,,Kunstmatige intelligentie kan ons leven ook enorm verbeteren. Zij wordt steeds nuttiger.'' In AI: Alsmaar intelligenter schudt de filosoof de voorbeelden moeiteloos uit zijn mouw. Computers sporen longkanker nauwkeuriger op dan radiologen. Mensen die niet kunnen lezen, verdienen toch geld dankzij spraakherkenning. Sociale netwerken geven gegevens van suïcidale gebruikers door aan hulpdiensten en we kunnen er bijvoorbeeld neushoorns mee beschermen. Dankzij kunstmatige intelligentie kunnen stropers worden gevolgd op basis van bewegingen van gazelles en antilopen. 
+Nu het zo hard gaat met kunstmatige intelligentie is het volgens Buijsman zaak om er wel grip op te krijgen en te houden. Om een goed beeld te krijgen van de voor- en de nadelen en te kunnen ingrijpen als het fout gaat. Daarvoor kijkt hij allereerst 'onder de motorkap van de computer'. Laptops en mobiele telefoons werken op elektriciteit en in chips, 'het levensbloed en de slagaders van de kunstmatige intelligentie', aldus de filosoof. De nieuwste generatie, de kwantumcomputer, maakt geen gebruik meer van stroom maar van elektronen, atoomkernen of lichtdeeltjes. Omdat zij supersnel zijn en een ongekend aantal toepassingen bieden worden zij de motor van de kunstmatige intelligentie. 
+Waar schuilen de gevaren? Om te beginnen zijn de 'neurale netwerken', het soort kunstmatige intelligentie dat de werking van onze hersenen nabootst en met algoritmes bijvoorbeeld de zelfrijdende auto mogelijk maakt, vooral heel goed in 'normale' situaties. ,,Wijkt een beeld te veel af van wat de computer eerder heeft gezien, dan gebeuren er gekke dingen'', aldus Buijsman. Als bijvoorbeeld het beeld van een brandweerwagen of een scooter wordt gedraaid, dan verandert de eerste voor de computer in een boot, de tweede in een parachute. Objecten waarvoor de auto overigens ook zal stoppen. Dat doet hij niet voor een stopbord waarop stickers zijn geplakt. Dan snapt hij niet meer dat je moet stoppen. Zolang deze fouten bestaan, is de écht zelfrijdende auto nog ver weg, concludeert hij. 
+Neurale netwerken worden ook toegepast in onze taal. Zij sturen Google Translate aan, chatbots. Met handicaps. Zo zal bij spraakherkenning standaard Engels veel beter worden herkend dan Engels met een Schotse tongval. Neurale netwerken kunnen nepnieuws produceren. In gezichtsherkenning zijn ze niet onfeilbaar. Buijsman geeft een aansprekend voorbeeld: de actrice Reese Witherspoon wordt normaal correct herkend maar zodra zij een speciaal gekleurde bril opzet, herkent de computer haar als de acteur Russell Crowe. Omdat er een hoop algoritmes, data worden gebruikt bestaat ook altijd het gevaar van discriminatie, seksisme en racisme. Amazon gaf zijn poging om de sollicitatieprocedure te automatiseren op omdat de computer vooral mannen, nauwelijks vrouwen eruit pikte. Een programma om te bepalen welke mensen extra aandacht krijgen vanwege hun complexe gezondheidsklachten, werkte sterk in het nadeel van zwarte patiënten. 
+En wat te denken van beeldmanipulatie? Een neuraal netwerk sleutelt beter aan een foto dan ooit zou lukken met Photoshop. Er kunnen filmpjes worden gemaakt waarin nepbeelden naadloos aansluiten op echte beelden. Zo kun je Barack Obama iets laten zeggen dat hij zou verafschuwen. Gelukkig, aldus Buijsman, is er een tegengif: andere neurale netwerken om manipulatie op te sporen.
+Zuurstof
+Daar tegenover staan, aldus Buijsman, vele redenen om door te willen gaan met kunstmatige intelligentie. Zo kunnen we bijvoorbeeld over enkele jaren in zee met kleine robots plankton, dat twee derde van onze zuurstof produceert, in de gaten houden. ,,Met kunstmatige intelligentie kunnen we patronen herkennen die we zelf over het hoofd zouden zien of die onmogelijk veel tijd zouden vergen. Een computer is constant alert'', voegt Buijsman eraan toe. 
+Privacyzorgen noemt hij volledig terecht: ,,Een gebrek eraan kan op veel manieren misbruikt worden.'' Met gezichtsherkenning kan de bevolking worden bespied, zoals gebeurt in China. ,,Maar'', zo besluit de filosoof in AI: Alsmaar intelligenter, ,,uiteindelijk zijn de gevaren van kunstmatige intelligentie menselijk. En daar kunnen we altijd iets aan doen. Zij brengt enorme voordelen met zich mee. Met een beter beeld en bewustzijn van kunstmatige intelligentie ga ik met vertrouwen de toekomst tegemoet.''
+'Kunstmatige intelligentie kan ons leven ook enorm verbeteren'
+Bekijk de oorspronkelijke pagina: pagina 10, pagina 11
+Graphic
+
+ 
+Een robotarm zet stukken klaar op een speelbord voor een potje tegen een professionele shogispeler (Japans schaken). De robotarm met ki won.
+Toepassing van een coronatest in een kantoorgebouw in het Chinese Shenzhen.
+Gezichtsherkenningsapparatuur in China.
+Stefan Buijsman ziet de toekomst met KI met vertrouwen tegemoet.
+Het boek van Buijsman beloooft 'een kijkje achter de beeldschermen.'
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Artificial Intelligence (94%); Computer Science (94%); Software Services + Applications (64%)
+Industry: Autonomous Vehicles (82%); Mobile Applications (64%)
+Load-Date: June 26, 2020
+
+End of Document
+De robot als 'menselijk' gevaar
+
+De robot als 'menselijk' gevaar
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

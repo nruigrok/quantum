@@ -1,0 +1,33 @@
+Computer met grote toekomst
+NRC Handelsblad
+30 juli 2015 donderdag
+Copyright 2015 NRC Media B.V. All Rights Reserved
+
+Section: Binnenland
+Length: 566 words
+Byline: Door onze redacteur Marcel aan de Brugh
+Body
+
+Universiteit Alles wat wij doen is openbaar, zegt collega aan TU Delft. 
+Amsterdam. Lieven Vandersypen is quantumfysicus en hoogleraar aan de TU Delft. Hij runt er een van de vier labs die werken aan quantumcomputing. ,,Nederland is wereldwijd leidend op dit gebied", zegt Vandersypen. 
+De quantumcomputer bestaat nog niet, maar heeft grote beloftes in zich. Hij zal complexe problemen kunnen kraken die huidige computers in de verste verte niet aankunnen. Dat zei de internationaal vermaarde quantumfysicus Leo Kouwenhoven eerder tegen deze krant. Hij is collega van Vandersypen en runt een van die andere vier labs. ,,We zullen ineens veel meer begrijpen van de materialen die ons leven bepalen: in ons lichaam, in voedsel, in elektronica [...]. En we zullen veel gerichter nieuwe materialen kunnen ontwerpen: voor medicijnen, om energie op te wekken." 
+Aangezien Nederland in dit veld mee voorop loopt, trekt het internationaal de aandacht. De TU Delft werkt bijvoorbeeld nauw samen met Microsoft.  Er is ook andere belangstelling. Op eerdere congressen over quantumcomputing, onder andere in Amsterdam, hebben zich mensen van de Amerikaanse veiligheidsdienst NSA vertoond. 
+Vandersypen zegt dat er op zijn lab niks geheims gebeurt. ,,We nodigen concurrenten uit", zegt hij. Onderzoekers van andere groepen lopen een week mee. ,,En nee, we screenen die mensen van te voren niet." Hij vraagt zich af wat er gespioneerd zou moeten worden. Alles wordt gepubliceerd. En dan is het openbaar.  
+Computer met grote toekomst
+Het zwaartepunt van het Nederlandse onderzoek ligt in Delft. Vorige maand kreeg QuTech, het instituut waarin de vier Delftse labs zijn verenigd, 135 miljoen subsidie, samen met enkele groepen van TNO. ,,Dat is exceptioneel veel", zegt Vandersypen. Hij verwacht dat het aantal werknemers, nu zo'n honderd, kan verdubbelen. 
+Maar behalve in Delft wordt er op veel meer plekken in Nederland onderzoek gedaan in relatie tot quantumcomputing. In Groningen, Leiden, Amsterdam. En in Eindhoven, waar de vermeende Russische spion Ivan A. werkte. Hij stond daar onder supervisie van hoogleraar Andrea Fiore. Over de spionagezaak wil die niks zeggen. Wel dat hij fundamenteel onderzoek doet aan het gedrag van afzonderlijke lichtdeeltjes, fotonen. Het uiteindelijke doel is om quantumcomputers onderling informatie te laten uitwisselen via fotonen. ,,Maar dat is verre toekomst", zegt Fiore.  
+Naar verwachting zal de quantumcomputer veel huidige technologie grondig veranderen. Zo worden betalingen op internet nu nog beveiligd met sleutels die werken met reuzengetallen - een normale computer zal die nooit kunnen kraken. Maar de quantumcomputer wel. Zodra deze 'supercomputer' klaar is, zijn alle beveiligingssleutels in één klap onbetrouwbaar geworden. Met de quantumcomputer kunnen ook boodschappen worden verstuurd die niet zijn af te luisteren.  
+Quantumcomputers werken niet met bits die 1 zijn of 0, zoals gewone computers. Maar ze gaan uit van zogeheten 'qubits', deeltjes die tegelijk 0 en 1 zijn. Ze verkeren in hun eentje in twee toestanden tegelijk. En als zulke 'qubits' aan elkaar worden gekoppeld, ontstaat een systeem dat gelijktijdig in nog véél meer toestanden kan verkeren: in alle mogelijke combinaties van de beschikbare nullen en enen. Probleem is dat deze quantumdeeltjes instabiel zijn, en zich extreem grillig gedragen. Veel onderzoek is er daarom op gericht controle te krijgen over hun gedrag. 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Educational Institution Employees (90%)
+Industry: Computing + Information Technology (95%)
+Page 2 of 3
+Computer met grote toekomst
+Load-Date: July 30, 2015
+
+End of Document
+Page 3 of 3

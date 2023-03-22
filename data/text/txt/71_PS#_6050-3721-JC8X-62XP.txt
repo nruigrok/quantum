@@ -1,0 +1,41 @@
+China zet 'grote stap' naar quantuminternet
+de Volkskrant
+17 juni 2020 woensdag
+Copyright 2020 DPG Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 29
+Length: 619 words
+Byline: GEORGE VAN HAL
+Highlight: Chinese natuurkundigen slagen erin om een onkraakbare verbinding te leggen tussen twee steden, zo'n 1.120 kilometer uit elkaar.
+Body
+
+Niet eerder heeft een praktisch bruikbare versie van het toekomstig quantuminternet zo'n grote afstand overbrugd. De Chinese steden Nanshan en Delingha, zo'n 1.120 kilometer van elkaar verwijderd, werden onderling verbonden met de hulp van een satelliet én de tegendraadse wetten van de quantumfysica. Die natuurkundetheorie beschrijft het gedrag van de wereld op de kleinst denkbare schaal, de schaal van deeltjes, de fundamentele bouwstenen waaruit alles om ons heen bestaat. 
+Hoofdrol bij het Chinese experiment speelt het foton, het lichtdeeltje dat je terugvindt in alles van de diffuse waas van een sfeerlamp tot de krachtige lichtstralen van verre sterren. Splits één zo'n foton in tweeën - met behulp van een kristal - en de wetten van de quantumfysica stellen dat de twee nieuwe fotonen op bijna magische wijze met elkaar verbonden blijven - verstrengeld zijn, heet dat in vakjargon. Doe vervolgens een meting aan één deel van dat verstrengelde paar, en je weet ook direct iets over zijn partner. Zelfs als je ze fysiek kilometers of lichtjaren uit elkaar haalt. 
+Die truc gebruikte een onderzoeksgroep onder leiding van fysicus Jian-Wei Pan (University of Science and Technology of China) ook bij het nieuwe experiment, schrijven ze in het huidige nummer van het vakblad Nature. De fysici verdeelden zo'n verstrengeld fotonpaar, gemaakt in de Micius-satelliet die ze in 2016 lanceerden, over de grondstations in Nanshan en Delingha. De quantumverbinding tussen die deeltjes kon men vervolgens gebruiken om een zogeheten 'sleutel' te versturen, een geheim stukje informatie waarmee een verzender een bericht versleutelt en de ontvanger dat bericht kan lezen. 
+China zet 'grote stap' naar quantuminternet
+Zo'n verbinding is bovendien praktisch onkraakbaar. Verstrengeling is namelijk zó gevoelig voor invloed van buitenaf âˆ' zoals iemand die wil afluisteren âˆ' dat de verbinding bij het minste of geringste kapot gaat. Wanneer het lukt om via de verstrengeling een sleutel te versturen, weet je dus zeker dat niemand stiekem heeft meegekeken.
+Quantumcomputers
+'Dit is een grote stap voorwaarts', zegt fysicus Wolfgang Tittel, verbonden aan quantuminformatie-instituut QuTech in Delft. In een vorig expertiment had deze zelfde groep de verbinding al gelegd, zegt hij, maar was de verstrengeling nog onvoldoende betrouwbaar voor quantumversleuteling. 'Ze hebben hun technologie flink verbeterd. Dit helpt ons verder op weg naar een toekomstig quantuminternet.' 
+Zo'n toekomstig internet kan straks niet alleen sleutels versturen, maar ook quantumcomputers met elkaar verbinden. Techgiganten zoals Microsoft en Google zijn momenteel verwikkeld in een race om die eerste quantumcomputers te bouwen. Zulke computers zijn voor bepaalde toepassingen op papier veel sneller dan gewone computers.
+Overdrachtssnelheid
+Volgens Tittel is de technologie van Pan en collega's ook geschikt om zulke computers te verbinden. 'Maar dat vereist nog wel wat upgrades', zegt hij. Ook kan de overdrachtssnelheid van quantuminformatie nog wel wat hoger. Sleutels worden nu verzonden met enkele tientallen bits per seconde. Met meer satellieten en een handiger opgezet netwerk, kan men dat in de toekomst verhogen, denkt Tittel. 
+Zelf werken hij en zijn collega's bij QuTech overigens niet aan quantuminternetverbindingen per satelliet, maar over glasvezelkabels. 'Die kabels lopen nu al elk huis in. Dat is wel zo praktisch. Bovendien heb je dan geen last van verstoring van het signaal als het bewolkt is of regent', zegt hij. 'Maar uiteindelijk heb je al deze technologieën nodig. Net zoals het gewone internet zowel via de kabel als door de lucht loopt, zal het quantuminternet dat straks ook doen.'
+Zo'n verbinding is praktisch onkraakbaar
+Bekijk de oorspronkelijke pagina: pagina 29
+Graphic
+
+Page 2 of 3
+China zet 'grote stap' naar quantuminternet
+ 
+Verbinding tussen de Micius-satelliet en de aarde bij het Xinglong-station.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Internet Social Networking (67%)
+Industry: Computing + Information Technology (94%); Internet + Www (74%); 
+Telecommunications (67%)
+Load-Date: June 16, 2020
+
+End of Document
+Page 3 of 3

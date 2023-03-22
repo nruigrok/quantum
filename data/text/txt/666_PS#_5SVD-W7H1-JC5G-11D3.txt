@@ -1,0 +1,33 @@
+Atomen scherper in beeld
+NRC Handelsblad 
+21 July 2018 zaterdag
+Copyright 2018 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 8
+Length: 545 words Byline: Dorine Schenk Dateline: Amsterdam. 
+Body
+
+ABSTRACT
+Elektronenmicroscoop We konden individuele atomen al zien, maar nieuwe techniek geeft nu heel scherpe plaatjes.
+Een nieuwe elektronenmicroscopie-techniek maakt superscherpe plaatjes van atoomstructuren in materialen. De techniek, genaamd electron microscopepixel-array detector (EMPAD), haalt een hogere resolutie dan andere elektronenmicroscopen, die ook al individuele atomen konden onderscheiden. De Amerikaanse onderzoekers die de methode ontwikkelden, laten bovendien zien dat de nieuwe microscoop minder beschadigende elektronen gebruikt. Hun resultaten verschenen woensdag in Nature.
+De EMPAD haalt een resolutie van 0,39 ångström (een ångström is een tienmiljoenste van een millimeter). De meeste atomen hebben een diameter van enkele ångström. Met deze nieuwe elektronenmicroscopen kunnen bijvoorbeeld kwetsbare structuren in elektronica en biologische materialen in meer detail bestudeerd worden, mailt David Muller, hoogleraar technische natuurkunde aan de Cornell University in de VS.
+Een elektronenmicroscoop gebruikt een bundel elektronen, in plaats van licht, om een voorwerp in beeld te brengen. Dat kan doordat elektronen zich, net als licht, als een golf kunnen gedragen of als een deeltje. Dat is een van de basisprincipes van de 
+Atomen scherper in beeld
+quantummechanica. De golflengte van een versneld elektron is een stuk kleiner dan die van het zichtbare licht. Zichtbaar licht heeft een golflengte tussen de 380 en 780 nanometer (een nanometer is een miljoenste van een millimeter). Structuren die kleiner zijn dan 380 nanometer zie je daardoor niet met een optische microscoop.
+De resolutie van een elektronenmicroscoop is afhankelijk van de golflengte van de elektronen. Hoe kleiner de golflengte, hoe beter de resolutie. Door elektronen meer energie te geven wordt hun golflengte kleiner. Maar als je ze te veel energie geeft, kunnen de supersnelle elektronen het materiaal dat je wilt bekijken beschadigen. Voor kwetsbare, dunne materialen is de energie van de elektronen uit de microscoop daarom beperkt tot 20-80 keV. De elektronen reizen dan met enkele (tientallen) procenten van de lichtsnelheid. De maximaal haalbare resolutie voor kwetsbare materialen is daardoor ongeveer één ångström.
+De nieuwe techniek heeft een ruim twee keer betere resolutie. De onderzoekers kregen dit voor elkaar door een bundel elektronen door een materiaal te laten schijnen. De elektronen worden in het materiaal afgebogen door de aanwezige atomen. Door te meten hoe de elektronen precies afgebogen worden, kunnen de onderzoekers de atoomstructuur van het materiaal reconstrueren. 
+De EMPAD verschilt van andere elektronenmicroscopen doordat er geen elektronenlenzen worden gebruikt om de bundel te focussen. Daarnaast keken de onderzoekers naar een bepaald kenmerk van de elektronen (de fase), die verandert als elektronengolven door een materiaal bewegen. Met die informatie konden ze naast de resolutie ook het contrast van de afbeeldingen verbeteren. 
+Door deze verbeteringen maakt de EMPAD betere afbeeldingen terwijl er juist minder elektronen met een lagere snelheid gebruikt worden. ,,We kunnen de resolutie nog verder verbeteren door elektronen met meer energie te gebruiken", mailt Muller. ,,Omdat we minder elektronen gebruiken, blijft het risico op beschadigingen laag."  
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Superconductors (94%); Nanotechnology (65%)
+Page 2 of 3
+Atomen scherper in beeld
+Industry: Manufacturing (69%)
+Load-Date: July 20, 2018
+
+End of Document
+Page 3 of 3

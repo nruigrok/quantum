@@ -1,0 +1,36 @@
+Verstrengelde lichtdeeltjes vestigen nieuw record
+NRC Handelsblad 
+20 June 2017 dinsdag
+Copyright 2017 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 16
+Length: 397 words
+Byline: Bruno van Wayenburg Dateline: Amsterdam. 
+Body
+
+ABSTRACT
+Natuurkunde
+Chinese fysici hebben quantumverstrengeling aangetoond over een recordafstand van 1.200 kilometer. 
+De Chinese satelliet Micius heeft paren van quantumverstrengelde lichtdeeltjes gemaakt met een onderlinge afstand van 1.203 kilometer - een enorme verbetering van het vorige record van 143 kilometer.
+Quantumverstrengeling houdt in dat een meting aan deeltje A onmiddellijk de uitkomsten van metingen aan deeltje B beïnvloedt, zelfs al zit er  ruim 1.200 kilometer tussen.
+Aan boord van de Micius is een laser met optische apparatuur die paren van infrarode lichtdeeltjes produceert en in twee bundels naar de aarde stuurt. Die lichtdeeltjes, melden de onderzoekers nu, zijn aantoonbaar 'quantumverstrengeld'.
+Deze 'spookachtige afstandswerking' was voor Albert Einstein ooit reden om te twijfelen aan de theorie van de quantummechanica. Maar experimenten, onder andere aan de TU Delft in 2015, hebben laten zien dat quantumverstrengeling, hoe spookachtig ook, gewoon bestaat. Het heeft zelfs toepassingen: niet-afluisterbare communicatie. 
+Verstrengelde lichtdeeltjes vestigen nieuw record
+Geheime boodschappen kunnen gecodeerd worden met een 'encryptiesleutel', een lange reeks enen en nullen. Alleen als de ontvanger de sleutel ook heeft, kan ze de boodschap ontcijferen.
+Quantumverstrengeling biedt een manier om deze sleutel samen af te spreken, zonder dat die stiekem door derden afgeluisterd kan worden. Dat gaat zo: beide partijen ontvangen een reeks verstrengelde fotonen, bijvoorbeeld van Micius. Ze doen beiden metingen die - vanwege de verstrengeling - exact tegenovergestelde waarden opleveren, waaruit dus beiden de sleutel kunnen afleiden. 
+Wanneer iemand die fotonen onderschept en metingen aan de fotonen uitvoert, heft hij daarmee de verstrengeling op. Zo detecteren de communicerende partijen meteen dat zij afgeluisterd worden.  
+Micius, genoemd naar de Oud-Chinese filosoof Mozi of Micius, werd op 16 augustus vorig jaar gelanceerd aan boord van een Lange Mars-2-raket vanuit de Gobi-woestijn. Met deze geslaagde eerste quantumcommunicatieproef in de ruimte, beschreven in Science (16 juni), neemt China een voorsprong in een gebied met militaire en financiële toepassingen, dat ook interessant is voor inlichtingendiensten. 
+Recordhouder 	lange-afstands-quantumverstrengelen 	was 	de 	Europese ruimtevaartorganisatie ESA, met quantumverstrengeling tussen  de eilanden Tenerife en La Palma, over 143 kilometer. 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Standards + Measurements (78%); Spacecraft (67%); Educational Institution Employees (62%)
+Industry: Space Industry (94%); Telecommunications (92%); Computing + Information Technology (89%)
+Load-Date: June 20, 2017
+Page 2 of 3
+Verstrengelde lichtdeeltjes vestigen nieuw record
+
+End of Document
+Page 3 of 3

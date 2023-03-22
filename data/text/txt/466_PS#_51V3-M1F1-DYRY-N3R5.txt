@@ -1,0 +1,33 @@
+Zeer koude computer; stille trends
+NRC.NEXT
+31 december 2010 vrijdag
+Copyright 2010 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 13
+Length: 352 words
+Byline: elsje jorritsma
+Body
+
+SAMENVATTING
+nrc.next vroeg negen kenners naar de belangrijkste onopgemerkte ontwikkeling van de afgelopen tien jaar. Natuurkundige Barbara Terhal over de quantumcomputer.
+VOLLEDIGE TEKST:
+De afgelopen tien, vijftien jaar wordt driftig onderzoek gedaan naar de quantumcomputer: een apparaat dat complexe rekenproblemen oplost door middel van de quantummechanica. Hoe een apparaat dat zou moeten doen, begrijpt maar een vrij beperkt aantal mensen ter wereld en laat zich hier dus niet goed uitleggen. Maar volgens hoogleraar theoretische natuurkunde Barbara Terhal kent de ontwikkeling in potentie allerlei praktische toepassingen. ,,In potentie, want dit is echt zeer fundamenteel wetenschappelijk onderzoek."  Dat vindt ze leuk.  ,,Onderzoek dat uit puur wetenschappelijke nieuwsgierigheid wordt gedaan, kan op den duur praktische toepassingen krijgen." Ze vergelijkt het met laser, die je kan zien als rechtstreeks resultaat van onderzoek in de quantummechanica. En lasers zie je overal: in cdspelers, bij de kassa, als je van je bril af wilt.
+Het idee van de quantumcomputer kreeg vorm toen Peter Shor halverwege de jaren negentig een algoritme opschreef voor het efficiënt vinden van priemfactoren van zeer grote getallen. Daar is veel interesse voor omdat moderne encryptiemethoden gebaseerd zijn op het idee dat het moeilijk is om die priemfactoren te vinden. En het versleutelen van informatie gebeurt overal, vaak ter bescherming van grote belangen. 
+Maar om dat algoritme toe te passen, heb je dus een quantumcomputer nodig.
+Zeer koude computer; stille trends
+Er zijn nogal wat problemen te overwinnen voordat zo'n ding gebouwd kan worden. Een daarvan is dat het meeste quantumcomputer onderzoek wordt uitgevoerd bij temperaturen dicht bij het absolute nulpunt van nul Kelvin, - 273 graden Celsius. Een computer die zo koud moet zijn is groot, energie-inefficiënt en moeilijk aan te sluiten op systemen die wél op kamertemperatuur draaien.
+Barbara Terhal is nieuwsgierig naar de mogelijkheden. Een quantumcomputer kan gebruikt worden voor fundamenteel onderzoek naar bijvoorbeeld supergeleidend materiaal, of complexe moleculen voor medicijnen.
+Notes
+
+Barbara Terhal is hoogleraar theoretische natuurkunde  aan de Rheinisch Westfälische Technische Hochschule (RWTH) in Aken.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: nrc.next
+Subject: Physics (64%)
+Industry: Computing + Information Technology (94%)
+Load-Date: December 30, 2010
+
+End of Document
+Page 2 of 2

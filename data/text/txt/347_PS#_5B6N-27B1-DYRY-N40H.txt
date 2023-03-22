@@ -1,0 +1,63 @@
+Een werkelijkheid brouwen
+de Volkskrant
+4 januari 2014 zaterdag
+Copyright 2014 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap; Blz. 6
+Length: 1319 words
+Byline: MARTIJN VAN CALMTHOUT
+Body
+
+Natuurkunde: simulatie werpt licht op duizelingwekkende vragen 
+Een Nijmeegse fysicus bouwt in de computer universa met kleine, aan elkaar klittende bouwsteentjes ruimte en tijd. 
+In de vijftien jaar dat ze er nu mee bezig is, heeft theoretisch fysicus Renate Loll er duizenden van gemaakt: speelgoed-universumpjes. Niet met sterren en planeten erin, laat staan met nieuwsgierige natuurkundigen. Wel met de belangrijkste ingrediënten van een universum als het onze: ruimte en tijd. 
+De vierdimensionale ruimtetijd waarin we volgens Einstein en zijn navolgers echt leven, is er nog vrijwel niet bij, tot nog toe. Niettemin zijn Lolls resultaten hoopgevend. De dag is niet ver meer weg dat ze onze eigen realiteit in haar laptop ziet opdoemen, daarvan is ze vast overtuigd. 
+Eind vorig jaar kreeg de Nijmeegse hoogleraar theoretische natuurkunde (voorheen in de groep van Gerard 't Hooft in Utrecht) een grote subsidie van FOM voor haar simulaties van ruimte en tijd zelf. Dat geld, zegt ze deze middag in haar stille, opgeruimde werkkamer in het Huygensgebouw, is vooral bestemd voor het aantrekken van nieuwe mensen. 'Wat we nodig hebben is slimme ideeën over het bouwen met 
+ruimte en tijd.' 
+Want ruimte en tijd zijn een probleem. Volgens Einsteins relativiteitstheorie leven we in een vierdimensionaal geheel van ruimtetijd, waarin alles zijn weg zoekt. Massa vervormt die ruimtetijd, zodat planeten rond sterren cirkelen omdat ze op de rand van een denkbeeldige deuk rollen die de zware ster in zijn omgeving maakt. Wat wij zwaartekracht noemen, is in feite een vervorming van ruimtetijd. 
+Maar dat is het idee op grote schalen en afstanden. Op de allerkleinste schalen beheerst de quantumtheorie de deeltjeswereld in het universum. Energie, banen, krachten: niets is op het kleinste niveau vast omlijnd, alles is vaag en verbrokkeld tot pakketjes van energie: de quanta. 
+En terwijl de zwaartekracht zo zwak is dat hij tussen de minieme massa's van de deeltjes geen rol speelt, is wel een reële vraag wat de ruimtetijd op die schaal doet: is de ruimtetijd tussen de deeltjes nog steeds glad en vloeiend, zoals Einstein het zich voorstelt? Of hebben ruimte en tijd op kleine schaal zelf ook quantumeigenschappen, en vormen ze misschien wel een bruisend en borrelend geheel? 
+Bij het beantwoorden van die duizelingwekkende vragen bewandelen Loll en een kleine groep collega's sinds vijftien jaar een eigen, unieke weg. Terwijl andere theoretici zich stortten op ingewikkelde veeldimensionale snaartjes en vliezen, om zwaartekrachtachtige effecten in de deeltjesnatuurkunde onder te brengen, zocht zij het juist in de eenvoud. Zo lijkt het althans. Haar recept: neemt kleine bouwsteentjes van ruimtetijd, voeg quantumwetten toe waardoor die bouwsteentjes vaag en beweeglijk worden, laat de boel aan elkaar klitten en bekijk of het resultaat enigszins lijkt op de ruimtetijd die we van Einstein kennen. Of misschien juist iets heel anders. 
+Het brouwen van ruimtetijd klinkt simpeler dan het in de praktijk is. Het rekenwerk, zegt Loll, is onmogelijk met de hand te doen. Daarvoor is dit soort natuurkunde te ingewikkeld, want alles hangt met alles samen. 'Waar we op uitkomen is simulaties in de computer. Dat is niet eens zo heel ingewikkeld, in principe kan het al op een laptop. We gebruiken alleen supercomputers omdat dat sneller gaat en we veel ideeën willen uitproberen.' 
+De resultaten van dat soort simulaties ogen zelfs voor de buitenwereld spectaculair. Driehoekige elementjes klitten aan elkaar tot slurven van ruimte en tijd, die onder iets andere condities opeens wilde stekelachtige vormen aannemen en op andere punten in het niets oplossen. De crux daarbij is dat kleine natuurlijke quantumvariaties in de basiselementen tot gladde of juist bizarre vormen leiden, afhankelijk van de gekozen regels voor het klitten. 
+In die klitregels zit de natuurkunde van het geheel: de precieze manier waarop quantumvariaties zich al dan niet voortplanten. De dynamica van het systeem, noemen fysici dat. Al het andere is gewoon stug doorrekenen en daarna het gewrochte ruimtetijdobject analyseren. 
+Tot voor kort werkte Loll met speelgoed-universa om het rekenwerk binnen de perken te houden. De basiselementen zijn daarbij driedimensionale tetraëders, met twee ruimtelijke componenten en een vaste tijdcomponent, zodat het resultaat hooguit een ruimtelijk tweedimensionaal universum kan zijn. Een dimensie meer, waarmee echte vierdimensionale resultaten te maken zouden zijn, is nog veel te ingewikkeld. 'Ik zou natuurlijk dolgraag de gravitatiewet van Newton zien verschijnen. Maar zo ver is het echt nog lang niet.' 
+Haar beperkte toy universes hebben Loll echter ook al veel geleerd. Eerdere pogingen om niet eens aan te geven welke dimensies ruimte zijn en welke tijd, leverden aantoonbaar geen herkenbare ruimtetijd op. Alle gesimuleerde universa verschrompelden, wat de theoretische condities voor de dynamica verder ook waren. 
+Even leek dat het einde van een leuk idee. Maar dat is niet zo, zegt Loll. 'Al was het maar omdat we voor het eerst een reality check in handen hadden. Daar leer je van.' 
+Inmiddels weet Loll namelijk ook waarom ruimtetijd in die vroege simulaties verschrompelde tot niets: causaliteit, het idee dat gevolgen altijd na de oorzaak komen, is een basisvoorwaarde voor een realistisch universum. 'Een causale structuur is niet iets dat ontstaat in de simulaties, die moet je eisen om iets fysisch zinvols te krijgen.' 
+Vandaar dat haar bouwsteentjes tegenwoordig een specifieke tijddimensie hebben, en dat ze niet zomaar iedere onderlinge oriëntatie kunnen hebben. Kennelijk werkt ons universum zo. 
+Lolls zogeheten causal dynamic triangulation (CDT) is in veel opzichten een poging om als fysicus, anders dan bijvoorbeeld snaartheoretici, nog enigszins in de buurt van het fysisch voorstelbare te blijven. 
+Intuïtie is van belang, vindt ze. Zo lieten recente simulaties zien dat denkbeeldige testdeeltjes op de kleinste quantumschalen sneller spontaan van hun beginpositie af bewegen dan verwacht. Dat suggereert intuïtief dat ruimte op de allerkleinste schaal de meeste dimensies verliest en verschrompelt tot lijnen waarover de deeltjes bewegen. 
+Maar intuïtie is niet alles. Misverstanden liggen op de loer, realiseert Loll zich ook. 'Ik zeg dus nadrukkelijk niet dat ruimtetijd op de allerkleinste schaal werkelijk uit zulke piramideachtige elementjes bestaat. Essenties zijn voor filosofen - wij doen natuurkunde. Het gaat erom dat we er waarschijnlijk de eerste werkende quantumtheorie van de zwaartekracht mee kunnen bouwen.' 
+Sterker, er lijken aanwijzingen dat het voor de uiteindelijke vorm van ruimtetijd niet eens relevant is hoe de kleinste bouwsteentjes er precies uitzien. 
+Recentere simulaties in vier dimensies laten nu al zogeheten tweede-orde faseovergangen zien, een vorm van samenhang over grotere afstanden waarin het systeem de specifieke eigenschappen van het lagere niveau per saldo vergeet. Zoals water nat is, zonder dat de moleculen dat hoeven te zijn. 
+In veel opzichten wel een geruststellend idee, zegt Loll. 'Misschien kunnen we ons als mensen wel helemaal niet echt voorstellen wat ruimte en tijd in detail zijn. Maar kennelijk hoeft dat ook niet, om er wel zinvol over na te denken. Dat geeft vrijheid om te experimenteren.' 
+EN DE SNAARTHEORIE DAN? 
+Sinds de jaren negentig wordt de snaartheorie genoemd als dé manier om zwaartekracht en deeltjesnatuurkunde aan elkaar te knopen. Theoretici als Ed Witten stellen krachten en deeltjes voor als trillingswijzen van denkbeeldige snaartjes die in pakweg elf abstracte dimensies bewegen. Daarbij komen dan vanzelf ook zwaartekrachtachtige eigenschappen aan het licht. Probleem is vooral dat de snaartheorie geen scherpe voorspellingen voor experimenten levert, maar uitblinkt in eindeloze mogelijkheden. 
+'Ik zou natuurlijk dolgraag de gravitatiewet van Newton zien verschijnen. Maar zo ver is het echt nog lang niet' 
+Graphic
+
+ 
+Hoogleraar Renate Loll
+Foto Jiri Buller
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Physics (94%); Computer Science (75%); Educational Institution Employees (69%)
+Load-Date: January 3, 2014
+
+End of Document
+Een werkelijkheid brouwen
+
+Een werkelijkheid brouwen
+
+Page 2 of 5
+
+Page 2 of 5
+
+
+
+
+

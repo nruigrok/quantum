@@ -1,0 +1,19 @@
+Sommen in diamant; quantum
+de Volkskrant
+6 april 2012 vrijdag
+Copyright 2012 PCM Uitgevers B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 13
+Length: 103 words
+Body
+
+Ze zijn niet alleen de beste vrienden van een meisje, maar ook van fysici die een quantumcomputer bouwen: diamanten. Onderzoekers van het Kavli-instituut in Delft melden deze week in Nature dat ze voor het eerst een echte quantumberekening in de edelsteen hebben uitgevoerd: vier sommen in één keer. In quantumcomputers worden diverse berekeningen tegelijk uitgevoerd door niet met klassieke enen en nullen te rekenen, maar met bits die tegelijk één en nul zijn. Zulke qubits zijn echter buitengewoon gevoelig voor storingen van buiten. Het extreem stabiele atoomrooster in diamant blijkt die storingen af te schermen.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: De Volkskrant
+Industry: Computing + Information Technology (94%)
+Load-Date: April 5, 2012
+
+End of Document

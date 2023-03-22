@@ -1,0 +1,32 @@
+Razend ingewikkeld, die nieuwe versleuteling van het internet
+AD/Algemeen Dagblad
+18 december 2021 zaterdag
+Copyright 2021 DPG Media B.V. All Rights Reserved
+
+Section: Z Weekend; Blz. 11
+Length: 498 words
+Byline: SHANE BERGVIK
+Highlight: Het quantuminternet staat nog in de kinderschoenen. In de toekomst maakt deze geavanceerdere versie ons internet hopelijk veiliger en kun je niet onopgemerkt bespied worden. Hoe werkt dat?
+Body
+
+Om te snappen waarom het quantuminternet zo bijzonder is, moet je eerst iets weten over ons huidige internet, zo vertelt fysicus Sophie Hermans (Technische Universiteit Delft & QuTech). ,,Dat verpakt informatie in bits, in nullen en enen. Een afbeelding wordt bijvoorbeeld opgeslagen als lange reeks enen en nullen. Het quan-tuminternet werkt anders. Dat maakt gebruik van quantumbits, of qubits. Deze bestaan uit hele kleine deeltjes, zoals atomen of lichtdeeltjes. Wat bijzonder is aan deze deeltjes, is dat ze een nul en een één tegelijk kunnen zijn.''   
+Ze geeft een voorbeeld. ,,Stel: je staat voor een kamer met een gesloten deur. In de kamer bevindt zich een lichtschakelaar die zich gedraagt als een quantumdeeltje. Staat de schakelaar naar boven, dan is het licht aan. Staat hij naar onder, is het licht uit. Maar omdat dit een quantumlichtschakelaar is, kan hij ook aan en uit tegelijk zijn. Dit noemen we superpositie. Zolang de deur van de kamer dicht is, is de schakelaar in superpositie. Pas als je een meting doet, dat wil zeggen de deur van de kamer opent, 'kiest' het deeltje partij: het wordt dan een één of een nul, oftewel de kamer is licht of donker.'' 
+Dit voelt misschien allemaal heel onlogisch en ingewikkeld. 
+Razend ingewikkeld, die nieuwe versleuteling van het internet
+En het wordt nog gekker, want quantumbits kunnen ook 'verstrengeld' zijn. Verstrengeling is een hele sterke verbinding, waarbij je de quantumbits niet meer los van elkaar kan zien. Hermans: ,,Stel: we hebben nu twee aparte kamers, en de quantumlichtschakelaars van die kamers zijn met elkaar verstrengeld. Ze zijn beiden in superpositie, het licht in beide kamers staat aan én uit tegelijkertijd. 
+Maar zodra we één van de twee deuren open doen, en een meting uitvoeren, gaat in beide kamers nu het licht aan óf uit. Dus als we weten dat het licht aanstaat in de ene kamer, weten we automatisch dat het licht ook aanstaat in de andere. Daarbij maakt het niet uit waar deze tweede kamer is, misschien wel aan het einde van de gang, maar hij kan ook in Australië of op de maan zijn.'' Goed om te weten: er is geen enkele vorm van communicatie tussen beide kamers. Er zit geen draadje tussen of een andere stiekeme verbinding. Geen zorgen als ook dit onlogisch aanvoelt. Ook de beste natuurkundigen krijgen hier hoofdpijn van. 
+Hoe kunnen we deze techniek gebruiken om het internet beter te maken? Stel: je wilt gevoelige informatie sturen via mail of extra veilig internetbankieren. Dan wordt vandaag de dag al je informatie versleuteld tot een soort geheimschrift. Maar als iemand dat kraakt, kan hij of zij ongestoord meelezen. Met het quantuminternet kun je daarentegen gebruikmaken van verstrengelde qubits. Als iemand deze quantumsleutel probeert te onderscheppen, met ander woorden de qubits probeert te meten (de kamers probeert te openen) wordt de verstrengeling verbroken en dat zal worden opgemerkt. Niemand kan je dus ongemerkt in de gaten houden!
+Dankzij qubits is stiekem kraken van informatie niet mogelijk
+Bekijk de oorspronkelijke pagina: pagina 11
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Physics (71%); Educational Institution Employees (62%)
+Industry: Computing + Information Technology (94%)
+Load-Date: December 17, 2021
+Page 2 of 3
+Razend ingewikkeld, die nieuwe versleuteling van het internet
+
+End of Document
+Page 3 of 3

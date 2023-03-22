@@ -1,0 +1,38 @@
+Dankzij een bruisend vacuüm loopt het gesmeerd; Nanotech Amerikaanse laboratoria werken aan methoden om mechanica op de allerkleinste  schaal wrijvingsloos te maken 
+de Volkskrant
+9 januari 2010 zaterdag
+Copyright 2010 PCM Uitgevers B.V. All Rights Reserved
+
+Section: KENNIS; Blz. 3
+Length: 597 words
+Byline: Martijn van Calmthout
+Body
+
+SAMENVATTING
+De oude theorie van Casimir maakt bewegen op nano-schaal mogelijk. Martijn van Calmthout
+VOLLEDIGE TEKST:
+Bij leven was oud-directeur Hendrik B.G. Casimir (1909-2000) van het Philips Natlab een nadrukkelijke bruggenbouwer tussen fundamenteel wetenschappelijk onderzoek en de toepassing. Als theoreticus had hij samengewerkt met de allergrootsten in het vak, van Wolfgang Pauli tot Niels Bohr, maar daarna ging hij toch voor Philips werken, dat in radio's deed, en scheerapparaten, televisies en licht. Niettemin publiceerde hij in zijn tijd bij de gloeilampenfabriek  ook nog vooraanstaand theoretisch werk.
+Daarbij vestigde hij in 1948 internationaal zijn naam met de ontdekking, op papier, van een nieuwe quantumkracht: twee metalen spiegels trekken elkaar in vacuüm op korte afstand aan, doordat  de ruimte tussen de spiegels anders is dan de ruimte erbuiten.
+Het zou Casimir, als man van theorie én praktijk, deugd hebben gedaan als hij had kunnen zien hoe Amerikaanse labs zojuist de handen ineen hebben geslagen om die zogeheten Casimir-kracht te gebruiken bij de ontwikkeling van chips met bewegende delen. Zulke MEMS (micro electromechanical systems), worden toegepast in bewegingssensoren, nu vooral in airbags.
+Dankzij een bruisend vacuüm loopt het gesmeerd; Nanotech Amerikaanse laboratoria werken aan methoden om mechanica op de allerkleinste  schaal wrijvingsloos te m....
+In het nieuwe samenwerkingsverband gaan Argonne National Laboratory, Purdue University, NIST en Los Alamos National Laboratory werken aan nanosystemen die dienst kunnen doen in piepkleine gyroscopen, kompassen en versnellingsmeters. Militaire toepassing ligt voor de hand, en dus betaalt het Amerikaanse wapenprogramma DARPA eraan mee.
+De stap van micro naar nano blijkt in de praktijk een lastige, doordat  mechanische onderdelen daarbij zo klein zijn, dat ze last hebben van quantumeffecten. Daarbij speelt de Casimir-kracht een rol tussen vlakken die dichter dan 100 nanometer bij elkaar liggen. De kracht ontstaat doordat de lege ruimte volgens de quantumtheorie een bruisend schuim van lichtdeeltjes is die heel even opduiken en meteen weer verdwijnen. Dat kan omdat in de quantumtheorie alle grootheden vaag zijn, dus ook de leegte van lege ruimte.
+Casimir ontdekte dat de omgeving voorwaarden oplegt aan welke deeltjes wel en welke niet kunnen ontstaan in een afgebakend deel van de ruimte. Tussen twee metalen spiegels passen minder kortstondige deeltjes dan erbuiten. Dat drukt ze naar elkaar toe.
+In de oorspronkelijke theorie van Casimir is de vacuümkracht alleen aantrekkend. Maar in 1956 generaliseerde de Rus Evgeny Lifshitz Casimirs theorie voor echte fysische systemen. Daarbij ontdekte hij  dat de kracht afstotend zou kunnen zijn als niet twee metalen platen tegenover elkaar worden geplaatst, maar een metalen vlak en een halfgeleider, zoals silicium. Daarbij is het vacuüm vervangen door een tussenliggend medium, bijvoorbeeld een vloeistof.
+In 1997 werd voor het eerst experimenteel bewijs gevonden voor de, in alle opzichten minuscule, Casimir-kracht tussen twee spiegels. Vorig jaar januari publiceerden Amerikaanse fysici in een omslagartikel van Nature een experimenteel bewijs - met een goudbolletje boven een vlak van silicium in een bad van broombenzeen - dat Casimirafstoting echt optreedt.
+Sindsdien is er internationaal een race gaande om die zogeheten quantumlevitatie in praktijk te brengen via slimme materiaalkeuzes. Voorheen was de Casimir-kracht altijd een beperking voor mechanische systemen op die schaal. Daardoor liepen bewegende delen doorgaans juist vast.
+Nu de kracht ook afstotend gemaakt kan worden, komt opeens wrijvingsloos bewegen ook op nanoschaal in beeld.
+Er is een race gaande om  quantum- levitatie te benutten
+Classification
+
+Language: DUTCH; NEDERLANDS
+Page 2 of 3
+Dankzij een bruisend vacuüm loopt het gesmeerd; Nanotech Amerikaanse laboratoria werken aan methoden om mechanica op de allerkleinste  schaal wrijvingsloos te m....
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Superconductors (75%); Information Management + Technology (67%); Fiber Optics (62%)
+Industry: Computer Equipment (94%)
+Load-Date: January 8, 2010
+
+End of Document
+Page 3 of 3

@@ -1,0 +1,64 @@
+E = supergeleidende spoel; De praktijk van stroom verplaatsen zonder energieverlies
+NRC.NEXT
+19 mei 2011 donderdag
+Copyright 2011 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 11
+Length: 910 words
+Byline: Margriet van der Heijden
+Body
+
+SAMENVATTING
+Supergeleiding wordt tot nog toe alleen commercieel toegepast in MRI-scanners.
+In Twente zoekt men naar manieren om er energie mee op te wekken en te dragen.
+VOLLEDIGE TEKST:
+In 1911 ontdekte Heike Kamerlingh Onnes het verschijnsel supergeleiding. Het was een tweetrapsontdekking.
+In Leiden  had Kamerlingh Onnes een heel laboratorium opgezet, inclusief glasblazerij, om heliumgas zover af te koelen dat het vloeibaar werd - een mijlpaal op zich. En toen hij met dat ultrakoude helium een kwikdraadje afkoelde tot 3 graden boven het absolute nulpunt, zag hij tot zijn verrassing dat de elektrische weerstand in het draadje verdween. Ofwel: het draadje geleidde een sterke elektrische stroom zonder energieverlies en zonder warmteontwikkeling.
+,,Een toevallige vondst", zegt Marcel ter Brake. Honderd jaar na dato is Ter Brake  hoogleraar in Twente. Net als Kamerlingh Onnes destijds werkt hij  aan   technieken om ultralage temperaturen te bereiken én aan supergeleiding. Die twee gaan nog altijd hand in hand.  Maar Ter Brake's nieuwe vakgroep Energy, Materials and Systems  heeft ook    een derde 'poot', waar Kamerlingh Onnes niet aan toekwam: toepassingen. Vorige week beschreef Ter Brake ze in zijn oratie.
+Het duurde lang tot supergeleiding begrepen was - en nog langer tot het leidde tot toepassingen...
+,,Zeker, maar in de tijd van Kamerlingh Onnes waren de achterliggende principes nog helemaal onbegrepen. Het is een quantummechanisch verschijnsel, maar de quantummechanica moest nog ontwikkeld worden. Al met al duurde het 46 jaar eer het verschijnsel werd verklaard. Een andere mijlpaal was  in 1986: de ontdekking van  keramische materialen die  supergeleidend worden bij hogere temperaturen. Tot ruim 90 graden  boven het absolute nulpunt. Dat maakt koeling goedkoper en  met deze materialen kun je, in spoelen, nóg sterkere magneetvelden opwekken."
+Maar tot nu toe wordt supergeleiding alleen commercieel toegepast in MRI-scanners in ziekenhuizen. U wilt daarin -- eindelijk - verandering brengen?
+,,Duurzame energie is een speerpunt van de Universiteit Twente.  Fossiele brandstoffen raken eens op. We zullen  dus andere manieren moeten vinden om energie op te wekken en te dragen. Mijn groep bekijkt hoe je daarbij supergeleidende materialen kunt inzetten. Daarbij moet je kosten en baten steeds afwegen."
+Bijvoorbeeld?
+,,Supergeleidende kabels die elektrische stroom transporteren  zonder energieverlies. Dat klinkt mooi. Maar: zo'n kabel moet gekoeld worden. Als daarvoor om de paar kilometer een koelstation nodig is, heb je  een oplossing die niet te verkopen valt. Dat lukt alleen als je een manier vindt om de kabels over lange afstanden te koelen. Daar werken wij aan."
+En verder?
+,,Windmolens. De EU wil in 2050 de helft van alle elektriciteit uit windmolens halen. Dat vergt grote molens, hoger dan 100 meter, omdat je daarmee de prijs per kilowattuur drukt. Die zet je op zee en om kostbare reparaties  zoveel mogelijk te vermijden haal je de storingsgevoelige versnellingsbak eruit. In plaats daarvan zet je een magneet in de  rotor die door de wieken wordt aangedreven. Zo'n draaiende magneet wekt, net als in een fietsdynamo, stroom op."
+En hij moet supergeleidend zijn?
+,,Dat hoeft niet. De magneten  zijn nu  van neodyniumijzerboor gemaakt. Maar kijk,  daar heb je het probleem al: neodynium is een zeldzaam aardmetaal dat in China wordt gewonnen. Voor het beoogde aantal windmolens  in Europa in 2030 zou je de huidige wereldproductie aan neodynium nodig hebben. Daarom zoeken we  in Europees verband naar een supergeleidend alternatief   dat bovendien licht en compact is in zo'n hoge molen. Én storingsvrij, dat is de uitdaging."
+En u bent betrokken bij de experimentele kernfusiereactor ITER, die momenteel in het Franse Cadarache in aanbouw is.
+,,Dat vind ik belangrijk omdat kernfusie een schoon en veilig alternatief voor kernsplijting kan zijn. De fusiereactor vereist ultrasterke magneetvelden die met supergeleidende spoelen worden opgewekt. Eén van de problemen  is dat die sterke stromen en magneetvelden  enorme krachten opwekken (Lorentzkrachten). Wij proberen kabels te ontwerpen die daartegen bestand zijn. "
+Voorlopig is de productie van supergeleidende materialen duur...
+,,Dát gaat zeker veranderen op de afzienbare termijn. Het grote Amerikaanse bedrijf Superpower, trouwens een dochter van Philips, voorspelt rond 2016 een prijs waarmee toepassingen van supergeleidende materialen  concurrerend kunnen  zijn  op de energiemarkt."
+Kijkje in  het koudelab
+In de tentoonstelling Kwik nagenoeg nul in Museum Boerhaave in Leiden zijn de instrumenten en spullen te zien die Heike Kamerlingh Onnes gebruikte toen hij de supergeleiding ontdekte.
+Zijn 'koudelab' was een rommelig ogende, lawaaiige fabriek waar wetenschappers, technici, studenten en instrumentmakerleerlingen te midden van dreunende pompen nauw samenwerkten bij experimenten die vaker mislukten dan slaagden.
+Geëxposeerd zijn onder meer de heliumliquefactor, het koelapparaat waarmee Kamerlingh Onnes in 1908 als eerste ter wereld helium vloeibaar maakte, het klosje looddraad uit 1912, de eerste supergeleidende spoel, en  het originele aantekenboekje waarin Kamerlingh Onnes op 8 april 1911 zijn historische waarneming 'Kwik nagenoeg nul' noteerde.
+Het museum toont ook de instrumenten en het glaswerk die medewerkers van Kamerlingh Onnes maakten, en vertelt meer over hun rol.
+Museum 	Boerhaave, 	Lange 	St. 	Agnietenstraat 	10, 	Leiden 
+http://www.museumboerhaave.nl
+Graphic
+
+ 
+Eerste supergeleidende spoel, van looddraad, uit 1912.
+Museum Boerhaave
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: nrc.next
+Subject: Superconductors (95%); Awards + Prizes (62%)
+Load-Date: May 23, 2011
+
+End of Document
+E = supergeleidende spoel; De praktijk van stroom verplaatsen zonder energieverlies
+
+E = supergeleidende spoel; De praktijk van stroom verplaatsen zonder energieverlies
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

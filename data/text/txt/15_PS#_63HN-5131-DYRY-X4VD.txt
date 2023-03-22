@@ -1,0 +1,61 @@
+'Burger moet weer macht krijgen over algoritmes'
+Trouw
+4 september 2021 zaterdag
+Copyright 2021 DPG Media B.V. All Rights Reserved
+
+Section: | Wetenschap; Blz. 14, 15
+Length: 1834 words
+Byline: WILLEM SCHOONEN
+Highlight: Zes topwetenschappers worden dit jaar geëerd met een Spinoza- of Stevinpremie, de hoogste onderscheidingen die onderzoeksfinancier NWO toekent. De laureaten krijgen 2,5 miljoen euro voor hun onderzoek. Twee van hen vertellen over hun werk: mediahoogleraar José van Dijck en elektrochemiehoogleraar Marc Koper (op de volgende pagina's).
+Body
+
+Spinozapremie interview
+Ik ben met de technologie meegegroeid", zegt José van Dijck. Ze begon in Utrecht met een studie literatuurwetenschap en heeft nu, vlak achter de Dom, een prachtige werkplek en veel vrijheid om invulling te geven aan het thema dat haar als universiteitshoogleraar is toevertrouwd: media en digitale samenleving. 
+In de decennia die liggen tussen haar afstuderen en deze aanstelling, werkte Van Dijck aan de universiteiten van Californië, Groningen, Maastricht en lange tijd aan die van Amsterdam. En ze was president van de KNAW, de Koninklijke Akademie van Wetenschappen. 
+Toen ze haar loopbaan begon, moest het world wide web nog worden uitgevonden. En nu leven we in een samenleving die 'in de cloud hangt', die wordt gemaakt en beheerst door grote platforms van giganten als Google, Facebook, Apple en Alibaba. 
+Platformisering heet dat. Het is het centrale thema van Van Dijcks onderzoek. Ze werkt samen met informatici, juristen, economen en gedragswetenschappers in onderzoek naar de invloed van online platforms op de samenleving. Toch iets heel anders dan de literatuurwetenschap waarmee ze begon. Vandaar dat meegroeien met de technologie. "Internet kwam nog maar net op toen, maar je kon wel zien dat het groot ging worden. Nu, een paar decennia later, zijn er platforms die in alle sectoren en hoeken van de samenleving de informatiestromen beheersen. En het gaat niet alleen om die platforms, de digitale infrastructuur, maar ook om de algoritmes en de data. We staan voor de vraag wie richting moet geven aan die platformisering. De markt? De overheid? De burger en zijn onafhankelijke organisaties?" 
+Het klinkt in het werk van Van Dijck en andere wetenschappers als een gevaar. Het monster heeft ook al een naam gekregen: GAFA, naar vier grote spelers: Google, Apple, Facebook, Amazon. Dat is het Amerikaanse digitale 'ecosysteem', zoals Van Dijck het noemt. Aan de andere kant van de wereld huist het Chinese ecosysteem, met daarin niet alleen enorme bedrijven als Alibaba, maar ook een dominante overheid. 
+Digitalisering en platformisering hebben ervoor gezorgd dat we overal bij kunnen en overal bij kunnen zijn, bij wijze van spreken. Prachtig. We doen het de hele dag. Zonder die technologie zou deze krant niet verschijnen. Is die technologie dan wel zo'n dreiging? 
+Van Dijck: "Ik loop niet te hoop tegen technologie of tegen grote bedrijven. Ik onderzoek wat er aan de hand is. En inderdaad, de platformisering heeft ons enorme mogelijkheden en gebruiksgemak gegeven. Maar achter de schermen is er wel een enorme datamacht gegroeid. 
+"Toen internet begon, hield het een enorme belofte in: iedereen kon er actief worden en zijn geluid laten horen. Het internet was vrijheid. Maar dat was de periode, rond de eeuwwisseling, waarin de grote platforms nog in ontwikkeling waren. Zo'n tien jaar geleden waren die intussen uitgegroeid tot gevestigde machten. Omdat ze alles in handen hebben: van datacentra en satellieten tot applicaties en gebruikersdata. Google maakt prachtige systemen voor het onderwijs, maar heeft daarmee ook inzicht in leerprestaties, zoekgedrag van jongeren, videogebruik, et cetera." 
+Van Dijck schetst het als een boom, met de fysieke infrastructuur als wortels, de platforms als stam en de toepassingen in alle sectoren van de samenleving als takken. "Er zijn nu een paar grote spelers die de boom van wortel tot tak in handen hebben. Kijk naar apps. Voor bijna alles wat we doen hebben we apps nodig. Maar we kunnen daarvoor maar naar twee appstores: die van Google of die van Apple. Zij bepalen aan welke eisen apps moeten voldoen, hoe ervoor betaald moet worden, welke apps jij in de winkel aangeprezen krijgt en welke niet. De systemen zijn geweldig, maar hun controle wordt steeds groter." 
+De platformisering heeft geleid tot die twee grote machtsbolwerken, in de VS en in China. Europa zit daar tussenin, zonder eigen boom. 
+Europa moet dringend zijn positie bepalen in dat geopolitieke krachtenveld, zegt Van Dijck: "Europa is zich te weinig bewust van zijn positie in dat veld. We zijn altijd automatisch meegegaan met wat er in de VS werd ontwikkeld. Maar Europa is anders, en hecht traditioneel sterk aan publieke waarden, zoals openheid, transparantie en privacy. Daar wordt in de twee grote ecosystemen, het Amerikaanse en het Chinese, te weinig rekening mee gehouden. 
+"We moeten ons sterk maken voor de verankering van die publieke waarden in de platformsamenleving. En alleen Europa kan dat; een land als Nederland kan tegenover Google helemaal niets uithalen. Europa kan het wel. Het kan optreden tegen marktdominantie. En je ziet dat de privacywetgeving die hier is ontwikkeld nu elders wordt overgenomen, bijvoorbeeld in sommige Amerikaanse staten. Dat zijn goede ontwikkelingen." 
+Zou Europa tegenover de VS en China niet zijn eigen boom moeten kweken, van wortel tot tak? 
+Van Dijck: "Iedereen die er verstand van heeft zegt dat dat onbegonnen werk is. Wat Europa wél kan doen is alternatieven ontwikkelen voor bepaalde functies, zodat we voor dingen die we belangrijk vinden niet meer zo afhankelijk zijn van de grote spelers. Een voorbeeld: academici zoals ik maken gebruik van eduroam. Dat geeft toegang tot het wifinetwerk van universiteiten in alle delen van de wereld. Als ik op een universiteit in Argentinië ben, kun je zo inloggen. Maar dat doe je met je eigen eduroam-account, Google komt er niet aan te pas. Het is een heel simpel systeem dat in Nederland is ontwikkeld, door SURF, de online-dienstverlener van de universiteiten." 
+In de metafoor van Van Dijck haal je zo schijven uit de bestaande bomen en zet er alternatieven voor terug. "De Duitse bondskanselier Merkel heeft onlangs voorgesteld om een publieke cloudservice te bouwen. Dan is de cloud van Google of Microsoft niet je enige optie. Als je je online moet identificeren gebeurt dat nu vaak met Google ID of Facebook ID. Maar in Nijmegen werkt hoogleraar digitale veiligheid Bart Jacobs (ook een laureaat toevallig, zie kader, red.) aan alternatieve systemen daarvoor. De wetgever kan vervolgens bedrijven die online actief zijn verplichten om die alternatieven toe te staan. 
+"Het is een constructieve manier om de waarden die Europa belangrijk vindt ingebouwd te krijgen in de digitale ecosystemen. En het mes snijdt hier aan twee kanten: het ontwikkelen van alternatieven bevordert bewustwording en innovatie in eigen huis, en als je ze ontwikkeld hebt sta je sterker in onderhandelingen met de grote spelers." 
+Terug naar de drie machtsfactoren die u noemde voor de platformisering: de markt, de overheid, en de burger. De invloed van de eerste twee is duidelijk, maar niet die van de laatste. Terwijl digitalisering, internet en sociale media zich toch bij uitstek lenen voor het organiseren van maatschappelijke krachten. 
+Van Dijck: "Klopt. En in de begintijd van internet was dat ook zo. Maatschappelijke partijen en stemmen van burgers waren toen een belangrijke factor in de ontwikkeling van de digitale omgeving. Maar die is door de platformisering helemaal weggedrukt. Europa moet de ambitie hebben die derde macht terug in het spel te brengen. Burgers moeten weer macht krijgen over algoritmes en data." 
+JoséÌ van Dijck foto NWO, Studio Oostrum 
+NWO kende, behalve aan José van Dijck en Marc Koper, nog twee Spinozapremies toe voor baanbrekend onderzoek, aan Maria Yazdanbakhsh en Lieven Vandersypen, én twee Stevinpremies voor baanbrekende kennisbenutting en maatschappelijke toepassing, aan Judi Mesman en Bart Jacobs.
+De andere laureaten
+Judi Mesman is hoogleraar quantum computing aan de Technische Universiteit Delft. Tijdens zijn promotieonderzoek wist hij het getal 15 te ontbinden in zijn factoren: 5 en 3. Niet bepaald doctorswaardig, ware het niet dat Vandersypen dat deed met qubits, de rekeneenheden van quantumcomputers. Zo toonde hij aan dat rekenen met qubits geen theorie was maar werkelijkheid. Met de bijzondere quantumfenomenen kan vele malen sneller en efficiënter gerekend worden dan de huidige computers doen. Aan quantumcomputers werkt Vandersypen nu met QuTech, waarin de TU Delft en technologieinstituut TNO de krachten hebben gebundeld. De Amerikaanse chipmaker Intel is een van de industriële partners. Vandersypen stond ook aan de wieg van Quantum Inspire, een project dat nu loopt en waarin iedereen die dat wil online kan experimenteren met quantum computing. 
+Lieven Vandersypen is hoogleraar interdisciplinaire studie van maatschappelijke uitdagingen aan de Universiteit Leiden. Zo vaag als haar leeropdracht klinkt, zo concreet is haar wetenschappelijke werk. Mesman onderzoekt stereotypen, vooroordelen, rolpatronen en discriminatie met betrekking tot gender, seksualiteit en etniciteit. Dat doet ze onder meer met intensieve video-observaties van gezinnen, om te zien hoe vaders en moeders vaak onbewust waardeoordelen en gedrag overbrengen op hun kinderen. Enkele jaren geleden publiceerde ze een spraakmakend onderzoek naar stereotypen in Nederlandse schoolboeken. Mesman wordt door de Stevincommissie, die haar selecteerde, geprezen omdat ze niet alleen onderzoek doet, maar ook blogt, podcasts maakt, workshops organiseert en zich op tal van andere manieren mengt in het maatschappelijk debat over deze onderwerpen. 
+Maria Yazdanbakhsh is hoogleraar parasitologie aan het Leidse UMC. Een van haar baanbrekende ontdekkingen is dat parasitaire infecties twee kanten hebben: ze maken ziek, maar kunnen tegelijk het immuunsysteem activeren tegen allergieën of diabetes type 2. Blootstelling aan parasieten heeft dus ook een gezonde, beschermende werking. Dit fenomeen wordt wel de hygiëne hypothese genoemd. Yazdanbakhsh werkt al sinds 1990 aan de Universiteit Leiden, maar is actief in biomedisch onderzoek en onderwijs in verscheidene Afrikaanse landen en Indonesië. Ze werkt nauw samen met universiteiten in die landen, en is adviseur parasitologie voor de Britse Wellcome Trust, een van de grootste onderzoeksfinanciers ter wereld. 
+Bart Jacobs is hoogleraar veiligheid, privacy en identiteit aan de Radboud Universiteit Nijmegen. Jacobs studeerde in Nijmegen, promoveerde er, en werd er in 2002 hoogleraar, na een tussenperiode van tien jaar met aanstellingen in Cambridge en Amsterdam (Centrum voor Wiskunde en Informatica). Jacobs houdt zich al heel lang bezig met kwesties waarover de debatten nu hoog oplopen: digitale veiligheid, privacy, online identificatie. Hij is oprichter en voorzitter van de Privacy by Design, de stichting die IRMA ontwikkelde, een app waarmee je je online kunt identificeren, en bijvoorbeeld betalen, zonder je privacy prijs te geven. Dat ontwerp is door de Europese Commissie omarmd als basis voor wat een Europese elektronische identiteitskaart moet worden. Jacobs wordt veel geraadpleegd door media, maar ook door overheden en veiligheidsdiensten, over online veiligheid en privacy.
+'De grote platforms hebben alles in handen: van datacentra tot applicaties'
+'De systemen zijn geweldig, maar hun controle wordt steeds groter'
+Bekijk de oorspronkelijke pagina: pagina 14, pagina 15
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Internet Social Networking (81%); Educational Institution Employees (75%); Journalism (63%)
+Industry: Internet + Www (94%); Computing + Information Technology (74%); Media + Telecommunications (63%)
+Load-Date: September 3, 2021
+
+End of Document
+'Burger moet weer macht krijgen over algoritmes'
+
+'Burger moet weer macht krijgen over algoritmes'
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

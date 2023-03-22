@@ -1,0 +1,63 @@
+Majorana's deeltje vernieuwt de fysica
+NRC Handelsblad
+13 april 2012 vrijdag
+Copyright 2012 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 19
+Length: 1073 words
+Byline: Margriet van der Heijden
+Body
+
+SAMENVATTING
+In vakblad Science geeft fysicus Leo Kouwenhoven uit Delft vandaag de details prijs van zijn ontdekking van de majoranadeeltjes. Nieuwe fysica en ,,zó spannend".
+VOLLEDIGE TEKST:
+Slechts negen wetenschappelijke artikelen publiceerde de  in 1906 op Sicilië geboren   fysicus Ettore Majorana. Niet omdat hij  voor het beste resultaat ging. Majorana krabbelde zijn vondsten simpelweg op papiersnippers en  kladblaadjes, en had daarna zelden  zin om ze ook netjes op papier te zetten.
+In de Academische Boekengids haalde de Delftse quantumfysicus Leo Kouwenhoven (48) laatst nog eens op hoe verscheurd die geniale Majorana was. Samen met beroemde collega's als Werner Heisenberg en Enrico Fermi schoeide Majorana in de jaren 30 de quantummechanica op een relativistische leest. En ongetwijfeld voorzag hij toen al welke zwarte gevolgen  al die nieuwe kennis van elementaire deeltjes en atoomkernen óók zou hebben, schrijft Kouwenhoven. De fysici ontkwamen niet aan politiek: Fermi zou bij het Manhattanproject aan de atoombom gaan rekenen. Heisenberg probeerde   zo'n bom in Duitsland  te ontwikkelen. En Majorana? Die nam in 1938 zijn spaargeld op en verdween.
+,,Hij was manisch-depressief", denkt Kouwenhoven. ,,Nu zouden we hem een pilletje geven." En ja, zegt Kouwenhoven verder: dat hij zich zo in  Majorana's leven  verdiept, komt natuurlijk door zijn eigen werk in Delft. Want daar heeft Kouwenhoven nu, 75 jaar later,  voor het eerst het bestaan aangetoond van 'Majoranadeeltjes' - een nieuwe, door Majorana op een bierviltje voorspelde  klasse van deeltjes.
+Vorige maand presenteerde Kouwenhoven  dat resultaat, in grote lijnen,  op de jaarlijkse bijeenkomst van de American Physical Society. Vandaag staan alle details van de metingen door zijn groep in de online editie van het wetenschapsblad Science.
+In een ragfijn nanodraadje vingen de Delftse quantumfysici steeds twee Majoranadeeltjes tegelijk. Eentje aan ieder  uiteinde van het draadje, en elk samengesteld uit duizenden elektronen, die zich samen gedragen als één deeltje. 'Quasideeltjes' heten dat, maar van die term houdt Kouwenhoven niet. ,,Het klinkt zo, eh, quasi. Terwijl de majorana's zich  gedragen  als echte  deeltjes. Weliswaar samengestelde deeltjes, maar toch."
+Het gedrag van die deeltjes is nogal exotisch en  het maakt ze tot een veelbelovende  bouwsteen voor ultrasnelle quantumcomputers van de  toekomst  (zie kader). Het is dus niet toevallig dat uitgerekend  Microsoft   Kouwenhoven in 2010 benaderde. Kort daarvoor hadden theoretisch fysici geschetst  hoe je  majorana's zou kunnen maken in nanodraadjes. En de experts van Microsoft beseften: de enige groep op aarde die daarvoor de kennis en ervaring  had, zat in Delft.
+In Science beschrijft Kouwenhovens team nu hoe ze het, mede met geld van Microsoft, aanpakten. Zakelijk en  feitelijk. ,,We wilden niet speculeren over de mogelijkheden die  de deeltjes misschien bieden. We wilden vooral uitleggen wat we hebben gedaan", zegt Kouwenhoven.
+In essentie is het dit: ze legden het ragfijne draadje als een brug tussen twee stroken supergeleidend materiaal. Het gevolg daarvan was dat het draadje zelf supergeleidend werd. Door specifieke materialen te gebruiken (een niobiumlegering voor de supergeleider en    indium-antimonide voor het draadje) zorgden ze  bovendien voor een zeldzame vorm van supergeleiding die in combinatie met een magneetveld de elektronen dwong samen majorana's te vormen.
+Het bestaan van die deeltjes kon daarna alleen indirect worden aangetoond, maar om het bewijs sterker te maken heeft Kouwenhovens team allerlei controlemetingen uitgevoerd. Kouwenhoven: ,,Je ziet bijvoorbeeld dat de deeltjes inderdaad  verdwijnen als je het magneetveld een andere richting geeft. Of als je de supergeleiding opheft. En zo hebben we steeds een van de vier basisingrediënten van het systeem uitgeschakeld. De opmerkingen en kritische vragen tijdens de presentatie op de APS-bijeenkomst hebben ons ook nog tot  extra metingen aangespoord."
+Ongetwijfeld, zegt Kouwenhoven, zullen de komende maanden onderzoeksgroepen elders in`de wereld eveneens de vondst van Majorana's in vaste stoffen - zoals supergeleiders  -  rapporteren. Zelf is hij alweer een stap verder. Hij zint op manieren om, ook als eerste, de bijzondere statistiek te doorgronden, waaraan majorana's gehoorzamen (zie kader).
+Kouwenhoven: ,,Het leuke is:  alles wat we vinden is nieuw. De data die op ons beeldscherm verschijnen, zijn nóóit eerder gezien, nóóit eerder gepubliceerd. Het is totaal nieuwe fysica."
+En nee, hij zegt niks over prijzen en bekroningen. Voorlopig is zijn werk alleen maar mooi.   ,,En ontzettend spannend."
+Ettore Majorana bedacht deze deeltjes  - en verdween daarna
+Wat maakt de majoranadeeltjes nu zo speciaal?
+Het mooie aan majorana's is hun samenspel. Dat voldoet aan andere regels dan dat van de tot dusver bekende deeltjes: de 'fermionen' en 'bosonen'.
+Fermionen draaien als tolletjes om hun as. Dat doen ze linksom (dat heet 'spin down') of rechtsom ('spin up'). De quantummechanica vereist bovendien dat twee fermionen die verder in exact dezelfde  toestand verkeren,  wél in tegengestelde richting draaien. De twee fermionen in zo'n paar onderscheiden zich zo door hun spin en zijn  niet  uitwisselbaar.
+Dast is anders bij bosonen:  de partners van een bosonpaar kun je wel ongemerkt verwisselen.  Je weet nooit meer welke de ene en welke de andere was.
+Bij majorana's  ligt het ingewikkelder. In majorana's komt een boson-uiterlijk  tevoorschijn uit een  mix van quantummechanische toestanden waarin het deeltje tegelijkertijd linksom en rechtsom draait (tegelijk spin up en spin down heeft). Daardoor kun je majorana's  niet, als bosonen, ongemerkt verwisselen.
+Sterker nog , majorana's verwisselen is zelfs ingewikkelder dan het verwisselen van fermionen. Dat komt  doordat je  de verschillende componenten in hun up-downmix  alleen in samenhang en in bepaalde volgordes, dus vóór of na elkaar, kunt verwisselen. Dat maakt majorana's stabiel én veelzijdig:  de volgorde die je  kiest, bepaalt namelijk het eindresultaat - de nieuwe up-downmix.
+In computertermen betekent het dit: een boson heeft altijd databit '0'. Onwerkbaar. Een fermion is '0'  (spin up) of '1' (spin down). Maar een majorana kan op allerlei manieren tegelijk '0' en '1' zijn, of worden. Dat, en hun stabiliteit, maakt majorana's geschikt voor snelle berekeningen in quantumcomputers die met vele nullen en enen tegelijk goochelen.
+Graphic
+
+ 
+Leo Kouwenhoven (r),  Kun Zuob en Vincent Mourik 
+Foto Sam Rentmeester
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Superconductors (94%); Physics (75%); Nanotechnology (61%)
+Company:  MICROSOFT CORP (52%)
+Organization: AMERICAN PHYSICAL SOCIETY (54%)
+Ticker: MSFT (NASDAQ) (52%)
+Industry: NAICS511210 SOFTWARE PUBLISHERS (52%); SIC7372 PREPACKAGED SOFTWARE (52%); Computing + Information Technology (88%)
+Load-Date: April 13, 2012
+
+End of Document
+Majorana's deeltje vernieuwt de fysica
+
+Majorana's deeltje vernieuwt de fysica
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

@@ -1,0 +1,61 @@
+De hoogste toppen van de wiskunde
+NRC Handelsblad
+27 oktober 2012 zaterdag
+Copyright 2012 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap
+Length: 1206 words
+Byline: Margriet  van der Heijden
+Body
+
+SAMENVATTING
+Wiskunde Vier Nederlandse wiskundigen schreven een boek over de zeven moeilijkste bergen die er in de wiskunde te bedwingen zijn. Margriet van der Heijden
+VOLLEDIGE TEKST:
+'Los ze op en word miljonair!' Die ondertitel gaven  Alex van den Brandhof, Jan van de Craats, Barry Koren en Roland van der Veen aan  'De zeven grootste raadsels van de wiskunde'.
+Ironisch bedoeld, dat moet  wel. Want meteen al in de inleiding van het boek schrijven de vier wiskundigen wat het allergrootste probleem van de moderne wiskunde is:  'de gehele ideeënwereld is zo abstract dat je de grote onderzoeksvragen meestal alleen maar na een specialistische studie enigszins kunt begrijpen'.
+Gelukkig schudden ze dat zorgelijke meteen weer  af  en schetsen ze in zeven hoofdstukken de zeven 'millenniumproblemen'. Die problemen werden op 24 mei 2000  tijdens een congres in Parijs  uitgeroepen tot de  moeilijkste onopgeloste vraagstukken van de wiskunde. Dat was precies een eeuw nadat  de grote wiskundige David Hilbert  (1864-1942) zijn beroemde lijst presenteerde, ook in Parijs:  met problemen waar wiskundigen zich volgens hem in de twintigste eeuw mee  zouden moeten bezighouden.
+Een verschil is dat  in 2000   prijzengeld aan de problemen werd verbonden. Landon T. Clay, miljonair en oprichter van het Clay Mathematics Institute in Cambridge, Massachusetts, reserveerde daarvoor zeven miljoen dollar: een miljoen voor elk opgelost  vraagstuk. En ja, die pot is nog altijd   vol -  zelfs al bewees  de geniale Grigori Perelman in 2003  een van de problemen op het lijstje.  Perelman stelde  geen prijs op het miljoen van Clay voor zijn oplossing van het Poincaré-vermoeden. "Ik heb alles wat ik hebben wil", zei de Rus die tegenwoordig als een kluizenaar in Sint-Petersburg leeft. En die  in 2006 ook al voor de Fieldsmedaile (de Nobelprijs van de wiskunde) bedankte.
+Ook daarom moet de ondertitel van het boek ironisch bedoeld zijn:  van alle menstypen zijn  wiskundigen waarschijnlijk het minst geïnteresseerd in geld  en vluchtige roem. Het gaat hun om iets anders. Wiskundige problemen oplossen is als het bedwingen van bergtoppen, schrijven Van den Brandhof en collega's. 'Je raakt regelmatig gefrustreerd door de geringe vorderingen (...)  Naarmate de tijd vordert, worden de rotswanden steiler en de lucht ijler. Hoe onbegaanbaarder het terrein, hoe minder bergbeklimmers je tegenkomt die je kunnen helpen.'
+Het is zwoegen, ploeteren en ontberingen doorstaan. Plus: het risico lopen dat je helemaal faalt. Maar 'als het je lukt de top te bereiken, is het uitzicht magnifiek.' En dat geldt zeker  voor de millenniumproblemen, want die vormen de hoogste toppen in het wiskundegebergte.
+Priemgetallen
+Emeritus hoogleraar Jan van de Craats beschrijft in het eerste hoofdstuk meteen de allerhoogste piek:  de Riemann-hypothese.  Die stond in 1900 ook al op het lijstje van David Hilbert en Hilbert voelde wel aan dat dit probleem niet snel zou worden opgelost. "Als ik wakker zou worden na duizend jaar te hebben geslapen, zou mijn eerste vraag zijn: is de Riemann-hypothese al bewezen?", schijnt hij erover te hebben gezegd.
+Zonder formules is dit lastige probleem niet goed  uit te leggen. Van de Craats gebruikt er 18. Zou  de  beroemde  fysicus en kosmoloog  Stephen Hawking  gelijk hebben (elke formule halveert het aantal lezers, zegt Hawking),  dan zou Van de Craats  van elke miljoen lezers er dus slechts vier overhouden.  Maar goed, de lezers kunnen ook naar het volgende hoofdstuk springen.
+Het Riemann-probleem gaat over de priemgetallen. Over de getallen dus die alleen door 1 en zichzelf deelbaar zijn: 2, 3, 5, 7, 11, 13, 17, 19, 23   enzovoorts. Sinds Euclides is al bekend dat de rij priemgetallen oneindig ver  doorloopt. Maar hoe zijn de priemgetallen verdeeld over de getallenlijn? Anders gezegd: als je het (tot nu toe) grootste priemgetal kent, weet je dan waar ongeveer   je de volgende priemgetallen  moet zoeken?
+De formidabele formule  van Riemann (1826-1866) wijst daarin de weg.  De 'niet-triviale nulpunten' van die  complexe formule  spelen een cruciale rol bij het tellen van  opeenvolgende priemgetallen. Het vermoeden van Riemann luidt dan dat die  'niet triviale nulpunten' allemaal op één rechte lijn liggen, iets wat met computers voor de eerste anderhalf miljard nulpunten  inderdaad is aangetoond. (In Amsterdam door Herman te Riele  en collega's.)
+Abstract? Inderdaad, en volgens sommige wiskundigen schuilt daarin juist de schoonheid van hun vak.  Maar  het mooie, en  diep raadselachtige is dat deze abstracte wiskunde   ook een relatie heeft met de   natuurkunde.  De verdeling van de nulpunten van Riemanns   'zètafunctie' lijkt namelijk sprekend op de verdeling van de toegestane energieniveaus van zware atomen als uranium. Juist daarom proberen wiskundigen  de Riemann-hypothese te bewijzen aan de hand van een denkbeeldig atoom. Daarin zijn de door de moderne quantummechanica  toegestane energieniveaus exact  de nulpunten van de zètafunctie. Riemannium  heet dit tekentafelatoom.
+P-versus-NP
+Niet alle millenniumproblemen zijn trouwens zo abstract. Het P-versus-NP-probleem,  bijvoorbeeld, is te danken aan  de opkomst van computers. Het deelt rekenproblemen ruwweg in twee groepen in: problemen die je  binnen afzienbare tijd kunt oplossen (polynomiale tijd,  P) én  problemen waarvoor de rekentijd al snel  onwerkbaar lang wordt.
+Het bekende handelsreizigersprobleem is  zo'n onhandelbaar  probleem. Hoe kun je een handelsreiziger de kortste weg langs honderd of duizend steden laten afleggen, als hij elke stad maar één keer mag bezoeken en moet terugkeren in de stad van vertrek? Dat berekenen vergt,  trucs ten spijt, al heel  snel miljarden jaren op de supercomputer.
+Tegelijk geldt:  áls iemand een oplossing aandraagt, dan is wel vlug te verifiëren of het inderdaad om de kortste route gaat. En die gekke asymmetrie - (haast) niet op te lossen, wel snel te checken - geeft deze problemen hun naam 'NP'. In vaktermen: nietdeterministisch (de oplossing gokken mag) en polynomiaal (checken lukt daarna snel).
+Wat betekent vervolgens   P-versus-NP? Dat heeft te maken met een speciale groep NP-problemen die  de Rus Leonid Levin en de Amerikaan Stephen Cooke ontdekten. 
+Onafhankelijk van elkaar lieten Levin en Cooke zien dat als je voor  één  van deze 'volledig NP-problemen' een snelle oplosmethode vindt, ook alle  andere volledig NPproblemen  snel oplosbaar  zijn. Ofwel: dan zouden deze duizenden problemen, waaronder  het handelsreizigersprobleem,  gewone  P-problemen zijn,  waarvoor we alleen de oplosmethode nog niet hebben gevonden.
+Het zou, juist wegens alle toepassingen, grote maatschappelijke gevolgen hebben, schrijven Van den Brandhof en collega's. Al kan een toekomstig genie natuurlijk ook aantonen dat voor NP-problemen juist géén snelle methodes bestaan.
+En ja, zulke ingewikkelde  'millenniumbewijzen' zullen daarna maanden of jaren door andere wiskundigen worden gecontroleerd. Alweer: miljonair word je  met dit boek dus niet. Maar het is  fijn om toch wat zicht te krijgen op de contouren van de hoogste wiskundebergen.
+Alex Van Den Brandhof, Roland van der Veen, Jan van de Craats en Barry Koren: De zeven grootste raadsels van de wiskunde, Uitgeverij Bert Bakker, 208 blz., EUR19,95.
+Graphic
+
+ 
+ Een lijntekening van de kortste reis (72.500 kilometer) van een handelsreiziger langs 24.978 plaatsen in Zweden.  De route behoort tot een klein groepje 'kortste routes' dat met slimme trucs voor speciale gevallen is gevonden. In het algemeen kost het al snel veel te veel rekentijd om kortste routes te bepalen. 
+ Kun je in een willekeurige 'graaf', zoals helemaal boven,  een wandeling vinden die eindigt op het beginpunt en waarin je elke lijn maar eenmaal doorloopt? Een zogeheten Eulercircuit?  Ja, dat kan. Het snelle recept daarvoor werd  in 1883 door de Fransman M. Fleury gevonden. Het Eulercircuit is daarmee een P-probleem (snel oplosbaar).
+In dit werk van de Pools-Nederlandse kunstenaar Eliza Kopec staan de getallen 1 tot 10.000 en zijn alle priemgetallen donkere vierkantjes. De witte verticale banen zijn het gevolg van het ontbreken van even priemgetallen (behalve het getal 2). Als je uitzoomt naar steeds grotere schalen  neemt het aantal priemgetallen steeds gelijkmatiger toe,   en wordt de afstand tussen opeenvolgende priemgetallen  gemiddeld steeds wat groter. Foto Jørgen Krielen
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Mathematics (94%); Physics (63%)
+Load-Date: October 29, 2012
+
+End of Document
+De hoogste toppen van de wiskunde
+
+De hoogste toppen van de wiskunde
+
+Page 2 of 5
+
+Page 2 of 5
+
+
+
+
+

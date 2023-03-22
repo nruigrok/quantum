@@ -1,0 +1,31 @@
+Aluminium scheiden met magnetisme
+De Telegraaf
+30 augustus 2014 zaterdag
+Copyright 2014 De Telegraaf All Rights Reserved
+
+Section: Wetenschap; Blz. 4
+Length: 339 words
+Byline: Veldkamp, Mark
+Body
+
+Vraag:   In afvalverwerkingsinstallaties wordt aluminium gescheiden door middel van magnetisme. Hoe werkt dit principe, aluminium is toch niet magnetisch?    Antwoord: 
+Magnetisme ontstaat via verschillende mechanismen. IJzer is magnetisch omdat elektronen in naburige ijzeratomen door een ingewikkelde kwantummechanische interactie elkaars magnetisme niet opheffen maar versterken.  
+        Een stukje ijzer bestaat daarom uit microscopisch kleine kluitjes atomen die magnetisch in een bepaalde richting gepoold zijn.  
+        In een magneetveld richten die kluitjes zich dezelfde kant op en wordt het stukje als geheel magnetisch, zodat het met een magneet uit het afval kan worden opgetild. In de meeste andere materialen, bijvoorbeeld in aluminium, heffen de magnetische effecten van elektronen elkaar paarsgewijs precies op en daarom worden die materialen niet magnetisch als ze in het veld van een magneet worden gebracht.   
+        Aluminium en andere non-ferro metalen zijn wél elektrisch geleidend en onder de juiste condities kan er een kringvormige stroom (ook wel wervelstroom) in een deeltje aluminium worden opgewekt. Elektrische stroom is ook een bron van magnetisme en zo kan een stukje aluminium toch (een kort moment) magnetisch zijn en door een magneet worden aangetrokken of afgestoten.  
+        In een recyclinginstallatie wordt dit effect benut om aluminium en koper uit een afvalstroom te schieten. Met een snelwisselend magneetveld wordt in elk aluminiumdeeltje gedurende circa 30 milliseconden een intens elektrisch kringstroompje 
+Aluminium scheiden met magnetisme
+opgewekt. Op hetzelfde moment wordt het met een magneet uit de afvalstroom geduwd. Het proces werkt goed als er een kringstroom met een diameter van tenminste enkele millimeters in het stukje non-ferro metaal past en het metaal goed elektrisch geleidend is.   
+        Prof. dr. Peter Rem   
+        TU Delft   Civiele Techniek en Geowetenschappen Resources & Recycling   
+        Heeft u ook een vraag op wetenschappelijk gebied, dan kunt u deze sturen naar wetenschap@telegraaf.nl   
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Telegraaf
+Subject: Superconductors (94%)
+Load-Date: August 29, 2014
+
+End of Document
+Page 2 of 2

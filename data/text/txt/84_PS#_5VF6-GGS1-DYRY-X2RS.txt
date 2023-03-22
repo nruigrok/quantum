@@ -1,0 +1,72 @@
+Majorana's in de achtervolging
+Trouw
+16 februari 2019 zaterdag
+Copyright 2019 De Persgroep Nederland BV All Rights Reserved
+
+Section: | Wetenschap; Blz. 14, 15
+Length: 1831 words
+Byline: JOEP ENGELS
+Highlight: supersnel - Het majorana-deeltje heeft de beste papieren als bouwsteen voor de quantumcomputer, maar terwijl de race al is begonnen, staat dit paradepaardje nog in de startblokken. Donderdag geeft de koning het startschot.
+Body
+
+Pin hem niet vast op een einddatum. "We plannen alles zo strak mogelijk", zegt fysicus Leo Kouwenhoven. "Maar we zitten nog altijd in de wetenschappelijke fase. We moeten rekening houden met onvoorziene tegenslagen." Zijn werkgever, technologiegigant Microsoft, spreekt zich ook niet uit over de termijn waarbinnen het einddoel bereikt moet zijn. 
+Dat doel, de quantumcomputer, lonkt al decennia aan de horizon. Diverse deadlines zijn inmiddels overschreden. Er zijn wel rekenapparaten die werken op de quantumtheorie, maar geen enkele komt in de buurt van de conventionele machines, laat staan dat de beloftes van de quantumcomputer zijn waargemaakt. 
+Kouwenhoven werkt met zijn groep aan een nieuwe rekeneenheid voor de quantumcomputer, een nieuw soort qubit (zie kader). Hij is hoopvol. "Ik durf wel te zeggen dat wij dit jaar onze eerste qubits zullen maken. En als ze aan de verwachtingen voldoen, kan het snel gaan." Hij gebruikt graag de metafoor van het kaartenhuis. "De qubits waarmee ik vroeger werkte, hadden de stabiliteit van speelkaarten. Straks heb ik legoblokjes in handen. Dat bouwt een stuk makkelijker." 
+Laboratorium 
+Die hoop baseert hij deels op de nieuwe onderzoeksfaciliteit waarover hij sinds een maand beschikt. In dit laboratorium kan hij de perfecte samples maken die hem de gewenste qubits moeten opleveren. Dit Quantum Lab is ingericht door Microsoft samen met de TU Delft, Kouwenhovens vroegere werkgever, op de Delftse campus. Komende donderdag wordt het laboratorium door koning Willem-Alexander officieel geopend. 
+De samenwerking met Microsoft draait om een exotisch deeltje dat lange tijd alleen op papier bestond, het majorana-deeltje. In 1937 stelde de Italiaanse fysicus Ettore Majorana - puur op theoretische gronden - dat er deeltjes bestonden die identiek waren aan hun spiegelbeeld. Dat betekende dat ze nauwelijks eigenschappen konden hebben. Immers, met bijvoorbeeld een positieve lading zou het spiegelbeeld negatief geladen zijn. En omdat deeltjes zonder eigenschappen zeer stabiel moesten zijn - ze hebben niets waarmee ze zijn te storen - was het van meet af aan duidelijk dat met de majorana's ideale qubits waren te maken. 
+Kouwenhoven was bij toeval in de zoektocht naar majorana's beland. Hij werkte al aan materialen die daarvoor nodig bleken, toen hij in 2010 een e-mail kreeg of hij eens wilde komen praten bij Microsoft. "Ze waren daar al jaren mee bezig", zegt Kouwenhoven. "Het was de langetermijnvisie van één persoon, hoofd onderzoek Craig Mundie. Hij had een hele groep rond dit soort qubits opgezet. Alle wiskunde lag al klaar. Nu zochten ze iemand die hun ideeën kon verwezenlijken." 
+De samenwerking werd onmiddellijk beklonken en in 2012 kon hij al de eerste waarnemingen van majorana-deeltjes melden. Het succes mondde in 2016 uit in de vestiging van het Quantum Lab in Delft. Kouwenhoven bleef nog wel hoogleraar aan de TU Delft, maar stopte als onderzoeksleider van QuTech, het instituut dat nog steeds aan quantumcomputers werkt, en trad in dienst bij Microsoft. 
+Ideale sample 
+Sinds een maand beschikt hij over een zogeheten clean room waarin hij het ideale sample kan maken waarin een majorana-deeltje kan ontstaan. "De grote uitdaging is om met de juiste materialen en op de juiste manier de samples te maken. We kunnen zo'n sample nu perfect opbouwen, atoomlaagje per atoomlaagje. Eerst een halfgeleider en dan in één keer de supergeleider erbovenop. Twee componenten die zich niet makkelijk laten verenigen." 
+Daarnaast biedt een testfaciliteit de mogelijkheid om uit te zoeken bij welke temperatuur (een paar milligraden boven het absolute nulpunt), welk magneetveld en elektrische spanning de samples het kunststukje vertonen en majorana's laten zien. 
+Dat lukt nu bij 10 procent van de samples. En het moet tegen de 100 procent worden. "Dan is de vraag: hoe goed zijn de majorana's als qubit? Andere soorten qubits maken eens in de honderd keer een fout. In theorie moeten de majorana's een op de miljoen scoren. Daar hopen we op, al gaan we ervan uit dat de eerste qubits niet verder komen dan een op tien." 
+Als ze de betrouwbaarheid weten op te vijzelen tot die gehoopte score, heeft Kouwenhoven zijn legosteentjes. Immers, als een op de honderd qubits in de fout gaat, moeten computerbouwers er tienduizend bijeenzetten zodat die samen één onfeilbare rekeneenheid vormen. 
+"Als de majorana's doen wat wij hopen, hoeven we er maar tien te groeperen. U begrijpt, dan kan het bouwen van een quantumcomputer heel snel gaan."
+De rekenkracht van het quantum
+Toen Richard Feynman begin jaren tachtig opperde een quantumcomputer te bouwen, werd de Nobelprijswinnaar nauwelijks serieus genomen. Quantum en computer: dat ging niet samen. Een computer rekent digitaal, met enen en nullen. In de quantumwereld gelden onzekerheden. Een en een is twee? Zou kunnen. 
+En toch kan het. Een quantumcomputer maakt niet alleen gebruik van die onzekerheden, hij wordt er ook krachtiger door. Op papier althans: in theorie lost een quantumcomputer bepaalde problemen binnen afzienbare tijd op, terwijl een conventionele supercomputer er na miljoenen jaren nog niet uit zou zijn. Zo'n machine bestaat alleen nog niet. 
+In de quantumwereld gelden andere wetten. Quantumdeeltjes zoals atomen of elektronen hebben meerdere eigenschappen tegelijk. Een elektron is zowel hier als daar, draait links én rechts om zijn as, en beweegt alle kanten op. Totdat iemand die eigenschappen meet, dan liggen ze ineens vast. Dan duikt het elektron op één plek op. Het klinkt bizar, maar de quantumtheorie heeft zich de afgelopen eeuw meermalen bewezen. Het is ook onbegrijpelijk, maar dat is niet erg, zei diezelfde Richard Feynman. "Niemand begrijpt de quantumtheorie." 
+Maar je kunt er wel mee rekenen. Stel dat een deeltje twee eigenschappen kan hebben - het kan linksom of rechts draaien. Dan kun je die twee toestanden als de 'nul' en de 'een' van de computer beschouwen en daar tegelijk mee rekenen. Koppel vervolgens twee van die deeltjes aaneen en je hebt al vier simultane rekeneenheden. Met drie deeltjes worden dat er acht en dan gaat het snel. Met tien deeltjes zijn het er al meer dan duizend. Al gauw is er meer rekencapaciteit dan alle supercomputers bijeen. 
+Die rekenkracht leent zich goed voor taken die zijn op te delen zodat elke rekeneenheid er één voor zijn rekening kan nemen. Leo Kouwenhoven illustreert deze werkwijze vaak met een doolhof. Een klassieke computer zoekt de uitgang door alle routes een voor een af te lopen. Een quantumcomputer splitst zich op en onderzoekt alle opties tegelijk. Een kwestie van niet storen en wachten tot een van die deeltjes de uitgang heeft bereikt.
+De race van de qubits
+Zoals een klassieke computer is opgebouwd uit bits, die 'nul' of 'een' kunnen zijn, zo heeft een quantumcomputer zijn quantumbits, of qubits. Dat kan een deeltje zijn (of een groep deeltjes) dat in twee duidelijk gescheiden toestanden kan verkeren. 
+Dat was een van de vijf criteria die David DiVincenzo twintig jaar geleden formuleerde voor een bruikbaar qubit. Verder moest zo'n qubit een resetknop hebben, je moest ermee kunnen rekenen, je moest een uitkomst kunnen aflezen en het qubit moest enigszins robuust zijn. 
+Die robuustheid is de bottleneck. Quantumsystemen zijn gevoelig voor verstoringen. Een beetje ruis is vaak al genoeg om de toestand te vernietigen waarin het systeem nog alle mogelijke waardes tegelijk aanneemt - in superpositie is, zeggen fysici. De superpositie moet langer standhouden dan de berekening duurt. 
+Dat doel is nog ver weg en ook nooit helemaal bereikbaar. Er zullen altijd qubits voortijdig omvallen. Het idee is om een paar qubits met dezelfde taak bijeen te zetten. Dan is het niet erg als er eentje faalt. Zolang de grote meerderheid maar eensgezind is. 
+Aan de TU Delft wordt nu aan vier mogelijke qubits gewerkt. Aan elektrische schakelingen van supergeleidend materiaal waar het voltage slechts enkele discrete waardes kan aannemen. Aan diamantkristallen waarin elektronen zijn gevangen bij een onzuiverheid en waarbij het gaat om de spin, zeg maar de tolling, van het elektron. Aan zogeheten quantumdots waarin diezelfde vrije elektronen zijn ingekapseld in een klassieke siliciumchip. En aan de majorana-deeltjes waarvan het bestaan zeven jaar geleden voor het eerst door de groep van Leo Kouwenhoven is aangetoond en waarop de groep nu samen met Microsoft zijn hoop heeft gevestigd. 
+De eerste drie zijn al enigszins ontwikkeld en sluiten ook redelijk aan op bestaande computertechnologie. Er zijn al quantumcomputers gemaakt van een twintigtal supergeleidende qubits - al zijn die nog lang niet zo krachtig als een gewone supercomputer. 
+De majorana's hebben op papier de beste vooruitzichten. De theorie zegt dat ze van nature robuust zijn, maar dat moeten ze in de praktijk nog bewijzen. Sterker, de Delftenaren hebben de vervaardiging van majorana's nog niet zo goed in de vingers dat ze ze als qubit kunnen inzetten. "In deze race zijn de majorana's nog niet uit de startblokken gekomen", zegt Lieven Vandersypen, hoogleraar nanotechnologie, die aan de quantumdots werkt. "Maar het gaat er niet om wie halverwege vooraan ligt. Het gaat erom wie wint."
+Het succes van Delft
+De TU Delft had al een lange staat van dienst in de nanotechnologie toen ze in 2013 besloot om met TNO de krachten te bundelen. De Delftse fysici hadden ideeën ontwikkeld voor de quantumcomputer, en ook componenten gebouwd, maar ze kwamen erachter dat het aaneenschakelen een vak apart was. Werk voor ingenieurs. In het nieuwe instituut QuTech zouden ze samen aan zo'n computer werken. 
+Die samenwerking geeft ons een unieke positie, zegt Kees Eijkel, zakelijk leider van QuTech. "De toepassing van wetenschappelijke resultaten is niet noodzakelijk ingebakken op een universiteit. Het is onze missie om iets te maken waar de industrie mee aan de slag kan." Het is een van de pijlers voor de succesvolle samenwerking nu met Microsoft, vervolgt hij. "We zijn een aantrekkelijke partner gebleken voor hen ." 
+Nu de industrie erbij zit, krijgt het onderzoek een enorme boost, zegt Lieven Vandersypen, een van de groepsleiders van QuTech. Zijn groep werkt samen met Intel, dat chips voor hem bouwt waarin zijn qubits zijn ingebakken. "Zij leveren die in een tempo en met een kwaliteit die ik met mijn eigen groep nooit zou kunnen 
+bewerkstelligen." 
+Ook Leo Kouwenhoven merkt hoeveel vaart het onderzoek krijgt door de samenwerking. "Mijn groep bestaat nu uit achttien mensen in vaste dienst die fulltime aan het onderzoek werken. Dat is toch wat anders dan tijdelijke promovendi en postdocs, terwijl er ook nog onderwijstaken te vervullen zijn." Maar meer nog telt het netwerk van Microsoft waarin hij nu is opgenomen. "Zij leveren software, elektronica, wiskundige ondersteuning. Die uitbreiding van het netwerk heeft de grootste impact."
+'Als de majorana's doen wat wij hopen, hoeven we er maar tien te groeperen. Dan kan het bouwen van een quantumcomputer heel snel gaan.'
+Bekijk de oorspronkelijke pagina: pagina 14, pagina 15
+Graphic
+
+ 
+Het Quantum Lab op de Delftse campus.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Physics (61%)
+Industry: Computing + Information Technology (94%)
+Load-Date: February 15, 2019
+
+End of Document
+Majorana's in de achtervolging
+
+Majorana's in de achtervolging
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

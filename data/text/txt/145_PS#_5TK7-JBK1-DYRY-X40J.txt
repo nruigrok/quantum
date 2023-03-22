@@ -1,0 +1,64 @@
+Het verstrengelde netwerk
+Trouw
+27 oktober 2018 zaterdag
+Copyright 2018 De Persgroep Nederland BV All Rights Reserved
+
+Section: | Wetenschap; Blz. 14, 15
+Length: 1906 words
+Byline: JOEP ENGELS
+Highlight: overal tegelijk - De quantumtheorie is raadselachtig, mysterieus. Maar zij gaat in de toekomst een nieuw en niet te kraken internet opleveren. En dat zou heel goed in de Randstad kunnen gebeuren.
+Body
+
+Op de avond van 29 oktober 1969 zaten ze er klaar voor. Pioniers van de universiteit van Los Angeles hadden een computerverbinding aangelegd met collega's op Stanford. Vol spanning typten ze de 'l' (van 'login') op hun computer. Ze hadden elkaar ook aan de telefoon en vanuit Stanford klonk een enthousiast 'ja' toen zij de 'l' op hun scherm zagen verschijnen. Ook de 'o' kwam goed door. Bij de 'g' crashte de verbinding. 
+Ronald Hanson haalt de ontstaansgeschiedenis van het internet graag aan als hij vertelt over het project dat de opvolger ervan zou moeten worden. "Dat zogeheten Arpanet is een voorbeeld voor ons. We hebben nu een supersnel netwerk, maar een halve eeuw lang werkte de helft niet. Toch brachten ze in Californië een fundamentele verandering tot stand." 
+Hanson, als hoogleraar verbonden aan het QuTech instituut waarin de Technische Universiteit Delft en TNO samenwerken, werkt aan het quantumnetwerk, een internet dat gebruik maakt van de bijzondere eigenschappen uit de quantumtheorie. Het quantuminternet belooft onder andere veel preciezer en veiliger te zijn. En het is geen science fiction. Vorige week zette Hanson in het vakblad Science uiteen, samen met zijn Delftse collega-hoogleraar Stephanie Wehner, welke weg ze te gaan hebben om het quantuminternet tot volle wasdom te brengen. Over twee jaar is de eerste test. Dan moet er zo'n netwerk functioneren dat centra in Amsterdam en Rotterdam, Delft, Leiden en Den Haag verbindt. 
+Hanson: "Ook dat zal niet meteen perfect werken. Er zal het nodige misgaan. Maar ik ben ervan overtuigd dat het net zo'n fundamentele vernieuwing zal brengen als het Arpanet toen. En dat ze over twintig of vijftig jaar zullen zeggen: 'Het is toen, in 2020, met dat quantumnetwerk in de Randstad begonnen'." 
+Hier en daar 
+De ideeën om een quantumvariant van het internet te bouwen, stammen al uit de tijd van het Arpanet. Stephen Wiesner, fysicus aan de Columbia University van New York, zag de mogelijkheden in van een fundamenteel aspect uit de quantumtheorie, namelijk dat je een eigenschap van een systeem niet kunt meten zonder die te wijzigen. Volgens de theorie zijn bijvoorbeeld atomen of lichtdeeltjes overal tegelijk. Ze zijn zowel hier als daar. De theorie zegt alleen wat de kans is dat je het deeltje bij een meting hier of daar aantreft. Ga je meten waar het deeltje is, dan leg je zijn positie vast en is die oorspronkelijke eigenschap van overal tegelijk zijn verloren gegaan. 
+Daar kun je in de communicatie gebruik van maken, bedacht Wiesner. Als je je informatie niet in klassieke bits (nullen en enen) verpakt, maar in de quantumvariant daarvan, qubits, dan is die veilig opgeborgen. Want als een spion het qubit afleest of kopieert, ziet de ontvanger van het bericht meteen dat eraan geknoeid is en dat de verbinding dus gehackt is. Pas als de qubits ongeschonden overkomen, is het veilig een geheime boodschap te versturen. 
+Die mogelijkheid wordt al toegepast, zegt Wehner. "Nog niet in een netwerk, maar wel voor een een-op-een-verbinding. Je kunt al kastjes kopen om veilig te communiceren." Financiële instellingen en overheden maken er al gebruik van en sinds tien jaar beveiligt zo'n quantumlink de Zwitserse verkiezingen. "Het is inherent veilig", zegt Wehner. "Je kunt je berichten ook klassiek versleutelen, maar met een krachtige computer of voldoende tijd kan een kwaadwillende zo'n sleutel kraken. De veiligheid van de qubitsleutel is gegarandeerd door de wetten van de natuur." 
+Maar dat is nog geen quantuminternet, geeft ze toe. In het artikel in Science zet ze uiteen welke stappen moeten worden gezet om tot een volwaardig quantuminternet te komen en welke mogelijkheden zich bij iedere stap openbaren. Bijvoorbeeld: nu moeten wetenschappers hun qubits een voor een verzenden. Er is immers nog nauwelijks een quantumgeheugen, waardoor de ontvanger de binnenkomende qubits meteen moet verwerken en niet even kan opslaan. 
+Wehner: "Als zo'n geheugen er is, worden quantumberekeningen mogelijk. Stel dat er dan ook een grote quantumcomputer bestaat, dan kun je die computer via het netwerk taken laten uitvoeren, zonder dat een derde meekijkt. Je kunt hem bijvoorbeeld informatie over je DNA opsturen en laten analyseren. De computer weet niet wat hij berekent en ook kunnen anderen niet meekijken met wat jij stuurt en ontvangt, zodat alleen jij je DNA-profiel te weten komt." 
+In latere stadia van de ontwikkeling komt een ander curieus quantumfenomeen om de hoek kijken: verstrengeling. Als twee quantumdeeltjes samenkomen, delen ze hun eigenschappen. En houden die ook voor zichzelf. Je weet als buitenstaander alleen wat de gezamenlijke waarde van hun eigenschappen is. En je weet dat als de een bijvoorbeeld plus is, de ander min moet zijn. Het is als met een paar schoenen die je over twee dozen hebt verdeeld. Je weet van tevoren niet wat waarin zit, maar tref je in de ene doos een linkerschoen, dan weet je dat in de andere doos de rechter zit. Maar die dozen kun je weer sluiten alsof er niets gebeurd is, terwijl een verbroken verstrengeling zich niet meer laat helen. 
+Dankzij de verstrengeling kun je op het quantuminternet een hoge mate van coördinatie bereiken zonder dat je hoeft te communiceren, zegt Wehner. "Als twee qubits verstrengeld zijn en je meet dat een van de twee de waarde nul heeft, dan weet je meteen dat de ander ook nul is, ook al bevindt die zich aan de andere kant van de wereld. Dankzij verstrengeling wordt online opslag van data heel consistent." 
+Ze geeft het voorbeeld van een bank. Die heeft, voor de zekerheid, op meerdere computers staan wat iemands saldo is. "Stel, jij pint 1000 euro, en op dat moment crasht het systeem. Dat pinnen is dan nog niet tot iedere computer doorgedrongen. Als het systeem weer is opgestart, zal op de ene computer 1000 euro zijn afgeschreven en op de andere niet. De vraag is: welke computer moet je geloven? Daar bestaan nu complexe protocollen voor, maar die zullen op een quantuminternet veel efficiënter 
+zijn." 
+Eindstation 
+Zo ver is het nog niet. Nog lang niet. Een eenvoudige vraag is nog niet naar volle tevredenheid beantwoord. Hoe zorg je ervoor dat de qubits altijd op hun eindstation aankomen? Een qubit is bijvoorbeeld een lichtdeeltje dat door een glasvezelnet wordt gestuurd. Vroeg of laat smoort dat lichtdeeltje ergens in die kabel. Klassiek is daar een antwoord op: je versterkt het signaal op gezette momenten. Vergelijk het met een telefoongesprek, zegt Wehner: "Als je iemand niet goed hebt verstaan, kun je altijd vragen: Wat zeg je?" 
+Dat kan met qubits niet. Je kunt qubits niet kopiëren. Je kunt wel allemaal dezelfde qubits maken, maar op het moment dat ze met hun informatie het quantuminternet zijn ingegaan, kun je daar niet meer bij. Je kunt ze niet meer aflezen - wat nodig is om ze te kopiëren - zonder hun quantumtoestand te verstoren. 
+Toch heeft China vorige maand een quantumnetwerk in gebruik genomen dat meer dan 2000 kilometer lang is en vier steden met elkaar verbindt. Maar dat is geen echt quantumnetwerk, legt Hanson uit. Er zitten 32 knooppunten in waar de qubits worden afgelezen, de informatie in nieuwe qubits wordt gezet en verder gestuurd. Hanson: "Dan gaat de quantumveiligheidsgarantie verloren. In China hoeft dat geen probleem te zijn. Daar posteren ze een tank en een stel soldaten bij ieder knooppunt. Maar zo willen we dat hier niet oplossen." 
+In Delft hebben ze een truc bedacht om het netwerk van begin tot eind quantumproof te maken. Daarvoor legden ze drie jaar geleden de basis met een experiment waarmee ze alle kranten haalden. Hansons groep bracht twee atoomdeeltjes die meer dan een kilometer van elkaar verwijderd waren in verstrengelde toestand. En bewezen zo definitief dat verstrengeling een reëel fenomeen is en niet 'iets spookachtigs' zoals Einstein altijd dacht. 
+Die techniek zetten ze nu in. Net als de Chinezen werken ook de Delftenaren met knooppunten, maar in Delft lezen ze de qubits niet af. Ze verstrengelen de knooppunten. "Uiteindelijk zijn dan begin- en eindpunt van het netwerk verstrengeld", zegt Hanson. Zijn begin en eind eenmaal verstrengeld, dan hoef je geen nieuwe qubits te versturen om het netwerk te gebruiken. "We teleporteren ze." 
+Hoe dat gaat? Je brengt een nieuwe qubit in contact met het beginpunt. Dat legt de toestand van het beginpunt vast en dus ook de toestand van het daarmee verstrengelde eindpunt. Je meldt de gebruiker bij dat eindpunt wat je hebt gedaan. Dat kan via een gewoon kanaal, zoals het huidige internet. De eindgebruiker kan die mededeling gebruiken om de qubit van het eindpunt in de toestand te krijgen van de qubit waarmee jij begon. Je hebt die qubit niet hoeven versturen; zijn quantumtoestand is geteleporteerd. 
+Daar kwam wel het nodige experimenteerwerk bij kijken. Zo'n verstrengeling lukt lang niet altijd. En als je een hele reeks aan elkaar wilt knopen, is de kans groot dat het ergens mislukt. Hanson: "Een van de verbeteringen ten opzichte van de proef uit 2015 is dat we geheugens kunnen gebruiken die tussentijds verstrengeling kunnen vasthouden. Telkens als de verstrengeling van twee knopen gelukt is, krijgen wij het signaal 'oké', slaan we de verstrengeling op en kunnen we naar de volgende knoop. Zo maken we de kans op succes een stuk groter." 
+In het lab werken ze nu toe naar het eerste quantumnetwerk van drie knooppunten, en over een jaar willen ze dat uitbreiden naar vier. Dat is een cruciale stap: pas bij vier knopen ontstaan er situaties waarbij twee knopen alleen via een tussenknoop met elkaar in verbinding staan. Voor komend voorjaar staat ook al de verbinding Delft-Den Haag op het programma en eind 2020 moet dus het quantumnetwerkje in de Randstad draaien. Hanson: "Uit ervaring weet ik dat elke stap je weer voor nieuwe uitdagingen stelt. Maar ik verwacht niet dat er fundamentele problemen zullen opduiken."
+Welke toepassingen kunnen we verwachten?
+De mogelijkheden van een quantuminternet worden pas echt groot als er ook quantumcomputers zijn. Die maken gebruik van het fenomeen dat qubits in vele toestanden tegelijk verkeren. De computer kan daardoor als het ware op meerdere borden tegelijk spelen en een bepaald soort rekenopdrachten veel snel uitvoeren. 
+De eerste quantumcomputers zullen kostbaar zijn en alleen in speciale rekencentra staan. Het quantuminternet biedt dan de mogelijkheid om van huis uit die computer iets te laten berekenen zonder dat anderen meekijken. Handig bijvoorbeeld als je een medicijn of een materiaal hebt ontworpen en een computer wilt laten berekenen of het ook werkt, zonder dat anderen er met je ontwerp vandoor gaan. Of een groep moet een besluit nemen of een leider kiezen. In een quantumnetwerk kan iedereen zijn kaarten op tafel leggen zodat de computer een gemene deler kan zoeken zonder dat anderen die kaarten kunnen zien. 
+Als het quantumnetwerk zo volwaardig is dat verstrengeling een rol speelt, dan biedt het een ongekende mogelijkheid om klokken gelijk te zetten. Immers, als twee deeltjes aan weerszijden van de wereld verstrengeld zijn en je meet het ene, dan leg je op dat meetmoment ook het andere vast. En als klokken exact worden, geldt dat ook voor GPSsystemen. De precisie zou dan volgens sommigen van meters naar millimeters gaan. 
+Ook de sterrenkunde kan ervan profiteren. Nu al zijn diverse telescopen gekoppeld voor een scherper beeld. Als je die signalen nog beter kunt synchroniseren, krijg je een supertelescoop.
+Bekijk de oorspronkelijke pagina: pagina 14, pagina 15
+Graphic
+
+ 
+Het lab van onderzoeksgroep QuTech, waar gewerkt wordt aan het quantuminternet.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Industry: Computing + Information Technology (94%); Internet + Www (68%); Computer Networks (63%)
+Load-Date: October 26, 2018
+
+End of Document
+Het verstrengelde netwerk
+
+Het verstrengelde netwerk
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

@@ -1,0 +1,29 @@
+Delftse fysici bouwen quantumnetwerk
+de Volkskrant
+17 februari 2021 woensdag
+Copyright 2021 DPG Media B.V. All Rights Reserved
+
+Section: Ten Eerste; Blz. 9
+Length: 371 words
+Byline: GEORGE VAN HAL
+Highlight: In Delft is het eerste bruikbare quantumnetwerk gebouwd. Dit is een stap naar een onkraakbaar internet dat quantumcomputers met elkaar laat communiceren.
+Body
+
+Het nieuwe netwerk dat fysicus Ronald Hanson met collega's bouwde in quantuminstituut QuTech in Delft is de eerste in zijn soort, een quantumnetwerk dat drie fysieke punten met elkaar verbindt. Dat schrijven ze in een voorpublicatie van hun onderzoeksresultaten op website Arxiv.org. 
+Van zo'n netwerk dromen fysici al sinds de jaren tachtig. Toen ontstonden plannen voor computers die rekenen met de tegendraadse regels van de quantumfysica, de natuurkundetheorie die de wereld op de allerkleinste schaal beschrijft. Op die schaal gedraagt de werkelijkheid zich op manieren waar we ons met ons brein weinig bij kunnen voorstellen. Zo kunnen kunnen qubits in de quantumwereld bijvoorbeeld nul én een tegelijk zijn. 
+Dat quantumrekenen leidt tot computers die voor bepaalde toepassingen de allerbeste supercomputers vér achter zich zullen laten. Quantumcomputers kunnen in de toekomst wellicht nieuwe medicijnen ontwikkelen of materialen die een energierevolutie kunnen ontketenen. 
+Zulke computers passen niet op het 'gewone' internet, dan verliezen ze hun quantumkrachten. Vandaar dat Hanson en collega's een rudimentaire versie van een nieuw soort internet hebben gebouwd dat gebruikmaakt van zogeheten verstrengeling. Doe je iets met één verstrengelde qubit dan heeft dat instantaan invloed op de andere. 
+Zelfs als die bij wijze van spreken op Mars staat. 
+Delftse fysici bouwen quantumnetwerk
+Het nieuwe labnetwerk dient vooral als bewijs dat een quantuminternet ook op grotere schaal mogelijk is. Zo verbindt het nog geen quantumcomputers, maar 'slechts' losse qubits. Desondanks noemt quantumfysicus Anton Zeilinger van de universiteit van Wenen dit 'een echte mijlpaal'.  Zo is dit de eerste opstelling waarin drie fysieke qubits met elkaar worden verbonden. Eerder lukte dat alleen met de 'losse' lichtdeeltjes, fotonen, die als informatieboodschappers dienen. Ook beschikt het netwerkje voor het eerst over een eigen quantumgeheugen dat informatie even kan vasthouden. 
+Op het netwerk willen de fysici de komende jaren experimenten doen die dit soort verbindingen betrouwbaarder en gebruiksvriendelijker maken. Zodat je in de toekomst net zo makkelijk een quantumcomputer op het quantumnet aansluit als je mobieltje op 5G.
+Bekijk de oorspronkelijke pagina: pagina 9
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Industry: Computing + Information Technology (94%); Internet + Www (69%)
+Load-Date: February 16, 2021
+
+End of Document
+Page 2 of 2

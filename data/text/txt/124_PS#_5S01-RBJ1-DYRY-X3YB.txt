@@ -1,0 +1,44 @@
+Lang gezocht deeltje is gevonden
+de Volkskrant
+29 maart 2018 donderdag
+Copyright 2018 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap; Blz. 27
+Length: 677 words
+Byline: MARTIJN VAN CALMTHOUT
+Highlight: De Delftse nano-onderzoeker Kouwenhoven had gelijk: het veronderstelde majorana-deeltje bestaat. De vondst brengt de komst van quantumcomputers een stap dichterbij.
+Body
+
+Zes jaar nadat de Delftse nanonatuurkundige Leo Kouwenhoven op een conferentie in Boston de wereld verbaasde met een deeltje waarnaar tachtig jaar tevergeefs was gezocht, kan de champagne eindelijk open. Delftse en Eindhovense fysici zijn er na jaren werken in geslaagd echt aan te tonen dat ze dat roemruchte majorana-deeltje kunnen maken, en melden dat donderdag in Nature. 
+Met het nieuws haalt ook een computerbedrijf als Microsoft opgelucht adem, omdat het majorana-deeltje essentieel is voor de pogingen om een quantumcomputer te bouwen. Wereldwijd steken techbedrijven als Google en IBM miljarden in die supercomputers van de toekomst. Microsoft investeert in Delft. 
+Majorana-deeltjes werden in 1937 voor het eerst voorspeld door de Italiaanse theoreticus Ettore majorana (1906-1938). Sindsdien is er uitgebreid naar gezocht, maar ze werden nooit gevonden. Zes jaar geleden vonden Delftse onderzoekers wel al sterke aanwijzingen dat ze majorana-achtig gedrag konden opwekken in speciale supergeleidende chips. Maar het definitieve bewijs ontbrak, en bleek ook elders niet goed te vinden. 
+'Het is een lange en lastige weg geweest, maar nu zijn we er uit', zegt de Delftse hoogleraar Leo Kouwenhoven, die tegenwoordig in dienst van Microsoft werkt aan de TU Delft. Hij presenteerde in 2012 op een afgeladen conferentie in Boston de aanwijzingen voor het majorana-deeltje, die tot een wereldwijde sensatie leidden. Science publiceerde 
+Lang gezocht deeltje is gevonden
+destijds het onderzoek en wijdde er een omslagverhaal aan, een ereplek voor onderzoekers. 
+Het onderzoek naar quantumcomputers had de hoop op ontdekking van het deeltje gewekt, omdat majorana's op papier stabiele bits voor zulke supercomputers zijn. Met meer conventionele quantumbits is dat een groot probleem, omdat die wel de benodigde rekenkracht leveren, maar zeer gevoelig zijn voor warmte en trillingen. 
+Zes jaar geleden hield Kouwenhoven in Boston nog een slag om de arm. Hij sprak over aanwijzingen, ook in het Science-artikel. Tijdens persconferenties benadrukte hij de ongewisheid. 'Het loopt als een eend en kwaakt als een eend, maar we moeten nog bewijzen of het ook de eend is die we zoeken.' 
+Het artikel in Nature lijkt dat nu inderdaad aan te tonen, zegt nanofysicus en majoranajager Charles C. Marcus van het Niels Bohr-instituut in Kopenhagen, dat als concurrent niet bij het Nederlandse werk is betrokken. 'In ons vak gaat het altijd om de vraag welke interpretatie het beste bij de metingen past. Inmiddels is het moeilijk nog iets anders te bedenken dan dat we majorana's zien', zegt hij. 
+In theorie verloopt de elektrische geleiding in de majorana-draadjes stapsgewijs. Maar tot nu toe was dat niet aan de metingen te zien, zodat er twijfel bleef over de majoranaclaim. Na lang proberen weten de Nederlandse onderzoekers nu dat te grove contacten met het nanodraadje de metingen verstoorden. Met andere opdamptechnieken, in Santa Barbara ontwikkeld, worden nu zodanig schone majorana-chips gemaakt, dat die het gezochte stappenpatroon wel laten zien. 'De piekjes staan op de goeie plek en hebben precies de goede hoogte', zegt Kouwenhoven in het artikel. 
+Bedrijven als Microsoft hebben hun hoop gevestigd op majorana-deeltjes voor de bouw van betrouwbare quantumcomputers, omdat die in theorie zeer stabiel zijn in een geheugen. Dat komt door hun zogeheten topologische eigenschappen. Om wiskundige redenen kunnen majorana-deeltjes niet van toestand veranderen. 
+Bedrijven als Google en IBM gebruiken andere methoden en hebben inmiddels de eerste testcomputers aan de praat. Microsoft werkt nog aan de eerste rekentests met majorana-qubits. 
+Volgens Charles Marcus in Kopenhagen is het nieuwe werk van de Kouwenhoven-groep vooral belangrijk omdat het perspectief biedt op toepassingen in het quantumrekenen. 'Er liggen nog enorme uitdagingen voor ons, maar dit is een sterke aansporing voor de majorana-route.'
+Page 2 of 3
+Lang gezocht deeltje is gevonden
+Bedrijven als Microsoft hebben hun hoop gevestigd op het deeltje omdat het zeer stabiel is
+Het is een lange en lastige weg geweest, maar nu zijn we eruit
+Bekijk de oorspronkelijke pagina: pagina 27
+Graphic
+
+ 
+Impressie van een nanochip waarop Delftse fysici een majorana-deeltje laten ontstaan.
+Ettore Majorana
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Standards + Measurements (63%); Physics (62%)
+Industry: Computing + Information Technology (94%)
+Load-Date: March 28, 2018
+
+End of Document
+Page 3 of 3

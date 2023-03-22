@@ -1,0 +1,46 @@
+Dichter bij een veilig quantuminternet
+NRC
+16 april 2021 vrijdag
+Copyright 2021 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 16
+Length: 838 words
+Byline: Dorine Schenk
+Dateline: Amsterdam 
+Body
+
+ABSTRACT
+Natuurkunde Internetverbindingen zijn af te luisteren. Voor een quantum-internet geldt dat niet. In Delft is daarvoor nu een belangrijke stap gezet.
+VOLLEDIGE TEKST:
+Het eerste quantumnetwerk - met drie knooppunten - is een feit. Dit kleinschalige netwerk, gebouwd in een Delfts lab, is een belangrijke stap naar een groter 'quantuminternet' dat gegarandeerd veilige verbindingen tot stand kan brengen en toekomstige, krachtige quantumcomputers aan elkaar kan koppelen.
+Over een quantumnetwerk kan quantuminformatie gestuurd worden. Bij gewone internetverbindingen en computers bestaat de informatie uit bits die 1 óf 0 zijn. Quantum-infor-matie bestaat uit qubits, die een combinatie van 1 én 0 kunnen zijn. Hierdoor bevatten ze meer informatie dan gewone bits. Bovendien kun je qubits verstrengelen, waardoor ze een bijzondere band met elkaar aangaan. Als je twee verstrengelde qubits meet, dan geven ze altijd, onmiddellijk hetzelfde antwoord, zelfs als je een van de twee naar de andere kant van het heelal stuurt.
+Kapotte verstrengeling
+Dichter bij een veilig quantuminternet
+Dankzij verstrengeling heeft het quantuminternet een aantal bijzondere en nuttige eigenschappen. Het zorgt er bijvoorbeeld voor dat niemand ongemerkt je quantumverbinding kan afluisteren. Daarbij maak je de verstrengeling namelijk kapot. Dat is handig voor het versturen van gevoelige informatie.
+Eenvoudige quantumverbindingen zijn al mogelijk met directe verbindingen tussen twee systemen. Maar als je een grootschalig quantuminternet wilt bouwen, dan heb je knooppunten nodig die andere punten met elkaar verbinden. De Delftse onderzoekers laten zien dat dit kan door twee qubits en een tussenliggend quantumknooppunt te verstrengelen. Hun resultaten verschenen donderdag in Science.
+,,Elk van de drie punten van ons netwerk bestaat uit een diamantchip", vertelt Sophie Hermans, promovendus bij de onderzoeksgroep van het Delftse QuTech, dat het experiment uitvoerde. Dit is een diamantje met daarin een 'foutje': een plek waar een koolstofatoom is vervangen door een stikstofatoom, met daarnaast een gat waar een koolstofatoom mist. In dit foutje zit een extra elektron gevangen. ,,Dat zijn onze werkpaarden, de qubits", legt Hermans uit. ,,Om te zorgen dat de gevoelige qubits zo min mogelijk verstoord worden, koelen we ze af naar -269°C."
+De Delftse onderzoekers hebben twee chips, genaamd Bob en Charlie, in het lab fysiek verbonden (maar nog niet verstrengeld) met een glasvezelkabel van twee meter. De derde chip - Alice - staat in een andere ruimte en was met glasvezel van dertig meter verbonden met Bob. Bob is het tussenliggende knooppunt en heeft daarom een tweede qubit, die dient als geheugen. Om het netwerk te verbinden worden eerst Alice en Bob met elkaar verstrengeld met behulp van door de elektronen uitgezonden fotonen (lichtdeeltjes) die door de glasvezel reizen. Die verstrengeling wordt opgeslagen in Bobs geheugenqubit. Nu zijn Alice' en Bobs geheugenqbit met elkaar verstrengeld. Dan wordt Bobs andere qubit verstrengeld met Charlie en is het netwerk compleet.
+,,Vervolgens hebben we het netwerk op twee manieren gebruikt", zegt Hermans. ,,Eerst hebben we Bobs geheugenqubit met zijn andere qubit verstrengeld waardoor alle drie de chips met elkaar verstrengeld raakten." Zo'n verstrengeld netwerk kan bijvoorbeeld gebruikt worden om atoomklokken exact te synchroniseren.
+Daarnaast hebben de onderzoekers het netwerk aangepast door Bob eruit te halen en zo de verstrengeling te 'tele-porteren' naar Alice en Charlie. Die zijn dan niet fysiek verbonden met een glasvezel, maar enkel via hun verstrengeling. Bob kan dan de verbinding tussen Alice en Charlie niet ongemerkt afluisteren. Dit is nuttig voor grotere quantumnetwerken. Bob is dan een soort quantum-telecomprovider die anderen met elkaar verbindt, maar zelf niet kan meeluisteren.
+,,Wat bij ons experiment cruciaal is, is dat we meteen een signaal krijgen als het gelukt is om knooppunten te verstrengelen. Dat zorgt ervoor dat het netwerk schaalbaar is naar meer knooppunten en complexere operaties", vertelt Hermans. Bij andere experimenten 
+Page 2 of 3
+Dichter bij een veilig quantuminternet
+met drie knooppunten kon je bijvoorbeeld alleen achteraf zien dat de verstrengeling gelukt is.
+Niet-betrokken quantumfysici zijn enthousiast over het experiment. ,,Ik vind het spectaculair goed", zegt hoogleraar Gerhard Rempe van het Duitse Max Planck Institute of Quantum Optics. ,,Het bouwen van een quantumnetwerk is een van de grote uitdagingen in quantumfysica-onderzoek. Het verbinden van meerdere knooppunten is technisch lastig omdat er een risico is dat omgevingsfactoren de gevoelige qubits verstoren."
+Hermans denk niet dat het quantuminternet het huidige internet zal vervangen. ,,Het versturen van quantuminformatie is lastiger en duurt langer dan gewone informatie. Als het niet nodig is, is het huidige netwerk eenvoudiger." Het quantumnet kan een extra verbinding worden voor veilige encryptie en om contact te leggen met toekomstige, grote en krachtige quantumcomputers.
+Ik vind het spectaculair goed Gerhard Rempe Max Planck Institute
+Link naar PDF
+Graphic
+
+ 
+Sophie Hermans en haar collega Matteo Pompili bij de chip genaamd Alice in het laboratorium van QuTech in Delft.
+Foto Marieke de Lorijn
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Industry: Computing + Information Technology (94%); Internet + Www (71%); Computer Networks (63%)
+Load-Date: April 15, 2021
+
+End of Document
+Page 3 of 3

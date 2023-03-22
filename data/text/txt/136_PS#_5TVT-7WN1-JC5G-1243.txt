@@ -1,0 +1,76 @@
+'Het vergt lef om te geloven dat je meer versies hebt'; Deze man bestaat miljarden malen; Natuurkundige Sean Carroll denkt dat hij in voortdurend splitsende universa leeft. 
+NRC Handelsblad
+1 december 2018 zaterdag
+Copyright 2018 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 1
+Length: 2283 words
+Byline: Dorine Schenk
+Lars van den Brink
+Body
+
+ABSTRACT
+Natuurkunde De theorie achter de quantummechanica is bizar en contra-intuïtief. De Amerikaanse natuurkundige Sean Carroll probeert haar, als een van de weinigen, te doorgronden. Hij denkt dat er meerdere werelden zijn, en meerdere versies van hemzelf.
+VOLLEDIGE TEKST:
+Er is niks raarders dan quantummechanica. Oké, het is een van de meest succesvolle natuurkundige theorieën. En ja, voorspellingen komen tot op hoge nauwkeurigheid overeen met de resultaten van experimenten. Maar de theorie echt snappen?  ,,De meeste natuurkundigen gaan ervan uit dat niemand quantummechanica ooit zal begrijpen", zegt Sean Carroll, hoogleraar natuurkunde aan de technische universiteit Caltech in de VS.  ,,En dat het ook zonde van je tijd is om het te proberen. Ik ben het daar niet mee eens." Carroll probeert, als een van  weinigen, de theorie wél te doorgronden. Hij was onlangs in Nederland, om aan de Universiteit Leiden een colloquium te geven.
+ Quantummechanica is compleet anders dan andere theorieën. Klassieke mechanica, waar je op de middelbare school over leert, kun je intuïtief bevatten. Je kunt aanvoelen dat een blok boven aan een helling naar beneden glijdt en dat een omhooggeschoten kogel weer naar beneden komt. Maar quantummechanica druist tegen alle gevoel in.  Deeltjes hebben geen duidelijke eigenschappen. Je kunt ze zien als kleine kogeltjes, maar ook als dansende golven. En soms zijn ze ook nog op twee plekken tegelijkertijd.
+Hoe is dat te verklaren? Carroll hangt de zogeheten  many-worlds interpretation aan, het idee dat er meerdere universa bestaan, en ook meerdere versies van hemzelf. Een paar uur voordat hij het colloquium geeft, legt hij dit bizarre idee uit. ,,Zodra je een quantumdeeltje meet of bekijkt, splitst het universum zich in twee vertakkingen", zegt Carroll geroutineerd. Zijn uitleg verraadt dat hij veel publieke lezingen geeft en gewend is aan de verbaasde reacties. ,,Voordat je keek was het deeltje volgens de quantummechanica op twee plekken tegelijkertijd; bijvoorbeeld rechts en links. Op het moment dat je kijkt is dat nog steeds zo, maar het universum heeft zich dan opgesplitst in een wereld waarbij het deeltje links is en jij het deeltje daar ziet, en een wereld waarbij het deeltje rechts is en een andere versie van jou het deeltje rechts ziet."
+Quantummechanica is  niet bedacht door geleerden die op een avond samen zaten te filosoferen, vertelt Carroll. ,,We werden gedwongen tot de theorie, door de uitkomsten van experimenten. We hebben haar nodig om observaties van het gedrag van subatomaire deeltjes te kunnen beschrijven en voorspellen."
+Volgens de quantummechanica hebben deeltjes geen duidelijk gedefinieerde eigenschappen. Hun locatie is niet precies aan te wijzen. Een elektron bijvoorbeeld bevindt zich vóór een meting niet exact op plek A. Het enige dat je over het deeltje kunt zeggen, is wat de káns is dat het zich op plek A bevindt. Daarnaast is er dus ook een kans dat het deeltje rechts van, links van, onder of boven plek A is. Pas zodra je meetapparatuur aanzet en observeert waar het elektron is, zie je het op één duidelijk gedefinieerde plek. Maar voordat je ging meten was er geen enkele manier om zeker te weten dat het deeltje precies daar zou zijn. Bij de klassieke mechanica van Newton is het tegengesteld. Als je alle details weet van een deeltje en zijn omgeving kun je alles precies voorspellen. Dat voelt intuïtief realistischer. Daarom zou je zeggen dat het deeltje voor de meting wel op een duidelijke plek was, maar dat de onderzoeker niet wist waar het was, dus dat-ie zich moest behelpen met procenten en kansen. Maar dat is volgens de quantummechanica niet het geval. Die theorie zegt dat het deeltje voor de meting echt op meerdere plekken tegelijkertijd was. In quantumjargon: de locatie van het elektron was in een superpositie van verschillende locaties.
+De verdeling van de kans om een deeltje op een bepaalde plek (of in een bepaalde toestand) aan te treffen, heet de golffunctie van het deeltje. Die functie is  voor te stellen als een simpele golfvorm, met een top en aan beide kanten een geleidelijk aflopende helling. Waar de functie het hoogst is, is de kans om het deeltje aan te treffen het grootst. 
+De golffunctie doet uitstekende voorspellingen, maar roept ook veel vragen op. Hoe moeten we die kansverdeling interpreteren? Wat betekent het dat een deeltje geen duidelijke locatie heeft? En waarom zien we het wél op één duidelijke plek zodra we gaan meten? 
+Natuurkundestudenten leren tijdens de colleges quantummechanica meestal de zogenoemde Kopenhaagse interpretatie, in de jaren twintig van de vorige eeuw  ontwikkeld door Niels Bohr en Werner Heisenberg in Kopenhagen. Volgens die interpretatie is een quantumdeeltje niet op één plek (het is dus een golffunctie) tot je ernaar kijkt, of het op een andere manier observeert. Op het moment dat je het deeltje meet, verdwijnt die kansverdeling. Het deeltje is dan op één duidelijk gedefinieerde plek. De golffunctie is 'ineengestort', zoals natuurkundigen het noemen. Het meten zelf is dus iets bijzonders dat invloed heeft op de eigenschappen van het deeltje.
+,,Het is bizar dat we studenten dat leren", zegt Carroll. ,,Waarom zou een meting zoveel invloed hebben? En wat is een meting precies? Kunnen alleen bewuste wezens dat doen of kunnen stenen ook iets observeren?" Dit heet het meetprobleem en er is geen duidelijke oplossing voor. Daarom bestaan er naast de Kopenhaagse interpretatie verschillende andere manieren om de vergelijkingen van quantummechanica te interpreteren.
+,,Quantummechanica is verschrikkelijk, want je hebt verschillende regels nodig om te beschrijven wat een systeem doet als je er niet naar kijkt (de golffunctie) en wanneer je er wel naar kijkt (de ineengestorte golffunctie). Ik kan me niet voorstellen dat dat is hoe de natuur werkt. We zitten dus in de vreemde positie dat we een theorie hebben en gebruiken, zonder dat we die echt begrijpen."
+Volgens Carroll zou dat hoge prioriteit moeten krijgen. ,,De wetenschappers die eraan werken om de theorie fundamenteel te begrijpen zouden als supersterren behandeld moeten worden. Maar het tegendeel is waar. Als je eraan wilt werken, dan kost het veel moeite om een onderzoekspositie aan een universiteit te vinden. Er zijn maar twee groepen mensen die zich ermee  bezighouden: bijna gepensioneerde wetenschappers, en promovendi die vaak daarna de wetenschap verlaten."
+Hoe is het zo gekomen dat u werkt aan de fundamenten van quantummechanica?
+,,Ik begon met theoretisch werk op het gebied van kosmologie en de oerknal. Daar werk ik nog steeds aan. Daarnaast ben ik me bezig gaan houden met quantummechanica. Ik probeer heel hard de fundamenten daarvan te begrijpen. Die kennis hoop ik te gebruiken om vraagstukken te beantwoorden over kosmologie en de oorsprong van het universum. Het hele universum zou namelijk de wetten van de quantummechanica moeten volgen. 
+De theorie is ontwikkeld om dingen op de kleine schaal te beschrijven, zoals atomen en elektronen, maar het geldt ook voor mensen, planeten en het universum als geheel."
+Waarom is er nog geen eenduidige interpretatie van de quantummechanica?
+,,Door dat meetprobleem. Als we niets zouden meten, dan zou de quantummechanica volkomen duidelijk zijn: we hebben een golffunctie, zoals ruim negentig jaar geleden  door Schrödinger beschreven, en er is een vergelijking waar die golffunctie aan gehoorzaamt. Dat werkt allemaal prima. Maar in de 'echte wereld' is meten en observeren tamelijk belangrijk. En op het moment dat je dat doet, verdwijnt die goed beschreven golffunctie." 
+Wat is volgens u de beste manier om het meetprobleem te begrijpen?
+,,Ik ben een voorstander van de veel-werelden-interpretatie. Die ontwikkelde de Amerikaan Hugh Everett tijdens zijn promotie in de jaren vijftig. In die interpretatie stort de golffunctie nooit in. Hij blijft gewoon bestaan en voortbewegen in de tijd. Wat er wel gebeurt, is dat de wereld vertakt. Stel bijvoorbeeld dat wij met elkaar zitten te praten terwijl er een radioactief deeltje in de kamer is dat wel of niet vervalt. Het universum vertakt dan in één wereld waarin het radioactieve deeltje vervallen is en één waarin dat niet zo is. Dit is lastig om te bevatten, het klinkt vreemd. Maar het is wel wat de vergelijkingen van de quantummechanica voorspellen. De quantummechanische Schrödingervergelijking, die goede voorspellingen doet, beschrijft namelijk geen plotse ineenstortingen van golffuncties. Sommige natuurkundigen vinden de veel-wereldeninterpretatie zo vreemd dat ze ervan af proberen te komen door de vergelijkingen te veranderen, zodat het wel ineenstortingen beschrijft. 
+,,Volgens de veel-werelden-interpretatie vergeet je als observator één ding: je bent zelf ook quantummechanisch, dus je hebt zelf een golffunctie. Het totale systeem van jou en het radioactieve deeltje is in een zogenoemde superpositie, dus in twee toestanden tegelijkertijd: het deeltje is vervallen en dat is wat jij meet, en het is niet vervallen en je meet dat het niet vervallen is. Beide mogelijkheden bestaan, maar zodra ze ontstaan zijn, omdat jij bent gaan meten, kunnen ze geen informatie meer met elkaar uitwisselen. Je kunt de ene mogelijkheid niet meer detecteren vanuit de andere mogelijkheid. Of, als ik het voorzichtiger formuleer: het is ongelofelijk onwaarschijnlijk. Het is net als melk in koffie mengen. Als je heel lang wacht, is het in theorie mogelijk dat ze spontaan weer van elkaar kunnen scheiden, waarbij je een laagje koffiemelk overhoudt en een laag koffie. Maar je moet vele malen langer wachten dan de leeftijd van het universum. En dat is net zo met de vertakkingen van het universum; ze hebben geen interacties met elkaar, behalve in hele zeldzame gevallen als je veel geluk hebt." Dan moeten er bijna oneindig veel universa zijn. Kan dat?
+,,Je kunt berekenen hoeveel het er ongeveer moeten zijn: ontzettend veel, maar niet oneindig veel. En het is niet zo dat er universa uit het niets ontstaan. Er hoeft niet plots extra energie of materie te verschijnen om die werelden te maken. Want alle vertakkingen zijn er altijd al geweest. Alleen merk je pas in welke opsplitsing je leeft als je observeert.  
+,,De veel-werelden-interpretatie accepteren is een kwestie van lef. Als je 'gelooft' dat quantummechnica klopt en dat deeltjes in verschillende toestanden tegelijkertijd (superpositie) kunnen zijn, dan moet je ook kunnen geloven dat je zelf in een superpositie kunt zijn en dat het universum in een superpositie kan zijn."
+Hoe wordt er door andere wetenschappers gedacht over de veel-werelden-interpretatie?
+,,Heel verschillend. Van de natuurkundigen negeert het grootste deel de fundamentele vragen van quantummechanica. Ze gebruiken haar  om voorspellingen mee te doen, maar ze denken niet over de fundamentele vragen na.  Filosofen willen meestal wel de fundamenten van quantummechanica begrijpen. Maar, zoals David Wallace [filosoof met een achtergrond in de natuurkunde, red.] hierover zei: 'natuurkundigen denken: alles wat we nodig hebben is beter filosofisch begrip en filosofen denken: alles wat we nodig hebben is betere natuurkunde'." 
+Is het mogelijk om de veel-werelden-interpretatie te bewijzen?
+,,Het is mogelijk haar te weerleggen. De interpretatie gaat ervan uit dat de golffunctie geleidelijk in de tijd evolueert. Als je ooit ergens een golffunctie ziet die zich niet zo gedraagt, en bijvoorbeeld plots ineenstort, dan weerleg je veel-werelden."
+Dat is precies waarmee fysici aan  de Universiteit Leiden bezig zijn. Onder leiding van Tjerk Oosterkamp testen ze een alternatieve theorie die de veel-werelden-interpretatie weerlegt. Die theorie  breidt de Schrödingervergelijking uit en beschrijft hoe de golffunctie wel kan instorten.  Die toevoeging heeft gevolgen. Het voorspelt dat er bij zo'n ineenstorting een heel klein beetje warmte vrijkomt. In theorie zou dat meetbaar moeten zijn als een minuscule temperatuurstijging. In Leiden testen ze dat met een klein bladveertje, gemaakt van silicium, dat in een vaste, afgesloten, extreem koude opstelling in de gaten wordt gehouden. Het is nu wachten totdat het veertje een beetje warmer wordt.
+,,De kans dat ze in Leiden iets zullen zien is heel klein", zegt Carroll. ,,Maar als ze het overtuigend kunnen aantonen dan winnen ze een Nobelprijs. En dan accepteer ik dat de veel-werelden-interpretatie niet klopt."
+We zouden als supersterren behandeld moeten worden, maar het tegendeel is waar
+           Elektronen Zij het golven of deeltjes?
+Zijn elektronen golven of deeltjes?
+Je kunt ze beschrijven als deeltjes: bolletjes negatieve lading met een duidelijke locatie. 
+Maar de golffunctie van de quantummechanica beschrijft ze als een waarschijnlijkheidsgolf die de kansen weergeeft om een elektron ergens te vinden.
+Voor licht geldt hetzelfde. Het lijkt een deeltje, een 'pakketje energie', als licht een elektron uit een atoom 'slaat'. Maar het kan zich ook als golf gedragen. Twee lichtgolven kunnen elkaar uitdoven of versterken. Dat werd gedemonstreerd met het tweespletenexperiment van de Engelse wetenschapper Thomas Young. Daarbij wordt een bundel licht op een plaat met twee smalle spleten geschenen. Daardoor interfereert het licht uit de twee spleten met elkaar; soms versterkt het elkaar, soms dooft het uit. Zo ontstaat er een patroon met lichte en donkere plekken op een scherm achter de plaat.
+Dit experiment blijk je ook te kunnen doen met deeltjes. Elektronen die door twee spleten gestuurd worden interfereren ook met elkaar. Dat kun je goed verklaren door ze te beschrijven met golffuncties. Zijn het dan golven of toch deeltjes? Volgens de natuurkunde is het allebei waar: licht en deeltjes zoals elektronen zijn golf én deeltje.
+Link naar PDF
+Link naar PDF
+Graphic
+
+ 
+Foto Lars van den Brink
+Fotobewerking NRC
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Physics (94%); Educational Institution Employees (63%)
+Industry: Computing + Information Technology (63%)
+Load-Date: November 30, 2018
+
+End of Document
+'Het vergt lef om te geloven dat je meer versies hebt'; Deze man bestaat miljarden malen; Natuurkundige Sean Carroll denkt dat hij in voortdurend splitsende uni....
+
+'Het vergt lef om te geloven dat je meer versies hebt'; Deze man bestaat miljarden malen; Natuurkundige Sean Carroll denkt dat hij in voortdurend splitsende uni....
+
+Page 2 of 7
+
+Page 2 of 7
+
+
+
+
+

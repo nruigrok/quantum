@@ -1,0 +1,37 @@
+Een klok om de kilo opnieuw te wegen
+de Volkskrant
+11 januari 2013 vrijdag
+Copyright 2013 PCM Uitgevers B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 27
+Length: 563 words
+Byline: Van onze verslaggever Martijn van Calmthout
+Body
+
+Van onze verslaggever Martijn van Calmthout
+amsterdam Amerikaanse wetenschappers hebben een nieuw type atoomklok ontwikkeld, waarvoor de massa van een atoom het ijkpunt is. Hun vinding kan vooral van belang zijn voor een betere definitie van de kilogram, schrijven ze in Science.
+Normale atoomklokken zijn gebaseerd op de trillingsfrequentie van licht dat wordt uitgezonden door aangeslagen atomen, doorgaans cesium of aluminium. Daarbij worden precisies gehaald van miljoensten van een miljardste van een seconde. Zo exact is de nieuwe klok bij lange na niet, erkennen Holger Müller en collega-fysici van de universiteit van Californië. Maar hun apparaat kan wel een nieuw fundament onder de definitie van massa leggen, denken ze.
+Officieel is de eenheid van massa nog steeds vastgelegd in de vorm van een metalen staaf in een kluis in Parijs. Het is de enige officiële meeteenheid die vastligt via een voorwerp, in plaats van via fundamentele (en universele) natuurconstanten. Er wordt al decennia gepraat over een betere standaard voor massa.
+In de nieuwe klok wordt gebruikgemaakt van een gegeven uit de quantumfysica, dat niet alleen lichtenergie een frequentie heeft, maar massa evenzeer. Die zogeheten Compton-frequentie is meer dan alleen een theoretische eigenschap op papier, laten Müllers proeven vooral zien.
+De Compton-massafrequentie van een cesium-133 atoom op zichzelf is te hoog om rechtstreeks te kunnen meten. Maar door de onzekerheid in de quantumwereld kan het atoom op twee plaatsen tegelijk zijn, waardoor de materiegolven kunnen overlappen en 
+Een klok om de kilo opnieuw te wegen
+elkaar versterken of uitdoven. Müller laat individuele cesium-133 atomen in een kruisvuur van magneetvelden zweven, en geeft daar met een speciale laser tikjes tegenaan.
+Bij het terugveren overlappen de massatrillingen van het atoom in de oorspronkelijke positie en de verschoven positie even. Zo ontstaan er verschiltonen, die wel te meten zijn, ook weer met lasers. De frequentie van de verschiltonen is volgens Müller wel geschikt om een klok op te baseren, en haalt dan ongeveer de precisie van de eerste generaties gewone atoomklokken.
+Voor een klok is dat niet bijster nauwkeurig, zegt fysicus Jeroen Koelemeij van de Vrije Universiteit in Amsterdam, die zelf aan nieuwe precisielaserklokken werkt. 'Bijzonder aan Müllers metingen is dat ze een atoommassa rechtstreeks aan een klokfrequentie koppelen. Daarmee kun je dit type atoomklok in feite als atoomweegschaal gaan gebruiken.'
+Met de massa van een cesium-atoom is relatief gemakkelijk een nieuwe definitie van de kilo te maken. Voorstellen in die richting stammen al uit de jaren negentig van de vorige eeuw. Maar die leken destijds vooral een vorm van sciencefiction.
+Volgens Müller is de massa van het cesium-atoom met zijn nieuwe klok tot ongeveer negen cijfers achter de komma vast te leggen. Dat is zeker een factor tien nauwkeuriger dan met de bestaande officiële meetmethoden.
+Volgens Koelemeij is Müllers werk overigens niet onomstreden. Eerdere experimenten van diens groep kwamen zwaar onder vuur te liggen van de Franse Nobelprijswinaar Cohen-Tannoudji, die meende dat hij een effect in zijn lasers aanzag voor materiegolven. Een andere Nobelprijswinnaar, de huidige Amerikaanse minister van energie Steven Chu, nam het destijds op voor Müller. 'Een strijd der giganten dus', aldus Koelemeij.
+In de jaren negentig was dit nog een vorm van sciencefiction
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: De Volkskrant
+Page 2 of 3
+Een klok om de kilo opnieuw te wegen
+Subject: Physics (94%); Nanotechnology (88%); Lasers (76%); Astronomy + Space (61%)
+Industry: Computer Equipment (62%)
+Load-Date: January 10, 2013
+
+End of Document
+Page 3 of 3

@@ -1,0 +1,52 @@
+Rapport: geen bewijs voor fraude bij Delfts quantumonderzoek
+NRC Handelsblad
+9 maart 2021 dinsdag
+Copyright 2021 NRC Media B.V. All Rights Reserved
+
+Section: IN HET NIEUWS; Blz. 6
+Length: 893 words
+Byline: Dorine Schenk
+Dateline: Amsterdam 
+Body
+
+ABSTRACT
+Majoranadeeltje
+De onderzoeksgroep van Leo Kouwenhoven was te 'enthousiast' over vondst majoranadeeltje, zegt een externe commissie.
+VOLLEDIGE TEKST:
+Delftse onderzoekers concludeerden op basis van onvolledige en geselecteerde metingen ten onrechte dat ze majoranadeeltjes hadden gevonden. Dat schrijft een commissie van externe experts in een maandag verschenen rapport. Majoranadeeltjes kunnen een belangrijke rol spelen in de ontwikkeling van quantumcomputers, een zeer competitief vakgebied. Er is geen bewijs van opzettelijk frauduleus handelen gevonden, aldus de experts. ,,De meest plausibele verklaring is dat de auteurs in beslag genomen waren door het enthousiasme van het moment."
+Tegelijk is het wetenschappelijk artikel over dit Delftse onderzoek, dat in 2018 verscheen in het wetenschappelijke tijdschrift Nature, officieel teruggetrokken. Eind januari werd deze terugtrekking al aangekondigd in een artikel op prepublicatiewebsite ArXiv. In de terugtrekkingstoelichting schrijven de onderzoekers dat ze niet langer kunnen stellen dat er uit hun metingen blijkt dat er majoranadeeltjes waargenomen zijn. ,,Er zijn technische en beoordelingsfouten gemaakt tijdens het onderzoek", licht hoogleraar Leo Kouwenhoven van het Delftse Microsoft Quantum Lab toe. Hij had de leiding over het onderzoek dat in 2018 met de grote claim kwam.
+Niet tevreden
+Het aantonen van majoranadeeltjes zou niet alleen een belangrijke natuurkundige ontdekking zijn, het zou ook goed nieuws zijn voor het quantumcomputeronderzoek, met name voor Microsoft, dat inzet op majorana's als qubits. Dat zijn de bouwstenen van quantumcomputers, die bepaalde taken en vraagstukken veel sneller op kunnen lossen dan de huidige computers.
+De onderzoeksgroep van Kouwenhoven werd vorig jaar januari door Sergey Frolov, van de University of Pittsburgh, en Vincent Mourik, van de University of New South Wales, gewezen op de fouten in de hetNature-artikel. Beide waren in het verleden onderdeel van de onderzoekersgroep van Kouwenhoven. Ze waren niet tevreden over de manier waarop de onderzoeksgroep hun kritiek afhandelde en stapten vervolgens naar Nature.
+,,Op grond van hun kritiek zijn we onze metingen opnieuw gaan analyseren", zegt Kouwenhoven nu. ,,Een van de technische problemen die we ontdekten, was een afstellingfout in een versterker in de onderzoeksopstelling. Deze kalibratiefout had invloed op alle metingen die in het artikel. Daarom lieten we vorig jaar maart aan Nature weten dat we het artikel terug wilden trekken. Die terugtrekking is nu officieel bekendgemaakt. Vervolgens zijn we de oude metingen verder gaan analyseren om er een nieuw, herschreven artikel over te publiceren."
+Meest interessant
+De kalibratiefout was echter niet het enige probleem. In het rapport schrijven de onafhankelijke experts - vier hoogleraren van buitenlandse universiteiten - dat de onderzoekers metingen selecteerden waarin gedrag te zien is dat lijkt op wat je verwacht voor majorana's. Tegelijkertijd lieten ze metingen weg die twijfel hierover zouden kunnen opwekken. Er waren namelijk veel meer metingen die dit gedrag niet lieten zien, dan metingen die het wél lieten zien. De auteurs hadden moeten vermelden dat ze deze metingen weglieten. Verder is er bij een aantal metingen die wel gepresenteerd werd, een deel van de data weggelaten - weer zonder dit te melden. Hierdoor zagen de metingen er mooier en stabieler uit dan ze in werkelijkheid waren.
+Het weglaten van een deel van de metingen was volgens Kouwenhoven het resultaat van een correctie en een focus op de metingen die het meest interessant waren. ,,De correcties deden we omdat er kleine ladingsverschuivingen plaatsvonden in onze onderzoeksopstelling, die zorgen ervoor dat je tijdens de metingen af en toe twee keer hetzelfde meet. Voor die dubbeling corrigeerden we. Dat hoor je te vermelden en dat is in ons artikel niet gebeurd. Dat is een fout."
+De experts, die hun onderzoek deden in opdracht van de Technische Universiteit Delft, concluderen in het rapport dat de metingen de conclusie van het artikel uit 2018 (dat er een stabiele waarde gemeten werd die duidt op een majorana) niet ondersteunen. Ze schrijven ook dat de onderzoeksgroep ,,met de metingen die beschikbaar waren tot dezelfde conclusie had kunnen komen". Volgens de experts was er geen bewijs dat de onderzoekers opzettelijk de metingen hadden geselecteerd om twijfel over hun succesverhaal weg te nemen. Door hun enthousiasme waren ze blind ,,voor de metingen die niet pasten bij het doel dat ze nastreefden".
+Misleidend
+,,Ik kan me vinden in deze conclusie van de experts", zegt Kouwenhoven. ,,Iemand heeft een fout gemaakt, iemand anders heeft het niet ontdekt en een derde was misschien meteen enthousiast en overtuigd. Er is een gebrek aan kritiek geweest."
+Vincent Mourik, die de fouten aankaartte, vindt het rapport goed afgewogen, maar is niet te spreken over de terugtrekkingstoelichting van de groep van Kouwenhoven. ,,Het is misleidend. De hoofdreden voor het intrekken verzwijgt men: er heeft een zeer specifieke en sterk vooringenomen dataselectie plaatsgevonden, waardoor de conclusies van het artikel ongegrond zijn."
+Het expertrapport is een onderdeel van het onderzoek dat de integriteitscommissie van de TU Delft doet. Dat onderzoek loopt nog door.
+Majoranadeeltjes zijn belangrijk bij ontwikkeling van quantumcomputers
+Link naar PDF
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Standards + Measurements (94%); Physics (69%); Experimentation + Research (62%)
+Industry: Computing + Information Technology (73%)
+Load-Date: March 9, 2021
+
+End of Document
+Rapport: geen bewijs voor fraude bij Delfts quantumonderzoek
+
+Rapport: geen bewijs voor fraude bij Delfts quantumonderzoek
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

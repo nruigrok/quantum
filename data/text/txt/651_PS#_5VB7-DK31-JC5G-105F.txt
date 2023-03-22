@@ -1,0 +1,37 @@
+Tegenvaller als startschot voor een bloeiperiode; Column
+NRC Handelsblad
+2 februari 2019 zaterdag
+Copyright 2019 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 2
+Length: 871 words
+Byline: Robbert Dijkgraaf
+Body
+
+Bestaat er zoiets als slecht nieuws in de wetenschap? Ik bedoel geen fake news, fraude, misstanden of bezuinigingen, maar gedegen onderzoek dat diep teleurstelt of mogelijk de samenleving schaadt. Recente voorbeelden doen je denken van wel. Zo wordt het ontbreken van nieuwe deeltjes in de versneller van CERN gezien als een tegenvaller voor de natuurkunde. En de spectaculaire doorbraken met zelflerende machines in kunstmatige intelligentie doen velen vrezen dat hun beroep verdwijnt en dat binnenkort zelfs de rol van de mens is uitgespeeld. 
+Nu is er in de lange geschiedenis van de wetenschap geen gebrek aan tegenslagen. Maar ik durf met een Cruijffiaanse wijsheid te beweren dat ieder nadeel z'n voordeel heb. Een teleurstelling is vaak het startschot van een nieuwe bloeiperiode. 
+In mijn eigen vakgebied, de wis- en natuurkunde, wemelt het van de tegendoelpunten die tot eindoverwinningen hebben geleid. Neem bijvoorbeeld de geboorte van de moderne algebra aan het begin van de negentiende eeuw - het resultaat van de vruchteloze speurtocht naar een oplossing van de vijfdegraadsvergelijking. Velen van u kennen van de middelbare school het tweedegraadsbroertje dat met de zogeheten abcformule wordt opgelost - een techniek die de Babyloniërs al kenden. In de Renaissance werden de gevallen van graad drie en vier opgelost. Maar men bleef eeuwenlang tegen de volgende stap aanhangen. 
+De Noor Niels Henrik Abel en de Fransman Évariste Galois (allebei in de beste Romantische traditie jong en tragisch overleden) draaiden de zaak echter 180 graden 
+Tegenvaller als startschot voor een bloeiperiode; Column
+om en bewezen dat het onmogelijk was een algemene vergelijking van graad vijf (of hoger) op te lossen. Je zou zeggen einde oefening, maar het omgekeerde gebeurde. Om te begrijpen waarom er geen oplossing mogelijk was, moesten Abel en Galois compleet nieuwe technieken introduceren. De algebra stortte niet neer, maar nam juist een hogere vlucht.
+Een ander voorbeeld uit de wiskunde is het resultaat uit 1931 van Kurt Gödel dat je nooit vooraf kunt zeggen of een wiskundige waarheid bewezen kan worden. Het is moeilijk te overdrijven hoe luid deze donderslag bij heldere hemel was. Als een slechte toverfee verdoemde Gödel wiskundigen voor altijd te leven onder de dreiging dat hun speurwerk vruchteloos blijkt. En deze crisis leidde tot nog meer slecht nieuws. Alan Turing gebruikte deze methode om te laten zien dat je nooit een rekenmachine kunt bouwen die systematisch alle wiskundeproblemen kan oplossen. Dat was een tegendoelpunt voordat de wedstrijd begonnen was, want in die tijd bestond de computer enkel op papier! Maar het werd een glanzende eindscore. De logica bloeide op en computers zijn nu overal. Gödel wordt gezien als de grootste logicus sinds Aristoteles en Turing als de vader van de informatica. 
+Ook de natuurkunde zit vol teleurstellingen. Zo was de quantummechanica in de ogen van velen een enorme tegenslag. Om atomen te begrijpen moesten fysici de aanschouwelijkheid en de voorspelbaarheid van de natuur opgeven. Deeltjes kunnen op meerdere plekken tegelijk zijn en hun gedrag wordt door toeval bepaald. Maar al deze ,,nadelen" hebben nu enorme praktisch voordelen gekregen in de vorm van lasers, microchips en quantumcomputers. Het begrip van atomen en moleculen gaf een ongekende bloei van alle takken van de natuurwetenschap, inclusief de biomedische.
+Waarom zijn tegenslagen zo productief? Ook in de wetenschap geldt never waste a good crisis. We leren een belangrijkere les als we vinden dat iets niet werkt, dan als alles volgens plan gaat. Begrijpen waarom een idee aan zijn natuurlijke einde is gekomen, vraagt per definitie om een dieper inzicht en een wijder perspectief. 
+We zien dat ook op dit moment. Natuurlijk zijn mijn collega's en ik teleurgesteld dat de Large Hadron Collider in Genève nog niet een van die deeltjes heeft gevonden uit onze catalogus van mogelijke nieuwe fysica. De gangbare opvatting luidde dat zo'n verschijnsel moest optreden. Dat gezonde verstand kan nu de deur uit. Misschien moet ons hele begrip van de natuur wel kantelen. Pijnlijk, maar prachtig! We moeten altijd sceptisch zijn over ieder denkraam, want de werkelijkheid laat zich niet zo gemakkelijk inkaderen. Zoals Francis Crick, de medeontdekker van DNA, zei: ,,Een theorie die alle feiten verklaart is fout, want sommige feiten zijn altijd fout."
+Dit onverwachte voordeel zien we ook in de recente successen van zelflerende machines waar zo veel over te doen is. Het programma AlphaZero laat de wereld versteld staan van het gemak - en de creativiteit en de agressiviteit - waarmee het de mens verslaat, eerst met go en nu ook met schaken. Luiden al deze verloren partijen het 
+Page 2 of 3
+Tegenvaller als startschot voor een bloeiperiode; Column
+einde van het schaakspel in? In het net verschenen boek Game Changer schrijven grootmeesters Matthew Sadler en Natasha Regan dat het tegendeel het geval is. De komst van de slimme machine brengt juist een renaissance in het schaken. Het is in hun woorden alsof je de geheime aantekeningen van een grote speler uit het verleden hebt gevonden. 
+Slecht nieuws kan dus ook goed nieuws zijn. Want in woorden van Johan Cruijff: ,,De waarheid is nooit precies zoals je denkt dat hij zou zijn."
+Robbert Dijkgraaf is directeur van het Institute for Advanced Study in Princeton.
+Link naar PDF
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Computer Science (94%); Mathematics (89%); Physics (87%); Educational Institution Employees (81%)
+Industry: Computing + Information Technology (63%)
+Load-Date: February 1, 2019
+
+End of Document
+Page 3 of 3

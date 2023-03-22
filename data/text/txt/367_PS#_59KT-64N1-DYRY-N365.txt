@@ -1,0 +1,29 @@
+TU gluurt ongestraft naar quantumkatten
+de Volkskrant
+17 oktober 2013 donderdag
+Copyright 2013 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap; Blz. 21
+Length: 419 words
+Byline: VAN ONZE VERSLAGGEVER MARTIJN VAN CALMTHOUT
+Body
+
+Delftse onderzoekers denken eindelijk greep te hebben op een van de grootste raadsels van de quantumwereld: het feit dat een deeltje daadwerkelijk in verschillende toestanden tegelijk kan verkeren, tot er aan wordt gemeten. 
+In het weekblad Nature beschrijven Leonardo DiCarlo en collega's van het Kavli-instituut in Delft en meetinstituut NIST in Colorado donderdag een nieuwe methode om naar geheugenelementen van een quantumcomputer te kijken, zonder hun schizofrene toestand direct weg te vagen. Dat biedt perspectief bij het minimaliseren van toevallige fouten in zulke supercomputers van de toekomst, zeggen ze. 
+'Een belangrijke stap voorwaarts', zegt in Leiden de vooraanstaande quantumtheoreticus Carlo Beenakker. 'Eerdere methoden bleven een toevalsproces, waarbij het bijvoorbeeld maar in de helft van de gevallen lukt. Deze nieuwe Delftse aanpak is deterministisch: die werkt altijd.' 
+In de quantumtheorie hebben deeltjes niet één vaste toestand, maar tegelijkertijd een aantal mogelijke toestanden. Eén van die toestanden wordt, volkomen toevallig, de uitkomst van een meting, als die wordt uitgevoerd. Vaak wordt het beeld gebruikt van Schrödingers kat die in een gesloten doos zit met een flesje gif en een quantumschakelaar. Zolang de doos dicht is, is onbekend in welke toestand de schakelaar staat waardoor de kat in feite tegelijk dood en levend is. Zodra de doos wordt geopend, is de kat óf dood óf levend. 
+TU gluurt ongestraft naar quantumkatten
+In quantumcomputers zijn geheugenbits in zo'n schizofrene dubbeltoestand, waardoor veel meer berekeningen tegelijk kunnen worden uitgevoerd dan met een gewone digitale computer met bits. Dat is vooral interessant voor cryptografie en simulaties. Probleem is dat quantumtoestanden extreem broos zijn voor verstoringen, bijvoorbeeld bij controles op fouten. 
+De Delftse onderzoekers hebben nu een methode ontwikkeld om van paren quantumbits alleen een gezamenlijke eigenschap te meten en eventueel zelfs te corrigeren, terwijl de individuele quantumgeschiftheid van de zogeheten quantum- of qubits niet wordt aangetast. In experimenten met supergeleidende qubits waarin een elektrische quantumstroom tegelijk linksom- en rechtsom loopt, is aangetoond dat het altijd werkt. 
+Volgens Beenakker is dat belangrijk omdat een waterdichte controlemethode voor qubits veel eenvoudiger is in te zetten in quantumcomputers of zogeheten quantumteleportatie, waarbij op een Star Trek-achtige manier een deeltje zonder het fysiek te verplaatsen van de ene plaats naar een heel andere kan worden verzonden. 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Physics (63%)
+Industry: Computing + Information Technology (94%)
+Load-Date: October 16, 2013
+
+End of Document
+Page 2 of 2

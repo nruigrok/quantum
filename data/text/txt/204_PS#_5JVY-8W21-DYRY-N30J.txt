@@ -1,0 +1,35 @@
+Halfdode katten helpen quantumcomputer
+de Volkskrant
+27 mei 2016 vrijdag
+Copyright 2016 De Persgroep Nederland BV All Rights Reserved
+
+Section: Ten Eerste; Blz. 12
+Length: 659 words
+Byline: MARTIJN VAN CALMTHOUT
+Body
+
+Het aloude quantumraadsel van de kat die tegelijk dood en levend is, gaat een hoofdrol spelen in de ontwikkeling van een werkende quantumcomputer, die algemeen wordt gezien als de ultieme rekenmachine van de toekomst. Dat denken Amerikaanse natuurkundigen, die vrijdag een experiment in Science publiceren met een elektronische versie van de beroemde kat van Schrödinger. 
+De resultaten van de proeven, zegt de Nederlandse quantumfysicus Reinier Heeres van het team van de Yale-universiteit, kunnen quantumcomputers de broodnodige stabiliteit geven. 'Quantumtoestanden zijn uiterst kwetsbaar voor verstoringen. Met ons systeem kun je gemakkelijk reservekopieën van informatie maken, zodat fouten op te sporen zijn en ook te repareren.' 
+In een quantumcomputer worden geen gewone bits van enen en nullen gebruikt, maar zogeheten quantumbits. Zulke qubits verkeren in een toestand die tegelijk één en nul is. Door die schifting zal een computer met informatie in qubits talloze berekeningen tegelijk kunnen uitvoeren. Dat biedt perspectief op ongekende rekenkracht. 
+Probleem aan quantumrekenen, zegt Heeres vanuit New Haven in de VS, is de extreme foutgevoeligheid. 'Als we die niet beheersen, weet je niet of oplossingen en antwoorden wel deugen.' Het lastige is dat ook een controle of de qubit nog wel intact is, de quantumtoestand in de war stuurt. 
+In de nieuwe experimenten gebruiken de onderzoekers een trilholte waarin radiogolven op verschillende manieren kunnen trillen. Zolang er niet naar de holte wordt gekeken, 
+Halfdode katten helpen quantumcomputer
+verkeert het systeem net als een qubit in verschillende toestanden tegelijk. Voordeel is dat het systeem relatief groot is, in de orde van een centimeter. De meeste quantumsystemen gebruiken enkele atomen of zelfs elektronen als het hart van een qubit. 
+Dat lijkt sprekend op het idee van quantumpionier Erwin Schrödinger uit de jaren dertig van de vorige eeuw, toen de vraag was of de principiële quantumdubbelzinnigheid alleen voor deeltjes geldt of ook voor grotere, meer alledaagse systemen. Schrödinger stelde zich een dichte doos voor met een radioactief atoom en een kat. Als dat atoom spontaan vervalt, activeert het een gifampul die de kat doodt, maar niemand kan weten of dat al gebeurd is, zolang de doos dicht is. In feite, zei Schrödinger,verkeert de hele kat in twee toestanden tegelijk: levend en dood. Net als een quantumdeeltje. De paradox is dat er in de praktijk zelden iets van quantumgedrag te zien is: appels en bowlingballen hebben altijd maar één toestand, niet meer. 
+Wat de Amerikaanse onderzoekers in Science laten zien is een elektronisch quantumkat-systeem met twee dozen, de een een kopie van de ander. Door de kopieën te vergelijken wordt het systeem niet verstoord en wordt het mogelijk om een verstoring te corrigeren, zegt Heeres. 'We zien een netwerk van gekoppelde quantumkatten voor ons die bijvoorbeeld een stabiel geheugen voor een quantumcomputer gaan vormen.' In een nieuw artikel laat de groep op Yale ook zien dat toestanden tot wel 2,5 microseconde goed blijven, een eeuwigheid in quantumbegrippen. 
+Fundamenteel, zegt hoogleraar quantumfysica Ronald Hanson van QuTech aan de TU Delft, is het Amerikaanse experiment misschien niet heel verrassend. Maar de technologie is intrigerend en belangrijk, zegt hij. 'Een handzaam systeem dat de foutgevoeligheid verkleint, is ongeveer de heilige graal van de quantumcomputer.' In Delft worden qubits ontwikkeld op basis van atoomdefecten in diamant, in supergeleidende microcircuits en exotische nanodraadjes. Daarvan kopieën maken is mogelijk, maar veel lastiger. 
+Heeres, die zelf opgeleid is in Delft, denkt dat de uiteindelijke quantumcomputer nog wel twintig jaar op zich laat wachten, en dat die dan een combinatie van technieken zal omvatten. 'We staan eigenlijk nog maar aan het begin, en in feite weten we zelfs niet goed wat we met quantumrekenen zullen kunnen. Ik denk dingen die we nu nog helemaal niet voorzien.' 
+Bekijk de oorspronkelijke pagina: pagina 12
+Page 2 of 3
+Halfdode katten helpen quantumcomputer
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Educational Institution Employees (63%); Physics (63%)
+Industry: Computing + Information Technology (94%)
+Load-Date: May 26, 2016
+
+End of Document
+Page 3 of 3

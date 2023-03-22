@@ -1,0 +1,46 @@
+Vallen en weer opstaan in het Delftse quantumlab
+NRC Handelsblad
+13 maart 2021 zaterdag
+Copyright 2021 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 10
+Length: 873 words
+Byline: Dorine Schenk
+Dateline: Amsterdam 
+Body
+
+ABSTRACT
+Natuurkunde Een Delftse onderzoeksgroep heeft een artikel in Nature teruggetrokken. Wat betekent dat voor hun majorana-onderzoek?
+VOLLEDIGE TEKST:
+Onderzoek dat het bestaan van majoranadeeltjes aangetoond zou hebben, is afgelopen maandag teruggetrokken uit Nature. Een tegenslag voor het onderzoek naar majorana's, die een rol kunnen spelen in de toekomstige quantumcomputers waar Microsoft op inzet.
+De metingen, die de groep van hoogleraar Leo Kouwenhoven van het Delftse Microsoft Quantum Lab in 2018 publiceerde, blijken onvolledig en niet helemaal objectief geselecteerd. Ze bevatten geen bewijs voor majorana's, concluderen onafhankelijke experts. Wat zijn majorana's en waarom zijn ze zo moeilijk te vinden?
+Majorana's zijn geen losse deeltjes die vrij bewegen. Ze kunnen ontstaan door het collectieve gedrag van elektronen in halfgeleidernanodraadjes, die duizend keer dunner zijn dan een haar, bedekt met een supergeleidend materiaal. Als je deze draadjes afkoelt tot -273,13°C, dan vormen de elektronen in het supergeleidende deel paren. In het halfgeleidergedeelte bewegen ze alleen. Aan het uiteinde van de draad, op de 
+Vallen en weer opstaan in het Delftse quantumlab
+overgang van half- naar supergeleidend, bungelt een helft van een elektronpaar. Dit is je majorana. Majorana's maken is niet eenvoudig. De productie van de draden en het afkoelen is complex. En de kleinste verstoringen beïnvloeden de metingen.
+In 2012 sloot de groep van Kouwenhoven nanodraadjes van indiumantimonide aan op een elektrisch circuit, plaatste dat in een magneetveld en koelde het af. Bij een spanning van 0 volt zagen ze inderdaad een piekje in de elektrische geleidbaarheid, zoals voorspeld voor majorana's. De metingen waren nog niet duidelijk genoeg. De Naturepublicatie uit 2018 ging een stap verder. De onderzoekers maten toen precies de verwachte geleidbaarheid in betere en schoner geproduceerde indiumantimonide nanodraadjes. Ook maten ze deze keer een 'plateau', wat betekent dat die gezochte geleidbaarheidswaarde constant blijft als bijvoorbeeld de elektrische stroom of het magneetveld verandert. Een vereiste voor majorana's. De ontdekking leek een feit. Tot oud-collega's Sergey Frolov (University of Pittsburgh) en Vincent Mourik (University of New South Wales) vorig jaar aanklopten met inconsistenties die ze in het artikel ontdekt hadden.
+Technische fout
+,,We zijn toen de metingen opnieuw gaan analyseren en er bleken technische en beoordelingsfouten te zijn gemaakt", zegt Kouwenhoven. ,,Een technische fout was een versterker, die het elektrische signaal waarmee we de geleidbaarheid maten, ongeveer 10 procent anders versterkte dan gedacht." Dat betekende dat de gevonden plateaus niet op de gezochte geleidbaarheidswaarde, maar net daarboven zaten. ,,Die fout had invloed op alle metingen in het artikel. Daarom besloten we het terug te trekken."
+Volgens Mourik en Frolov was de versterker niet het grootste probleem. ,,Uit de niet gepubliceerde data bleek dat de plateaus helemaal niet terug te zien waren in de metingen", zegt Mourik. Tot die conclusie komen de experts - vier hoogleraren van buitenlandse universiteiten - ook.
+Hoe kon het artikel uit 2018 toch die conclusie presenteren? De data waren zo geselecteerd dat alleen de metingen die bewijs konden leveren voor majorana's gepresenteerd werden en de metingen die twijfel konden oproepen waren weggelaten. Volgens de experts was dit geen opzet. Volgens Piet Brouwer, een van de auteurs van het expertrapport, konden oplettende lezers van het Nature-artikel desondanks achterhalen dat de metingen de conclusie niet ondersteunden. ,,In een van de eerste grafieken over de geleidbaarheid zie je bijvoorbeeld een klein dipje waarna de waarde weer omhoog springt. Dat is niet het strakke plateau dat de majoranatheorie voorspelt." In niet gepubliceerde grafieken zijn enkel pieken te zien, geen plateaus. ,,Als die metingen erbij geplaatst waren, was het misschien meer lezers opgevallen dat het meer leek op een onstabiel systeem met een verspringende piek dan op het vermeende plateau."
+Page 2 of 3
+Vallen en weer opstaan in het Delftse quantumlab
+Kleine verontreinigingen
+Die sprongetjes, die ook in andere metingen te zien zijn, ontstaan waarschijnlijk door kleine verontreinigingen op de nanodraadjes of in het isolerende materiaal waar de draadje op liggen. Ladingen in die verontreinigingen kunnen onvoorspelbare, willekeurige veranderingen veroorzaken tijdens je meting, vertelt Brouwer.
+De metingen uit het Nature-artikel bevatten dus geen bewijs voor majorana's. Toch sluiten de gesproken wetenschappers het bestaan ervan niet uit. ,,De experimenten zijn hondsmoeilijk", zegt Mourik. ,,Ik denk zeker dat ze doorgezet moeten worden."
+,,Het is een tegenslag voor het onderzoek van de groep van Kouwenhoven", vult Brouwer aan. ,,Ze zijn niet zo ver als ze dachten of wilden zijn. Maar ik denk nog steeds dat er in het juiste systeem, onder de juiste omstandigheden, majorana's zitten. Als theoreticus ben ik bevooroordeeld, maar de theorie erachter staat als een huis."
+Kouwenhoven blijft ook enthousiast. Het onderzoek loopt door en de metingen waarop het artikel uit 2018 is gebaseerd, zijn niet weggegooid. ,,Het zijn nog steeds mooie data. Daarom hebben we er een nieuw artikel over geschreven met nieuw analyses. Als je ervan leert is het geen tegenslag."
+Link naar PDF
+Graphic
+
+ 
+Leo Kouwenhoven: ,,Het zijn nog steeds mooie data."
+Foto Bob Bronshoff
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Superconductors (94%); Standards + Measurements (86%)
+Load-Date: March 12, 2021
+
+End of Document
+Page 3 of 3

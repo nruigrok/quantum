@@ -1,0 +1,77 @@
+Een voor Nederland te uitgesproken gigant; Overleden  Nobelprijswinnaar Martin Veltman (89) was geestig, flamboyant en een harde werker 
+NRC Handelsblad
+7 januari 2021 donderdag
+Copyright 2021 NRC Media B.V. All Rights Reserved
+
+Section: VOORPAGINA; Blz. 1
+Length: 2111 words
+Byline: Margriet van der Heijden
+Body
+
+ABSTRACT
+Necrologie Martin Veltman (1931-2021) Natuurkundige
+Natuurkundige en Nobelprijswinnaar Martin Veltman was flamboyant, uitgesproken en pragmatisch. ,,Hij werkte altijd veel harder dan de rest."
+VOLLEDIGE TEKST:
+Het moet in 1988 geweest zijn. Geestig en met kennis van zaken sloot Martin Veltman een natuurkundesymposium af met een slotlezing. Na een halfuur - nog midden in zijn betoog - kreeg hij een seintje van de voorzitter: zijn spreektijd was op. En Frank Linde, die als bijna gepromoveerd fysicus in de zaal zat, verkneukelt zich nog altijd om Veltmans reactie. ,,'Prima', zei hij tegen die voorzitter, 'dan ga je toch weg?' Onverstoorbaar maakte hij zijn verhaal af - een halfuur lang. ,,En dat verhaal was natuurlijk fantastisch."
+Zo was de afgelopen maandag overleden Martin Veltman, zeggen vriend en vijand: recht voor zijn raap, niet per se diplomatiek, en een geweldig inspirerende spreker en docent. Als hoogleraar theoretische natuurkunde in Utrecht had Veltman zo ook Linde op het spoor van de deeltjesfysica gezet. ,,Toen hij tijdens zijn colleges merkte dat wij als studenten niets van de bouw van het waterstofatoom wisten, gooide hij de boel om en behandelde zes uur lang alle ins and outs van dat atoom. Ik was meteen gewonnen voor het vak." Jaren later werd Linde directeur van het Nederlands instituut voor deeltjesfysica, Nikhef, dat mede dankzij Veltmans inspanningen tot stand was gekomen.
+Cowboylaarzen en een motor
+Veltman zelf had tijdens die collegereeks het werk al achter de rug dat hem de hoogste wetenschappelijke eer zou bezorgen: in 1999 werd hem en zijn voormalige promovendus Gerard 't Hooft de Nobelprijs toegekend voor hun beschrijving van de zwakke wisselwerking tussen elementaire bouwsteentjes van materie. 't Hooft was in die samenwerking de gezel geweest - jong, introvert, razend goed in wiskunde en vol geniale invallen - en Veltman de meester - flamboyant, uitgesproken, pragmatisch en met een breed overzicht over het onderzoeksveld.
+Die brede blik had Veltman verworven in de jaren daarvóór, waarin hij eerst gepromoveerd was bij Leon van Hove. Die laatste was niet alleen hoogleraar theoretische natuurkunde in Utrecht, maar werd tijdens Veltmans promotieonderzoek ook directeur-generaal van het pas opgerichte CERN bij Genève. Het was Veltmans geluk dat Van Hove hem meenam naar dat instituut waar elementaire deeltjes werden bestudeerd. Veltman rondde er een mooi proefschrift af, trad toe tot de CERN-staf en maakte vele vrienden zoals de latere Nobelprijswinnaars Sheldon Glashow en Peter Higgs, en de befaamde fysici Nicola Cabibbo en John Bell.
+Veltman was eigenzinnig, zegt Veltmans oud-promovendus en emeritus-hoogleraar theoretische fysica in Utrecht, Bernard de Wit. Hij droeg destijds cowboylaarzen, reed motor, was een beetje ruig en erg kritisch over het reilen en zeilen van het jonge instituut. Later, zoals tijdens een interview met NRC, mopperde Veltman trouwens nog steeds dat er toen ,,allerlei mensen op de verkeerde plek" zaten, dat het ,,een tijd duurde voordat competente mensen competente dingen gingen doen" en dat de neutrinoexperimenten waarvoor hijzelf berekeningen had gedaan ,,weinig spectaculair" waren.
+Toch had Veltman in de praktijk vooral goede contacten met talloze mensen, zegt De Wit: ,,Als promovendus had je via hem overal een introductie. Hij had bijna in elk land en op elke bekende zomerschool voordrachten gegeven, en door zijn band met CERN en zijn uitgesproken karakter kende iedereen hem."
+Uitgesproken was Veltman ook over wat natuurkunde hoort te zijn: een vak waarin theorie en experiment onlosmakelijk met elkaar samenhangen. Als theoretisch fysicus was hij geen studeerkamergeleerde. Integendeel, wekelijks fietste hij in de avonduren langs alle detectoren op CERN en hoorde de collega's daar uit over hun resultaten. Dat paste bij zijn werkethos: ,,Tini werkte altijd veel harder dan de rest", aldus De Wit. En het wierp vrucht af toen hij in 1963 naar de Verenigde Staten vertrok, waar hij verbleef bij het Stanford Linear Accelerator Centre (SLAC) bij Brookhaven en bij de Rockefeller University. Hier kon hij zijn kennis en inzet combineren met een vaardigheid die hij tijdens de militaire dienstplicht na zijn studie had opgedaan: programmeren. Het leverde de eerste versie op van SchoonSchip, het computerprogramma dat hem naar die Nobelprijs voerde.
+'Dierentuin' van deeltjes
+SchoonSchip behoorde tot de eerste computerprogramma's die formules konden manipuleren. Het ging om formules die betrekking hadden op een wat stil hoekje van de natuurkunde. De fundamentele bouwsteentjes waren nog niet zo netjes geordend als nu. De exemplaren uit de 'dierentuin' van fundamentele deeltjes die nu hun plek in het zogeheten Standaard Model hebben gekregen, vormden destijds een wanordelijke verzameling, als in een dierentuin zonder hokken. En het beschrijven van de wisselwerkingen tussen de deeltjes was ontmoedigend lastig.
+Dat kwam doordat elektrisch geladen deeltjes een 'mantel' dragen van virtuele deeltjes die volgens de regels van de quantummechanica uit het vacuüm tevoorschijn poppen en er weer in verdwijnen, maar niet zonder intussen met elkaar in wisselwerking te zijn getreden. Hoe beïnvloedde die mantel de wisselwerking tussen elektrisch geladen bouwsteentjes en viel er aan te rekenen? Wie de vergelijkingen probeerde uit te werken met pen en papier strandde in een woud van formules met honderdduizend termen. Maar Veltman hoopte dat hij zich met SchoonSchip een weg naar een antwoord kon banen. Daarbij richtte hij zich op de zwakke wisselwerking, die een cruciale rol speelt bij bijvoorbeeld radioactiviteit.
+Achteraf bezien was dat enorm innovatief, zegt theoretisch fysicus en computerexpert Jos Vermaseren: niet alleen dát Veltman een computerprogramma inzette, maar ook hóé hij dat deed. ,,Er waren wel wat wiskundigen die de formules manipuleerden met programma's, maar zij concentreerden zich op formuleringen en structuur." Veltman was pragmatisch. ,,Hij ging voor het resultaat en schreef daarom zijn programma direct in de machinetaal met nullen en enen." Het maakte zijn programma, ook al was hijzelf nooit in de informatica geschoold, ,,tien tot honderd keer sneller dan alle andere destijds".
+Als een blok graniet
+Veltman had zo een prachtig gereedschap in handen. ,,Door met SchoonSchip te spelen, kreeg hij een gevoel voor de theorie", zegt Vermaseren. Juist daardoor kon hij, eenmaal teruggekeerd in Nederland, zijn jonge promovendus Gerard 't Hooft de juiste kant op wijzen toen die aan de zwakke wisselwerking begon te rekenen. 't Hooft, met diens volgens Veltman ,,geweldige wiskundige vernuft", werkte de theorie uit en samen ontdekten ze zo de ,,renormalisatie van het Yang-Millsprincipe' - een idee dat feitelijk aan dat hele Standaard Model ten grondslag ligt.
+Wat De Wit daarbij trof, was ,,hoe Veltman Gerard 't Hooft gelanceerd heeft in het vak". 
+Veltman greep een grote conferentie aan van de European Physical Society in Amsterdam, in 1971. Tijdens een van de lezingensessies, die door Veltman werd voorgezeten, stonden sprekers als Nobelprijswinnaar T.D. Lee en andere coryfeeën op het programma. En daartussen had ook de pas gepromoveerde 't Hooft een plek gekregen. ,,Tini had dat zorgvuldig geregisseerd", zegt De Wit. ,,Hij zat er als een blok graniet; Gerard hield een prachtig verhaal; en de Amerikanen waren totaal confuus: kunnen we nu dus rekenen aan fundamentele krachten? Een halfuur later kreeg Gerard een aanbod uit Harvard."
+Meester en gezel
+Toch bekoelde in de jaren daarna de relatie tussen de Veltman en 't Hooft, zoals dat tussen een meester en gezel vaker gebeurt. Ze waren ook heel verschillend. Veltman was ,,selfmade", opgegroeid beneden de rivieren in Baardwijk bij Waalwijk en beïnvloed door de oorlogsjaren. Hij was in 1931 het vierde kind van een katholieke hoofdonderwijzer die leren hoog in het vaandel had, en van een meer praktisch ingestelde moeder wier familie een café had. Zijn cijfers op de hbs waren matig, zei hij zelf, en zijn vader vond het maar niets dat hij graag met de plaatselijke loodgieter meekluste. Maar zijn natuurkundedocent, meneer Beunes, zag iets in hem en haalde zijn ouders over om hem naar de universiteit te sturen. Die van Utrecht: goed bereikbaar met de trein.
+Die studie liep niet meteen van een leien dakje. Veltmans eerste studieresultaten schoten tekort voor een beurs en pas op zijn 23ste, 24ste raakte hij gegrepen door het vak. ,,Daarin speelde mee dat wij in Nederland zo vreselijk hadden geleden in de oorlog: alle goeie docenten waren weg." Bovendien moest hij voortdurend geld verdienen, zoals door collegedictaten uit te tikken, les te geven op een lts en later door als assistent van hoogleraar Michels op de Universiteit van Amsterdam te werken. Veltman had kortom een heel andere achtergrond en studietijd dan 't Hooft, die vanuit een academisch milieu vlekkeloos door zijn studie was gerold. Én hij was veel directer.
+Waarschijnlijk droeg dat allemaal samen er in de jaren zeventig ook aan bij dat Veltman zich steeds minder thuis voelde aan de Utrechtse universiteit. In 1981 vertrok hij naar Ann Arbor in Michigan - ,,een soort Amerikaans Bilthoven", vond hij zelf - waar het afrekenen op resultaten hem beviel en waar hij de rest van zijn carrière doorbracht. Hij was het ,,correcte academische milieu" en ,,het linkse gedoe" in Nederland een beetje zat, zei hij zelf.
+Voor zijn Nederlandse collega's uit die tijd was Veltman te uitgesproken, denken achteraf sommige collega's. De Wit: ,,Dat hij bijvoorbeeld over een docent zei dat die zijn studenten verpestte, kon hier te lande absoluut niet. Maar ja, als je later de studenten sprak waren die het wel met hem eens." Vermaseren: ,,Hij had een enorm respect voor mensen die zelf dingen doen, maar omgekeerd werkte het bij hem als een rode lap op een stier als mensen met andermans veren pronkten of draaiden. En dat was minder fijn voor mensen die de bocht wat ruimer namen."
+Supercomplexe versneller
+Ook in het buitenland kreeg Veltman trouwens niet altijd gelijk, zelfs al had hij het. Linde noemt de adviescommissie van CERN waarin Veltman vergeefs voorstelde om het Higgsdeeltje op te sporen met een grotere variant van de toenmalige elektronpositronversneller LEP in plaats van de supercomplexe LHC-versneller.
+Misschien besefte Veltman zelf ook niet altijd hoeveel impact zijn woorden konden hebben. Bijvoorbeeld rond zijn moeizame relatie met 't Hooft die bij de uitreiking van de Nobelprijs breed werd uitgemeten. Het lag Veltman zwaar op de maag dat 't Hooft in de Volkskrant had gezegd dat hij zijn ideeën over de sterke kracht niet had uitgewerkt omdat Veltman er niets in had gezien. Dat betekende haast onvermijdelijk dat 't Hooft daardoor was 'gescoopt' door David Politzer, David Gross en Frank Wilczek, die voor datzelfde idee in 2004 de Nobelprijs zouden krijgen. Maar: ,,Hij had het werk toch zonder mij kunnen publiceren?", zei Veltman later in NRC. ,,En dat is waar", zegt De Wit, ,,maar hier onderschatte Veltman toch zijn rol als promotor, en het grote ontzag dat hij 't Hooft en andere promovendi inboezemde."
+Hoe dat ook zij, Veltman was een gigant in het vak die ,,het onderzoek op CERN en elders enorm beïnvloed heeft", zoals theoretisch fysicus en oud-Nikhef-directeur Karel Gaemers zegt. En die, ook na zijn terugkeer in 1996 naar Bilthoven, bijvoorbeeld als vaste bezoeker van de wekelijkse colloquia op het Nikhef in Amsterdam, steevast dwarse en barse vragen over de natuurkunde bleef stellen.
+Veltman laat een vrouw, twee zoons en een ook in de natuurkunde gepromoveerde dochter achter.
+Nobelprijswinnaar Martin Veltman (1931) overleden
+Hij had een enorm respect voor mensen die zelf dingen doen Jos Vermaseren theoretisch fysicus
+SchoonSchip Machinetaal
+Toen Veltman in 1963 op CERN zijn computerprogramma SchoonSchip wilde schrijven - voor het 'domme werk' - kreeg hij van de informatici geen toegang tot de computers. Op Stanford kreeg hij dat wel. Op de IBM 7490 zette hij lange rijen nullen en enen op een rij om met behulp van symmetrieën de tienduizenden termen uit zijn ingewikkelde formules uit de weg te ruimen. Tegen Kerst werkte het.
+Ruim een jaar later, doordat hij had gewerkt met 'machinetaal' met nullen en enen die hij direct kon manipuleren, was zijn programma heel snel. Maar het betekende ook dat hij alles moest omzetten, toen CERN op een CDC-computer overstapte. Opnieuw stuitte hij op weerstand van de CERN-informatici die weinig heil zagen in machinetaal.
+SchoonSchip had hem toen al op het pad naar de Nobelprijs gezet en toen hij in 1966 naar Utrecht ging om hoogleraar te worden, liet hij het op 10.000 ponskaarten op CERN achter.
+Link naar PDF
+Link naar PDF
+Graphic
+
+ 
+Thuis in Bilthoven: natuurkundige Martin Veltman in september 2008.
+Foto Leo van Velzen
+In Stockholm: Veltman juicht vlak voor hij op 10 december 1999 de Nobelprijs krijgt.
+Foto Evelyne Jacq
+Bij CERN in Zwitserland: Martin Veltman (rechts) met collega-fysicus John S. Bell.
+Foto CERN PhotoLab
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Physics (94%); Awards + Prizes (78%); Educational Institution Employees (76%)
+Load-Date: January 7, 2021
+
+End of Document
+Een voor Nederland te uitgesproken gigant; Overleden Nobelprijswinnaar Martin Veltman (89) was geestig, flamboyant en een harde werker 
+
+Een voor Nederland te uitgesproken gigant; Overleden Nobelprijswinnaar Martin Veltman (89) was geestig, flamboyant en een harde werker 
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

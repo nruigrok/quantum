@@ -1,0 +1,80 @@
+Heel het heelal is informatie
+NRC Handelsblad 
+21 January 2017 Zaterdag
+Copyright 2017 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 4
+Length: 2330 words
+Byline: George van Hal
+Body
+
+ABSTRACT
+Natuurkunde
+Een groeiende groep natuurkundigen denkt dat informatie de fundamentele bouwsteen is van het universum. Die informatie kun je meten en opsporen, maar niemand weet wat informatie eigenlijkis. 
+Alles is informatie
+ Niemand weet wat we ons exact bij informatie moeten voorstellen , zegt theoretisch fysicus Erik Verlinde van de Universiteit van Amsterdam.  We weten alleen heel goed hoe we het moeten tellen. 
+Verlinde is deel van een groeiende groep natuurkundigen die van mening is dat het universum gemaakt is van informatie. Eind vorig jaar zette hij een volgende stap in een omstreden theorie waarin hij zwaartekracht herformuleert als gevolg van het geschuif met die informatie. Dat idee is nog niet breed geaccepteerd door zijn vakgenoten, maar de vraag die het oproept   wat is informatie dan precies?   blijkt wel degelijk relevant in grote delen van de moderne natuurkunde. 
+Vernietigen van informatie kost altijd energie
+Fysici bewezen de afgelopen jaren bijvoorbeeld een raadselachtig verband tussen informatie en energie, waardoor informatie tastbare gevolgen heeft in onze fysieke wereld. Dat inzicht begon bij de ideeën van de Duits-Amerikaanse fysicus Rolf Landauer, die in 1996 beschreef hoe je voor informatieopslag en informatieoverdracht altijd fysieke systemen nodig hebt. Een USB-stick of harde schijf voor opslag, bijvoorbeeld, of de gedrukte letters op deze pagina voor overdracht. Informatie moet daarom zelf ook aan onze fysieke natuurwetten gehoorzamen, luidde zijn conclusie. 
+Daarop paste Landauer de wetten van de warmteleer, de thermodynamica, toe op informatie. Hij leidde in een publicatie in het vakblad Physics Letters A af dat het vernietigen van informatie altijd energie kost. Bij het wissen van je harde schijf komt daardoor een beetje warmte vrij. Niet vanwege een of ander mechanisch effect waarbij het ene deel van de schijf over het andere deel wrijft, maar omdat informatie weggooien nu eenmaal fundamentele, fysieke gevolgen heeft. Informatie heeft, met andere woorden, gevolgen in de echte wereld. 
+Theoretici als Verlinde gaan zelfs nog een stap verder, door te stellen dat informatie de fundamentele bouwsteen is van onze gehele werkelijkheid, van tastbaar tot ongrijpbaar. De meeste natuurkundigen zijn er daarom van overtuigd dat een beter begrip van informatie het zaadje kan blijken waaruit een nieuwe natuurkunderevolutie groeit. Een boude gedachte, omdat de ware aard van informatie nog in nevelen gehuld is.
+Wie probeert een exacte definitie te geven, raakt onherroepelijk verstrikt in de beperkte verklaringskracht van ons menselijk vocabulaire. Zelfs de wiskunde, de taal die fysici het liefst gebruiken om hun ideeën in te vangen, biedt geen uitkomst.  Niemand heeft de precieze wiskundige structuur van informatie op microscopisch niveau door , zegt ook natuurkundige Robbert Dijkgraaf, directeur van het Institute for Advanced Study in Princeton.  Zelfs Erik Verlinde niet. 
+Dat is opvallend. Zeker wanneer je bedenkt dat in het dagelijks leven iedereen wel een instinctief begrip heeft van wat we met het woord informatie bedoelen. Deze krant staat bijvoorbeeld bomvol informatie. We noemen die informatie dan  het nieuws , een term die redelijk goed aansluit bij wat je met je boerenverstand kan bedenken als informatiedefinitie. Informatie is iets dat je nog niet wist, of iets dat je kunt leren.
+Informatie kun je  tellen in bits
+Maar in de fysica heb je een exactere definitie nodig. Halverwege de vorige eeuw deed de Amerikaanse wiskundige Claude Shannon een eerste poging. Hij beschreef het simpelste systeem voor informatieopslag, een systeem dat zich in twee afzonderlijke, even waarschijnlijke, toestanden kan bevinden, zoals  aan  en  uit . De informatie in zo n systeem noemt men een bit: een nul of een één.
+ Die bit heeft helemaal niets meer te maken met de vraag of die informatie ook nieuws is 
+, zegt theoretisch fysicus Eric Lutz van de universiteit van Erlangen-Neurenberg in Duitsland.  Als ik je een e-mail stuur, staat daar informatie in. Dat kun je uitdrukken in een hoeveelheid bits , zegt Lutz. Maar die bits zijn er ook als de mail onderweg kwijt raakt, of als je hem nooit opent. Met andere woorden: in een wetenschappelijke beschrijving hangt informatie niet meer af van de vraag of je er iets nieuws mee leert.
+De afgelopen jaren doken steeds meer aanwijzingen op dat met informatie iets opmerkelijks aan de hand was. De van menselijke context ontdane bits van Shannon bleken meer dan alleen een handige rekentruc. Verschillende onderzoeksgroepen bewezen in laboratoriumexperimenten de op het eerste oog krankzinnige conclusie van Landauer,  dat informatie iets fysieks moest zijn. In april vorig jaar toonde Lucas Celéri van de federale universiteit van Goiás in Brazilië zelfs aan dat het Landauerprincipe overeind blijft in een systeem dat de raadselachtige wetten van de quantumfysica gehoorzaamt. Een belangrijk gegeven omdat het juist de quantumversie van informatie is die de belangrijkste rol speelt in de moderne natuurkunde.
+Ook quantuminformatie  kost energie
+Met behulp van een handigheidje onttrok Celéri in zijn experiment informatie aan een systeem van drie deeltjes. Een proces waarbij keer op keer warmte ontstond. Het lukte hem, met andere woorden, om informatie uit een quantumsysteem in zijn laboratorium te vertalen naar energie. Toch weet ook Celéri niet wat die informatie precies is.  We hebben geen enkele manier om de aard van informatie te definiëren , zegt hij.  Ik kan je wel vertellen hoe je de hoeveelheid informatie in een systeem moet berekenen, maar niet wat het is.  
+Desondanks krijgt quantuminformatie in de moderne natuurkunde een steeds belangrijkere rol. Wie de ongrijpbare eigenschappen van de quantumfysica op klassieke bits loslaat, zet de stap naar de qubit: een informatiedrager die niet alleen nul of een kan zijn, maar ook nul en een tegelijk, iets dat fysici superpositie noemen. Qubits hebben bovendien de maffe eigenschap dat ze met elkaar willen verstrengelen. Wie vervolgens een meting verricht aan het ene qubit, leert ook iets over de ander. Hoe ver die qubits fysiek ook uit elkaar zitten.  
+Dat ongrijpbare gedrag speelt een belangrijke rol bij de quantumcomputer, het apparaat dat de komende jaren een nieuwe ICT-revolutie moet veroorzaken. Verstrengeling zorgt dat quantumcomputers tegelijk rekenen met een hele reeks qubits, die dankzij superpositie ook nog eens tegelijk rekenen met verschillende mogelijke uitkomsten.
+ De moderne computer verschilt in zekere zin niet van het telraam , zegt fysicus en quantuminformatie-expert Carlo Beenakker van de Universiteit Leiden.  De informatiewetenschap doet al tienduizend jaar precies hetzelfde. Met de quantuminformatietheorie hebben we voor het eerst een nieuw idee. Dat is best heftig 
+, zegt hij. 
+Het is daarom geen verrassing dat die quantuminformatie niet alleen belangrijk blijkt in quantumcomputers. Dankzij de inzichten van Landauer kunnen fysici bijvoorbeeld informatiepompjes bouwen die voorwerpen in de echte wereld koelen of opwarmen.  Je kunt quantuminformatie immers omzetten in warmte , zegt Celéri. Dat soort toepassingen bestaat al in het lab, maar die zijn nog in een rudimentaire fase.
+Verstrengelde informatie  kan  basis zijn van  heelal
+Quantuminformatie speelt mogelijk zelfs een doorslaggevende rol in het universum. Doordat quantuminformatie aan elkaar kan klitten en vastklinken tot kettingen van verstrengelde nullen en enen, blijft die informatie op spookachtige wijze met elkaar verbonden, zelfs over duizelingwekkende kosmische afstanden. Dat magistrale weefsel van verstrengelde informatie kan best eens de basis zijn waaruit het gehele heelal bestaat.  Vanuit het klassieke beeld van informatie was je niet ver gekomen in het beschrijven van het universum , zegt Beenakker.  Daar heb je echt verstrengeling voor nodig. 
+Een van de mensen die daarmee aan de haal gaat, is Verlinde. Hij haakt met zijn ideeën aan bij de al langer heersende opvatting in de moderne theoretische fysica dat ruimte en tijd, grootheden die mensen als Einstein gebruikten om de glibberige kenmerken van de werkelijkheid te vangen, niet fundamenteel zijn. Daaronder gaat een diepere laag schuil.  De eerste ideeën over hetgeen waarmee we die diepere laag kunnen beschrijven, bestaan al , zegt Dijkgraaf. 
+Hij doelt op onderzoek naar de mysterieuze eigenschappen van zwarte gaten, waaruit fysici de afgelopen jaren een aantal opmerkelijke conclusies trokken. Wanneer een voorwerp in een zwart gat valt, gebeuren vermoedelijk twee dingen. Allereerst peuzelt dat zwarte gat het voorwerp op, waarbij alle informatie over dat voorwerp onherroepelijk verloren lijkt te gaan. Tegelijk wordt de horizon, de grens waar voorbij je niet meer aan de overweldigende aantrekkingskracht van het zwarte gat kunt ontkomen, een klein beetje groter. Voor elke bit aan informatie die je in een zwart gat gooit, groeit het oppervlak van zijn horizon met een vierkante plancklengte, de lengte waarvan fysici vermoeden dat het de kleinst mogelijke lengte in de kosmos is.
+Elke bit informatie die in een zwart gat verdwijnt moet  terug te vinden zijn 
+Dat betekent dat je elke bit die in een zwart gat verdwijnt, na afloop terug kunt vinden aan het oppervlak. Hoewel die informatie in praktische zin voor ons  onleesbaar  is, gaat het daardoor niet echt verloren. Wie de machinerie van zwarte gaten nauwkeurig doorgrondt, kan de informatie in theorie reconstrueren. 
+Dat is opnieuw een aanwijzing dat er  iets  aan de hand is met informatie. Als informatie een zwart gat kan laten groeien, heeft het ook op kosmische schaal fysieke invloed. Dankzij een analogie tussen de op de horizon gevangen informatie van een zwart gat en de gehele kosmos, ontwikkelden theoretici, waaronder Nobelprijswinnaar Gerard  t Hooft, zelfs het zogeheten holografisch principe. Dat principe stelt dat de werkelijkheid een soort hologram is, het gevolg van het gedans van nullen en enen op een onzichtbare horizon rond het heelal. 
+Voor een compleet begrip van hoe de werkelijkheid in elkaar steekt, zijn dergelijke theorieën volgens Dijkgraaf echter onvoldoende.  We moeten ook kunnen uitleggen hoe uit die informatie lijnen, punten, en ruimte en tijd ontstaan , zegt hij.  En hoe dat vervolgens leidt tot de relativiteitstheorie van Einstein. 
+Wat opnieuw ontbreekt, is een goed begrip van wat informatie nu precies is. Wat is een bit, en hoe kun je er eentje in een zwart gat gooien? Hoe  weet  een bit dat het de ene keer een deeltje moet vormen, en de andere keer een stukje lege ruimte?
+ Het zijn vragen die onherroepelijk naar boven borrelen wanneer je in je hoofd probeert een beeld te vormen van dergelijke exotische ideeën over de rol van informatie in het universum. 
+Informatie is geen ding, maar de bouwsteen van een ding
+Frustrerend genoeg blijken antwoorden op die vragen ook op dit kosmische canvas te ontbreken.  Je kunt je inderdaad afvragen: wat is die informatie dan? , zegt Verlinde. Wie teruggrijpt naar de informatiedefinitie van Shannon, denkt wellicht aan een systeem dat codeert voor een enkele bit aan informatie. Voor een qubit kan dat bijvoorbeeld een elektron zijn, dat de ene kant op tolt voor een nul en de andere voor een één. Is dat elektron dan een bit aan informatie? 
+ Nee , zegt Verlinde.  Het idee is juist dat dat elektron zelf ook weer is opgebouwd uit quantuminformatie. Je moet je die informatie niet voorstellen als een ding. Het is juist datgene waaruit alle dingen ontstaan , zegt hij. Daarmee sluit hij zich aan bij een beroemde uitspraak van de Amerikaanse theoretisch fysicus John Wheeler, die in de jaren zeventig stelde dat in het heelal sprake was van It from bit. Oftewel: een fysiek ding (een  it ) bestaat altijd uit bits, uit informatie.
+Een interessante gedachte, al kan niemand je vertellen hoe je van  bit  naar  it  komt. Dat betekent volgens Verlinde niet dat informatie geen rol kan spelen in de natuurkundige beschrijving van de werkelijkheid, maar wel dat er een punt komt waarop je gedwongen wordt dieper te graven.  Uiteindelijk willen we toch weten waar materie precies vandaan komt , zegt hij.
+De snaartheorie is uit, informatie is de nieuwe mode
+Die vraag bracht fysici tot nog toe bij de snaartheorie, een theorie die het beeld van kleine deeltjes als fundamentele bouwsteentjes verving door het beeld van een werkelijkheid bestaand uit trillende snaartjes en vellen.  En nu ontdekken we quantuminformatie als volgend station , zegt Verlinde. 
+Of dat het eindpunt is, weet niemand. Voor een beter begrip moet de beschrijving van verstrengelde informatie samensmelten met de wiskunde van de snaartheorie. Verlinde:  Dan kunnen we begrijpen hoe de snaartheorie, en de beschrijving van de materie die daarbij hoort, tevoorschijn komt uit die informatietaal.  Pas dan weten we hoe ketens van verstrengelde bits weten dat ze soms een deeltje moeten zijn en soms een stuk lege ruimte. 
+Ook Beenakker ontwaart een omslag in het denken over dergelijke fundamentele vraagstukken.  Er is een hele interessante ontwikkeling gaande in de wetenschap , zegt hij.  Je ziet dat mensen die zich eerst met zwaartekracht bezig hielden, nu verhuizen naar de quantuminformatiehoek. Die takken van sport komen voor het eerst echt samen. 
+Daarbij is een beter begrip van verstrengelde informatie het vertrekpunt, zegt Beenakker.  Je kunt zeggen dat de 19e eeuw de eeuw van energie was. In de 20e eeuw was verstrengeling vooral iets filosofisch, met gedachtenexperimenten zoals Schrödingers kat. En nu, in de 21e eeuw, blijkt verstrengeling iets waar je echt iets mee kunt. Het onderlegt een heel groot deel van de werkelijkheid. 
+Voorlopig weet niemand of de ware aard van informatie zich zal onthullen in slimme machientjes in het lab, of in het diepst van onze kosmos. Maar wie informatie straks echt snapt, zet de eerste stap naar een volgende fysicarevolutie. Want, stelt Beenakker, een ding is echt zeker:  De ultieme theorie van ruimte en tijd is niet meetkundig, maar gebaseerd op informatie. 
+Graphic
+
+ 
+Elke bit die in een zwart gat verdwijnt, kun je terugvinden aan het oppervlak. Wie de machinerie van zwarte gaten nauwkeurig doorgrondt, kan de informatie in theorie reconstrueren. Foto s Nasa
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Physics (94%)
+Industry: Computing + Information Technology (65%)
+Load-Date: January 20, 2017
+
+End of Document
+Heel het heelal is informatie
+
+Heel het heelal is informatie
+
+Page 2 of 7
+
+Page 2 of 7
+
+
+
+
+

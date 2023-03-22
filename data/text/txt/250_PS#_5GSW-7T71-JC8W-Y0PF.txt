@@ -1,0 +1,52 @@
+De werkelijkheid  is nu bewezen spookachtig 
+NRC Handelsblad
+28 augustus 2015 vrijdag
+Copyright 2015 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 19
+Length: 1032 words
+Byline: Door Bruno van Wayenburg
+Body
+
+NatuurkundeEen proef met  quantumdeeltjes die elkaar over grote afstand beïnvloeden heeft elke uitvlucht opgeruimd: quantummechanica is onontkoombaar raar. 
+Amsterdam. Albert Einstein zelf was ontevreden over de quantummechanica, de theorie van het allerkleinste. Want uitkomsten van quantummechanische metingen hingen van het toeval af, deeltjes konden 'onbepaalde' eigenschappen hebben (en bijvoorbeeld op meerdere plaatsen tegelijk zijn). En - het raarste nog - afzonderlijke deeltjes konden op mysterieuze wijze met elkaar verbonden  zijn: quantumverstrengeld. Unmöglich, vond Einstein.  
+Nu - ruim negentig jaar later - beschrijft een groep van vooral Delftse natuurkundigen onder leiding van Ronald Hanson een experiment dat definitief bewijst dat Einstein hierin ongelijk had. Het manuscript waarin de proef beschreven wordt verscheen woensdag op Arxiv.org, de website waar natuurkundigen hun bevindingen delen, voordat zij in een wetenschappelijk tijdschrift gepubliceerd worden.  
+Dit is het eindpunt van een lange wetenschappelijke weg van bijna een eeuw, waarin Einsteins ongemak steeds preciezer geformuleerd werd, en ook steeds strenger experimenteel op de proef gesteld. Met collega's Boris Podolsky en Nathan Rosen wist Einstein in 1935 het probleem preciezer vast te pinnen met een gedachtenexperiment: stel, je maakt twee quantumverstrengelde deeltjes. Dat houdt in dat een meting aan het ene onbepaalde (A) deeltje onmiddellijk de mogelijke uitkomsten van een meting op het andere deeltje (B) beïnvloedt. 'Spookachtige invloed op een afstand', noemde Einstein dat misprijzend. 
+Wat er zo spookachtig aan is, blijkt als je die quantumverstrengelde deeltjes van elkaar scheidt, tot er - zeg - een lichtjaar afstand zit tussen A en B. Dan zou de onmiddellijke beïnvloeding zich sneller verplaatsen dan het licht, en dat kan absoluut niet, volgens Einsteins eigen relativiteitstheorie.  
+In 1964 wist John Bell het gedachtenexperiment nog verder aan te scherpen met zijn 'Bell-ongelijkheden': hij bedacht een formule voor de resultaten van  een realistisch, herhaald experiment met quantumverstrengelde deeltjes. Voor een theorie naar Einsteins wensen zou de uitkomst Bells formule nooit groter dan 2 kunnen worden. Maar voor de quantummechanica zou de waarde wél groter worden dan 2. 
+Daarna duurde het weer tot de jaren tachtig dat de Franse onderzoeker Alain Aspect het experiment ook daadwerkelijk uitvoerde. De Bell-formule bleek uit te komen op 2,70: Einstein had het bij het verkeerde eind gehad.  
+Maar er waren nog wel uitvluchten mogelijk voor fanatieke Einsteinaanhangers (waarvan er overigens steeds minder zijn, de vreemdheid van de quantummechanica wordt er tegenwoordig bij natuurkundestudenten met de paplepel ingegoten). Zo vereist het Bellexperiment dat de detectoren pas op het laatste moment willekeurig 'kiezen' hoe ze het binnenkomende deeltje doorlichten. Die keuze wordt gemaakt met hulp van een quantummechanische willekeurigegetallengenerator, de enige manier om aan écht willekeurige getallen te komen. Maar niet volgens Einstein. In theorie zouden de willekeurigegetallen-generatoren kunnen samenspannen, zodat dat het alleen maar lijkt alsof de Bell-ongelijkheden geschonden worden.  
+Nog een loophole is de detectie-loophole: het lukt lang niet altijd om een geschikt verstrengeld paar deeltjes te maken, en ouderwetse lichtdetectoren meten meestal maar een gedeelte van de binnenkomende fotonen. Stel nu dat die selectie op een of andere raadselachtige manier zó uitvalt dat de Bell-waarde ten onrechte hoger uitkomt. 
+Toegegeven: het zijn allemaal vergezochte mazen in de natuurwet, maar het gaat hier wél om de grondslagen van de natuurkunde. Bovendien: inmiddels zijn er op basis van de quantummechanica quantumcryptografische methoden ontwikkeld om geheime informatie te versleutelen en onafluisterbaar te versturen in de vorm van quantumverstrengelde deeltjes. Een loophole zou de veiligheid van zulke methoden op losse schroeven kunnen zetten. 
+De meeste loopholes zijn inmiddels geslecht, maar de detectie-loophole was dat nog niet. De Delftenaren hebben dat nu gedicht met hulp van 100 procent efficiënte fotonendetectoren.  
+Al eerder publiceerde de Delftse groep over quantumverstrengeling over afstanden van 3,5 meter. Maar dat is niet genoeg om ook de afstands-loophole te dichten. Daarom hebben de Delftenaren nu de meetstations A en B op 1280 meter afstand van elkaar geplaatst, in twee heel verschillende laboratoria op de Delftse campus. Op die manier kunnen A en B op elkaar op geen enkele manier beïnvloeden, tenzij het sneller dan het licht gaat. 
+Dat betekende wel dat kwetsbare verstrengelde lichtdeeltjes over meer dan een kilometer door glasvezels verzonden moeten worden, een recordprestatie voor de experimenteel natuurkundigen. 
+Cruciaal is bovendien een derde meetstation C tussen stations A en B, dat helpt bij het opzetten en testen van quantumverstrengeling. In A en B bevinden zich kleine diamantkristallen met daarin losse elektronen. Op commando geven die elektronen lichtdeeltjes af die vervolgens verstrengeld zijn met de elektronen. 
+Door die twee verstrengelde lichtdeeltjes door glasvezelkabels naar C te transporteren, en ze daar op een uitgekiende manier te meten, worden de elektronen in A en B met elkáár verstrengeld. Voordeel van deze opzet is dat je meteen weet of de verstrengeling ook gelukt is. Alleen volledig geslaagde verstrengelingen metingen gaan zo mee in de eindresultaten.  
+Vervolgens worden de elektronen in A en B op precies hetzelfde moment gemeten, en worden de Bell-waarden uitgerekend: 2,42, rapporteren de natuurkundigen, dus Einstein heeft nog steeds ongelijk. 
+Jammer genoeg willen zij bij het online manuscript nog geen toelichting geven, omdat het nog niet officieel gepubliceerd is. ,,Het komt in een vooraanstaand wetenschappelijk tijdschrift", is alles wat co-auteur Tim Taminiau erover kwijt wil. 
+Nú praten met de pers over de voorlopige versie van het manuscript -dat dus in principe nog kan veranderen- zou een toppublicatie over jaren werk in gevaar kunnen brengen. En dat zou toch jammer zijn na bijna een eeuw. 
+Dit is het eindpunt van een lange wetenschappelijke weg van bijna een eeuw 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Physics (94%); Standards + Measurements (73%); Educational Institution 
+Employees (64%); Experimentation + Research (63%)
+Industry: Computing + Information Technology (82%)
+Load-Date: August 28, 2015
+
+End of Document
+De werkelijkheid  is nu bewezen spookachtig 
+
+De werkelijkheid  is nu bewezen spookachtig 
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

@@ -1,0 +1,42 @@
+  Quantuminfo drie meter ver geteleporteerd
+NRC Handelsblad
+30 mei 2014 vrijdag
+Copyright 2014 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap
+Length: 565 words
+Byline: Door Bruno van Wayenburg
+Body
+
+SAMENVATTING
+Quantumfysica
+In Delft teleporteerden onderzoekers informatie van het ene atoom naar het andere, drie meter verderop.
+VOLLEDIGE TEKST:
+Amsterdam. Quantuminformatie kan betrouwbaar worden 'geteleporteerd' over een afstand van drie meter. In de online versie van Science (29 mei) beschrijven Delftse onderzoekers hoe  ze dit nieuwe stapje in het manipuleren van quantuminformatie hebben gezet. 
+De overdracht van quantuminformatie is in 1997 'teleportatie' gedoopt. Niet omdat het perspectief zou bieden voor het verzenden van Star Trek-acteurs, maar omdat  de informatie volgens de theorie instantaan overspringt van A naar B en niet via de tussenliggende ruimte reist. 
+De quantuminformatica belooft extreem snelle quantumcomputers, evenals onafluisterbare versleuteling van informatie, scherper kijkende telescopen en diepere inzichten in de quantummechanica.   
+Quantumbits of qubits zijn de basiseenheden van quantuminformatica. Waar gewone computers rekenen met de bit, een 1 of een 0 in een elektronisch register, kan een 
+  Quantuminfo drie meter ver geteleporteerd
+quantumbit ook een mix van die beide waarden bevatten, dus bijvoorbeeld: 'een kwart 1 en driekwart 0'. Meerdere qubits kunnen op afstand 'verstrengeld' zijn, wat het mogelijk maakt om quantuminformatie op afstand over te dragen.   
+De ideale quantumbit is stabiel, maar toch goed manipuleerbaar.  De Delftse onderzoeksgroep, onder leiding van Ronald Hanson, gebruikt daarvoor individuele stikstofatomen in diamantkristallen.  
+Zulke stikstofatomen hebben één overtollig elektron dat zich tamelijk ongestoord in de buurt van het atoom ophoudt. De draairichting of 'spin' van zo'n elektron is een mooie quantumbit-kandidaat: het elektron kan zowel linksom draaien (een 0), rechtsom (een 1), en ook - zeer quantummechanisch - in een combinatie van die beide draairichtingen.  
+Het stikstof-in-diamant-qubit is stabiel, maar met microgolfstraling wel gemakkelijk te manipuleren. Bovendien heeft niet alleen het overtollige elektron, maar ook de atoomkern van het stikstofatoom een spin, die met radiogolven te verstellen is. Dat betekent dat één stikstofatoom twee qubits in zich draagt. 
+Hanson en collega's presenteren nu een protocol met experimenteel bewijs waarbij het quantumbit in de kern van stikstofatoom A  overgeheveld wordt naar het elektron van stikstofatoom B, drie meter verderop. De spin van het elektron in A fungeert daarbij als een soort tussenstation. 
+Dat overspringen vindt sneller plaats dan licht tussen de twee atomen kan reizen.  'Spookachtige werking op afstand', noemde Albert Einstein deze eigenaardige voorspelling, waar hij overigens niets van geloofde. 
+Inmiddels wordt er al ruim een decennium gequantumteleporteerd, maar in de praktijk is het nog altijd een lastige stap, vanwege de zeepbelachtige kwetsbaarheid van qubits. Zo zijn qubits slechts één keer te meten, daarna is de quantuminformatie onherstelbaar verdwenen.  
+Met al die beperkingen was er nog geen teleportatieprotocol waarmee quantuminformatie gegarandeerd werd overgedragen. Of ze teleporteerden hooguit over enkele millimeters. 
+In een volgende proef willen de  Delftenaren de afstand oprekken, naar 1.300 meter, een traject waar licht  ruim 4 microseconden over doet. Daarmee zou de spookachtige sneller-dan-licht-aard van quantumteleportatie boven iedere denkbare meetfout aangetoond  worden. 
+Quantumbits springen sneller over dan het licht. Spookachtig, vond Einstein 
+Classification
+
+Page 2 of 3
+  Quantuminfo drie meter ver geteleporteerd
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Physics (82%)
+Industry: Computing + Information Technology (94%)
+Load-Date: May 30, 2014
+
+End of Document
+Page 3 of 3

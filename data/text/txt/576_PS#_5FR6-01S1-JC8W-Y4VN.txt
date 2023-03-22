@@ -1,0 +1,26 @@
+Lager dan nulpunt?; Vraag 't TU Delft
+De Telegraaf
+11 april 2015 zaterdag
+Copyright 2015 De Telegraaf All Rights Reserved
+
+Section: WatWiltUWeten; Blz. 17
+Length: 216 words
+Body
+
+Waarom is het onmogelijk om een temperatuur lager dan min 273 graden te bereiken?  
+K. Schippers, Hoorn    
+De snelheid van atomen hangt af van de temperatuur van het systeem waarin deze zich bevinden. Daalt de temperatuur, dan zullen atomen minder snel bewegen. Op een bepaald moment is de temperatuur zo laag dat atomen bijna stilstaan. Dit is het geval bij het absolute nulpunt, zo'n min 273 graden Celsius.   
+        Vanwege de onzekerheidsrelatie van Heisenberg, een van de belangrijkste resultaten in de kwantummechanica, is in het absolute nulpunt nog steeds sprake van beweging van atomen, de zogenoemde nulpuntbeweging. Het absolute nulpunt kan nooit worden bereikt. Hoe dichterbij, des te lastiger wordt het om nog verder in temperatuur te dalen. Het wereldrecord van het koudste materiaal is minder dan 0,00000000001 graden Celsius van het absolute nulpunt.   
+        Supergeleiding is een apart proces waarbij de elektronen in atomen (die de geleiding vormen) geen weerstand meer ondervinden. Dit verschijnsel is lang geleden waargenomen bij zeer lage temperaturen, maar tegenwoordig zijn er ook supergeleiders bekend die bij veel hogere temperaturen werken (bijvoorbeeld bij min 100 graden Celsius).  
+        Prof. dr. ir. Thijs J.H. Vlugt en dr. Brian P. Tighe,  Faculteit 3mE,  TUDelft   
+Classification
+
+Language: DUTCH; NEDERLANDS
+Lager dan nulpunt?; Vraag 't TU Delft
+Publication-Type: Krant
+Journal Code: Telegraaf
+Subject: Superconductors (94%)
+Load-Date: April 10, 2015
+
+End of Document
+Page 2 of 2

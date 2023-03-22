@@ -1,0 +1,74 @@
+Stroom in de knoop 
+de Volkskrant
+8 februari 2014 zaterdag
+Copyright 2014 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap
+Length: 1790 words
+Byline: MARTIJN VAN CALMTHOUT
+Body
+
+Natuurkunde: het woord 'topologisch' is op ieders lip 
+Een vreemde, nieuwe vorm van stroomgeleiding komt voor in niet eens zo heel bijzonder materiaal. Zolang het inwendig maar goed in de war is. 
+Pure alchemie is het, wat kristaltrekker Yinkai Huang van het Van der Waals Zeeman laboratorium in de Amsterdamse Watergraafsmeer doet. Stoffen als seleen en antimoon, telluur en bismut mengt hij, smelt, stookt, verdampt ze en laat ze weer kristalliseren. Ovens gloeien, holle spiegels concentreren licht, pompen snorren. Nu en dan zetten Huangs knetterende vlambogen de werkruimten vol ketels en zuurkasten in een hel blauw licht. 
+'Zonder meneer Huang zouden we nergens zijn in dit vak', zegt experimenteel fysicus Mark Golden van de UvA, een Brits-Nederlandse expert op het gebied van vaste stoffen. 
+'Hij leest alles, kent iedereen, weet als eerste wat de Chinese concurrentie doet - in China en de VS. Door hem kunnen we meekomen, en hoeven we niet te bedelen om samples van anderen.' 
+Elders in het lab is het Golden die met zijn team de exotische metaalverbindingen in ingewikkelde experimenten op de pijnbank legt om ze in detail hun elektronische eigenschappen te ontfutselen. Zoals, erkent hij, overal ter wereld fysici dat momenteel doen. Op zoek naar fundamentele kennis is er een ware goudkoorts ontstaan. 
+Heilige graal is een materiaal dat superieure harddisks zou kunnen opleveren. Of superzuinige elektronica, gevoelige sensoren. Of spintronica, waarbij niet de lading van elektronen bepalend is, maar hun inwendige tolbeweging. 
+Door die wereld gaat dezer dagen een nieuwe golf van opwinding, na de gelijktijdige publicatie van liefst drie artikelen over alweer een nieuw type elektronische wondermaterialen. Grafeen, maar dan in drie dimensies, vatten de bladen het samen. Grafeen is het intrigerende koolstof van één atoomlaag dik, dat sterk en transparant is, maar vooral spectaculaire en veelbelovende elektrische eigenschappen heeft. 
+Het draait bij al die opwinding om topologische isolatoren. Dat zijn kristallen die geen elektrische stromen geleiden, met uitzondering van de uiterste buitenkant. Daar spannen de gebrekkige geleidingseigenschappen van het materiaal opeens zodanig samen dat er in één vlak wel ladingsdragers kunnen bewegen. Vergelijkbaar met grafeen, dat letterlijk uit zo'n vlak bestaat. Maar dan in een gewoon brokje van een slim gekozen chemische verbinding. 
+Rond het jaar 2004 was het de Amerikaanse theoreticus Charles Kane van Penn State University die als eerste voorrekende waarom sommige isolerende kristallen met zware metaalatomen als kwik erin wel stroom over hun huid laten lopen. Dat komt doordat de paden die elektronen kunnen kiezen aan de rand van het materiaal letterlijk in een bocht worden gewrongen. Wonderlijk detail: elektronen die linksom tollen bewegen tegengesteld over het oppervlak aan elektronen die rechtsom spinnen; de stromen zitten elkaar niet in de weg. 
+Onoverbrugbaar 
+De wiskunde die dat alles verreweg het beste beschrijft is de topologie, de leer van de vormen. Cruciaal daarin is dat fundamenteel verschillende vormen - zoals een bol en een donut - wiskundig niet zomaar in elkaar zijn om te vormen. Ook in de natuurkunde is een verschil in topologie haast onoverbrugbaar. 
+Als topologie een hoofdrol speelt in een fysisch systeem, betekent dat een extreme vorm van stabiliteit. Een wat fysici noemen 'topologisch beschermd' systeem is niet gemakkelijk van zijn stuk te brengen. Zoals een knoop in een veter ook niet gemakkelijk losgaat. 
+Toepassingen kunnen daardoor bijzonder robuust zijn. 'Je kunt er met een hamer op slaan of ze in stukken breken: de topologische eigenschappen blijven gewoon bestaan', zegt de Leidse theoreticus Carlo Beenakker enthousiast. Dat uitgerekend de topologie zo'n rol blijkt te spelen in de vastestoffysica, en inmiddels ook in zijn eigen werk, verbaast hem nog steeds. 'Topologie is meer dan een eeuw oud en de theorie van Dirac voor elektronen stamt uit de jaren dertig. We hebben te lang gedacht dat we materialen wel begrepen. Dit is misschien geen fundamentele revolutie; we kijken alleen veel beter. 
+Wat we zien is opwindend.' 
+De echte doorbraak, na de voorspellingen door Kane van vreemde geleidende isolatoren, komt op conto van een Nederlander: fysicus Laurens Molenkamp, die al sinds jaar en dag werkt aan de universiteit in Würzburg. Hij zag in 2005 bij experimenten voor het eerst de voorspelde stromen langs de rand van een dun kwikhoudend telluurkristal lopen. Dat die stroom niet alle waarden aanneemt, maar stapsgewijs oploopt, geldt als het definitieve bewijs. Nobelprijswaardig, heet het werk in de wandelgangen al jaren. En het begin van een hype. 'Inmiddels lijkt het hek wel erg van de dam', zegt Molenkamp wat zuinig. 'Het lijkt er een beetje op dat nu iedereen het woord topologisch wil gebruiken.' 
+Fundamenteel 
+De jongste loot aan de boom zijn topologische halfmetalen, waar de vreemde eigenschappen niet op het oppervlak spelen, maar inwendig in drie dimensies. Kristallen van onder meer natrium-bismut gedragen zich min of meer als geleider, maar met een trapsgewijze geleiding die in drie richtingen fundamenteel verschilt. Andere onderzoekers zien hetzelfde bij cadmium-arsenide van precies de juiste samenstelling. Deze maand barstten de publicaties los. 
+In feite zijn het geen bijzonder exotische materialen, zegt in Amsterdam Mark Golden. Maar aantonen dat ze topologische eigenschappen hebben, is lastig. 'Op schaal betekent het dat je kijkt naar een effect van een millimeter dik op een blok van een kilometer. Voor je het weet zit je gewoon in de bulk te meten.' Dat, zegt hij, is ook de reden dat veel topologische isolatoren en dito halfmetalen al jaren gewoon op de plank lagen, zonder dat ze als zodanig werden herkend. 
+Inmiddels, zegt experimenteel fysicus Alexander Brinkman van de Universiteit Twente in Enschede, is er een lijst van een stuk of honderd verbindingen die topologische geleidingseigenschappen zouden kunnen vertonen. 'En het einde is niet in zicht. Waarop het voor ons nu aankomt, is ze verwerken in microschakelingen.' 
+Brinkman kreeg onlangs een Europese ERC-miljoenenbeurs voor zijn werk aan zogeheten topotronica - snelle geheugenelektronica die is gebaseerd op de topologische eigenschappen van de geleiding. Topologische isolatoren lijken daarvoor ideaal - die sorteren zulke elektronspins al van nature voor. 
+Voor Mark Golden, die zojuist voor een groot tijdschrift een commentaar schreef op de jongste ontwikkelingen rond de nieuwe halfmetalen, staan de materialen zelf nog steeds centraal. 'Op papier zijn topologische isolatoren veelbelovende materialen, maar in de rauwe werkelijkheid is het een ander verhaal. Isolatoren blijken toch een beetje te geleiden, geleiders zijn niet best. Kleine onzuiverheden kunnen alle mooie effecten overheersen. Waar het allemaal om draait is het beheersen van de verstoringen van het ideale systeem.' 
+Wat, benadrukt hij, een kwestie is van doorploeteren. 'Veel samples maken, andere methoden proberen, veel meten. Onze meneer Huang is nog niet klaar.' 
+WIE ZIT HIEROP TE WACHTEN? DE HARDE SCHIJF VAN DE TOEKOMST 
+Topologische isolatoren en hun verwanten reageren heel anders op elektrische stromen dan gewone geleiders of isolatoren. Dat maakt ze vaak extreem gevoelig voor magnetische velden. Daarmee zijn toepassingen van vooral topologische halfmetalen denkbaar bij bijvoorbeeld het opslaan van magnetische informatie op de harddisks van de toekomst. Informatie op de harde schijf is dan extra beschermd doordat topologische toestanden alleen met grof geweld kunnen worden opengebroken. Tegelijk volstaan betrekkelijk kleine magneetsignalen om informatie op de schijf te schrijven. 
+Een concrete toepassing waaraan ook in Nederland hard wordt gewerkt, is een loepzuivere topologische isolator die bijvoorbeeld quantumpionier Leo Kouwenhoven van de TU Delft kan gebruiken om zogeheten majoranadeeltjes op een chip te creëren. 
+Majorana's zijn vreemde, massaloze deeltjes, waarvan het bestaan al sinds de jaren dertig van de vorige eeuw wordt verondersteld, maar die nooit zijn gevonden. Volgens theoretici zouden ze een hoofdrol kunnen spelen als geheugenbit in een bruikbare quantumcomputer. 
+In 2012 baarde Kouwenhoven internationaal opzien door majorana-achtige verschijnselen aan te tonen op een diepgekoelde nanochip in Delft. 'It walks like a duck, it talks like a duck', zei hij voorzichtig. 'Maar wat we nog moeten vinden, is de eend zelf.' 
+Sindsdien zoeken de Delftenaren en hordes collega's elders naar een echt sluitend bewijs dat majoranadeeltjes op een chip zijn op te roepen. Op papier is daarvoor het contactvlak tussen een supergeleider en een topologische isolator de ideale plaats. Natuurkundestichting FOM heeft groepen in Delft, Leiden, Amsterdam en Enschede bij elkaar gebracht om de Nederlandse aanspraken op de majorana waterdicht te krijgen. Als dat lukt, is een Nobelprijs onvermijdelijk, denkt het wereldje. 
+TOPOLOGIE: WISKUNDIG KNEDEN 
+Topologie is de tak van wiskunde die gaat over de vorm van objecten. Wiskundigen vinden twee voorwerpen topologisch gelijk als ze, in gedachten uitgevoerd in klei, van de ene vorm in de andere te kneden zijn. Zonder knippen of gaten prikken, want dan verandert de topologische orde: het aantal randen en gaten. Op die manier is te beredeneren dat een mandarijn topologisch equivalent is aan een soepkom, de een is alleen ingedeukt en de ander niet. Een koffiekopje daarentegen is topologisch gezien een donut, vanwege het ene gat dat het oor vormt. De topologische orde van een voorwerp is alleen met grof geweld te verstoren. 
+Ook in de natuurkunde speelt topologie op een aantal plaatsen een essentiële rol. De laatste jaren vooral in de stroomgeleiding van materialen. Fysici beschrijven die met denkbeeldige vlakken en energiebanden - wiskundige objecten waarvan de vorm cruciaal is. Als er gaten in zitten, is het materiaal een isolator, zonder gaten een geleider. 
+Vervormingen van een materiaal, mechanisch, met elektriciteit of magneten, veranderen de elektrische eigenschappen van de topologische vlakken niet. Contact met andere materialen of mengen geeft echter vreemde effecten, omdat de energiebanden zich dan letterlijk in bochten moeten wringen om op elkaar aan te sluiten. 
+WONDERMATERIAAL 
+Op het eerste gezicht is het niks bijzonders, het kristalletje van seleniumtelluride dat fysicus Mark Golden altijd op zak heeft, voor het geval hij een leek tegenkomt. Dat het wat metalig glimt, is gek en begrijpelijk tegelijk. Siliciumtelluride is een isolator, en die zijn doorgaans dof of doorzichtig. Het glimmen is het bijzondere aan het kristal: het geleidt als topologische isolator wel stroom over zijn buitenkant. 
+De echte doorbraak komt op conto van een Nederlander 
+Graphic
+
+ 
+Mark Golden ontfutselt aan de UvA geheimen aan topologische isolatoren.
+Foto Raymond Rutting / de Volkskrant
+Kristalletje van seleniumtelluride
+Foto Raymond Rutting / de Volkskrant
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Superconductors (94%)
+Load-Date: February 7, 2014
+
+End of Document
+Stroom in de knoop
+
+Stroom in de knoop
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

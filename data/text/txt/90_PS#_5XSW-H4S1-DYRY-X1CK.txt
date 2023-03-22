@@ -1,0 +1,40 @@
+8. Een radicaal nieuwe supercomputer wordt eindelijk werkelijkheid
+de Volkskrant
+21 december 2019 zaterdag
+Copyright 2019 De Persgroep Nederland BV All Rights Reserved
+
+Section: Boeken en wetenschap; Blz. 12
+Length: 853 words
+Byline: GEORGE VAN HAL
+Highlight: Rekenen met de regels van Moeder Natuur zelf. Dat is de belofte van de quantumcomputer, het langverwachte rekenbeest dat tot voor kort vooral een gedachtenexperiment was.
+Body
+
+Ruim veertig jaar. Zo lang wacht de wereld al op de quantumcomputer, de radicaal nieuwe rekentechnologie die nu eindelijk op stoom begint te komen. In 1981 was de Amerikaanse fysicus Richard Feynman een van de eersten die opperde dat het mogelijk moest zijn om te rekenen met de bizarre regels van de quantummechanica. Die tegendraadse theorie beschrijft de wereld op de kleinst mogelijke schaal: die van de elementaire deeltjes, de bouwsteentjes waarvan alles om ons heen gemaakt is, van wolkenkrabbers tot fietsen, en van mensen tot pantoffeldiertjes. 
+Wie rekent met de regels van de quantumfysica opent - in theorie - de deur naar ongekende, bijna magische toepassingen. Zo zou de computer de versleuteling van al onze digitale gegevens kunnen kraken, of het complete menselijk lichaam zodanig kunnen simuleren dat je speciaal op jezelf afgestemde medicijnen kunt ontwikkelen. 
+Hoewel niemand zeker weet wat je straks écht met een quantumcomputer kunt, zijn de torenhoge verwachtingen wel te begrijpen. Ze schuilen in het feit dat de wereld zich op de quantumschaal volkomen anders gedraagt dan we in het dagelijks leven gewend zijn. Waar gewone computers in zekere zin niets anders zijn dan fiks opgevoerde telramen, gaan quantumcomputers voor het eerst op een écht nieuwe manier rekenen, zo luidt de gedachte. 
+8. Een radicaal nieuwe supercomputer wordt eindelijk werkelijkheid
+Dat begint bij de gekke eigenschappen die de quantumfysica over de deeltjeswereld onthulde. Waar je in het echt niet naar de opera in Wenen kunt gaan én tegelijk een toneelstuk kunt bezoeken op Broadway in New York, is zoiets in de quantumwereld gewoon mogelijk. Daar bivakkeren deeltjes zonder probleem op meerdere plaatsen tegelijk. Die eigenschap noemen fysici ook wel superpositie. 
+Diezelfde superpositie, zo bedachten mensen als Feynman, moet je op papier ook kunnen uitbuiten als rekenhulp. Je verwerkt informatie dan niet langer als bits - de nullen en enen die schuilen achter alles van YouTube tot Microsoft Word - maar als 'quantumbits', of kortweg qubits. Dat zijn bits in superpositie, die naast nul óf één ook nul en één tegelijk kunnen zijn. 
+Dat gegeven koppelt een quantumcomputer aan verstrengeling. Deze tweede gekke kronkel van de quantumwereld zorgt ervoor dat twee voorwerpen zich kunnen gedragen als één. Doe je iets met het ene voorwerp, dan heeft dat onmiddellijke invloed op het andere. Ook wanneer die voorwerpen kilometers of zelfs lichtjaren uit elkaar zitten. 
+Door superpositie en verstrengeling te combineren, kun je een computer bouwen die, op papier, over superkrachten beschikt. Wie rekent met één qubit, doet dat instantaan ook met alle qubits die daarmee verstrengeld zijn. Wie vervolgens een slim algoritme bedenkt om dat gegeven zo goed mogelijk uit te buiten, kan bijvoorbeeld razendsnel een database doorzoeken. Waar een klassiek algoritme per keer één route door zo'n database zou moeten bewandelen, kan een quantumalgoritme alle mogelijke routes tegelijk uitproberen en dus veel sneller iets vinden. Dat is de bron van de waanzinnige rekenkracht van de quantumcomputer. 
+Althans: op papier. Want lange tijd was de quantumcomputer niet meer dan een aardigheidje voor fysici, een gedachtenexperiment waarmee je de vakbladen kon vullen, maar dat nog ver verwijderd was van onze fysieke realiteit. 
+Aan het begin van deze eeuw kwam daar verandering in. Op universiteiten begon men de eerste rudimentaire labexperimenten, waarbij handjesvol qubits eenvoudige berekeningen uitvoerden. Pas dit decennium zette de quantumcomputer de volgende grote stap: van academische curiositeit naar serieuze technologie. Techgiganten als Microsoft, IBM en Google toonden interesse en begonnen flink te investeren in de ontwikkeling, met als voorlopig resultaat de eerste quantumcomputers met een qubit of vijftig, die berekeningen kunnen uitvoeren die zo langzamerhand interessant beginnen te worden. 
+Page 2 of 3
+8. Een radicaal nieuwe supercomputer wordt eindelijk werkelijkheid
+Google claimde in 2019 zelfs dat het een eerste langverwachte quantummijlpaal had bereikt. Het bedrijf had naar eigen zeggen zogeheten 'quantumsuperioriteit' bereikt met hun Sycamore-chip, een quantumprocessor met 53 qubits. Daarmee zouden ze in iets meer dan drie minuten een berekening hebben uitgevoerd waar de meest geavanceerde gewone computer zo'n tienduizend jaar voor nodig heeft. Hoewel die specifieke berekening geen praktisch nut had, zou dat voor het eerst zijn dat een quantumcomputer aantoonbaar sneller rekent dan zelfs de beste klassieke computers. 
+Concurrenten zoals IBM twijfelden openlijk aan die claim. Volgens hen kon de door Sycamore uitgevoerde berekening op een klassieke computer aanzienlijk sneller worden gedaan dan de tienduizend jaar waarover Google het had. Maar eigenlijk doet dat er niet eens zoveel toe. Wie er ook gelijk heeft, zeker is dat de quantumprocessoren van Google en IBM, die zelf ook over een variant van 50 qubits beschikt, qua rekencapaciteiten voor het eerst in de buurt komen van de allerbeste supercomputers. Daarmee staat de deur naar een quantumrekenrevolutie definitief op een kier.
+Informatie wordt niet langer verwerkt in bits - nul óf een - maar in quantumbits, die nul én een kunnen zijn
+Bekijk de oorspronkelijke pagina: pagina 12
+Graphic
+
+ 
+Richard Feynman
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Industry: Computing + Information Technology (94%)
+Load-Date: December 20, 2019
+
+End of Document
+Page 3 of 3

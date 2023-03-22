@@ -1,0 +1,28 @@
+Laserlicht op goud leidt tot elektrische spanning
+de Volkskrant
+3 november 2014 maandag
+Copyright 2014 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap; Blz. 17
+Length: 274 words
+Byline: VAN ONZE VERSLAGGEVER MARTIJN VAN CALMTHOUT
+Body
+
+Of er ooit zonnecellen mee worden gemaakt, weten ook de ontdekkers niet. Maar Amerikaanse en Nederlandse fysici hebben een nieuw verschijnsel ontdekt waardoor licht in goudfolie elektriciteit opwekt. 
+In het weekblad Science publiceerde de groep van Caltech in Pasadena en het Fominstituut Amolf in Amsterdam metingen aan goudfolies met piepkleine gaatjes, waarop laserlicht wordt geschenen. Daarbij blijkt een kleine elektrische spanning te ontstaan, een effect dat de onderzoekers het plasmo-elektrisch effect noemen. 
+'Het opwekken van een elektrische spanning is slechts het begin van energieopwekking', zegt nanofysicus prof. Albert Polman van Amolf. 'Nu moeten we met de spanning stroom maken, zonder dat het effect verdwijnt.' 
+Licht kan elektronen op metaaloppervlakken laten golven. Bij het plasmo-elektrische effect wordt daar gebruik van gemaakt. Het was al bekend dat een gaatjesfolie daardoor onder spanning soms licht gaat geven. Nu is ook aangetoond dat omgekeerd een gaatjesfolie in bepaalde gevallen spanning opbouwt als er licht op valt. 
+Volgens Polman zijn zulke folies niet ingewikkeld te maken. Toepassing in bijvoorbeeld zonnecellen noemt hij niet direct het meest voor de hand liggen. 'Ik denk dat, áls het lukt er energie mee op te wekken, je eerst moet denken aan kleine structuren op chips die je kunt voeden zonder dat ze elektrisch aangesloten moeten worden.' 
+De Leidse hoogleraar quantum-optica Martin van Exter spreek van een verrassend effect. 'Dit is een subtiel samenspel van licht en materie, waarvan je niet meteen zou 
+Laserlicht op goud leidt tot elektrische spanning
+denken dat het écht kan optreden. Ik ben benieuwd naar de verdere experimenten van de groep.' 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Superconductors (94%); Nanotechnology (62%)
+Load-Date: November 2, 2014
+
+End of Document
+Page 2 of 2

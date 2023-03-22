@@ -1,0 +1,22 @@
+Een Nederlandse quantumcomputer
+De Telegraaf 
+21 augustus 2021 zaterdag
+Copyright 2021 Mediahuis Nederland BV All Rights Reserved
+
+Section: FINANCIEEL; Blz. 35
+Length: 169 words
+Body
+
+Het ImpaQT-consortium, dat zich aan de bouw van een Nederlandse quantumcomputer heeft gezet, bestaat uit zes bedrijven, die elk gespecialiseerd zijn in hardware of software voor quantumtechnologie. Delft Circuits maakt kabels die extreme kou en hoge frequenties aankunnen, speciaal voor quantumtechnologie. De eveneens in Delft gevestigde bedrijven Qblox en Quantum Ware maken respectievelijk de controle-elektronica en speciale chips voor quantum. Demcon maakte het noodzakelijke antimagnetische schild, terwijl Orange Quantum Systems de componenten integreert en algoritmes ontwerpt die van de quantumcomputer een programmeerbaar apparaat maakt. De applicaties die op het systeem zullen draaien, zijn van de Amsterdamse startup Qu&Co. Alleen de koelkast die quantumcomputers nodig hebben omdat ze alleen bij extreem lage temperaturen functioneren, komt van buiten het consortium. De maker van die koelsystemen, Bluefors, komt uit Finland, maar is daar wel opgericht door twee Nederlanders.
+PDF-bestand van dit document
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Tlg-NL
+Een Nederlandse quantumcomputer
+Industry: Computing + Information Technology (94%)
+Load-Date: August 20, 2021
+
+End of Document
+Page 2 of 2

@@ -1,0 +1,55 @@
+De vlieg is wezenlijker dan de kathedraal; Atoomkern
+de Volkskrant
+24 december 2010 vrijdag
+Copyright 2010 PCM Uitgevers B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 3
+Length: 1043 words
+Byline: Martijn van Calmthout
+Body
+
+Zomer, de kathedraal van Pisa. Het mooiste moment is 's morgens heel vroeg, als de koster net de deuren van het immense gebouw heeft geopend en de toeristen nog in hun nest liggen. Het harde Italiaanse ochtendlicht priemt door de hoge ramen het stille godshuis binnen en kaatst over mozaïeken en marmeren beelden die de preekstoel van Pisano dragen. In de kersenhouten banken aan weerszijde van het centrale gangpad bidt een enkeling voor eigen heil of dat van anderen. Straks komt de horde die wijst en fotografeert.
+Nu is het stil en hol en denken wij aan de fysicus Ernest Marsden, die in 1909 in een verduisterd lab in Manchester het bestaan van de atoomkern ontdekte. In goud. Aanvankelijk zonder dat zelf te begrijpen.
+Voorjaar 1909, Manchester. Op bevel van zijn professor Ernest Rutherford houdt student Marsden een dun goudfolie dicht bij een radioactief bronnetje en bekijkt hoe de alfadeeltjes daaruit door het folie schieten. De meeste vliegen er dwars doorheen, zoals verwacht. Maar een paar deeltjes kaatsten hard terug en veroorzaken kenmerkende lichtflitsjes, die Marsden met een microscoop waarneemt. Gemiddeld twee per seconde, telt hij. Dat is raar. Het is alsof een vel papier artilleriegranaten tegenhoudt, zal Marsden later schrijven. Plumpuding
+Rutherford weet direct dat alle bestaande modellen voor het atoom overboord kunnen. De bouwstenen van de materie zijn klein en bestaan uit elektronen en positieve lading, dat is al langer bekend. Waarschijnlijk, is het gangbare idee op dat moment, zijn de elektronen ongeveer verdeeld als de krenten in een krentenbol. Negatief geladen pruimen in een plumpudding van positieve lading, noemen de Engelsen het in hun culinaire jargon.
+Maar dat model kan niet waar zijn. In een plumpudding is niets massief genoeg om een aanstormend alfadeeltje keihard terug te kaatsen, hooguit wordt het iets uit zijn baan gebracht.
+Twee jaar later, in 1911, heeft Rutherford zijn alternatieve model klaar. Het atoom bestaat volgens hem uit een centrale positief geladen atoomkern en op grote afstand daaromheen een zwerm van elektronen. Een planetenstelsel in het heel klein.
+En met heel veel lege ruimte, want hoe anders kunnen de projectielen zo gemakkelijk door het goud vliegen? De kern, leggen fysici sindsdien graag aan buitenstaanders uit, moet in het atoom ongeveer zijn als een vlieg in een kathedraal: tienduizenden malen kleiner dan het geheel.
+Winter, sneeuw op Delft. Op het Kavli-instituut voor nanofysica aan de Mekelweg wijst assistant-professor Sander Otte op een monitor naast een ingewikkelde toren van stalen cilinders met kijkgaten, witberijpte heliumkoeling waaruit damp kringelt en zoemende vacuümpompen. Ergens binnen in deze zogeheten scanning tunneling microscope heeft een ragfijn atomair naaldje zojuist een siliciumoppervlak afgetast, aangestuurd door een computer.
+Het resultaat op het beeldscherm oogt als een gruizige foto van een eierdoos: een regelmatig patroon van piekjes en putten. Ziehier echte atomen, in dit geval van silicium. Op een enkele plaats is een breder dal in het atoomlandschap te vermoeden. Volgens Otte zit daar een laag of drie, vier onder het oppervlak een atoom borium.
+Dan crasht de atoomtaster ergens diep in het binnenste van de opstelling en toont het scherm alleen nog ruis en rommel.
+Knikkers
+Een paar kamers verderop in het lab. Hoogleraar hoge-resolutie elektronenmicroscopie Henny Zandbergen start op verzoek een filmpje op zijn laptop. Een nanobrug van goud, enkele tientallen atomen breed, komt in beeld, kalft in het midden af, breekt uiteindelijk. De individuele atomen glijden als magnetische knikkers langs elkaar heen, herschikken zich, verspringen, laten elkaar uiteindelijk in het middendeel opeens los. Alweer goud, trouwens: het element waarin Marsden en Rutherford een eeuw geleden het bestaan van de atoomkern ontdekten.
+'Dichterbij het zien van een atoom kun je eigenlijk niet komen', zegt groepsleider Leo Kouwenhoven op zijn werkkamer, na de rondgang door het lab.
+Vergeet die atoomkern dus maar? Ja en nee, zegt Kouwenhoven. Een atoomkern zien is geen optie, hooguit een spoor in een detector. Maar voelen is een ander verhaal. Als de vlieg beweegt, schudt de hele kathedraal. Een klein beetje, maar wel voelbaar.
+Het meest alledaagse voorbeeld, legt Kouwenhoven uit, is kernspinresonantie, bekend van de MRI-scanner in het ziekenhuis. Atoomkernen hebben een magnetische richting, de spin genoemd. Geef al die magneetjes een mep met een elektromagnetisch veld, en uit de signalen die terugkomen is af te leiden waar welke atomen zitten. Weefsels en structuren worden zichtbaar, doorbloeding in hersendelen.
+Haat-liefde
+Nanofysici als Kouwenhoven hebben een haat-liefdeverhouding met de kernspin. Zijn ultieme nanodroom is een quantumcomputer. Zo'n apparaat rekent sneller en massaler dan wat ook, omdat het niet met enen en nullen werkt, maar met beide toestanden tegelijk. Probleem is dat zulke quantumsystemen enorm gevoelig zijn voor storingen. Doorgaans, zegt Kouwenhoven, zijn die te wijten aan de janboel van kernspins van atomen in de omliggende materialen. Oplossingen zijn er ook: bijvoorbeeld het richten van alle atomen met behulp van de MRI-technieken die ook in scanners worden gebruikt.
+En de liefde? Kernspins zijn ook opmerkelijk stabiel, zegt Kouwenhoven. En dus wordt er geknutseld aan losse fosforatomen, ingebed in silicium, bij wijze van piepklein geheugenelement. Werkt al, zij het alleen met extreme koeling.
+Maar er wordt ook gekeken naar diamant, waarin de zeldzame koolstof-13-atomen een spin hebben die lekker afsteekt tegen de gangbaarder koolstof-12-atomen, die toevallig geen netto kernspin hebben. Werkt zelfs bij kamertemperatuur, zegt Kouwenhoven enthousiast. 'Over een tijdje lopen we allemaal rond met een pinpas met tollende atoomkernen in onze binnenzak.'
+Dat had student Ernest Marsden in 1909 in het pikkedonker gebogen over zijn microscoop onmogelijk kunnen bedenken. En in Pisa zal het ze een zorg zijn. Want zodadelijk komt de horde toeristen die wijst en fotografeert.
+Atomen blijven de essentie van de stabiele materie
+De bouwsteen van de materie, atomen, zijn nagenoeg leeg. Hoe vang je de kern, die nietig is als een vlieg in een kathedraal? Van Pisa naar Manchester, naar Delft. Door Martijn van Calmthout
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: De Volkskrant
+Subject: Physics (94%); Nanotechnology (81%); Superconductors (78%); Nuclear 
+Science (68%); Lasers (63%)
+Industry: Computing + Information Technology (92%); Manufacturing (81%)
+Load-Date: December 24, 2010
+
+End of Document
+De vlieg is wezenlijker dan de kathedraal; Atoomkern
+
+De vlieg is wezenlijker dan de kathedraal; Atoomkern
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

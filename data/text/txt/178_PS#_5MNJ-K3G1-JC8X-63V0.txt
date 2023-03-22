@@ -1,0 +1,35 @@
+Supersnel data schrijven en toch koel blijven
+de Volkskrant
+19 januari 2017 donderdag
+Copyright 2017 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap; Blz. 29
+Length: 521 words
+Byline: BARD VAN DE WEIJER
+Highlight: In de zoektocht naar het almaar sneller kunnen opslaan van computerdata hebben onderzoekers mogelijk de heilige graal gevonden. Door laserlicht met extreem korte pulsjes op ijzergranaat af te vuren, is magnetische dataopslag mogelijk zonder dat er hitte vrijkomt. Dit werd tot nu toe als onmogelijk beschouwd. Wetenschappers van de Radboud Universiteit en de universiteit van Bialystok in Polen zijn er niettemin in geslaagd. Hun bevindingen zijn woensdag in Nature gepubliceerd.
+Body
+
+Onderzoekers uit Nijmegen en Polen presenteren 'onmogelijke' lasertechniek
+Technologieën om met laserlicht data weg te schrijven bestaan al langer. Hierbij wordt de warmte van de laserpuls juist gebruikt om de magnetisatierichting van metaalatomen te veranderen. Dankzij extreem korte laserpulsjes kunnen grote hoeveelheden data (nullen en enen) snel worden weggeschreven. Er is alleen een probleem bij deze methode, in 2007 ontdekt door natuurkundige Theo Rasing: de temperatuur loopt lokaal zo sterk op dat de magnetische ordening van het materiaal soms in de war wordt gestuurd, met schrijffouten tot gevolg. 
+De afgelopen jaren is gezocht naar een methode waarbij laserlicht de magnetisatierichting kan veranderen zonder hitte te produceren. 'Veel collega's zeiden dat dit onmogelijk was', zegt onderzoeker Alexey Kimel. 'Het was daardoor lastig onderzoeksfinanciering te krijgen.' Niettemin is het de van oorsprong Poolse natuurkundige gelukt, met een mix van yttrium-ijzergranaat en kobaltionen. 
+Kimel en zijn collega's zijn erin geslaagd de magnetische spin om te polen met een laserpuls van 40 femtoseconden, waarbij 5 miljoen keer zo weinig warmte vrijkomt als bij bestaande schrijftechnologieën. Kimel heeft zo een belangrijk dilemma in de 
+Supersnel data schrijven en toch koel blijven
+thermodynamica opgelost. 'Normaal gesproken kost snel data schrijven veel energie. Als je energiezuinig wilt werken, gaat het langzaam.' 
+De nieuwe methode is snel: lezen en schrijven van een bit vergt 20 picoseconden (1 picoseconde is een miljoenste van een miljoenste van een seconde). De snelheid van de snelste schijven ligt nu nog een factor vijftig lager. 
+Doordat er nauwelijks warmte bij vrijkomt heeft de opslagtechnologie nog een voordeel: ze kan worden ingezet als geheugen bij supergeleidende elektronica. Dit is een voordeel voor grote datacentra, die veel energie gebruiken voor hun processors en de koeling daarvan. Overstappen op veel efficiënter werkende supergeleidende elektronica (of op quantumcomputers) was tot nu toe een probleem, want bestaande opslagtechnologieën werken niet bij temperaturen dicht boven het absolute nulpunt. De nieuwe technologie werkt wel bij extreem lage temperaturen, zodat data-opslag dicht bij de processors kan gebeuren, wat onontbeerlijk is voor snelle gegevenswerking. 
+Er wordt overigens al gewerkt aan harde schijven die data wegschrijven met laserpulsen, maar die maken juist gebruik van de vrijkomende warmte bij het schrijfproces. De eerste schijven gebaseerd op deze zogenoemde Heat Assisted Magnetic Recording komen waarschijnlijk rond 2018 op de markt. Hier kan de industrie nog een tijdje mee vooruit, zegt Kimel, daarna is de verdere evolutie van de harde schijf terra incognita. 'Als er geen nieuwe technologieën komen, komt de ontwikkeling van de harddisk uiteindelijk tot stilstand. Dan wordt het net iets als de koelkast, waar ook niet veel meer aan verandert.' Als Kimel en zijn collega's hun methode zo perfectioneren dat ze in de praktijk kan worden toegepast, is de toekomst van de harddisk als opslagmedium voor de verre toekomst veiliggesteld. 
+Kimel: 'Het zijn spannende tijden.'
+5
+Bekijk de oorspronkelijke pagina: pagina 29
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Superconductors (94%)
+Page 2 of 3
+Supersnel data schrijven en toch koel blijven
+Industry: Manufacturing (69%); Computing + Information Technology (63%)
+Load-Date: January 18, 2017
+
+End of Document
+Page 3 of 3

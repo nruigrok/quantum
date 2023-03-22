@@ -1,0 +1,38 @@
+Spectaculaireontdekking fysici in Delft
+de Volkskrant
+1 maart 2012 donderdag
+Copyright 2012 PCM Uitgevers B.V. All Rights Reserved
+
+Section: Ten Eerste; Blz. 3
+Length: 517 words
+Byline: Van onze verslaggever Martijn van Calmthout
+Body
+
+Natuurkundigen in Delft hebben een sinds 1937 gezocht elementair deeltje gecreëerd, dat nodig is voor een supercomputer.
+Van onze verslaggever
+Martijn van Calmthout
+AMSTERDAM Delftse natuurkundigen hebben waarschijnlijk als eersten een exotisch nieuw elementair deeltje gecreëerd waar al sinds 1937 over wordt gespeculeerd. Het kan een sleutelrol gaan spelen in de supercomputer van de toekomst. Ze deden hun vondst niet in een reusachtige deeltjesversneller zoals in Genève, maar op het kruispunt van supergeleidende nanodraden op een speciale chip, 'made in Delft'.
+Onderzoeksleider en Spinozaprijswinnaar prof. Leo Kouwenhoven maakte de vondst bekend op de jaarvergadering van de Amerikaanse natuurkundige vereniging APS. Het nieuws veroorzaakte een golf van opwinding onder de duizenden aanwezige fysici. Een verslaggever van het weekblad Nature vergeleek het gedrang rond de Nederlander op de wetenschappelijke conferentie met een druk treinstation tijdens de spits.
+'Hebben we Majorana-fermionen gezien? Ik zou zeggen: een voorzichtig ja', aldus Kouwenhoven aan het eind van zijn presentatie in Boston. Andere natuurkundigen zeiden dat de Delftse metingen niet goed op een andere manier te verklaren zijn dan door de aanwezigheid van een Majorana-achtig deeltje. De resultaten zijn inmiddels gepubliceerd in het tijdschrift Physical Revier Letters.
+Het zogeheten Majorana-fermion is een van de vreemdste elementaire deeltjes die fysici kennen, althans op papier. Het mogelijke bestaan ervan werd in 1937 voorspeld door de Italiaanse natuurkundige Ettore Majorana (1906-1938). Sindsdien hebben fysici overal 
+Spectaculaireontdekking fysici in Delft
+gezocht naar natuurlijke Majorana-deeltjes, maar steeds zonder succes. In versnellers bleken ze niet te vinden. Enkele jaren geleden werd de aandacht verlegd naar speciale effecten in sommige vaste stoffen waarmee eventueel Majorana-deeltjes zouden zijn te creëren.
+De Delftse groep vond de eerste aanwijzingen voor de Majorana-deeltjes aan de uiteinden van een microscopische draadje van indium-antimonide, op een deels supergeleidende chip wanneer daarop ook nog een magneetveld wordt losgelaten. Kouwenhoven onderzocht eerder dergelijke nanodraadjes. Vorig jaar kreeg hij een beurs van een miljoen dollar van softwarebouwer Microsoft voor zijn speurtocht naar het kunstmatige Majorana-fermion. Ook natuurkundefinancier FOM stak er een miljoen in.
+De interesse van Microsoft komt voort uit de mogelijkheid om een computergeheugen te maken met Majorana-deeltjes. Een dergelijke computer zou dan niet met enen en nullen rekenen, zoals nu gebeurt. In plaats daarvan wordt er tegelijkertijd gerekend met alle potentiële tussenwaarden tussen een en nul, waardoor veel meer rekenkracht ontstaat.
+Het probleem aan een dergelijke quantumcomputer is dat de gebruikte quantumbits doorgaans extreem gevoelig zijn voor storingen. Een uitzondering daarop vormen paren van Majorana-deeltjes. Die kunnen dankzij hun speciale wiskundige eigenschappen wel worden verstoord.
+Maar daarna veren ze steevast terug naar hun oorspronkelijke toestand. Dat zou het eerste robuuste quantumgeheugen kunnen opleveren, is de hoop.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: De Volkskrant
+Subject: Physics (94%); Superconductors (71%); Educational Institution Employees 
+(63%); Standards + Measurements (61%)
+Company:  MICROSOFT CORP (53%)
+Industry: Computing + Information Technology (90%)
+Page 2 of 3
+Spectaculaireontdekking fysici in Delft
+Load-Date: February 29, 2012
+
+End of Document
+Page 3 of 3

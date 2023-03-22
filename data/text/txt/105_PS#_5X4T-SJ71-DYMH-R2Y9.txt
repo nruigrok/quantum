@@ -1,0 +1,48 @@
+Klus van 10.000 jaar in 200 seconden
+NRC Handelsblad
+27 september 2019 vrijdag
+Copyright 2019 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 16
+Length: 773 words
+Byline: Dorine Schenk
+Dateline: Amsterdam 
+Body
+
+ABSTRACT
+           Quantumcomputer  Een quantumcomputer van Google zou voor het eerst klassieke computers hebben verslagen. Het wachten is op publicatie.
+VOLLEDIGE TEKST:
+         Een quantumcomputer van Google met 53 quantumbits heeft mogelijk in 200 seconden een taak uitgevoerd waar de meest geavanceerde supercomputer tienduizend jaar over doet. Als het waar is, dan heeft de quantummachine, voor die ene taak, quantumsuperioriteit bereikt.
+Dit nieuws werd vorige week gebracht door de Financial Times. Die krant verwees naar een artikel dat was verschenen op de website van NASA, maar al snel werd teruggetrokken. Het had nog niet gepubliceerd mogen worden omdat het nog niet gecontroleerd is door andere experts. Een woordvoerder van Google zegt desgevraagd dat hij ,,op dit moment niet kan reageren".
+Quantumsuperioriteit is bereikt als een quantumcomputer een probleem veel efficiënter op kan lossen dan elke bestaande klassieke computer. Hiervoor moet de quantumcomputer gebruikmaken van zijn bijzondere quantumeigenschappen, zoals verstrengeling. Ook moet het echt niet mogelijk zijn om het probleem binnen afzienbare 
+Klus van 10.000 jaar in 200 seconden
+tijd uit te voeren op een klassieke computer. Aan deze vereisten lijkt de prestatie van Google te voldoen.
+Volgens deze definitie van quantumsuperioriteit hoeven quantumcomputers de klassieke computers dus niet volledig voorbij zijn gestreefd in rekenkracht.
+Een quantumcomputer gebruikt qubits in plaats van bits. De bits van klassieke computers zijn één of nul. Qubits kunnen ook een combinatie van één en nul zijn, bijvoorbeeld 50 procent één en 50 procent nul. Samen met andere quantumeigenschappen zorgt dat ervoor dat je berekeningen tegelijkertijd kan uitvoeren. Dat maakt een quantumcomputer veel sneller dan een klassieke. De voorwaarde is wel dat de berekening zo beschreven kan worden dat hij parallel uitvoerbaar is en dat het antwoord waar je naar zoekt in de quantumbrij teruggevonden kan worden.
+Het was geen geheim dat Google samen met NASA werkte aan quantumsuperioriteit voor één specifieke taak. Eind 2017 hadden ze een stappenplan klaarliggen waarmee dit in 2018 zou lukken. Dit stappenplan lijkt nu, een jaar later dan gepland, uitgevoerd.
+Hiervoor is een quantumprocessortje, genaamd Sycamore, gebruikt. Het heeft 54 qubits waarvan één het niet deed. Er deden dus 53 qubits mee. De taak waar de onderzoekers naar keken was, simpel gezegd, het produceren van een willekeurige getallenreeks met een bepaalde verdeling.
+Door de qubits zo te programmeren dat ze willekeurige bewerkingen uitvoeren, produceerde Sycamore een willekeurige getallenreeks. Omdat dergelijke bewerkingen met een klassieke supercomputer niet mogelijk zijn, probeerde de supercomputer die willekeur te simuleren. Het bleek niet mogelijk om efficiënt de willekeur van de 53 qubits na te bootsen.
+,,De Google-machine presteert dus alleen beter dan klassieke machines bij het 
+'berekenen' van zichzelf", mailt Lieven Vandersypen van het Delftse quantuminstituut QuTech. Dit klinkt niet erg bijzonder, toch noemt hij het onderzoek ,,een zeer indrukwekkende technische prestatie". Wel vindt Vandersypen de aandacht voor deze prestatie wat voorbarig, omdat het nog niet gecontroleerd is door een peerreviewproces dat nodig is voordat het in een wetenschappelijk tijdschrift mag verschijnen.
+,,Het is indrukwekkend dat ze meer dan 50 qubits tegelijkertijd met hoge precisie aansturen", zegt Vandersypen. ,,Eerder lukte hooguit negen qubits met hoge precisie of twintig met lage precisie." Dit komt doordat qubits erg fragiel zijn. Microscopische trillingen in de quantumprocessor kunnen al zorgen voor fouten. Om quantumcomputers op te schalen voor langere berekeningen moeten qubitfouten voorkomen en gecorrigeerd worden. Er wordt nog hard gewerkt om dat mogelijk te maken, onder andere bij QuTech.
+Page 2 of 3
+Klus van 10.000 jaar in 200 seconden
+Als dat lukt dan kunnen quantumcomputers gebruikt worden voor praktische toepassingen die buiten het bereik van klassieke computers liggen. Bijvoorbeeld het simuleren van moleculen om nieuwe materialen en medicijnen te ontwikkelen. Een andere, meer verontrustende toepassing is het kraken van encryptie, waarmee bijvoorbeeld e-mailverkeer beveiligd wordt.
+Als de resultaten van Google bevestigd worden, dan is het dus een kleine mijlpaal op het gebied van quantumsuperioriteit. De Amerikaanse theoretische computerwetenschapper Scott Joel Aaronson vergelijkt het op zijn blog met het eerste gemotoriseerde vliegtuig, de Wright Flyer. Het toestel kon maar een paar seconden vliegen, toch kun je het zien als een mijlpaal onderweg naar commerciële luchtvaart.
+Een zeer indrukwekkende technische prestatie 
+Lieven Vandersypen hoogleraar
+Link naar PDF
+Graphic
+
+ 
+De experimentele quantumcomputer van het Amerikaanse internetbedrijf Google.
+Foto Google, Eric Lukero
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Industry: Computing + Information Technology (94%)
+Load-Date: September 27, 2019
+
+End of Document
+Page 3 of 3

@@ -1,0 +1,45 @@
+Winnaar van Nobelprijs: 'Geld verdienen is niet mijn doel' Albert Fert, vader van de superdisk 'Elektronen gedragen zich op nanoschaal heel anders'
+Het Parool
+30 oktober 2010 zaterdag
+Copyright 2010 Het Parool All Rights Reserved
+
+Section: WETENSCHAP; Blz. 34
+Length: 749 words
+Byline: ROWDY BLOKLAND
+Body
+
+Ook deze zomer was in het Duitse Lindau weer één van de meest elitaire bijeenkomsten uit de academische wereld: de zestigste Meeting of Nobel Laureates.
+Het gezelschap bestond uit 59 Nobelprijswinnaars, in vakgebied variërend van natuurkunde, scheikunde, fysiologie tot geneeskunde, plus 650 hoogbegaafde wetenschappelijke toptalenten uit de hele wereld, allen twintigers.
+Zij ontmoetten elkaar zes dagen lang om intensief theoretische en praktische kennis uit te wisselen tijdens informele diners, boottochtjes en concertbezoekjes, afgewisseld met pittige powerpointlezingen op hoog niveau.
+Doel van de meeting is het klaarstomen van de jonge garde voor een succesvolle wetenschappelijke carrière. Niet zozeer om hen te helpen een Nobelprijs in de wacht te slepen, maar om de grote wetenschappelijke problemen van morgen het hoofd te bieden, zoals duurzaamheid en het energieprobleem.
+Opvallend in dit geleerde gezelschap is Albert Fert, de Franse natuurkundige die in 2007 samen met de Duitser Peter Grünberg de Nobelprijs voor Natuurkunde ontving, voor de ontdekking van Giant Magneto Resistance (GMR). Dit is een kwantumfysisch effect, dat een veel hogere datadichtheid op harde schijven van pc's mogelijk maakt.
+Fert is daarmee bedenker en van de spintronica: een nieuwe tak van elektronica, gebaseerd op de spin, draaiing, van elektronen.
+Winnaar van Nobelprijs: 'Geld verdienen is niet mijn doel' Albert Fert, vader van de superdisk 'Elektronen gedragen zich op nanoschaal heel anders'
+Als één van de weinigen vertelt Fert derhalve enthousiast over concrete technische toepassingen, die op termijn kunnen voortvloeien uit zijn ontdekking.
+De vader van de spintronica vertelt dat het door hem ontdekte systeem precies zo werkt als de leeskop van een harddisk. "Mijn onderzoeksgroep en die van Grünberg onderzochten de eigenschappen van stapelingen, of sandwiches, van zeer dunne laagjes ferromagnetisch materiaal. Op de schaal van nanometers, niet meer dan enkele atomen dik, gedragen die zich heel anders dan op macroschaal."
+"Neem een sandwich van twee ferromagnetische materialen, bijvoorbeeld ijzer, gescheiden door een neutraal tussenlaagje. We vonden uit dat de weerstand die een stroompje ondervindt dat door de sandwichstructuur loopt, afhankelijk is van de magnetische oriëntatie van de ferromagnetische lagen ten opzichte van elkaar. Laat je een stroom lopen van de ene naar de andere laag, dan is de weerstand die die stroom ondervindt hoger wanneer die tweede laag magnetisch tegengesteld gericht is aan de eerste laag, en lager wanneer ze gelijkgericht zijn."
+"Zo'n systeem werkt dus precies als een leeskop van een harddisk, zolang je er voor zorgt dat de dichtst bij de harde schijf gelegen laag niet permanent gemagnetiseerd en dus magnetisch beïnvloedbaar is. Die kan dan vrijelijk van richting veranderen door de langsvliegende bitjes, die vervolgens door de variaties in stroomsterkte geregistreerd worden. Die beïnvloeding door een extern magneetveld van het sandwichsysteem noemen we het GMR effect."
+Fert: "Het weerstandsverschil is een puur kwantummechanisch effect: elektronen hebben een zogenoemde spin of draaiing, die we ons voorstellen als omhoog of omlaag gericht. Elektronen met een spin die gelijkgericht is aan de magnetisatierichting van de laag waar zij doorheen bewegen, ondervinden minder weerstand dan elektronen die daaraan tegengesteld gericht zijn. Het systeem filtert dus letterlijk de elektronenstroom, waarbij twee identiek gerichte ijzerlagen minder elektronen filteren dan twee onderling verschillende lagen."
+"Hoe groter het GMR effect van een sandwichstructuur, hoe gevoeliger de leeskop. Wat gunstig is, want om de schrijfdichtheid van harddisks sterk te doen toenemen, hebben de steeds kleinere en dus magnetisch steeds zwakkere bits juist steeds kleinere en gevoeliger leeskoppen nodig. De miniaturisering en capaciteit van harddisks namen door onze ontdekking een hoge vlucht. Iets waar iedereen van profiteert, dus ontvingen we er de Nobelprijs voor."
+Fert bedacht zelf de term spintronica, elektronica gebaseerd op de spin van elektronen. Peter Grünberg echter patenteerde in een heldere opwelling GMR. Het spijt Fert niet: 
+"Geld verdienen is mijn doel niet. Grünberg verkocht het patent aan IBM en toucheerde 
+Page 2 of 3
+Winnaar van Nobelprijs: 'Geld verdienen is niet mijn doel' Albert Fert, vader van de superdisk 'Elektronen gedragen zich op nanoschaal heel anders'
+daar erg veel geld mee. Ik wist ooit hoeveel, maar ben dat vergeten. Ik reken gewoon beter in natuurkundige grootheden dan in monetaire eenheden." Winnaar van Nobelprijs: 'Geld verdienen is niet mijn doel'
+Weinig mensen begrijpen hoe kwantummechanica werkt. Albert Fert, uitvinder van de spintronica harddisk, legt het uit in lekentaal.
+'Elektronen gedragen zich op nanoschaal heel anders'
+Graphic
+
+ 
+De vrouw van Nobelpijswinnaar Albert Fert schikt nog even zijn strikje, voordat hij in 
+Stockholm de prijs in ontvangst zal nemen. foto hollandse hoogte 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: parool
+Subject: Superconductors (94%)
+Load-Date: November 1, 2010
+
+End of Document
+Page 3 of 3

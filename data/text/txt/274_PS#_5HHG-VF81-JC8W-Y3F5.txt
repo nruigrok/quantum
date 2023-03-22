@@ -1,0 +1,35 @@
+Instituut gaat quantumsoftware ontwikkelen
+de Volkskrant
+3 december 2015 donderdag
+Copyright 2015 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap; Blz. 25
+Length: 534 words
+Byline: VAN ONZE VERSLAGGEVER MARTIJN VAN CALMTHOUT
+Body
+
+Terwijl hard wordt gewerkt aan het bouwen van de eerste echte quantumcomputers, staat de ontwikkeling van software voor het rekenen van de toekomst eigenlijk nog in de kinderschoenen. Met de oprichting van een instituut in Amsterdam willen Nederlandse informatici daar snel verandering in gaan brengen. 
+'De situatie rond quantumcomputers is een beetje vergelijkbaar met die van de digitale computer in de jaren zestig', zegt informaticus prof. Harry Buhrman, directeur van het nieuwe QuSoft dat vandaag wordt geopend. 'Er is een nieuwe technologie, maar wat zouden we er allemaal voor mooie dingen mee kunnen doen en hoe dan?' In digitale software, benadrukt hij, zit tegenwoordig het grote geld in de indus-trie, veel meer dan in de hardware. 
+Quantumrekenen wordt algemeen gezien als een nieuw hoofdstuk in de computertechnologie, waarmee bijna oneindig veel sneller grote opgaven kunnen worden gekraakt dan nu lukt. 
+Onder meer de versleuteling van internetcommunicatie (het slotje in de browser bij een aankoop op Amazon) is niet langer veilig als quantumcomputers eenmaal op zoek kunnen naar de geheime sleutels. 
+Een van de thema's van QuSoft wordt het vinden van quantumbestendige cryptografie, bijvoorbeeld niet op basis van grote priemgetallen zoals nu gangbaar is. Daarnaast is er ook vraag naar nieuwe methodes om uitkomsten van quantumberekeningen te 
+Instituut gaat quantumsoftware ontwikkelen
+controleren en moeten vragen over het besturen van een quantumcomputer worden opgelost. Vermoedelijk zijn voor die besturing zelfs digitale supercomputers nodig. 
+QuSoft is een initiatief van de Universiteit van Amsterdam, de Vrije Universiteit en het Centrum voor Wiskunde en Informatica (CWI). Het instituut gaat uiteindelijk veertig mensen tellen en wil een sleutelrol spelen in het ontwikkelen van methoden en technieken voor het quantumrekenen. Daarbij wordt nauw samengewerkt met het QuTech-instituut in Delft, waar met grote budgetten van de industrie en ook de EU onderdelen van een eerste werkende quantumcomputer worden ontwikkeld. 
+Volgens Buhrman gaat Nederland het komende voorzitterschap van de EU aangrijpen voor een groter Europees initiatief rond quantumcomputing. QuTech in Delft werd eerder door het kabinet al aangemerkt als een Nationaal Icoon op innovatiegebied. 
+Quantumcomputing 
+De belofte van quantumrekenen is gebaseerd op het idee uit de natuurkunde dat de kleinste deeltjes, bijvoorbeeld rondtollende elektronen op een chip, in verschillende toestanden tegelijk kunnen verkeren. Anders dan in een gewone digitale computer is het geheugen dan niet gevuld met bits die 1 of 0 zijn, maar met zogeheten qubits die zowel 1 als 0 zijn. Een combinatie van bijvoorbeeld 100 qubits betekent daardoor niet één ding, maar heeft in één klap 2 tot de macht 100 betekenissen. Rekenen met zulke qubitreeksen komt erop neer dat er extreem veel berekeningen tegelijk worden uitgevoerd. De kunst van quantumrekenen is vervolgens vooral om uit de soep van oplossingen de gezochte antwoorden te filteren. Bij combinaties van meer dan pakweg 70 qubits is quantumrekenen zeker krachtiger dan gewoon rekenen, zelfs op de beste supercomputers. 
+In digitale software zit tegenwoordig het grote geld in de industrie 
+Bekijk de oorspronkelijke pagina: pagina 25
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Page 2 of 3
+Instituut gaat quantumsoftware ontwikkelen
+Industry: Computing + Information Technology (95%); Budgets (89%)
+Load-Date: December 2, 2015
+
+End of Document
+Page 3 of 3

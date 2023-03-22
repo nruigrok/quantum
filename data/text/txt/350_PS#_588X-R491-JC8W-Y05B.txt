@@ -1,0 +1,69 @@
+Spoken door de spiegel
+NRC Handelsblad
+27 april 2013 zaterdag
+Copyright 2013 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 7
+Length: 1305 words
+Byline: Margriet van der Heijden
+Body
+
+SAMENVATTING
+natuurkunde In Delft verstrengelden fysici ver uit elkaar gelegen deeltjes: het begin van teleporteren.
+Margriet van der Heijden
+VOLLEDIGE TEKST:
+Verstrengeling betekent 'vervlechting', zegt Van Dale. Ledematen kunnen verstrengelen. Abstracter: belangen.  Nog abstracter:  elementaire deeltjes. Quantumfysicus Erwin Schrödinger  muntte in 1935 de term om te beschrijven hoe elementaire deeltjes onlosmakelijk 	met 	elkaar 	verbonden 	kunnen 	raken 	als 	er 	tussen 	hun quantumeigenschappen dwingende relaties bestaan. Zelfs al zitten er tussen die deeltjes tientallen kilometers.
+'Spooky' noemde Einstein dat verschijnsel. En dat is het ook, zegt Ronald Hanson. Hij  leidt aan de Technische Universiteit Delft een onderzoeksgroep die 
+quantumverstrengeling op de proef stelt.  Deze week beschreven zij  in  Nature hoe zij  een elektron, ingevangen in een kuiltje in een stukje diamant, verstrengelden met net zo'n  ingevangen elektron, drie meter verderop.  In een doordachte meetopstelling dwongen ze die  elektronen  tot samenhang:   de elektronen  móésten  in tegengestelde richting draaien. "Ook al ga je  ertussen staan zwaaien, niets houdt die  'verstrengeling op afstand'  tegen."
+Het mooie voor later is, schrijven Hanson en collega's, dat je op die manier een quantum-communicatiekanaal opent. "Je weet  niet welke kant ieder elektron op tolt. Je weet alleen dat als A linksom tolt, B rechtsom draait en vice versa. Zo teleporteer je dus nog geen informatie. Maar je kunt elektron A wèl verstrengelen met een quantumbit:  dan raakt de informatie uit dat quantumbit daarna ook verstrengeld met B, en zo kun je toch informatie oversturen."
+Door het verst weg gelegen elektron opnieuw te verstrengelen met een nóg verder weg gelegen elektron, en zo verder,  zou je  zulke informatie zelfs  over grote afstand   kunnen teleporteren.  Zonder verlies, zonder noemenswaardige vertraging én vooral: veilig, want bij teleportatie kan niemand 'onderweg' meekijken.
+Superpositie
+Wat hebben Hanson en collega's gedaan? Hun proef hangt nauw samen met een ander raadselachtig quantumverschijnsel. In de microscopische wereld bevinden deeltjes zich  in meerdere toestanden tegelijk. Ze zijn hier én daar, tollen linksom én rechtsom. Ze zijn de som  -  de 'superpositie' -  van mogelijkheden.
+Helemaal niet  vaag, vindt Hanson. De microscopische wereld is juist deterministisch. "Je moet accepteren dat  deeltjes zich er als golven gedragen, en golven bestaan per definitie niet uit één deeltje op één plek. Maar je kunt ze wél precies beschrijven. De golfvergelijkingen geven exact aan in welke mate een deeltjesgolf zich in de ene toestand bevindt, én in een andere."
+Het ware probleem, zegt Hanson, is  dat niemand begrijpt hoe daarna  de stap naar onze eigen, macroscopische wereld verloopt.   Zodra je in onze wereld gaat meten, verandert de golf immers  in een vastomlijnd deeltje dat uitsluitend linksom tolt. Of rechtsom - maar nooit is te voorspellen welke kant het kiest.
+Juist dat maakt  ook verstrengeling zo spookachtig. Neem de proeven waarin fysici twee lichtdeeltjes zo verstrengelden dat ze steevast in tegengestelde richting moesten tollen. En waarin ze  die fotonen   kilometers  uit elkaar lieten reizen alvorens ze op te meten. Zelfs dan bleek    dat deeltje A inderdaad altijd rechtsom tolt, wanneer deeltje B linksom beweegt en vice versa.
+Alleen: hoe wisten de fotonen van elkaar in welke toestand ze  zouden terechtkomen? Terwijl de afstand tussen hen zo groot was  dat je die met de lichtsnelheid niet tijdig overbrugt?
+Meetval
+Het mooie aan het Delftse experiment is dat het een bezwaar wegneemt dat quantumcritici inbrachten tegen  die vreemde verstrengeling. Toen fysici de fotonen nog niet zo ver uit elkaar hadden laten reizen, veronderstelden  quantumcritici dat die deeltjes op  korte afstand  - 'lokaal' - stiekem toch informatie hadden uitgewisseld. Wie  mysterieuze verstrengeling claimde, was volgens zulke critici  in werkelijkheid in de 'lokaliteits-val' getrapt.
+Toen fotonen óók  op tientallen kilometers afstand verstrengeld bleken, opperden quantumcritici een   nieuwe val: de 'meetval'. Hanson: "De metingen zijn ingewikkeld en de apparatuur is nooit 100 procent efficiënt. Een advocaat van de duivel  kan dus volhouden  dat in de proeven  toevallig die deeltjes opdoken die  in tegengestelde richting tolden. Terwijl de deeltjes die dat niet deden, net werden gemist ."
+Dat zou uitzonderlijk toevallig zijn, maar een spijkerhard tegenbewijs ontbreekt. Hanson: "Zodra je de fotonen meet, ben je ze kwijt.  Aanvullende argumenten of controles heb je niet." En ja,  de Delftse proef geeft die dus wel.
+Dat werkt zo. Met microgolfpulsen brengen de fysici   twee elektronen - drie meter van elkaar -   in een toestand waarin ze evenveel links- als  rechtsom tollen. Daarna geven ze een tik met een lichtpuls. Draait een elektron op dat moment   rechtsom, dan zendt het   een foton uit. "Een foton hangt dus onlosmakelijk samen met een rechtsdraaiend elektron. Foton en elektron  zijn verstrengeld."
+Dat foton koerst daarna af op een  spiegel midden in de opstelling, die de helft van alle licht doorlaat, en de rest weerkaatst. Hanson:  "Als je aan één kant van die halfdoorlatende spiegel een foton meet, weet je dus nooit meer hoe het zat. Kwam het foton van dezelfde kant en is het weerkaatst? Kwam het van de overkant en is het door de spiegel geschoten?"
+Het antwoord? Allebei. "De bizarre wetten van de quantummechanica dicteren dat als beide oplossingen mogelijk zijn, beide ook moeten hebben plaatsgevonden."
+Anders gezegd: beide elektronen moeten samen  één foton hebben uitgezonden en  moeten  dus in tegengestelde richting draaien. Nog anders: dankzij de spiegel raakten ook de elektronen verstrengeld, iets wat trouwens in de jaren 90 al was bedacht. "Je gebruikt zo het verknoopte foton als een vlag die alleen omhoog gaat als de elektronen zijn verstrengeld. En als je het nameet,  tollen die inderdaad tegengesteld."
+Het mooiste zou zijn om de stukjes diamant nu drie kilometer uit elkaar te halen, zegt Hanson. Dan heb je een diamanten basiselement   voor een quantum-internet, waarin je -   telkens als de fotonvlag  'groen licht' geeft - weet dat de in elektronen versleutelde informatie weer wat kilometers verder geteleporteerd is.
+"Bovendien zou je zo voor het eerst  in één klap  de  meetval én de lokaliteitsval ontlopen."  Niet eens zo moeilijk, volgens hem. "Je moet een deel van de opstelling naar een lab verderop rijden en wat prutsen." Al zou het kunnen dat een groep uit München - die met losse atomen werkt in plaats van stukjes diamant -   hem daarin net voor is.
+Muur
+Als ook die proef slaagt, zijn dan alle  quantumbezwaren weggenomen? Hanson lacht. "Uiteindelijk loop je altijd tegen een muur." Hij had het er laatst nog over met de Parijse quantumfysicus en Nobelprijswinnaar Serge Haroche. "Wat is eigenlijk een meting?"
+Meet je zodra een meetapparaat klikt?  Meet je pas wanneer  je op het beeldscherm de uitkomst afleest? Of misschien pas als iemand naar jou kijkt terwijl jij op je beeldscherm de uitkomst afleest?  Anders gezegd: hoe lang leven superposities van meerdere toestanden, en dus van meerdere mogelijke uitkomsten,  voort? En hoeveel tijd geeft dat   verstrengelde deeltjes om toch  te communiceren?
+Quantummechanica is spookachtig, ja. Hanson lacht weer.  Maar het gekst is   misschien dat een spookachtig quantuminternet over een paar decennia  al    'gewoon' kan zijn.
+Quantumtovenaar
+Ronald Hanson (1976) leidt in Delft een groep met acht postdocs en promovendi. Hun lab, bij  Technische Natuurkunde in de kelder, ligt vlak bij de labs van nano- en quantumgrootheden als Cees Dekker en Leo Kouwenhoven. De groepen profiteren van elkaars expertise, bijvoorbeeld in microgolftechniek. Het leidt tot vele publicaties, in het geval van Hanson al acht in Nature en Science.
+Graphic
+
+ 
+De tafel vol lenzen en ander optische elementen die lichtpulsen zo sturen dat elektronen op drie meter afstand met elkaar verknoopt, verstrengeld, raken. 
+FOTO TU DELFT
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Physics (94%); Educational Institution Employees (67%); Standards + 
+Measurements (63%)
+Industry: Computing + Information Technology (87%)
+Load-Date: April 26, 2013
+
+End of Document
+Spoken door de spiegel
+
+Spoken door de spiegel
+
+Page 2 of 5
+
+Page 2 of 5
+
+
+
+
+

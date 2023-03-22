@@ -1,0 +1,44 @@
+Techreus koopt toegang tot fundamenteel onderzoek
+NRC Handelsblad
+22 November 2016 Dinsdag
+Copyright 2016 NRC Media B.V. All Rights Reserved
+
+Section: Economie; Blz. 2
+Length: 719 words Byline: Wouter van Noort Dateline: Amsterdam. 
+Body
+
+ABSTRACT
+Technologie
+Delftse tophoogleraar gaat  kwantumcomputer-lab van Microsoft leiden. Meer technologiebedrijven kopen zich op universiteiten in.
+ Gaat de commercieel levensvatbare kwantumcomputer er nu echt komen?  Dat duurt nog wel tien jaar , zegt hoogleraar Leo Kouwenhoven van de TU Delft. Maar hij krijgt nu in elk geval meer middelen om zo n supersnelle machine te ontwikkelen. Maandag werd bekend dat Kouwenhoven een nieuw lab gaat leiden van technologiegigant Microsoft in Delft. Hoeveel Microsoft investeert, is niet bekendgemaakt.
+Kouwenhoven is één van de belangrijkste pioniers in kwantumcomputers ter wereld. Hij leidt nu nog QuTech, een kwantum-instituut van de TU Delft en TNO. In 2014 verkoos de Nederlandse overheid QuTech tot  Nationaal Icoon ; innovatieve technologieprojecten die de overheid extra ondersteunt. Het nieuwe Microsoft-lab gaat samenwerken met QuTech, maar komt er wel los van te staan. Microsoft wil door de samenwerking met Kouwenhoven het eerste recht krijgen op patenten. Die onderhandelingen lopen nog.
+Enorme winsten
+Techreus koopt toegang tot fundamenteel onderzoek
+Dat roept de vraag op: gaat er weer een groot Amerikaans internetbedrijf de vruchten plukken van Europese expertise? Ook bedrijven als Google en Facebook gebruiken hun enorme winsten  om al in een vroeg stadium te investeren in universitaire start-ups en onderzoeksgroepen. Daardoor groeien die zelden uit tot zelfstandige ondernemingen die kunnen concurreren met de gevestigde bedrijven.
+Microsoft sloot eerder een vergelijkbare deal met de universiteit van Kopenhagen. Google nam  recentelijk diverse prominente wetenschappers aan op het gebied van kunstmatige intelligentie van  Oxford en Cambridge University. Ook maakte dat bedrijf afgelopen week  bekend dat het hoogleraar kunstmatige intelligentie Fei-Fei Li inhuurt, die tot nu toe een instituut van Stanford University  leidde.  
+Taxi-app Uber haalde vorig jaar 40 onderzoekers weg bij de onderzoeksgroep voor robotica van Carnegie Mellon, een universiteit die  tot dan toe leidend was op dat gebied. Die groep ontwikkelt nu zelfrijdende auto s voor Uber. Daarna raakte de faculteit in de problemen.
+ De actie van Uber verschilt van de stap van Kouwenhoven, want hij blijft hoogleraar in Delft. Ook investeert Microsoft naast het opzetten van het nieuwe lab  in QuTech. Maar ook bij deze deal koopt een groot technologiebedrijf toegang tot  fundamenteel onderzoek in baanbrekende computertechnologie.
+Philips en ASML niet bereid
+ Ja, ik wilde het onderzoek ook wel uit eigen zak betalen, alleen dat gaat niet , reageert Kouwenhoven. Volgens hem hebben Nederlandse bedrijven als Philips en ASML ook interesse getoond in zijn onderzoek maar waren die niet bereid tot  grote investeringen.  We hebben hier simpelweg geen bedrijven als Microsoft of Intel.  Chipbedrijf Intel investeerde vorig jaar zo n 45 miljoen euro in QuTech.
+Kouwenhoven zelf denkt dat de samenwerking met Microsoft de kwaliteit van het Delftse onderzoek juist versterkt.  We kunnen veel leren van Microsoft.   Ook de TU Delft en minister Henk Kamp (Economische Zaken, VVD) hebben positief gereageerd. 
+ Het nieuwe lab is een verrijking voor de campus in Delft waar bedrijven, investeerders en onderzoekers samen werken aan innovatie , volgens Kamp in een reactie. Hoe Microsoft, Kouwenhoven en QuTech de verdeling van patenten regelen, is volgens een woordvoerder van de minister aan die partijen zelf.
+Kouwenhovens opvolger bij QuTech, de Delftse natuurkundehoogleraar Ronald Hanson, is niet bang voor onderlinge strijd of concurrentie, zegt hij:  We willen in Delft graag een campus bouwen met meerdere bedrijven rondom kwantumcomputers. Daar heb je toch echt meer dan één instituut voor nodig.  Ook hij wijst op de toegevoegde waarde van Microsoft voor het  ecosysteem  van bedrijven en onderzoekers in Delft.
+Page 2 of 3
+Techreus koopt toegang tot fundamenteel onderzoek
+TU Delft Leo Kouwenhoven werkt aan qubits
+Het onderzoek van de Delftse hoogleraar natuurkunde Leo Kouwenhoven richt zich op zogeheten topologische qubits.Qubits zijn de bouwstenen van kwantumcomputers, die in theorie veel sneller kunnen rekenen dan de computers die we nu hebben. Een qubit kan, anders dan een bit op een transistor waarmee normale computers werken, tegelijkertijd een nulletje én een eentje zijn. Het bijzondere van de topologische qubits van Kouwenhoven is dat ze beter bestand zijn tegen warmte of elektriciteit.
+Graphic
+
+ 
+Kwantumcomputers zullen volgens onderzoekers veel sneller zijn.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Experimentation + Research (76%)
+Industry: Computing + Information Technology (94%)
+Load-Date: November 22, 2016
+
+End of Document
+Page 3 of 3

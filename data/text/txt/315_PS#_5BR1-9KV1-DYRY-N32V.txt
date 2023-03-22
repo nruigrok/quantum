@@ -1,0 +1,65 @@
+Deelachtig 
+de Volkskrant
+8 maart 2014 zaterdag
+Copyright 2014 De Persgroep Nederland BV All Rights Reserved
+
+Section: Halfberliner
+Length: 1210 words
+Byline: MARTIJN VAN CALMTHOUT
+Body
+
+Natuurkunde: excitonen, plasmonen en nog meer buitenissigs 
+Deze week publiceerden fysici over alweer een nieuw quasideeltje - deeltjes die je wel ziet, maar die goed beschouwd niet bestaan. Eh? 
+Experimenteel fysicus Paul Koenraad van de Technische Universiteit Eindhoven is een kei in de elektronische eigenschappen van halfgeleiders, de vaste materialen waarvan bijvoorbeeld chips en zonnecellen worden gemaakt. Deze week zat hij in Denver, Colorado, op een conferentie om te spreken over siliciumatomen in galliumarsenide, die als een bit in een computergeheugen kunnen dienen als ze met licht worden opgejut. 
+Dat soort plaatselijke opwinding kan door het kristal wandelen, van atoom naar atoom overspringen. Wat daar beweegt noemen fysici als Koenraad excitonen, iets waarover hij inmiddels menig hooggeleerd en goed geciteerd artikel heeft gepubliceerd. 
+Er is maar één merkwaardigheid aan Koenraads wereld: excitonen bestaan helemaal niet. 
+Niet, althans, in de zin dat het deeltjes zijn die ergens los aan te treffen zijn, te wegen, of weg te schieten met een versneller. Koenraad: 'Strikt genomen moet je het bij excitonen hebben over quasideeltjes, je ziet ze wel maar ze zijn er niet. Maar in de praktijk vergeet je dat toch heel gemakkelijk. Voor mij is een exciton gewoon een deeltje, net als een elektron dat is.' 
+Fysici in Denver op een steenworp afstand van waar Koenraad in zijn hotel zit, haalden deze week de cover van Nature met alweer een nieuw deeltje dat geen deeltje is: het dropleton. Een piepkleine druppel quantumvloeistof die in een splinter galliumarsenide ontstaat als er met een laser op wordt geschoten. Met deeltjesachtige eigenschappen, zo blijkt uit ingewikkelde metingen. 
+Quasideeltjes, zegt de Utrechtse theoretisch fysicus Henk Stoof, bestaan bij de gratie van het gedrag van een omgeving, ongeveer zoals de wave in een voetbalstadion. Als sommige van de duizenden fans steeds op precies het goede moment de armen in de lucht gooien, ontstaat er een golf, een bewegend object dat niet alleen te zien is, maar waaraan fysici met enig rekenwerk zelfs een massa zouden kunnen toeschrijven. Alsof het een echt deeltje is. 
+Natuurkundigen hebben inmiddels een lange lijst van zulke quasideeltjes, voornamelijk afkomstig uit de fysica van vaste stoffen. Er zijn onder andere polaronen, plasmonen, rotonen, magnonen, fononen, gaten, excitonen, spinonen, holonen, Cooperparen, en nog een hele reeks exotischer leden van de familie: van de legendarische magnetische monopool tot het roemruchte majoranafermion dat twee jaar geleden in Delft is ontdekt. 
+Crux van al die quasideeltjes, zegt Stoof, is dat in vaste stoffen de elektronen niet netjes bij hun 'eigen' atomen blijven, maar een soort collectief vormen, dat wordt beheerst door de strenge wetten van de quantummechanica. Fysici zien dat voor zich als een soort zee van lading, waaruit elektronen moeten ontsnappen voor ze bijvoorbeeld aan de elektrische stroom kunnen bijdragen. 
+Stoof: 'Eigenlijk ontstaat daar al meteen het allereenvoudigste quasideeltje dat je je kunt voorstellen: een positief geladen gat waar een elektron uit de ladingszee is gesprongen. Voor de geleiding is niet alleen van belang wat dat elektron doet, ook zo'n gat verplaatst zich en draagt dan bij aan de stroomgeleiding. Dat gebeurt voortdurend in iedere halfgeleiderchip die in je mobieltje zit.' 
+Maar het kan allemaal veel ingewikkelder, en dus bestaat dat ook. Een nog relatief eenvoudig quasideeltje is een geluidsgolf die door het kristalrooster van een vaste stof kan lopen, een fonon. 
+Maar in materialen spelen ook elektrische, magnetische eigenschappen een rol, en zelfs echte quantummechanische kenmerken, zoals de tolrichting (de spin) van deeltjes. Net als de wave in het voetbalstadion kunnen bepaalde patronen in dat soort eigenschappen zich ook door kristallen voortplanten. Zijn het magnetische patronen, dan gaat het over magnonen. Zijn het verdichtingen in de elektronenwolken in het kristal, dan zijn het plasmonen. Lopen de spins herkenbaar rond, dan zijn het spinonen. 
+Zo zijn Koenraads excitonen merkwaardige toestanden waarin een gat en een elektron een elektrisch gebonden tweetal vormen - een soort waterstofatoom in de vaste stof. 
+Zo'n paar is elektrisch neutraal en zweeft door het kristal. Pas als het elders opbreekt, komen de ladingen weer vrij. Het is het soort transportmechanisme dat bijvoorbeeld ook een rol speelt als planten licht opvangen en de energie gebruiken voor hun stofwisseling. 
+Zelfs supergeleiding - het effect dat bijvoorbeeld het metaal kwik geen elektrische weerstand heeft beneden een bepaalde temperatuur - is het werk van quasideeltjes. Elektronen in het kwik vormen tweetallen, waardoor ze ontsnappen aan de dwang van de quantumwetten voor individuele elektronen. Het resultaat is dat de paren helemaal vrij door het metaal kunnen bewegen. 
+Vooral in de vaste stoffen, zegt theoreticus Stoof, is het geheel voor fysici inmiddels echt veel meer dan de som der delen. 'Het collectieve is veel bepalender voor de eigenschappen van een materiaal, dan alleen die van de elektronen of de atomen.' 
+Soms leidt dat tot ronduit bizarre ontdekkingen. In de jaren tachtig van de vorige eeuw zagen experimentatoren dat de stroomgeleiding in bepaalde diepgekoelde en gemagnetiseerde stoffen niet willekeurig sterk kan worden, maar alleen heel precies discrete waarden kan aannemen. Opnieuw spelen daar quantumwetten een hoofdrol, maar als fysici de sommen maken blijkt dat de stroom door deeltjes met eenderde of tweederde elektronlading wordt veroorzaakt. 
+Stoof: 'In eerste instantie denk je: dat kan niet, elektronen hebben een hele elektronlading, ik maak ergens een fout. Het vergt een genie als Nobelprijswinnaar Robert Laughlin om te bedenken dat dat kennelijk toch niet de manier is om dat zogeheten fractionele quantum-halleffect te snappen. In werkelijkheid geven quasideeltjes met een gebroken lading de geleiding.' 
+Die vinding was een Nobelprijs waard. Maar soms ook is een quasideeltje aanleiding tot gebrom van de vaklui. De Delftse fysicus Leo Kouwenhoven, bijvoorbeeld, claimde twee jaar terug de vondst van een majoranadeeltje, een roemrucht neutrino-achtig verschijnsel uit de deeltjesfysica dat op een ingewikkelde manier zijn eigen antimateriedeeltje is. 
+Een prachtvondst, met potentiële toepassingen in bijvoorbeeld quantumcomputers. Maar volgens sommige puristen toch niet de real stuff. Het ging immers om een collectief verschijnsel op het grensvlak van een supergeleider en een gouddraadje op een diepgekoelde nanochip. Niks deeltje, aldus de mopperaars, en zeker niet het deeltje dat de Italiaanse theoreticus Ettore Majorana in de jaren dertig van de vorige eeuw op papier had voorspeld en waar sindsdien naar was gezocht. 
+Ontdekker Kouwenhoven was laconiek: 'Dit loopt als een eend en kwaakt als een eend. Dat lijkt me al een heel eind richting eend.' 
+QUASI VOOR DUMMIES 
+Een echt deeltje heeft eigenschappen die ook bestaan als het in de lege ruimte hangt. Een quasideeltje bestaat niet in de lege ruimte, maar is een lokaal patroon in een menigte echte deeltjes. Dat patroon kan eigenschappen hebben die net als bij een echt deeltje het beste met quantummechanica te beschrijven zijn. Voor fysici is het net zo echt als echte deeltjes. 
+Graphic
+
+ 
+Illustratie MietzeB
+Magnon
+Illustratie MietzeB
+Illustratie MietzeB
+Illustratie MietzeB
+Illustratie MietzeB
+Illustratie MietzeB
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Superconductors (94%); Physics (73%)
+Load-Date: March 12, 2014
+
+End of Document
+Deelachtig
+
+Deelachtig
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

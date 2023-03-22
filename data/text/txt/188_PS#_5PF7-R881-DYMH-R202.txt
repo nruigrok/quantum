@@ -1,0 +1,78 @@
+'Van een qubit maak je niet even een reservekopietje'
+NRC Handelsblad
+09 September 2017 Zaterdag
+Copyright 2017 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 4
+Length: 1802 words
+Byline: Bruno van Wayenburg
+Body
+
+ABSTRACT
+InterviewQuantumcomputer
+Nu de eerste kleine exemplaren van de quantumcomputer worden gebouwd, is het tijd voor het schrijven van speciale software. Dat is precies waaraan Ronald de Wolf nu werkt.
+Op weg naar de supercomputer
+Een nieuw type computer, die binnen seconden problemen uitrekent waar gewone computers miljoenen jaren over zouden doen. Dat is de belofte van de quantumcomputer, die listig gebruik maakt van de tegen-intuïtieve wetten van de quantummechanica. 
+Hoogleraar theoretische informatica Ronald de Wolf is dagelijks bezig met het vervullen van die belofte. Maar in zijn werkkamer in het Amsterdam Science Park probeert hij eerst de hype wat in te dammen die de laatste jaren is ontstaan rond de quantumcomputer. "Veel mensen denken dat een quantumcomputer alle berekeningen sneller laat lopen, maar dat is een grote misvatting", zegt hij. 
+De quantumcomputer boekt zijn wonderbaarlijke versnellingen bij een klein aantal heel specifieke rekentaken. Denk aan het kraken van de beveiligingsmethode RSA, die veel wordt gebruikt bij internetbankieren (pincode plus een steeds veranderende cijfercode). Of aan bepaalde logistieke problemen, of  simulaties van complexe moleculen. 
+Sommige van die problemen hebben grote belangstelling van de chemische of logistieke industrie, of van inlichtingendiensten. Vandaar dat natuurkundelaboratoria over de hele wereld, onder andere aan de TU Delft, op zoek zijn naar de ideale fysieke manifestatie van de 'qubit', het basisonderdeel van de quantumcomputer. 
+De qubit is het equivalent van de gewone bit, de 1 of 0, in de gewone computer. Een qubit kan een elektron in een gekoeld diamantkristal zijn, een los gasatoom, of een minuscuul supergeleidend stroompje (zie illustratie en artikel hiernaast over werking van de quantumcomputer en over quantumalgoritmen). 
+Voorlopig is geen van de qubit-kandidaten al stabiel en manipuleerbaar genoeg om een quantumcomputer te bouwen. Maar als dat op een goede dag lukt, dient zich de volgende vraag aan: hoe schrijf je de algoritmen, ofwel de software, die de wonderbaarlijke snelheid van de quantumcomputer uitbuiten?
+Voor het beantwoorden van die vraag krijgen De Wolf, zijn Amsterdamse collega Harry Buhrman en vier andere onderzoekers aan de TU Delft en de Universiteit Leiden een zogeheten Zwaartekracht-subsidie ter waarde van 18,8 miljoen euro voor 'Quantumsoftware'. Dat geld gaat voor een deel naar quantumapparatuur, maar voor het grootste deel naar toekomstig personeel: universitair docenten, postdocs en promovendi.
+Het is een bedrag dat de hoogleraren nu al aantoonbaar in de hoogste staat van activiteit bracht: van vier deelnemende quantum-algoritmische hoogleraren kon alleen Ronald de Wolf tijd maken voor een interview.
+U werkt al sinds de jaren negentig aan quantumalgoritmen, wat is er nu veranderd?
+"Normaal gesproken proberen we quantumalgoritmen te ontwikkelen voor de quantumcomputer van de verre toekomst, die misschien wel duizenden qubits heeft. Tot nu toe ging het ontwikkelen van fysieke quantumcomputers nogal langzaam. In 1997 al had je al een kleine quantumcomputer, gemaakt van een molecuul. Die had drie qubits, maar werkte niet zo goed. Nu, twintig jaar later, hebben de allerbeste quantumcomputers twintig qubits. 
+"Maar het lijkt erop dat er nu schot in zit. Een van de beste academische groepen, aan de University of California in Santa Barbara, overgenomen door Google, stelt dat ze eind dit jaar met een quantumcomputer met 50 qubits komen. Het Zwaartekracht-project is vooral bedoeld om te bekijken wat er technisch haalbaar is met zulke kleinere quantumcomputers."
+Wat is een quantumcomputer?
+"Het idee van de quantumcomputer komt van natuurkundige Richard Feynman, die merkte hoeveel rekenkracht er ging zitten in het rekenen aan quantummechanische systemen, zoals moleculen of elementaire deeltjes. Zijn idee was: als we quantummechanische systemen gebruiken om quantummechanische systemen te simuleren, kunnen we het probleem als oplossing gebruiken. Dat is nog steeds een van de interessante beoogde toepassingen: het simuleren van complexe moleculen is een van de problemen die quantumcomputers veel sneller zouden moeten kunnen dan hun klassieke tegenhangers, de 'gewone' computers. 
+"Lang was het vakgebied een obscure bezigheid voor liefhebbers. Er waren wel quantumalgoritmen, maar die losten nogal kunstmatige problemen op (zie artikel hiernaast).  Totdat in 1994 Peter Shor, onderzoeker bij Bell Laboratories, een verbazend snel quantumalgoritme vond voor priemfactorisatie: het vinden van de priemdelers van enorme getallen. Als je twee grote priemgetallen met elkaar vermenigvuldigt, krijg je een nóg groter getal, waarvan het heel lastig is om te bepalen wat de oorspronkelijke priemdelers zijn. 
+"'Lastig' betekent voor computerwetenschappers dat de rekentijd snel uit de hand loopt: als het invoergetal twee keer zo groot wordt, gaat de rekentijd in het kwadraat. Dit is de beruchte exponentiële toename, die er in de praktijk op neerkomt dat grote getallen niet te factoriseren zijn. Op die onmogelijkheid is de versleutelingsmethode RSA gebaseerd, die gebruikt wordt om boodschappen te versleutelen en om bankrekeningen te beschermen.
+"Een quantumcomputer, liet Shor zien, zou priemfactorisatie in 'kwadratische' rekentijd kunnen oplossen. Dat wil zeggen dat het rekenen maar vier keer langer duurt als het invoergetal twee keer langer wordt. Dat zou in de praktijk betekenen dat de versleutelingsmethode waardeloos wordt. Shors algoritme was het eerste dat een praktisch probleem oploste."
+Zijn onze bankrekeningen nu nog wel veilig?
+"Nou, voor een praktische toepassing van Shors algoritme op die schaal is vermoedelijk een quantumcomputer met honderdduizenden of miljoenen qubits nodig.  Zover zijn we nog lang niet."
+Is het denkbaar dat partijen in het geheim al quantumcomputers gebruiken om RSAversleutelde berichten te lezen?
+"Denkbaar, maar niet erg waarschijnlijk. De eerste kandidaat zou de Amerikaanse National Security Agency NSA zijn. Uit de lekken van Edward Snowden uit 2013 kunnen we opmaken dat ze in ieder geval toen niet heel veel meer wisten dan de academische wereld. Ook China en Rusland zijn vermoedelijk nog niet zo ver."
+Shors algoritme is dus alleen praktisch omdat wij er met RSA-versleuteling een praktisch probleem van gemaakt hebben. Zijn er ook quantumalgoritmen die van zichzelf nuttig zijn?
+"Dat klopt, priemfactoriseren is een heel specifiek probleem waarop bovendien een spectaculaire snelheidswinst geboekt kan worden. Maar in 1996 kwam de computerwetenschapper Lov Grover, ook van Bell Labs, met een quantumalgoritme om iets op te zoeken in een ongesorteerde lijst met gegevens. Dat is een subroutine die onderdeel is van veel andere algoritmen, bijvoorbeeld in navigatiesoftware. Zonder quantumcomputer is de opzoektijd evenredig aan de lengte van de lijst: wordt de lijst vier keer langer, dan duurt het opzoeken ook vier keer langer. Grover's quantumalgoritme doet dat 'kwadratisch sneller': bij een vier keer langere lijst duurt het opzoeken maar twee keer langer. Daarmee is Grovers algoritme is eigenlijk het tegenovergestelde van Shors algoritme: het versnelt de rekentijd niet heel spectaculair, maar is wel zeer breed toepasbaar."
+De algoritmen van Shor en Grover zijn inmiddels meer dan twintig jaar oud, is er sindsdien niets gebeurd? 
+"Er zijn wel allerlei dingen bij gekomen. Veel problemen uit de praktijk zijn optimalisatieproblemen: je wilt de kosten van bedrijfsprocessen of het gebruik van grondstoffen minimaliseren, of je winst of een bepaalde prestatiescore maximaliseren. Dat is echt een industrie: een flinke tak van de informatica is bezig om hier algoritmes voor te vinden. Neem bijvoorbeeld lineair programmeren, een bepaald type optimalisatieproblemen. Vorig jaar liet een paper zien hoe je lineair programmeren met quantumcomputers sneller op kunt lossen, en onze groep heeft daarna weer laten zien dat daar nóg een beetje af kan."
+Waarom is het bouwen van een quantumcomputer zo moeilijk?
+"Een van de problemen is dat echte qubits tamelijk kwetsbaar zijn. De informatie in de qubits kan verloren gaan door ruis, interactie met de buitenwereld.  Een probleem is bovendien dat je van een qubit niet gemakkelijk een reservekopietje kunt maken. Als je de quantuminformatie uitleest, vernietig je haar.
+"Aanvankelijk leek het erop dat quantumrekenen vanwege deze problemen nooit echt mogelijk zou zijn, maar er bleek een oplossing te zijn: quantum-foutcorrectie. Daarbij sla je een informatie-qubit op in meerdere qubits, 5 of 7 of 20. Dat werkt als een soort geavanceerde reservekopie: als een van de fysieke qubits uit de pas gaat lopen, of beschadigd raakt, is de fout te herstellen met hulp van de andere qubits, zonder dat er quantuminformatie verloren gaat.
+"Een consequentie is wel dat je de berekeningen dan ook op deze gecodeerde qubits moet uitvoeren, en dat je dus voortdurend bezig bent met het detecteren en herstellen van fouten. Dat kost behoorlijk wat extra, in aantallen qubits maar ook in rekentijd. Het doel van het zwaartekracht-project is om quantumalgoritmes te vinden die, rekening houdend met al die beperkingen en extra kosten, al iets nuttigs kunnen doen met een quantumcomputer van 50 à 100 fysieke qubits."
+Maar welke rekenproblemen gaan juist níet sneller met quantumcomputers?
+"De meeste problemen zelfs. Het is een misvatting dat de quantumcomputer alles sneller maakt, omdat de quantumcomputer 'alles tegelijk' uitrekent met een superpositie van qubits. Als dat zo was, zou het vergelijkbaar zijn met parallelle computers, die met 1.000 computerprocessoren tegelijk rekenen. Maar er is een bottleneck. Je kunt maar een heel klein gedeelte van de hele superpositie uitlezen: één component. Alsof willekeurig 999 van de 1.000 parallelle processoren vlak vóór het uitlezen vernietigd worden.
+"De creativiteit van een quantumalgoritme zit hem dan ook vooral in zorgen dat je je superpositie zó manipuleert dat er uit die ene meting toch iets zinnigs komt, iets waarin informatie uit al die andere componenten gecondenseerd is. Dat kan lang niet altijd. Nu het goed gaat, en quantumcomputers in zicht lijken te komen, is er dan ook het gevaar van hype. Er zijn miljarden geïnvesteerd, de ontwikkelingen gaan nu ook wel heel snel, maar de quantumcomputer is geen wondermiddel."
+Het is een misvatting dat de quantumcomputer alles sneller maakt.
+CV Ronald  de Wolf 
+Ronald Michiel de Wolf (Zaandam, 1973)  studeerde computerwetenschap en filosofie aan de Erasmus Universiteit Rotterdam. 
+In 2001 promoveerde hij aan de Universiteit van Amsterdam (UvA) op een proefschrift over quantumcomputers. Daarna werkte hij aan de universiteit van Berkeley.
+Hij is hoogleraar aan de UvA en onderzoeker bij het Centrum voor Wiskunde en Informatica. De Wolf is een liefhebber van klassieke muziek en literatuur.
+Graphic
+
+ 
+De quantumcomputer werkt dankzij 'superposities'
+Ronald de Wolf
+Foto Olivier Middendorp
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Physics (62%)
+Industry: Computing + Information Technology (95%)
+Load-Date: September 8, 2017
+
+End of Document
+'Van een qubit maak je niet even een reservekopietje'
+
+'Van een qubit maak je niet even een reservekopietje'
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

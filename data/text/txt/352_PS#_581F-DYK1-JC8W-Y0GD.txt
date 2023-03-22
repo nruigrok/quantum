@@ -1,0 +1,84 @@
+Almaar maffere materie 
+de Volkskrant
+23 maart 2013 zaterdag
+Copyright 2013 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap
+Length: 2361 words
+Byline: MARTIJN VAN CALMTHOUT
+Body
+
+Natuurkunde: quantumwetten, symmetrieën en de echte wereld
+Gewone stervelingen kennen vaste stoffen, vloeistoffen en gassen - drie fasen. Fysicus Xiao-Gang Wen ziet het anders. Drie? Vijfhonderd zul je bedoelen. Op naar de verliesvrije stroomdraad en de eeuwigdurende batterij.
+Experimenteel fysicus Mark Golden, een opgetogen 40'er met de tongval die zijn Britse komaf nu eenmaal oplevert, heeft het net allemaal uitgelegd, aan een bureautje te midden van zijn Amsterdamse lab vol glimmende vacuümketels, pompen en ovens. 
+Dat er in materie eigenschappen bestaan die we eigenlijk niet kennen, maar die in zekere zin net zo fundamenteel zijn als of een materiaal vast is, vloeibaar, of een gas. Dat in laboratoria als het zijne op het Science Park in Amsterdam, vol met magneten, elektronenbundels, heliumvaten en spectroscopen, als een dolle jacht wordt gemaakt op steeds meer nieuwe, onbekende vormen van materie. 
+Dat sommige theoretici inmiddels denken dat er, in elk geval op papier, nog honderden andere materiefasen mogelijk zijn. En dat hij, die meer een man is van het experiment, zelf ook vaak behoorlijk wat moeite heeft om alle nieuwe inzichten tot zich te laten doordringen. Maar dat het tegelijk waanzinnig spannend is. 
+Waarna Golden, een uur uitleg en twee koppen koffie verder, trots een blokje dofgrijzig materiaal toont. Kijk, hier, Bismuth1.5Telluur1.7Selenium0.3. Nieuwe materie. Een driedimensionale topologische isolator. 
+Daar is met de beste wil van de wereld niets bijzonders aan te zien. Gewoon dofgrijzig materiaal. Meer niet. 
+Opwindend en toch niks van te zien: ziedaar het droeve lot van een van de spannendste ontwikkelingen 	in 	de 	hedendaagse 	natuurkunde. 	Vergeet 	de 	immense deeltjesversnellers zoals de LHC in Genève, of de Hubble ruimtelescoop hoog boven ons. De echte opwinding gaat niet langer gepaard met heroïsche sterrenfoto's of spectaculaire deeltjesexplosies. Die blijkt alleen uit grafieken en diagrammen, gemeten in laboratoria als die van Golden. Alles draait om elektronische, magnetische, mechanische of optische eigenschappen van monsters materie, die zich vreemd blijken te gedragen als er een magneetveld wordt gevarieerd, een spanning verhoogd, met laserlicht geschenen. 
+Beloften genoeg. Materie in ongewone toestand kan eigenschappen vertonen waar fysici nu alleen van kunnen dromen. Geleiding zonder energieverlies, bijvoorbeeld.Of eindeloze geheugens. Batterijen die nooit leegraken. Quantumcomputers. 
+In het dagelijks leven herkennen we eigenlijk maar een paar, duidelijk onderscheiden fasen materie. Vaste stof is hard en behoudt zijn vorm; ijs is daarvan een voorbeeld. Vloeistof, zoals water, klotst en vloeit, maar behoudt steeds haar volume. En gas stroomt en is samen te drukken: een voorbeeld is waterdamp. 
+Die vertrouwde eigenschappen komen voort, weten we allang, uit de manier waarop de atomen of moleculen in de stof onderling verbonden zijn, of juist niet. In een vaste stof zijn de deeltjes aan elkaar gebonden in vaste onderlinge posities. In een vloeistof voelen ze onderling wel krachten, maar zijn de posities onbepaald. In een gas is de onderlinge interactie er nauwelijks en beweegt alles kriskras door elkaar. 
+Orde is de crux van de verschillende materiefases. Fysici, zegt Mark Golden, hebben daarbij hun eigen methoden om de zaak systematisch te beschrijven. Het favoriete gereedschap is daarbij symmetrie. In een vaste stof bevinden atomen of moleculen zich op vaste roosterpunten, keurig geordend. Vanuit een bepaald atoom ziet de omgeving er in verschillende kijkrichtingen identiek uit. Welke richtingen, dat hangt af van de roosterstructuur, de plaatsen in de ruimte waar zich de deeltjes bevinden. 
+In een vloeistof is de orde al ver te zoeken, althans in de positie van de deeltjes. In abstractere zin is er nog wel symmetrie: de onderlinge krachten tussen de deeltjes hebben een wiskundige vorm die ongevoelig blijkt voor sommige verdraaiingen of verschuivingen van kijkrichting. Fysici spitsen steevast de oren bij zulke veel abstractere symmetrieën, want die vormen bijna altijd een aanwijzing voor bepaalde behouden grootheden. 
+Normaal lopen die kenmerken misschien niet eens zo in het oog. Maar zoals ijs bij een temperatuur hoger dan nul graden opeens smelt, en bij 100 graden overgaat in damp, zo kunnen ook de abstracte materietoestanden een zogeheten fase-overgang ondergaan. Eigenschappen veranderen dan plotseling ingrijpend, alsof er een kaartenhuis omvalt. Of verschijnt. Isolatoren worden zomaar geleiders. Geleiders supergeleiders. Supergeleiders supergeleidende vloeibare kristallen. 
+Lang niet altijd brengt temperatuur de overgang teweeg. Wel in het geval van ijs, water en damp, maar voor fase-overgangen in de elektronische eigenschappen van een materiaal is vaak een magnetisch of elektrisch veld, druk, of licht het instrument. In veel gevallen is er met het blote oog niets van te zien, behalve op de monitoren in het lab. 
+In de vaste-stoffysica draait alles om het collectieve gedrag van de elektronen in het kristalrooster van een materiaal. Elektronen vormen een soort zee van lading, waarvan de eigenschappen door quantumstatistiek worden bestuurd. Vergelijk het, zegt Golden, met voetbal. Een losse Oranjesupporter is niet heel interessant, maar een heel legioen kan gekke dingen doen. Indrukwekkend de wave aanheffen; perfect synchroon klappen; of 'zomaar' tot een veldslag in de binnenstad besluiten. De keuze van de massa voor een toestand geschiedt min of meer spontaan. Zodra er een mogelijkheid is gekozen, zijn alle andere mogelijkheden weg. 
+Fysici noemen dit soort collectieve overgangen een symmetriebreking. Op papier zijn er vele mogelijkheden, zonder voorkeur. In de werkelijkheid doet zich maar één van die mogelijke toestanden echt voor. 
+In de gewone wereld valt dit soort abstracte symmetrieën vaak niet op. Een potlood dat op zijn punt balanceert, illustreert dat. Zolang het rechtop staat, ziet het potlood er vanuit alle windrichtingen eender uit, ook als je daarbij in gedachten neemt welke kanten het op kan vallen. Dat komt doordat het zwaartekrachtveld van de aarde de symmetrie van een bol heeft. Ligt het potlood op tafel, dan zien we iets anders. De bolsymmetrie in het zwaartekrachtveld bestaat nog steeds, maar die openbaart zich niet direct aan het gevallen potlood - dat het ook anders terecht had kunnen komen, blijft verborgen. Voor natuurkundigen is het de kunst om uit de gebroken symmetrie toch de algemene natuurwetten af te leiden. 
+Door spontane symmetriebrekingen zijn veel fundamentele symmetrieën in de ruwe werkelijkheid aan het oog onttrokken. Zo zijn er van koolstof minstens vijf kristalvormen bekend: diamant, grafiet, nanobuisjes, buckyballs en grafeen, alle met hun eigen kenmerken en eigenaardigheden. Toch zijn het dezelfde koolstofatomen en dezelfde bindingskrachten die het materiaal vormen. 
+Spontane symmetriebreking speelt een essentiële rol in de theoretische beschouwingen die op papier honderden onbekende vormen van materie voorspellen. De wetten die de atomen en elektronen in de materie beschrijven hebben een beperkt aantal wiskundige symmetrieën. Maar de manieren waarop die kunnen breken, blijken veel talrijker dan tot voor kort werd aangenomen. 
+Hoofdrolspeler in die explosie van mogelijkheden is de Amerikaans-Chineese theoreticus Xiao-Gang Wen van het toonaangevende, particulier gefinancierde Perimeter Institute in Waterloo, Canada. Afgelopen najaar publiceerde hij een korte, extreem abstracte beschouwing in Science die onder vakgenoten veel aandacht trok. Op grond van wiskundige groepentheoretische argumenten rekent Wen voor, hoeveel verschillende typen symmetrie er in principe kunnen bestaan in materie waarin quantumwetten heersen. Meer dan vijfhonderd, was zijn conclusie, en mogelijk veel meer. 
+Over die schatting is onder specialisten het laatste woord zeker niet gezegd, zegt de Leidse theoretisch fysicus prof. Jan Zaanen. Hij kent Wen goed, en ook diens stokpaardjes. Echt solide vindt hij het allemaal nog niet. 'Te veel hand waving, en er lijken toestanden te bestaan die niet in zijn classificaties passen', oordeelt hij. Waarna hij zich verliest in beschouwingen die geen krantenlezer zal doorgronden. Zaanen was onlangs met Wen op een symposium op de Maagdeneilanden, op uitnodiging van miljardair-meceanas James Harris Simons. 'Een betoverende plek. Maar eerlijk gezegd ben ik aan zeeschildpadden niet toegekomen. Ik heb nog een gekneusde neocortex van de stortvloed aan nieuwe theoretische doordenkers op dit terrein.' 
+Ook Mark Golden bekent nog niet veel met Wens conclusies aan te kunnen. 'Voor ons wordt het interessant als de theoretici voorspellingen kunnen doen over de uitkomsten van experimenten', zegt hij. 
+Wens catalogus van nog maffere materie is vooral zo groot doordat hij naast bekende atomaire en moleculaire krachten allerlei quantumverbanden in zijn beschouwingen opneemt. Quantumdeeltjes kunnen onderling verstrengeld zijn doordat ze in eerste instantie een eigenschap deelden. Volgens de quantumtheorie blijven ze die soms delen, zelfs als ze ver uit elkaar raken: als de een wordt gemanipuleerd, 'voelt' de ander dat ook. Dat geeft nieuwe verbanden, op langere afstand, waarin soms weer symmetrieën te onderkennen zijn die duiden op een karakteristieke materietoestand. 
+Op die manier vertonen bijvoorbeeld de spins van elektronen in een materiaal verbanden die - onder bepaalde omstandigheden - tot nieuwe eigenschappen leiden, de zogeheten spin-glazen. Bij Wen wordt het met gemak nog heel wat gekker. In sommige situaties speelt zelfs topologie de rol van verborgen symmetrie. Het gaat dan om ruimtelijke verbanden die niet te verbreken zijn, omdat dat een wiskundige switch zou vereisen die nog het best te vergelijken is met het verwringen van een bal tot een donut: onmogelijk zonder met grof geweld een gat te maken. 
+Topologie - dat klinkt te abstract om in de echte wereld een rol van betekenis te kunnen spelen. Maar schijn bedriegt. Uitgerekend dat soort symmetrie blijkt in metaallegeringen vreemde nieuwe eigenschappen wakker te roepen. In zogeheten topologische isolatoren, een hot topic in de vastestof-fysica, vanwege eventuele toepassingen in de micro-elektronica, kunnen elektrische stromen wel over het oppervlak lopen, maar niet door de bulk van het materiaal. Er zijn zelfs natuurlijke kristallen waarin dit exotische effect inmiddels is herkend. 
+Experimentator Mark Golden in Amsterdam heeft lang nagedacht over een manier om de duizelingwekkende wereld van de maffe materie enigszins handzaam aan zijn studenten uit te leggen. Denk aan de Zuidas in Amsterdam, begint hij graag. De kantoren zijn van baksteen en beton, de gebouwen stapels kantoren, het gebied een verzameling van dat soort gebouwen. 'De fysieke verschijningsvorm van de Zuidas kun je vanuit die bouwstenen begrijpen. Maar de vastgoedfraude niet. Die zit wel in de Zuidas, maar anders: in de informatiestromen in het gebied. Als je de financiële wereld wilt begrijpen, moet je dus meer naar structuren in de communicatie kijken dan naar gebouwen. Wij zoeken in het lab naar het fysische equivalent: eigenschappen die volgen uit verborgen verbanden in de materie.' IN ALLE STATEN
+l Bose-einsteincondensaat Toestand waarbij een wolk gekoelde atomen zich, vlak bij het absolute nulpunt, collectief als één quantumdeeltje gaat gedragen. Voor het eerst aangetoond in verdund rubidiumgas in 1995. Goed voor een Nobelprijs. 
+l Fermion-condensaat Hetzelfde als bose-einsteincondensaat, de toestand waarin een wolk deeltjes zich als één superatoom gedraagt, maar nu alleen voor fermionen. Die kunnen in beginsel niet in eenzelfde toestand komen, maar wel als ze paren vormen. In 2003 vonden Amerikanen de eerste bewijzen in gekoeld kaliumgas. 
+l Superfluïditeit Toestand, bijvoorbeeld in helium-4, waarbij de diepgekoelde vloeistof volkomen wrijvingsloos stroomt. In een open container kruipt ze langs de wanden omhoog en aan de buitenkant weer omlaag. Vertoont draaikolken die alleen een bepaalde, gequantiseerde hoeveelheid draaiing kunnen hebben. 
+l Supervaste stof Vergelijkbaar met superfluïde vloeistoffen, maar ditmaal een diepgekoelde vaste stof die zonder enige wrijving over oppervlakken kan glijden. 
+l Vloeibaar kristal Vloeistof met kristalachtige eigenschappen, meestal doordat er langgerekte moleculen in voorkomen, die bij voorkeur in eenzelfde richting gaan liggen. 
+Veelgebruikt in digitale beeldschermen. 
+l Glas Vaste stof met vloeistofachtige interacties tussen de moleculen, waardoor de vorm vast is, maar er toch geen kristalstructuur bestaat. 
+l Spin-glas Magnetisch materiaal waarin de magnetische momenten van atomen wanordelijk zijn vastgevroren, en niet geordend zoals in normale magneten. Kan door omstandigheden opeens magnetiseren. 
+l Topologische isolator Bijzonder vast materiaal, waarin elektrische stromen alleen aan de buitenkant worden geleid. Ontstaat doordat aan de randen van het materiaal de elektronen naar praktisch onverstoorbare toestanden worden gedwongen. In 2007 aangetoond door de Nederlander Laurens Molenkamp, in een sandwich van cadmiumtelluride. 
+l Plasma Toestand waarbij onder zeer hoge temperatuur de elektronen losraken van de atomen in een gas, waardoor een mengsel ontstaat van elektrische, tegengesteld geladen gassen. 
+l Quark-gluonplasma Quantumsoep onder extreme hoge druk en temperatuur, waarin de kerndeeltjes uiteenvallen in hun samenstellende quarks en gluonen. Wordt gemaakt bij botsingen van loodkernen die met de LHC-versneller worden opgejaagd.
+XIAO-GANG WEN
+Op zijn persoonlijke website mag de Chinees-Amerikaanse theoretisch-fysicus XiaoGang Wen (Peking 1961) graag mijmeren over Chinese poëzie of penseelkunst. Maar onder collega's geldt hij als een superieur theoreticus, een man van ideeën en inzichten, meer dan van wiskundige techniek. Wen is nu, na een carrière op het MIT in Boston, verbonden aan het particulier gefinancierde Perimeter Institute in Waterloo, Canada. Een deel van zijn tijd is hij ook de spil van de snel opkomende theoretische natuurkunde in China zelf.
+Op papier zijn er nog honderden onbekende vormen van materie
+'In' bepaalde legeringen loopt stroom alleen over het oppervlak van het materiaal
+Graphic
+
+ 
+Plasma in een glazen bol.
+Foto Science Photo Library
+Gepolariseerd licht in vloeibare kristallen.
+Foto Science Photo Library
+Computersimulatie van een bose-einsteincondensaat.
+Foto Science Photo Library
+Simulatie van quantumgolven in een topologische isolator.
+Foto Science Photo Library
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Superconductors (94%); Physics (65%)
+Load-Date: March 22, 2013
+
+End of Document
+Almaar maffere materie
+
+Almaar maffere materie
+
+Page 2 of 7
+
+Page 2 of 7
+
+
+
+
+

@@ -1,0 +1,59 @@
+   De computer  van de toekomst
+NRC.NEXT
+7 juli 2015 dinsdag
+Copyright 2015 NRC Media B.V. All Rights Reserved
+
+Section: tech
+Length: 1336 words
+Byline: Bruno van Wayenburg
+Body
+
+Quantumcomputers  Het Delftse lab QuTech krijgt 135 miljoen euro voor de ontwikkeling van de quantumcomputer. Zo zet Nederland in op de computertechnologie van de toekomst.      
+Amsterdam.  Hoe 135 miljoen aan onderzoeksfinanciering eruitziet? ,,A bunch of noisy tubes", zeg Maja Cassidy te midden van het lawaaiige gepomp van dertien koelinstallaties.  
+De postdoctorale onderzoeker, gepromoveerd aan Harvard en afkomstig uit Australië, doet hier onderzoek naar quantumcomputers: een nog-niet-bestaand computertype, dat problemen supersnel kan doorrekenen door gebruik te maken van quantummechanica. Ze werkt bij QuTech,  het laboratorium van het quantumcomputer-onderzoeksinstituut in 
+Delft.  
+QuTech is een samenwerking van de TU Delft en  TNO. Onlangs werd bekend dat het instituut    135 miljoen euro aan onderzoeksfinanciering   ontvangt (verspreid over tien jaar) van NWO, het ministerie van Economische Zaken en bedrijven als Microsoft. Voor wetenschappelijk onderzoek is dat een buitengewoon fors bedrag, goed voor  veertig vaste onderzoekers. Zo zet Nederland in op de computertechnologie van de toekomst. Al moet het nog wel even lukken om die quantumcomputer daadwerkelijk te bouwen, want de technologie is extreem complex. 
+  ,,Hier laden we onze samples in de koelers", zegt Cassidy op de benedenverdieping aan de onderzijde van de koelmachines. Deze samples zijn chipjes, met daarop minuscule maar complexe structuren met  supergeleiders, diamant, silicium of andere materialen. Ze lacht: ,,We gebruiken enorme apparaten om heel kleine dingen te maken." 
+Onderdeel van die kleine structuren zijn quantum-bits, of qubits, die het quantummechanische gedrag vertonen dat uiteindelijk moet leiden tot een decenniaoude natuurkundige droom: quantumcomputers, speciale computers die in seconden complexe berekeningen kunnen uitvoeren die gewone computers miljarden jaren zouden kosten. 
+De quantumcomputer is gebaseerd op de quantummechanica, de natuurwetten die het gedrag beschrijven van het allerkleinste: atomen, elektronen, lichtdeeltjes of fotonen.  
+Die quantummechanische natuurwetten zijn - voor ons bewoners van de macrowereld - nogal eigenaardig. Zo hebben deeltjes  geen vastomlijnde eigenschappen, totdat je er een meting op uitvoert. Ze kunnen bijvoorbeeld op meerdere plaatsen tegelijk zijn, en elektrische stroompjes kunnen tegelijkertijd zowel linksom als rechtsom draaien. 
+Quantumcomputers maken slim gebruik van al die gespleten quantumpersoonlijkheden. Namelijk om meerdere berekeningen tegelijk uit te voeren (zie kader). Lang leek dit  een hersenspinsel, tot begin jaren negentig werd aangetoond dat bepaalde rekentaken  fundamenteel sneller kunnen verlopen op een quantumcomputer. 
+Natuurkundigen proberen sindsdien de quantumcomputer te realiseren. Delft was daar al vroeg bij. ,,Het onderzoek loopt in Delft al twintig jaar", zegt Leo Kouwenhoven, wetenschappelijk directeur van QuTech. Zijn voorganger Hans Mooij maakte bijvoorbeeld een ultragekoeld, supergeleidend ringetje, waarin een stroompje zowel linksom als rechtsom stroomt.  
+Inmiddels loopt het aantal kandidaat-qubits wereldwijd in de tientallen. In Delft werken ze bijvoorbeeld ook met stikstofatomen in diamantkristallen en met kleine holtes waarin microgolfjes rondkaatsen. In 2012 maakte Kouwenhoven zelf furore met de ontdekking van het Majorana-deeltje, een exotisch natuurkundig verschijnsel dat ook dienst kan doen als een  zeer stabiele  qubit. ,,We maken ze inmiddels bijna dagelijks", zegt Kouwenhoven. 
+De volgende stap is om qubits aan elkaar te koppelen, ze samen te laten werken en quantumcomputers zo stap voor stap op te bouwen en uit te breiden. Daarin is QuTech overigens niet de enige.  
+Tientallen andere onderzoeksgroepen werken aan quantumcomputers, onder meer aan de Amerikaanse universiteiten Yale en Harvard. Maar ook bijvoorbeeld de University of Science and Technology in Hefei, China.  
+Commerciële belangstelling is er ook. In 2011 presenteerde het bedrijf D-Wave-systems een speciaal type quantumcomputer. Daarvan is nog steeds niet duidelijk  of het er echt een is, al kocht defensiegigant Lockheed Martin er voor de zekerheid alvast een. Bedrijven als Google, Microsoft en IBM financieren quantumcomputeronderzoek. Ook de NSA investeert in quantumcomputers, blijkt uit Edward Snowdens gelekte documenten, om versleutelingen te kraken.  
+De lijst toepassingen groeit: snel zoeken in databases is steeds belangrijker in deze tijden van big data, en quantumcomputers zijn ook beter in het oplossen van complexe logistieke problemen.    
+De oprichting van QuTech is een stap van wetenschap naar technische uitvoering, zegt QuTech-onderzoeker Leo DiCarlo. ,,Een paar jaar geleden waren we nog bezig met basale algoritmen en fundamentele problemen." Een obstakel is bijvoorbeeld 'decoherentie' van de qubits: met iedere kleine  storing van buitenaf  verliezen ze hun tere quantuminformatie.  
+Toch lijkt, na twintig jaar onderzoek, decoherentie steeds meer een beheersbaar probleem. ,,Een paar jaar terug realiseerden we ons: de basistechnologie staat gewoon", aldus DiCarlo. Nu gaat het erom de technologie bruikbaar te maken. ,,We zijn niet langer bezig om een qubit aan de praat te krijgen, maar om hele reeksen betrouwbaar te fabriceren en de kosten te beheersen."    
+Dat klinkt natuurlijk mooi. Maar is er, met zulke geldbedragen en onderzoeksinzet, niet een hype-risico? Kouwenhoven vindt van niet: ,,Het is duidelijk dat de technologie een enorm potentieel heeft. Als de quantumcomputer  toch niet blijkt te werken is het jammer, maar we hebben het wel geprobeerd. We moeten ons pas schamen als het ergens anders werkt, maar hier niet." 
+ Quantum- computers kunnen in seconden  berekeningen uitvoeren  die gewone computers miljarden jaren zouden kosten 
+,,Als de quantum- computer  toch niet blijkt te werken is het jammer, maar we hebben het wel geprobeerd"  
+ Als quantuminformatie één mascotte heeft, is het wel Schrödingers kat: een kat die, zolang ze onzichtbaar in een doos verstopt zit, tegelijkertijd zowel dood als levend kan zijn.  Dat mag volgens de wetten van de quantummechanica, de natuurkunde van kleine deeltjes als elektronen of atomen. Pas als je de doos opent, 'kiest' de natuur een van de twee opties. Tot die tijd is de kat in een 'superpositie' van twee toestanden: dood én levend. 
+De natuurkundige Erwin Schrödinger (1887-1961) bedacht het arme beest vooral om de filosofische onverteerbaarheid van de quantummechanica te benadrukken. Als het over dieren gaat in plaats van atomen, wordt het immers allemaal nét iets concreter (en absurder).  
+Stel dat je twee katten zou nemen, A en B, dan is er ineens een vierdubbele superpositie mogelijk. Er zijn namelijk vier opties: A en B levend, A dood en B levend, A levend en B dood, en A en B beiden dood. Plus allerlei  superposities van die vier mogelijkheden:  een beetje 1 en een beetje 0. Bij drie katten kom je op acht mogelijkheden, bij tien op 1.024 en bij twintig zijn er al 1.048.576 verschillende mogelijkheden.  
+In het echte quantumcomputeronderzoek draait het niet om  katten maar om qubits. Dat is bijvoorbeeld een supergeleidend ringetje, een los elektron in silicium of  een diamantkristal, of Leo Kouwenhovens Majorana-deeltje: een quantummechanisch onderdeel dat in twee verschillende standen kan bestaan, 1 en 0, of in een superpositie. 
+Die quantummechanische gespletenheid vergroot het vermogen van de qubit om informatie vast te houden dramatisch, vooral als je er meerdere samenkoppelt. Eén qubit in een superpositie kan '1' en '0' zijn. Twintig qubits samen kunnen al 1.048.576 standen hebben (en alle mogelijke superposities daarvan). Het idee achter de quantumcomputer is dat je, als je zo'n complexe superpositie voorzichtig manipuleert,  met alle 1.048.576 verschillende beginwaarden tegelijkertijd dezelfde berekening kunt uitvoeren. Met iedere extra qubit verdubbelt dat aantal nog eens.   
+Als dat lukt, wordt de belofte van de quantumcomputer ingelost: een vrijwel onbegrensd aantal parallelle berekeningen.  
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: nrc.next
+Subject: Educational Institution Employees (63%)
+Industry: Computing + Information Technology (94%)
+Load-Date: July 6, 2015
+
+End of Document
+   De computer  van de toekomst
+
+   De computer  van de toekomst
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

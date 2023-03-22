@@ -1,0 +1,31 @@
+Maastricht en IBM jagen op zwaartekrachtgolf
+De Telegraaf 
+5 oktober 2020 maandag Nederland
+Copyright 2020 Mediahuis Nederland BV All Rights Reserved
+
+Section: FINANCIEEL; Blz. 19
+Length: 359 words
+Byline: Wouter van Bergen
+Body
+
+door  Wouter van Bergen
+Amsterdam -  De Universiteit Maastricht gaat samenwerken met IBM om te onderzoeken welke rol quantumcomputers kunnen spelen bij de ontwikkeling van de nieuwe zogenoemde Einsteintelescoop. 
+Ook de LHCb deeltjesdetector voor de High-Luminosity Large Hadron Collider in het Frans-Zwitserse grensgebied kan profiteren van het onderzoek.
+Met de Einsteintelescoop kan in de toekomst beter onderzoek worden gedaan naar zwaartekrachtgolven. Hoewel pas over een paar jaar wordt beslist waar de telescoop komt te staan, wordt een faciliteit voor het testen van materialen en technologieën voor het apparaat gebouwd bij de Universiteit Maastricht. Voor de uiteindelijke vestigingsplaats van de telescoop moet nog worden gekozen tussen het Limburgse heuvelland van de grensstreek bij Duitsland en België en een plek op Sardinië. 
+De telescoop die in 2035 klaar moet zijn, zal ongeveer het tegendeel zijn van wat de meeste mensen zich bij de term voorstellen. In plaats van een op de sterrenhemel gerichte cilinder met grote lenzen, is de telescoop een systeem van installaties die 200 meter onder de grond zitten en met kilometerslange buizen met elkaar verbonden zijn. 
+De nieuwe telescoop gaat op zoek naar hele kleine trillingen van zwaartekrachtgolven in het heelal, tegen een achtergrond met heel veel ruis. Om die eruit te filteren is rekenkracht nodig, die bij de huidige telescopen nog wel met hele grote conventionele 
+Maastricht en IBM jagen op zwaartekrachtgolf
+computers geleverd kan worden, maar bij de nieuwe installatie een probleem zou kunnen worden. 
+Volgens Jacco de Vries, universitair docent deeltjesfysica aan de Universiteit van Maastricht en betrokken bij de detector voor de Large Hadron Collider, is het de bedoeling om te onderzoeken of quantumcomputing kan helpen de grote natuurkundige vragen op te lossen waarvoor deze projecten zijn bedoeld. ,,De nieuwe telescoop en deeltjesdetector zullen zoveel data opleveren, dat het een probleem wordt voor de huidige computers om dat te verwerken. Quantumcomputing houdt een bepaalde belofte in zich als het gaat om rekenkracht en we willen verkennen of we dit hierbij kunnen toepassen", zegt hij.
+PDF-bestand van dit document
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Tlg-NL
+Subject: Educational Institution Employees (94%); Colleges + Universities (84%); 
+Experimentation + Research (77%); Teaching + Teachers (71%); Astronomy + Space (64%); Mountains (61%)
+Industry: Computing + Information Technology (93%); Educational Services (63%) Load-Date: October 4, 2020
+
+End of Document
+Page 2 of 2

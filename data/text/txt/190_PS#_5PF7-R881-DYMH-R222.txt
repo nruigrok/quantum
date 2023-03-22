@@ -1,0 +1,33 @@
+Tegelijk in twee toestanden
+NRC Handelsblad
+09 September 2017 Zaterdag
+Copyright 2017 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 4
+Length: 442 words
+Body
+
+ABSTRACT
+Superposities
+Hoe werkt de quantumcomputer? Dankzij het verschijnsel dat iets zich in meerdere toestanden kan bevinden. 
+De quantumcomputer dankt zijn wonderbaarlijke eigenschappen aan een van de vreemdste verschijnselen in de quantummechanica: 'superposities' van meerdere toestanden. 
+Een quantumbit kan bijvoorbeeld een elektron zijn in een ultra-gekoeld diamantkristal, dat je kunt manipuleren met laserlicht. Het elektron kan  linksom draaien, geschreven als respectievelijk |1> en |0> Maar het kan ook in een superpositie zijn: |1>+|0>. 
+Dit loopt verder uit de hand als je meerdere qubits combineert. Een  4-qubitsquantumcomputer kan zich in een optelsom bevinden van 24 = 16 componenten, genummerd van |0000> tot |1111>. Bij 8 qubits zijn dat al 256 componenten, bij 32 qubits 232, bijna vijf miljard. Een  quantumcomputer kan al die componenten manipuleren met één manipulatie van de superpositie,  die in miljoenvoud wordt uitgevoerd. Dat is de quantum-sluiproute die bijna voor niets enorme rekenkracht  oplevert.
+Het Deutsch-Josza-algoritme, een van de eerste quantumalgoritmen, berekent een eenvoudige maar  eigenaardige som. Stel: je hebt een rijtje van 64 enen en nullen, 
+Tegelijk in twee toestanden
+waarvoor geldt: of ze zijn alle 64 hetzelfde ('gelijk'), óf het zijn 32 enen en 32 nullen ('gebalanceerd'). Welke van die twee opties is waar: 'gelijk' of 'gebalanceerd'?
+Het Deutsch-Josza-algoritme begint met 6 qubits die allemaal |0> zijn, een toestand die geschreven wordt als |000000>. Vervolgens wordt op deze toestand een 'Hadamardtransformatie' losgelaten. Die brengt iedere afzonderlijke qubit in een superpositie van |1> en |0>. 
+Het resultaat is een superpositie van 64 verschillende toestanden: |000000>+|000001> en dan nog 62 componenten tot en met...+ |111111>
+Op die superpositie wordt in één 'vraag-operatie' het input-rijtje van 64 bits losgelaten. Bijvoorbeeld: voor het 17de getal in het rijtje wordt de 17de component van de superpositie onder handen genomen. Dat is |010001>. Als het 17de getal in het rijtje 0 is, verandert die component niet, maar als dat getal 1 is, wordt de component negatief: |010001>. Hetzelfde gebeurt met alle andere componenten. Dan volgt opnieuw een Hadamard-transformatie, waarbij alle qubits opnieuw splitsen.
+Alleen als het oorspronkelijke rijtje 'gebalanceerd' was komt hier de oorspronkelijke superpositie |000000> weer terug.  Bij alle andere uitkomsten was het oorspronkelijke rijtje niet gebalanceerd, dus moet het wel 'gelijk' geweest zijn. Met een klassieke computer waren er tenminste 32 stappen nodig geweest voor deze conclusie, waar de quantumcomputer maar twee Hadamard-operaties per qubit nodig heeft .
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Physics (75%)
+Industry: Computing + Information Technology (94%)
+Load-Date: September 8, 2017
+
+End of Document
+Page 2 of 2

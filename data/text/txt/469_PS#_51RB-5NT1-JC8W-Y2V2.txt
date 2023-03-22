@@ -1,0 +1,60 @@
+Springplank naar bizarre wereld
+NRC Handelsblad
+18 december 2010 zaterdag
+Copyright 2010 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 7
+Length: 932 words
+Byline: Margriet van der Heijden
+Body
+
+SAMENVATTING
+Volgens Science is het de doorbraak van 2010: een duikplankje dat bizar quantumgedrag vertoont. Margriet van der Heijden
+VOLLEDIGE TEKST:
+e vraagt je af hoe hij tot stand komt, de jaarlijkse top tien van wetenschappelijke doorbraken van het wetenschapsblad Science. Wordt er gewikt en gewogen en worden citaties geturfd? Of slaan de redacteuren op een middag bij een broodje eens flink aan het brainstormen? Dat laatste zou je denken, en waarom ook niet. Gezamenlijk hebben ze voelsprieten in alle onderzoeksgebieden.
+Zo gaat het ook een beetje, zegt Science-redacteur Robert Coontz. De verslaggevers van het nieuwsdeel van het blad houden het hele jaar bij welk onderzoek hun opvalt. Ze praten erover met de redacteuren van het wetenschappelijke deel van het tijdschrift en met onderzoekers, en komen dan aan het einde van het jaar al discussiërend en strepend  tot een longlist, een shortlist en een keuze.
+Nummer één is dit jaar een ijzig koud en minuscuul duikplankje - krap eentiende millimeter lang - op een chip. Het plankje vertoonde gedrag dat nog niet eerder was waargenomen bij een voorwerp dat door mensenhanden is gemaakt en dat, met wat moeite, met  het blote oog zichtbaar is. Fysicus Andrew Cleland uit Santa Barbara en zijn collega's lieten het gedurende 6 nanoseconden (miljardste seconden)  tegelijkertijd trillen én niet trillen. Zulk dubbelzinnig 'quantumgedrag' was tot dusver exclusief voorbehouden aan elementaire deeltjes, aan atomen, moleculen en aan licht. Een doorbraak dus.
+WAPENFEITEN
+Dat die doorbraak beschreven werd, in maart van dit jaar, in concurrerend vakblad Nature geeft niks, zegt Coontz. En ook niet dat er toen maar weinig aandacht voor was. "Dit is het tijdperk van de biologie", zegt hij. Wapenfeiten en -feitjes uit dat vak worden breed uitgemeten. De fysica, en zeker zoiets onbevattelijks als de quantummechanica, raakt zo op de achtergrond. "Des te leuker dat dit onderzoek nu toch aandacht krijgt."
+"Maar is het niet een beetje esoterisch?", zeiden de collega-redacteuren van deze krant.  
+"Wacht even", zegt daarop Carlo Beenakker, hoogleraar theoretische natuurkunde in Leiden. "Zo esoterisch is het niet! Het experiment staat in een traditie van honderd jaar."
+Het werk van Cleland en zijn collega's past  in een lange reeks ontdekkingen, zegt Beenakker. In de loop van de tijd lieten die zien dat minuscule objecten energie alleen opnemen (of afstaan) in afgepaste hoeveelheden, dat ze niet stil kunnen zitten en dat ze soms zelfs op twee plaatsen tegelijk zijn.
+Als je zulk gedrag vertaalt naar alledaagse fenomenen, kom je in een bizarre wereld terecht. Eentje waarin een buurman naast je loopt, maar ook op de stoep aan de overkant. Waarin een draaimolen tegelijk linksom en rechtsom kan draaien. "Absurd, natuurlijk."
+De regels van de quantummechanica zijn dan ook niet van toepassing op alledaagse voorwerpen. Beenakker: "Maar het mooie van dit werk is dat het wél de grens heeft opgerekt tussen de microscopische wereld van de quantummechanica en de macroscopische wereld van alledag.
+"En terwijl we de quantummechanica al toepasten in de optica (licht), en in de microelektronica (elektronen),  kunnen we hem  dankzij dit werk dus ook toepassen op nanomechanica (bewegende structuren). Daarmee is een heel nieuw vakgebied geopend."
+Het geheim van Cleland en zijn collega's is dat zij het duikplankje koppelden aan een 'qubit', een echt quantummechanisch systeem in de vorm van een ringetje supergeleidend materiaal. Zij gebruikten het qubit om héél precies afgepaste hapjes energie, energiepakketjes, aan het duikplankje te voeren.
+Eerst hadden ze het plankje in zijn allerlaagste energietoestand, zijn grondtoestand, gebracht. Ze koelden het  daarvoor af tot zo'n lage temperatuur (een paar honderdste graad boven het absolute nulpunt) dat het volstrekt stillag. Vervolgens voerden ze het precies één energiepakketje - waardoor het een piepklein beetje ging trillen. En daarna masseerden ze het zelfs in de dubbelzinnige toestand van wel én niet trillen.
+"Het is óók een doorbraak omdat nu eindelijk is gelukt waarnaar zeker tien onderzoeksgroepen wereldwijd al jarenlang streefden", zegt Herre van der Zant. Hij is hoogleraar nanotechnologie in Delft en maakt ook minuscule mechanische structuren.  "Het was een echte race."
+SYSTEEMPJE
+In Delft, bij  de vakgroep van nanocollega Hans Mooij, is veel ervaring met qubits. Ook Van der Zant zou dus een qubit aan één van zijn structuurtjes  kunnen koppelen. "Maar dan zou je eerst iets slims moeten bedenken om het werk van de Amerikanen te verbeteren. Je zou eigenlijk een systeempje willen maken dat langer  dan 6 nanoseconden standhoudt."
+Op termijn kunnen zulke mechanische systeempjes het hart vormen van gevoelige sensoren die quantumtoestanden uitlezen, of gravitatiegolven uit de kosmos oppikken.  Of ze kunnen een brug vormen tussen elektronica op een chip en  licht, waarmee ze gemakkelijk wisselwerken.
+Fundamenteler is de  kwestie: waar ligt de grens? In het duikplankje zitten miljarden atomen. Kunnen nóg grotere voorwerpen ook in een quantumtoestand worden gebracht? Mensen? Veel fysici denken van niet. Het lukt alleen bij heel kleine voorwerpen denken zij, zoals  het duikplankje.
+Anderen zien geen bezwaar. Je zou zulke grote voorwerpen alleen volledig van hun omgeving moeten isoleren, denken zij. Want juist omgevingsinvloeden verstoren onmiddellijk de quantumtoestand.
+Van der Zant: "Er zijn zeker nu vijf groepen bezig om  te kijken of zwaardere voorwerpen ook quantumgedrag vertonen." Misschien wordt zo het plankje uit  2010  nog een springplank naar een bizarre wereld.
+Graphic
+
+ 
+Dit 'duikplankje' is iets korter dan een haar dik is. Het kan wel en niet trillen tegelijk  en  is volgens Science de vondst van het jaar.
+Foto Cleland
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Nanotechnology (94%); Physics (89%)
+Industry: Computing + Information Technology (76%)
+Load-Date: December 18, 2010
+
+End of Document
+Springplank naar bizarre wereld
+
+Springplank naar bizarre wereld
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

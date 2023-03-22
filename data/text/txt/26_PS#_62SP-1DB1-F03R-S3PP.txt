@@ -1,0 +1,44 @@
+Gesprekje tussen spinnende atomen
+NRC Handelsblad 
+28 mei 2021 vrijdag 1ste Editie
+Copyright 2021 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 16
+Length: 727 words
+Byline: Dorine Schenk
+Dateline: Amsterdam 
+Body
+
+ABSTRACT
+Natuurkunde Atomen wisselen informatie met elkaar uit. Hoe, dat hangt af van de omstandigheden. In Delft is zo'n 'gesprek' bestudeerd.
+VOLLEDIGE TEKST:
+Echt beleefd is het niet. Delftse fysici hebben, ongevraagd, een 'gesprekje' tussen twee titaniumatomen afgeluisterd. Ze keken naar magnetische informatie die de atomen uitwisselden.
+,,Atomen wisselen voortdurend quantuminformatie met elkaar uit. Dat kun je zien als praten", vertelt Sander Otte van de TU Delft, die het onderzoek leidde. ,,In materialen, met talloze wisselwerkende atomen, vindt dus een soort gigantisch groepsgesprek plaats. Als je wilt begrijpen hoe een materiaal werkt, dan moet je dat gesprek afluisteren." Het onderzoek met twee atomen, waarover de fysici deze donderdag publiceerden in Science, is een eerste stap naar het afluisteren van zulke groepsgesprekken.
+Magnetische atomen, zoals de titaniumatomen, kunnen - als ze dicht genoeg bij elkaar zijn - praten via een quantumeigenschap genaamd spin. Dit kun je zien als een kompasnaaldje van een atoom dat omhoog of omlaag kan wijzen en dat voelt wat er met 
+Gesprekje tussen spinnende atomen
+kompasnaaldjes (of spins) van naburige atomen gebeurt; draait het kompasnaaldje van het ene atoom, dan gaat die van de andere ook draaien. Als deze spins samen draaien, dan zijn ze in gesprek.
+In het onderzoek plaatsen de fysici twee titaniumatomen een nanometer - een miljoenste millimeter - bij elkaar vandaan, zodat ze elkaars spin voelen. Met een kort stroomstootje laten de fysici vervolgens een van de spins razendsnel omklappen. Door dit zetje gaan de spins samen oscilleren; eerst wijst de ene omhoog en de andere omlaag, daarna omgekeerd, enzovoorts. Met een tweede, zwakker stroompulsje meten de onderzoekers welke kant de spins tijdens het oscilleren op wijzen. Zo hebben ze voor het eerst spinoscillaties, en dus het gesprek tussen twee atomen, nauwkeurig kunnen volgen.
+Het gebruik van een stroomstootje, waarbij een elektron op het titaniumatoom botst en de spin omklapt, is gewaagd. Bij andere experimenten worden radiosignalen gebruikt, maar dat was voor dit onderzoek te traag. Het stroomstootje was een experiment, vertelt Otte. ,,Het is een lompere methode. We vreesden dat het de fragiele quantumband tussen de twee atomen zou verstoren, waardoor ze niet samen zouden oscilleren. Maar tot onze verrassing gebeurde dat niet." Een extra ontdekking is dus dat je met relatief veel geweld de spin van een atoom kunt omklappen, zonder dat je het hele systeem verstoort. Dat biedt perspectieven voor toekomstig onderzoek.
+De atomen bleken in een tiental nanoseconden (miljardste van een seconde) samen heen en weer te flippen. Hoe atomen samen oscilleren, hangt af van de atoomsoort, hun onderlinge afstand en hoe ze gerangschikt zijn. Otte: ,,Het materiaal bepaalt wat de atomen gaan bespreken, wij kunnen alleen een zetje geven om het gesprek op gang te brengen."
+Voor twee atomen zijn de spin-oscillaties simpel en voorspelbaar. ,,We hebben een gesprek opgevangen, maar het was een heel saai gesprek." Als je probeert te luisteren naar een gesprek tussen drie of meer atomen, dan worden de oscillaties waarmee ze praten lastiger te voorspellen. ,,Tot ongeveer twintig atomen kun je dat nog uitrekenen met een laptop", zegt Otte. ,,Maar bij vijftig of meer atomen hebben zelfs de beste computers ter wereld niet genoeg rekenkracht om uit te rekenen wat er precies gebeurt." Een paar gram van een materiaal bestaat al snel uit triljarden atomen. Die groepsgesprekken zijn dan volstrekt onvoorspelbaar.
+De volgende stap is daarom om dit 'afluistersysteem' uit te bouwen naar meer atomen en combinaties van verschillende atomen. ,,Ik wil zo snel mogelijk naar meer dan vijftig atomen", zegt Otte. ,,Dan is het gesprek niet meer voorspelbaar en wordt het echt interessant."
+Dan kun je bijvoorbeeld het gedrag onderzoeken van supergeleidende materialen, waar elektrische stroom bij lage temperaturen weerstandsloos doorheen beweegt. Hoe dit werkt bij hogere temperaturen, in complexere materialen, is op atomair niveau niet goed 
+Page 2 of 3
+Gesprekje tussen spinnende atomen
+begrepen. ,,Het complete begrip van spingedrag in materialen dat daarvoor nodig is, is nog ver weg", geeft Otte toe. ,,Maar door naar gesprekjes tussen steeds meer atomen te luisteren, krijgen we stap voor stap meer inzicht in hoe de natuur zich gedraagt." Ik wil zo snel mogelijk naar meer dan vijftig atomen Sander Otte TU Delft
+Link naar PDF
+Graphic
+
+ 
+Een titaniumatoom (links) krijgt een pulsje waardoor zijn spin omklapt en vervolgens ook die van het atoom ernaast.
+Illustratie TU Delft/Scixel
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Nanotechnology (94%); Superconductors (76%); Physics (71%)
+Industry: Computing + Information Technology (71%); Computer Equipment (62%)
+Load-Date: May 28, 2021
+
+End of Document
+Page 3 of 3

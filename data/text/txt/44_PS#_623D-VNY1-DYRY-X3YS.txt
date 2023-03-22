@@ -1,0 +1,53 @@
+Zo slim kunnen een paar atomen zijn
+Trouw
+27 februari 2021 zaterdag
+Copyright 2021 DPG Media B.V. All Rights Reserved
+
+Section: | Wetenschap; Blz. 18, 19
+Length: 1093 words
+Byline: WILLEM SCHOONEN
+Highlight: Het kan uitmonden in een kwantumbrein, een computer die werkt als onze hersenen. Maar het verhaal begint bij een paar kobaltatomen.
+Body
+
+Technologie
+Op een oppervlak van zwarte fosfor zit een kobalt-atoom. Dat kleine deeltje kan daar in twee stemmingen verkeren; laten we ze vrolijk en boos noemen. En die stemming is te beïnvloeden: met een elektrische spanning kan het atoom van vrolijk naar boos worden gebracht en andersom. 
+Als een informaticus iets ziet dat in twee stabiele toestanden kan worden gebracht, dan denkt die meteen aan een 0 en een 1 en de mogelijkheid informatie op te slaan. Dat kan inderdaad met zo'n kobaltatoom. Nijmeegse onderzoekers onder leiding van hoogleraar Alexander Khajetoorians toonden dat enkele jaren geleden aan. Ze lieten zien dat met verschillende elektrische signalen informatie kon worden opgeslagen in de stemming van die kobaltatomen, en dat de informatie behouden bleef en later weer kon worden uitgelezen. 
+Een atoom is zo ongeveer de kleinste informatieopslag die je kunt bedenken. Als dit fundamentele onderzoek kan worden ontwikkeld tot bruikbare technologie, passen alle datacentra van de wereld samen in een zeecontainer. Zo ver is het nog lang niet, maar het is een aanlokkelijk perspectief, gezien de exploderende vraag naar opslagcapaciteit voor data. 
+Het verhaal van dat kobaltatoom gaat echter verder, zegt Khajetoorians: "De manier waarop zo'n kobaltatoom reageert op een elektrische puls lijkt op het vuren van neuronen in de hersenen. Dat betekent op zich nog niets, maar als je meerdere kobaltatomen bij elkaar in de buurt brengt, krijg je interactie. En daarin kunnen de toestanden van de kobaltatomen op alle mogelijke manieren gecombineerd raken. In plaats van een simpele reactie van één atoom op een elektrische puls, heb je nu complexiteit." 
+In die complexiteit zagen de Nijmeegse onderzoekers tot hun verbazing dat de analogie met de hersenen zich verder ontvouwde. Dat kwam door die zwarte fosfor, de drager van de kobaltatomen. Fosfor is een zogenoemd anisotroop materiaal, een materiaal met meerdere gezichten. Gaande van links naar rechts gedraagt het oppervlak van zwarte fosfor zich anders dan van voor naar achter. 
+Als de Nijmeegse onderzoekers de kobaltatomen op dat oppervlak verspreidden, werd de interactie tussen links en rechts ook anders dan tussen voor- en achterburen. Khajetoorians: "We wisten dat je daar verschillen kon verwachten. Maar een enorme verrassing was de factor tijd: de interactie tussen de kobaltatomen ging snel in de ene richting en langzaam in de andere." 
+Daar komen die hersenen weer, want een neuron dat gaat vuren, kan heel snel een volgend neuron tot activiteit aanzetten, maar een signaal dat in de hersenen over een synaps - een verbinding - wordt doorgegeven, komt trager aan. Hier daagt het onderscheid tussen snel reagerende elementen, zoals neuronen, die in de hersenen nodig zijn om iets in beweging te zetten, en trage elementen, zoals synapsen, die belangrijk zijn om iets vast houden. Actie en geheugen. 
+Het is maar een minuscuul systeempje van een handvol kobaltatomen, maar Khajetoorians en zijn collega's hebben nu in een publicatie in vakblad Nature Nanotechnology laten zien dat het zich intelligent gedraagt. De kobaltatomen leren zich te schikken naar verschillende voltages die ze ervaren, én ze onthouden die rangschikkingen; als je terugkeert naar een eerder gegeven spanningsniveau nemen ze de bijbehorende stemmingen aan. 
+Bij dit werk was Bert Kappen betrokken, ook hoogleraar aan de Radboud Universiteit en verbonden aan het Donders instituut voor neurowetenschappen in Nijmegen. Kappens werkterrein is kunstmatige intelligentie, en die kan hier een nieuw hoofdstuk krijgen, zegt hij: "Met kunstmatige intelligentie simuleren we nu de hersenen in neurale netwerken. Dat gebeurt met algoritmes op conventionele computers, en je kunt het versnellen door die algoritmes in te bouwen op een chip. Software en hardware. Dat doe je hier niet meer. Het leervermogen is hier niet afhankelijk van een algoritme; dat kan het materiaal in principe zelf, op een manier die vergelijkbaar is met wat onze hersenen doen. Dat is een enorme stap vooruit."
+Minder exotisch
+Nu het principe is aangetoond, kan het naar een realistischer niveau worden gebracht, zegt Khajetoorians. In de experimenten met kobaltatomen op zwarte fosfor moest worden gewerkt bij extreem lage temperaturen, en met scanning microscopie. Die microscopen zijn fantastisch, ze kunnen individuele atomen 'zien' door die af te tasten, maar meer dan een handvol atomen krijg je niet in beeld. Er moet nieuwe technologie worden ontwikkeld om dat op grotere schaal te doen. En dan liefst bij kamertemperatuur. 
+Dat zal mogelijk worden, verwacht Khajetoorians: "Deze verschijnselen zijn niet uniek voor kobalt op zwarte fosfor. Ze moeten ook te realiseren zijn in minder exotische materialen. Mogelijkheden om dit op te schalen naar realistisch niveau zijn er zeker." 
+Daarmee komt niet alleen een extreem compacte dataopslag in beeld. Omdat er in het materiaal intelligentie steekt, kan het mogelijk worden ingezet bij klussen zoals patroonherkenning. Daarvoor wordt nu kunstmatige intelligentie ontwikkeld, die neurale netwerken, omdat die veel beter dan de mens patronen kunnen halen uit bergen data. Dat moet zo'n intelligent materiaal op den duur ook kunnen, zeggen de Nijmeegse onderzoekers. 
+En er is mogelijk een link te leggen met 'quantum computing', zegt Kappen. In deze snel groeiende tak van wetenschap en technologie wordt kwantumfysica, de wonderlijke natuurkunde van elementaire deeltjes, ingezet om computers te ontwikkelen die vele malen sneller kunnen rekenen dan de huidige. 
+Een kwantumcomputer maakt gebruik van de wonderlijke eigenschap dat elementaire deeltjes in meerdere toestanden tegelijk kunnen verkeren. Daardoor kan een kwantumcomputer veel tegelijk uitrekenen. Dat is een dramatische verbetering, die zijn nut vooral zal bewijzen bij taken waarvoor heel veel rekenkracht nodig is, zoals het herkennen van patronen in bergen data. 
+Wat hierboven werd beschreven als stemmingen van een kobaltatoom - vrolijk en boos - zijn in feite kwantumeigenschappen. Daarmee hebben ze in Nijmegen nog geen kwantumcomputer in handen, maar wel een intelligent materiaal dat daarin mogelijk van pas gaan komen. En omdat zijn eigenschappen zo lijken op de werking van neuronen en synapsen in de hersenen, voorzien Khajetoorians en Kappen toekomst in een kwantumbrein.
+Als dit bruikbare technologie wordt, zouden alle datacentra van de wereld in een zeecontainer passen
+Leervermogen is hier niet afhankelijk van een algoritme; dat kan het materiaal in principe zelf
+Bekijk de oorspronkelijke pagina: pagina 18, pagina 19
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Computer Science (84%); Artificial Intelligence (82%); Nanotechnology (75%); 
+Experimentation + Research (63%); Information Management + Technology (63%)
+Industry: Computing + Information Technology (94%); Computer Equipment (63%)
+Load-Date: February 26, 2021
+
+End of Document
+Zo slim kunnen een paar atomen zijn
+
+Zo slim kunnen een paar atomen zijn
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

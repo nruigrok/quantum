@@ -1,0 +1,62 @@
+Deeltje van niks dat revolutie kan ontketenen
+Trouw
+13 april 2012 vrijdag
+Copyright 2012 PCM Uitgevers B.V. All Rights Reserved
+
+Section: De Verdieping; Blz. 2
+Length: 1750 words Byline: Joep Engels
+Body
+
+Vandaag publiceert Science een artikel over het Majorana fermion. Onderzoekers van de TU Delft hebben dat deeltje op de staart getrapt.
+Hij is lang niet zo beroemd als zijn Britse vakgenoot Peter Higgs. De wereld volgt met grote belangstelling de zoektocht naar het deeltje waarvan deze Higgs een halve eeuw geleden het bestaan voorspelde. Maar het deeltje dat Ettore Majorana in 1937 uit zijn formules zag oprijzen, geniet nauwelijks bekendheid. Terwijl het van veel grotere betekenis zou kunnen zijn. Delftse natuurkundigen hebben er nu voor het eerst een glimp van opgevangen.
+Van het Majorana fermion, om precies te zijn. Want van Ettore Majorana zelf ontbreekt ieder spoor. Eén jaar na de publicatie van zijn ontdekking nam hij ontslag als hoogleraar in Napels. Hij nam al zijn spaargeld op, kocht een kaartje voor de veerboot naar Palermo en verdween voorgoed uit het zicht. Werd hij vermoord, pleegde hij zelfmoord of trok hij zich terug in een klooster?
+Niemand die het weet. Feit is dat de natuurkundige Majorana mede aan de wieg stond van de quantummechanica, de nieuwe theorie die de wereld van atomen beschreef. Hij was slim genoeg om te beseffen waartoe deze kennis over kernprocessen zou kunnen leiden. Zeker in de wereld van de jaren dertig die afstevende op een nieuwe oorlog. Volgens een van de theorieën over de verdwijning van Majorana ontvluchtte hij het Italië van Mussolini omdat hij bang was te worden gerecruteerd voor de ontwikkeling van een atoombom.
+Zijn bijdrage aan de wetenschap was echter heel fundamenteel van aard. De aanzet voor dat denken was tien jaar eerder, in 1927, door de Brit Paul Dirac gegeven. Deze combineerde de basisformule uit de quantumtheorie, de Schrödingervergelijking, met de relativiteitstheorie van Albert Einstein. De formule van Dirac was niet alleen kort en krachtig, Dirac zag ook dat je er bijzondere dingen mee kon doen. De formule beschreef bijvoorbeeld het gedrag van een elektron, maar ook het spiegelbeeld van een elektron paste er naadloos in. 'Dan moet dat spiegelbeeld ook bestaan', redeneerde Dirac. En inderdaad, in 1932 werd het anti-elektron of positron ontdekt.
+Majorana deed iets soortgelijks. Hij herschikte wat aan de Dirac-vergelijking, en toen bleek dat er een deeltje in paste dat identiek was aan zijn spiegelbeeld. Een merkwaardig deeltje, omdat het nauwelijks eigenschappen kon hebben. Geen elektrische lading bijvoorbeeld, want was die positief, dan was het spiegelbeeld anders, namelijk negatief geladen. En draaide het deeltje linksom om zijn as, dan tolde het antideeltje rechtsom.
+Kortom, het Majorana-deeltje was een deeltje van niks, en daardoor moeilijk te ontdekken. Met een deeltjesversneller zou het in principe moeten kunnen, maar zelfs de nieuwste versneller in Genève is er niet gevoelig genoeg voor. Het deeltje leek zijn ontdekker achterna te gaan verdwijnen in de vergetelheid.
+Totdat fysici begin deze eeuw een truc bedachten. Als het Majorana-deeltje zo moeilijk uit zijn schuilplaats tevoorschijn komt, moet je misschien de omstandigheden aanpassen om het naar buiten te lokken. Ofwel: creëer een materiaal waar het voor een deeltje zonder eigenschappen goed toeven is.
+Dat was makkelijker gezegd dan gedaan. De theoretici verzonnen wel allerlei constructies, maar die waren nog zeer abstract. Pas in 2010 kwamen twee groepen met een praktisch concept. Benodigdheden: een ultradun stroomdraadje (een tienduizendste millimeter dik), een supergeleider en een krachtig magneetveld. Het draadje moest ook nog van speciaal halfgeleidend materiaal zijn.
+Laat dat nou precies de materiaalconstructie zijn waarmee de groep van Leo Kouwenhoven, hoogleraar natuurkunde aan de TU Delft, al jaren werkte. "Eerlijk gezegd, dat wisten wij niet", erkent hij. "We hadden het geluk dat dat theoretische concept om Majorana's te detecteren precies in ons expertiseveld viel." De groep had de opstelling gebruikt om te onderzoeken of ze in zo'n dun draadje, een eendimensionaal systeem eigenlijk, licht of andere elektromagnetische signalen konden opvangen.
+Maar toen hun het ontwerp voor de Majorana-constructie ter ore kwam, ging het snel. In een mum van tijd hadden ze de goede proefopstelling staan, ze hielden hun voorsprong op de rest van de wereld vast en konden die deze week verzilveren. Vandaag publiceert vakblad Science hun artikel waarin ze als eersten de detectie van Majorana's melden. "Wereldwijd waren er zo'n honderd groepen naar dit resultaat op jacht", zegt een trotse Kouwenhoven.
+Dat klinkt als een rechttoe-rechtaan race, maar er zat nog een tweede truc achter: ga niet op zoek naar een fundamenteel Majorana-deeltje zoals je met een versneller zou doen, maar creëer je eigen Majorana's. De leek fronst hier de wenkbrauwen, maar in de natuurkunde is het heel gewoon, legt Kouwenhoven uit. Hij vergelijkt het met een wave in een voetbalstadion. "Zo'n wave kun je beschrijven door iedere bezoeker in het stadion op te nemen in een formule. Je kunt die individuen ook vergeten en alleen het collectieve gedrag beschrijven. De golf. In de quantumtheorie is die golf ook weer te zien als een deeltje met quantumeigenschappen. Zo hebben wij onze eigen collectieve Majorana's gecreëerd. Ze zijn niet zo fundamenteel als Majorana's die je met een versneller zou vinden ze zijn opgebouwd uit meerdere deeltjes. Maar het zijn wel echte Majorana's."
+Volgens de theorie zouden de Majorana's in paren aan de uiteinden van het nanodraadje moeten verschijnen. De fysici onderwierpen hun opstelling aan enkele tests en toen was het bingo. Kouwenhoven: "Zo stuurden we elektronen het nanodraadje in, en alleen als ze precies nul energie hadden, maten we een stroompje. Anders werden ze weerkaatst. Dat was niet anders te verklaren dan met de aanwezigheid van een Majorana-paar."
+Een maand geleden presenteerde hij zijn bevindingen al op een groot natuurkundecongres in Boston. Die druk bezochte bijeenkomst sloot hij af met een vraag waar hij zelf ook het antwoord op gaf. "Hebben we Majorana fermionen gezien? Ik zou zeggen, het is een voorzichtig ja."
+Daar was toen niet iedereen van overtuigd. Waren de piekjes in de Delftse grafieken wel echte Majorana's, vroegen sommigen zich af. Kouwenhoven begrijpt de scepsis, maar denkt dat twijfelaars door de publicatie zullen worden overtuigd. "Toen moesten mensen oordelen op basis van een praatje van een half uur. Nu kunnen ze het hele artikel lezen, dat bovendien door de reviewers van Science is beoordeeld. Nu durf ik wel te zeggen dat het bewijs redelijk hard is."
+De Majorana's bestaan dus echt. Eind goed, al goed? Nee, nu begint het pas. De nieuwe deeltjes zouden gebieden van de natuurkunde een flinke oppepper kunnen geven. Zo is daar de mysterieuze donkere materie. Volgens sterrenkundigen is driekwart van de massa in de ruimte onzichtbaar. Anders kunnen ze niet verklaren waarom sterrenstelsels bijeen blijven en niet door hun ronddraaiende bewegingen uiteengeslingerd worden. Ze weten alleen niet waar die donkere materie uit zou moeten bestaan. De Majorana's, de deeltjes zonder eigenschappen, zouden een goede kandidaat zijn.
+Maar fysici als Kouwenhoven richten zich liever op dat andere perspectief: Majorana's zouden ideale bouwstenen zijn voor de quantumcomputer, een nu nog vooral theoretisch concept voor een supercomputer die rekent volgens de regels van de quantumtheorie. Volgens die theorie kunnen deeltjes in meerdere toestanden tegelijk zijn. In superpositie, zeggen de fysici. Zo'n deeltje zou dan op meerdere borden tegelijk kunnen rekenen en bepaalde problemen, zoals het kraken van codes, heel snel kunnen oplossen.
+Maar die superpositie is heel fragiel. Eén kleine verstoring en het deeltje is weer een gewone computerbit die alleen aan of uit kan zijn, 1 of 0. Majorana's zouden dat probleem kunnen verhelpen. In theorie zijn ze de ideale quantumbit. Kouwenhoven: "Een superpositie van een Majorana-paar is heel robuust. Wat wil je anders? Als alle eigenschappen van een deeltje nul zijn, is het moeilijk iets te vinden waarmee je het kunt storen."
+Maar, voegt hij er onmiddellijk aan toe, er zijn nog wel heel veel stappen te zetten eer die quantumcomputer er is. "Dit is pas stap één. We zijn al begonnen onze opstelling te verbeteren, zodat we de Majorana's beter in beeld krijgen en beter kunnen controleren. Daarna moeten we kijken of we met die bijzondere eigenschappen kunnen spelen, en dan pas komt dat quantumbit in zicht."
+Dat het niet helemaal toekomstmuziek is, blijkt wel uit het telefoontje dat Kouwenhoven ruim een jaar geleden kreeg. Hij was net neergestreken in New York, hij wilde een sabbatical opnemen om een boek te schrijven over de quantumtheorie, toen een topman van Microsoft belde. Of hij eens wilde komen praten. Ook de computergigant was op de hoogte van de Majorana-ontwikkelingen, én van de Delftse expertise.
+Zo kon het gebeuren dat Leo Kouwenhoven niet lang daarna terug was in Delft. Met een slordige miljoen van Microsoft op zak zonder restricties, het bedrijf wil slechts een vinger aan de pols houden aangevuld met een miljoen van onderzoeksfinancier FOM. De jacht op het Majorana fermion kon beginnen.
+Ettore Majorana (1906 1938?) kwam uit een vroom katholiek nest op Sicilië. Op zijn zeventiende toog hij naar Rome, eerst om techniek te studeren, later stapte hij over op de natuurkunde. Hij kwam terecht in de groep van Nobelprijswinnaar Enrico Fermi. Deze zag in hem een genie van het kaliber Newton of Galilei. Majorana stelde theorieën op waarvan collega's de relevantie pas decennia later doorzagen. Zo voorspelde hij dat het neutrino dat destijds nog niet was ontdekt, maar alleen voorspeld niet massaloos hoefde te zijn als het van gedaante zou kunnen wisselen; een gedachte die pas in 1998 werd bevestigd.
+Eind maart verdwijnt hij van de aardbodem. Hij stuurt nog een telegram vanuit Palermo waarin hij aangeeft dat hij zijn plannen weer gewijzigd heeft hij had al een briefje voor zijn baas achtergelaten waarin hij zijn verdwijning aankondigt.
+Theorieën over zijn verdwijning zijn er in overvloed. Ontvoerd door de Russen, vermoord, zelfmoord, ondergedoken in een klooster. Hij wordt nadien ook nog regelmatig 'gesignaleerd', bijvoorbeeld als de zwerver in Rome die uit het hoofd derdemachtswortels uitrekent. Vorig jaar nog dook er een foto op uit 1955, van een man in Argentinië met een tiental opvallende gelijkenissen met Majorana.
+Het genie dat verdween
+Microsoft schonk onderzoek 1 miljoen in de hoop op een quantumcomputer
+'Wereldwijd zochten honderd groepen naar dit resultaat' Leo Kouwenhoven, TU Delft
+Graphic
+
+ 
+De meetopstelling (links) met onderaan het nanoplaatje waarin de Majorana fermionen zijn gedetecteerd. Afbeeldingen hierboven: artist impression van het plaatje, deels bedekt met goud en het supergeleidende niobium. Het zilverkleurige buisje is het nanodraadje waar de Majorana deeltjes werden gemeten. foto jörgen caris
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Trouw
+Subject: Physics (94%); Educational Institution Employees (63%)
+Industry: Computing + Information Technology (84%)
+Load-Date: April 12, 2012
+
+End of Document
+Deeltje van niks dat revolutie kan ontketenen
+
+Deeltje van niks dat revolutie kan ontketenen
+
+Page 2 of 5
+
+Page 2 of 5
+
+
+
+
+

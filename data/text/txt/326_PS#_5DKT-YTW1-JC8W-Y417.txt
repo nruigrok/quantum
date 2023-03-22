@@ -1,0 +1,104 @@
+Chips kunnen nauwelijks kleiner. En nu?
+de Volkskrant
+15 november 2014 zaterdag
+Copyright 2014 De Persgroep Nederland BV All Rights Reserved
+
+Section: Sir Edmund
+Length: 2959 words
+Byline: BARD VAN DE WEIJER
+Body
+
+Wetenschap: computers van de toekomst 
+De wet van Moore, die voorspelt dat het aantal transistors op computerchips elke twee jaar verdubbelt, houdt al bijna een halve eeuw stand. Maar het einde lijkt nu echt nabij. Hoe kunnen computers straks toch nog sneller worden? Zes plannen. 
+PLAN 1 
+Verder op de ingeslagen weg 
+Wat er na de computerchip komt? Een fascinerende vraag, mailt Jurriaan Schmitz terug. 
+'Alleen: als je hem anders formuleert, wordt dezelfde vraag ineens heel merkwaardig.' 
+Schmitz, hoogleraar halfgeleidercomponenten aan de afdeling elektrotechniek van de Universiteit Twente, geeft een schot voor de boeg: 'Wat komt er na het wiel? Wat komt er na de landbouw?' 
+De computerchip, wil hij maar zeggen, zal niet verdwijnen. 'Het is een fijn stuk gereedschap.' 
+Iedereen die je ernaar vraagt, is het roerend eens: de opvolger van de computerchip is de computerchip. Voorlopig althans. En bijna iedereen lijkt het erover eens dat de beginselen van de wet van Moore niet meer opgaan, nu chipmakers op een aantal fundamentele natuurwetten zijn gestuit. 'We lopen tegen fysieke grenzen aan', zegt Schmitz later aan de telefoon. 
+Het is trouwens niet voor het eerst dat het einde van Moores wet wordt aangekondigd. Al een jaar of tien geleden leek de industrie voor zo'n onneembare fysieke grens te staan: doordat transistors die op een chip zitten kleiner en kleiner werden, ontstonden stroomlekjes bij het laagje isolatiemateriaal tussen diverse onderdelen van de transistor. Dit isolatiemateriaal, siliciumdioxide, was nog maar vijf atomen dik. Nog een laagje atomen eraf en de transistor lekte zo veel stroom dat zijn gedrag onvoorspelbaar werd. 
+Chipsfabrikant Intel ontdekte een betere. Maar deze isolator - gemaakt van hafniumoxide - bleek niet goed te combineren met andere materialen in de transistor, dus moesten ook die worden aangepast. De vondst leidde ertoe dat transistors konden krimpen van 65 tot 45 nanometer. De wet van Moore was weer gered. Voor een paar jaar. 
+Ontwikkelingen op chipgebied gaan niet met grote doorbraken, zegt Chuck Mulloy van Intel aan de telefoon vanuit het Intel-hoofdkantoor in Palo Alto. 'We hebben nooit geprobeerd de chip in een keer helemaal opnieuw uit te vinden. Je maakt telkens kleine stapjes, zodat er niets geforceerd wordt.' 
+Intel - nog altijd de grootste chipproducent ter wereld - kan het zich niet veroorloven een misstap te maken, zo'n misser die de productie in gevaar brengt. 'Het gaat er niet alleen om dat je een snelle chip kunt ontwerpen, je moet hem ook kunnen produceren en tegen de laagst mogelijke kosten. En je moet er jaarlijks honderden miljoenen van kunnen maken', zegt Mulloy. 
+Kleine stapjes, andere materialen, steeds een beetje beter, kleiner en sneller. Tot nu toe weet Intel de wet van Moore aardig in stand te houden. 
+PLAN 2 
+Ga nano 
+Transistors die nu uit de chipfabriek rollen, zijn 14 nanometer groot. Intel zegt 'duidelijk zicht' te hebben op chips met transistors van 7 nanometer. Over vier tot vijf jaar zouden die beschikbaar kunnen zijn, denkt Mulloy. 'We weten hoe we er moeten komen.' En daarna? Gaan we straks naar transistors van 5 nanometer? 4? Nog kleiner? 
+Bram Nauta, hoogleraar elektrotechniek aan de Universiteit Twente, is sceptisch over de mogelijkheden tot verdere verkleining. 'Je ziet geregeld publicaties in Nature of Science waarin een component wordt gepresenteerd van enkele atomen groot. Dit is de toekomst, roepen die onderzoekers dan.' De Twentse hoogleraar haalt zijn schouders op over dit soort 'doorbraken' uit het lab. 'Zo'n schakeling moet dan worden gekoeld tot nabij nul graden Kelvin, omdat zij anders wordt overstemd door haar eigen ruis. Of er is heel veel energie nodig om 1 bit om te krijgen.' 
+Knap, dat zeker, vindt de hoogleraar. 'Maar om iets in de praktijk te betekenen, moet je een miljard transistors hebben, niet één.' Die bovendien weinig energie gebruiken. En het allemaal doen. Die nanotechnologen stappen daar vaak makkelijk overheen, vindt Nauta. 'Dat komt wel, zeggen ze dan. Maar dat roepen ze al vijftien jaar en ik heb er in de praktijk nog niks van teruggezien.' 
+Als je chips vergelijkt met het geschreven woord, dan is de chipindustrie van nu de boekdrukkunst, zegt Nauta, waar letters per pagina worden uitgespuwd. Nanowetenschappers in hun lab zijn als ouderwetse monniken die letters stuk voor stuk produceren. Prachtige creaties soms, maar de praktische inzetbaarheid is beperkt. 'Ik ben sceptisch over nanotechnologie als de volgende stap. De opvolger van de chip is de chip.' 
+PLAN 3 
+De andere kant op: alles wordt groter 
+'De wet van Moore maakt alles domweg kleiner', stelt Nauta. Stel dat het inderdaad lukt over enige tijd transistors van 5 nanometer op een chip te zetten. 'Dan is het nog steeds de vraag of dat verstandig is.' 
+Door alleen maar te kijken hoeveel transistors je op een speldenknop kunt persen, verlies je andere factoren uit het oog, vindt Nauta. Zoals energieverbruik. Dat is al jaren een belangrijk onderwerp, maar de laatste jaren is het misschien wel het belangrijkste. Dat komt door de komst van smartphones, tablets en draagbare computers als smartwatches ('wearables'). Die lopen allemaal op batterijen en moeten daardoor extreem zuinig met energie omspringen. 
+Deze twee factoren waren lange tijd met elkaar in tegenspraak: meer snelheid vergde meer energie. Toen de belangrijkste computermotor nog op ons bureau stond te stampen op photoshopbewerkingen, kon de snelheid relatief makkelijk worden opgevoerd door meer energie toe te voeren. Gewoon het toerental van de motor verhogen. Dat ging lang goed, tot chipmakers op een punt belandden dat elke procent extra rekenkracht kwadratisch meer energie vroeg. Een pc-processor die op volle kracht rekent, wordt zo heet dat je er een eitje op kunt bakken - als dat erop zou passen, tenminste. Sommige processors moeten daarom met water gekoeld worden. 
+De motor telkens opvoeren wordt sinds een jaar of tien als een heilloze weg beschouwd. Daarom daalt de kloksnelheid - het aantal gigahertz, ooit net zo'n fijn marketinginstrument als megapixels bij fotocamera's - zelfs. Nauta trekt een vergelijking met passagiersvliegtuigen. 'Die gingen steeds sneller, tot ergens in de jaren zeventig een optimum werd bereikt van zo'n 900 kilometer per uur.' We hebben nog wel even sneller geprobeerd, met de Concorde, maar dat toestel bleek - naast te onveilig - economisch onrendabel. Toch stokte de ontwikkeling niet: vliegtuigen zijn zuiniger, stiller, veiliger en comfortabeler geworden. Dat zie je ook bij chips. Nu de race om de kloksnelheid is geëindigd, kan volgens Nauta de volgende stap weleens het einde van steeds kleiner zijn. 
+Kleiner is duur. Vanwege de investeringen die ermee gepaard gaan. Maar ook doordat de uitval groter is. Hoeveel van de geproduceerde processors fabrikanten weggooien omdat er iets mis mee is, is onbekend. 'Niemand zal je vertellen wat hun opbrengst is', zegt Nauta. Zeker is, dat als je chips maakt met grotere transistors, de opbrengst zal stijgen. Misschien wel tot 99,9 procent. Als bijna al je geproduceerde processors het doen, kun je ze gaan stapelen, zegt Nauta. In plaats van één supersnelle processor, maak je een flatgebouw van iets tragere processors die gezamenlijk sneller zijn. 
+Dit gebeurt al, bijvoorbeeld bij zogenoemde quadcoresystemen. Daar liggen vier processors naast elkaar. Maar stapelen is beter, omdat de verbindingen korter kunnen. Dan hoeven de data minder ver te reizen, goed voor de rekensnelheid. Nog een voordeel van stapelen: het oppervlakte blijft klein, wat handig is in mobieltjes en wearables. Met stapelen kun je hogere prestaties bereiken zonder extreme kostenstijgingen, aldus Nauta. In de geheugenchipindustrie gebeurt het al, bij processors is de warmteontwikkeling nog een probleem. Hier komt een lagere kloksnelheid weer goed uit: minder warmte. En wellicht dat de transistors dus weer een beetje zullen groeien. 
+PLAN 4 
+Laat het oude los 
+Het heen en weer slepen van data zet een stevige rem op de prestaties van een processor. Daar weten wiskundigen van de Sterrewacht Leiden alles van. Het team onder leiding van Simon Portegies Zwart, hoogleraar computationele astrofysica, probeerde afgelopen jaar het snelheidsrecord rekenen te breken op de Amerikaanse supercomputer Titan. Omdat deze computer de omvang heeft van een sporthal, was een van de grootste uitdagingen de data zo min mogelijk afstand te laten afleggen, door de gegevens letterlijk zo dicht mogelijk bij de duizenden rekenkernen van de computer te houden. Met hun slimme software wist het team Titan op te jagen tot 24,8 triljoen berekeningen per seconde, een record. 
+Wat op sporthalformaat speelt, gebeurt ook op microschaal in de computer zelf. Ook daar worden karrevrachten data verplaatst. Deze constante volksverhuizing tussen processor, cachegeheugen en werkgeheugen, houdt de boel op. 'Al die data zou je ook centraal kunnen verwerken, op de processor zelf', zegt hoogleraar halfgeleidercomponenten Schmitz. Om dit te bereiken, moet de huidige architectuur op de schop. Voor bestaande chipfabrikanten is dat lastig, omdat hun ontwerpen een verleden met zich meezeulen. Windows draait niet voor niks lekker op een chip van Intel of AMD. Voor deze chipmakers is het alsof ze in een oude binnenstad ineens snelwegen moeten aanleggen. Zouden ze helemaal opnieuw kunnen beginnen, zou de structuur van hun 'stad' er vermoedelijk heel anders uitzien. 
+Dat gebeurde bij mobieltjes, die in een nieuwe architectuur werden opgetrokken. Het resultaat: minder energieverbruik, maar ook snelheidswinst. De nieuwste smartphones hebben de rekenkracht van de snelste pc van drie jaar geleden, bij een fractie van het energieverbruik. De inzichten op het gebied van chiparchitectuur zijn inmiddels al weer veel verder. Nog een keer opnieuw beginnen, zou grote efficiencywinst betekenen, denkt Schmitz. 
+Een andere optie is: ontwikkel chips die maar één ding kunnen. Schmitz: 'Chips van nu kunnen alles, dat is prettig, maar ook niet erg efficiënt.' Een chip met een toegespitste taak werkt zomaar een factor duizend efficiënter. Dat zie je onder meer bij de toepassing van grafische processors (gpu's), rekenbommetjes die de beeldverwerking verzorgen. Deze chips kunnen maar één ding: pixels produceren. En dat doen ze ontiegelijk snel. 
+PLAN 5 
+Het moet helemaal anders 
+Hoe je het ook wendt of keert, er zit een einde aan kleiner, zegt Schmitz. 'Dat we deze grens nu echt zijn genaderd, is eigenlijk wel leuk. Je ziet het onderzoek daardoor alle kanten op schieten. Ons onderzoeksveld is er intellectueel rijker van geworden.' De congressen waar Schmitz kwam, waren saai geworden. 'De vraag was altijd: hoe maken we het kleiner? Nu worden vooral nieuwe concepten bedacht.' 
+Dat kan zomaar tot merkwaardige vondsten leiden. Bij het NASA Ames Research Center in Mountain View wordt gewerkt aan transistors die gebaseerd zijn op de ouderwetse buizentransistor. Deze zachtgloeiende glazen buisjes stonden aan de basis van de eerste computers, halverwege de vorige eeuw. Ze kenden nogal wat nadelen: ze waren groot, kwetsbaar, langzaam, onbetrouwbaar, duur en vraten energie. De ENIACcomputer uit 1946 telde 17.468 vacuümbuizen, gebruikte meer dan 150 kilowatt en woog 27 ton. En hij was om de haverklap kapot doordat zowat elke dag een van de duizenden buizen het begaf. 
+Het hoge stroomverbruik kwam doordat elke buis een warmte-elementje heeft, dat nodig is om elektronen door het vacuüm te jagen. De onderzoekers Jin-Woo Han en Meyya Meyyappan hebben het principe van de buistransistor zo weten te verkleinen dat zo'n warmhoudplaatje niet meer nodig is. Vanwege de extreem korte afstand tussen de punten die de elektronenstroom aan- en afvoeren, steken de elektronen als vanzelf over. Een vacuüm is evenmin nodig, doordat de kans dat de elektronen onderweg op een luchtmolecuul klappen klein is, vanwege de minieme afstand die ze moeten overbruggen. De transistors in de proefopstelling halen snelheden die tien keer hoger liggen dan die van vergelijkbare transistors, claimen de onderzoekers. Of en wanneer dergelijke transistors in chips terug te vinden zijn, is onzeker. 
+PLAN 6 
+Nanocomputing 
+De grootste belofte voor de toekomst lijkt de quantumcomputer. In Leiden en Delft wordt gewerkt aan 's werelds eerste echte versie, dankzij onder meer een Europese miljoenensubsidie. In Delft is een lab gebouwd waar wordt gewerkt aan een zogeheten qubit, eenheden waarmee quantumcomputers rekenen. Quantumcomputers werken niet met nullen en enen, maar met alles daartussenin. Daardoor kunnen ze oneindig veel berekeningen tegelijk uitvoeren. 
+Deze vorm van onconventionele computing is een groeiende onderzoekstak. Evolutionaire computersystemen - systemen die zichzelf ontwikkelen - behoren daar ook toe. Hoogleraar nano-elektronica Wilfred van der Wiel van het MESA+ Instituut voor Nanotechnologie doet onderzoek naar deze vorm van fault tolerant computing. Daarbij wordt gekeken of de werking van het menselijk brein is na te bootsen in nanosystemen. Sommige zaken kan een computer veel beter dan het menselijk brein, zoals rekenen. Maar een computer is weer veel slechter in bijvoorbeeld patroonherkenning, zegt Van der Wiel. 
+Met nanomaterialen kun je netwerken bouwen die lijken op het menselijk brein, zegt hij. Als je heel veel nanocomponenten aan elkaar knoopt, ontstaat iets wat erop lijkt. In het begin kan zo'n netwerk niets, maar door telkens parameters te veranderen, komt er uiteindelijk 'iets nuttigs' uit het systeem. 'Eigenlijk geef je er telkens een schop tegen tot er uit rolt wat je wilt', zegt Van der Wiel. Die 'schoppen' veranderen de elektrische stuursignalen, waardoor 'schakelaars' in het systeem omklappen. Door min of meer willekeurig routes in het netwerk te veranderen en de beste resultaten te behouden, ontstaat uiteindelijk een systeem dat een taak kan verrichten. Net als in de 'echte' Darwinistische evolutie. Alleen vergt deze kunstmatige evolutie geen miljarden jaren, maar enkele minuten. Voor het uitdelen van de 'schoppen' kun je een gewone computer gebruiken, die variabelen razendsnel aanpast en analyseert. Als je uiteindelijk een goede oplossing gevonden hebt, heb je die gewone computer echter niet meer nodig, stelt Van der Wiel. 'Het nanomateriaalsysteem is dan je computer geworden.' 
+'Eigenlijk heb je geen idee wat er op nanoschaal gebeurt', zegt Van der Wiel. Welke materialen de hoogleraar gebruikt, kan hij nog niet zeggen. Hij hoopt binnenkort zijn werk te publiceren in een gezaghebbend wetenschappelijk tijdschrift. 'En die zijn er zeer op gespitst dat vooraf geen informatie over het onderzoek naar buiten komt.' 
+Het mooie aan het type computer waaraan Van der Wiel werkt, is dat het foutentolerant is. 'Als op een gewone chip één van de miljarden transistors niet werkt, kun je hem weggooien. Dit systeem werkt om zijn eigen fouten heen.' Wanneer de technologie het lab uit komt, is volgens Van der Wiel lastig te zeggen. 'Dat kan zomaar tien tot vijftien jaar duren. Of nog langer.' 
+EINDE VAN DE WET VAN MOORE IS AL VAKER AANGEKONDIGD 
+De wet van Moore, wat is dat ook al weer? En hoe houdt de voorspelling al decennia stand? 
+De wet van Gordon Moore luidt: het aantal transistors op een chip verdubbelt elke twee jaar. En dat gaat hard: rond 1960 kwamen de eerste chips op de markt, met maar enkele transistors aan boord. In 1971 zaten er 2.300 op de eerste microprocessor van Intel. In 1982 waren het er 134 duizend. Weer tien jaar later 3 miljoen. En nu zijn het er vier miljard (al zijn er processors met nog meer). Moore dacht oorspronkelijk dat de exponentiële groei een jaar of tien aan zou houden, in de laatste decennia zien we nog elke twee jaar een verdubbeling. 
+Er zijn grofweg drie manieren om tot deze verdubbeling te komen. De eerste is: zet transistors dichter op elkaar. Dit deel van Moores wet was rond 1975 al uitgewerkt. Een andere manier is: geef chips een groter oppervlak. 'Ook deze optie is eigenlijk uitgeput', zegt Jurriaan Schmitz, hoogleraar halfgeleidercomponenten. 'Het kost enorm veel geld om machines te bouwen die grotere chips kunnen maken. Zo veel, dat de investering zich waarschijnlijk niet meer terugbetaalt.' En - niet onbelangrijk - mobiele toepassingen vragen juist om kleinere chips. 
+Blijft over: steeds kleinere transistors. Dit is altijd de drijvende kracht achter Moores wet geweest. Inmiddels zijn transistors zo klein dat er ongeveer een miljoen passen op het doorgeknipte uiteinde van een menselijke haar. 'Je ziet dat ook hier de ontwikkeling eigenlijk is gestopt', zegt Schmitz. De miniaturisering is nu zo ver doorgevoerd dat op atomair niveau gewerkt moet worden. 'Controle op nanoschaal is extreem moeilijk. Een paar atomen meer of minder heeft grote invloed op het elektrische gedrag van een chip.' Chipbouwers steken veel energie in een proces dat atomaire laagdepositie wordt genoemd: het laag voor laag neerleggen van de onderdelen van een transistor. 'Dan moet je dus denken aan bijvoorbeeld een laag hafniumoxide van precies achttien atomen dik.' 
+Dichter op elkaar kan niet meer, grotere oppervlakte evenmin, kleinere transistors: het einde is in zicht. Al moet worden opgemerkt: het einde van Moores wet is al heel vaak aangekondigd. En berichten daarover bleken telkens schromelijk overdreven. 
+ZO KLEIN ALS... 
+- Een transistor op een moderne chip is ongeveer 14 nanometer groot. Op de doorsnede van een menselijke haar kun je er dan zesduizend naast elkaar leggen. 
+- In verhouding: was de chip 1 millimeter groot, dan zou de mensenhaar zes meter doorsnede hebben. 
+- Anders gezegd: moderne transistors zijn ongeveer even groot als een virus - een ziektekiem. 
+- Op een microprocessor zitten tussen de 1 en 4 miljard transistors. In een grafische beeldchip (gpu) 7 miljard en op geheugenchips zitten er 100 miljard. 
+Graphic
+
+ 
+Pentium (Intel, 1993)
+ -chip (AMD, 1991)
+ (Intel, 1978)
+ (Intel, 1974)
+Core i7 (Intel, 2013)
+Phenom II (ADM, 2009)
+ (Intel, 1985)
+Core 2 Duo (Intel 2007)
+PowerPC 601 (IBM, 1993 )
+Een van de eerste chips, in 1961 gelanceerd door een andere oprichter van Intel Robert Noyce.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Nanotechnology (64%)
+Company:  INTEL CORP (83%)
+Industry: Computer Equipment (94%); Computer + Electronics Mfg (75%); 
+Manufacturing (71%); Personal Computers (68%)
+Load-Date: February 9, 2015
+
+End of Document
+Chips kunnen nauwelijks kleiner. En nu?
+
+Chips kunnen nauwelijks kleiner. En nu?
+
+Page 2 of 9
+
+Page 2 of 9
+
+
+
+
+

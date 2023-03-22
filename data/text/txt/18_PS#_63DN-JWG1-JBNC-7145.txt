@@ -1,0 +1,54 @@
+Delft bouwt aan computer van de toekomst; Vernuft en heel veel overheidsmiljoenen moeten weg banen naar quantumrevolutie in de polder
+De Telegraaf
+21 augustus 2021 zaterdag
+Copyright 2021 Mediahuis Nederland BV All Rights Reserved
+
+Section: FINANCIEEL; Blz. 34
+Length: 948 words
+Body
+
+Vernuft en heel veel overheidsmiljoenen moeten weg banen naar quantumrevolutie in de polder
+Wetenschappers en jonge bedrijven rond de TU Delft proberen van de universiteitsstad een Europees centrum voor quantumtechnologie te maken. De overheid investeert vele miljoenen in de computers van de toekomst. ,,Nederland kan een magneet worden voor quantumtechnologiebedrijven en talent."
+De prestaties zullen nog bescheiden zijn, maar de eerste door Nederlandse commerciële bedrijven gebouwde quantumcomputer komt eraan. Eind juli lanceerde in Delft het project ImpaQT Nano-NISQ, een samenwerkingsverband van zes jonge Nederlandse bedrijven (zie kader De Nederlandse quantumcomputer) om een eigen quantumcomputer bouwen. 
+'Quantum advantage'
+,,Elk van de bedrijven die deelnemen aan het consortium maakt speciale componenten voor quantumtechnologie. Die leveren we onder andere aan de grote commerciële Amerikaanse partijen die al quantummachines bouwen", vertelt Daan Kuitenbrouwer, coo van Delft Circuits en woordvoerder van het ImpaQT-consortium. ,,Dat geeft ons het voordeel dat we specialist zijn op ons eigen gebied, maar het is een nadeel dat we niet zelf in een omgeving zitten waar we zelf quantumcomputers bouwen. Door dat nu zelf te doen, ervaren we hoe het is om te werken met onze eigen producten en leren we hoe we die kunnen verbeteren."
+Het resultaat moet vooral de werking van de quantumcomputer laten zien. De bedoeling is volgens Kuitenbrouwer vooral dat klanten kunnen kijken hoe ze met de technologie kunnen werken. ,,Het lijkt soms alsof quantumtechnologie al bezig is de hele wereld over te nemen met nieuwe rekenmethodes, maar zo ver zijn we nog niet", zegt Kuitenbrouwer.
+Maar dat moment gaat wel komen, denkt onderzoeker Anne-Marije Zwerver, in het lab van de TU Delft tussen het geronk van de koelers van acht quantumcomputers waarmee wetenschapppers van de universiteit onderzoek doen. Op dit moment werken de machines nog met vijf tot zeventien zogeheten qubits (eenheden die worden gebruikt om mee te rekenen), wat in vergelijking met conventionele computers nu nog geen spectaculaire nieuwe toepassingen oplevert.
+De volgende stap die de onderzoekers in Delft willen nemen, is die naar een systeem met 49 qubits. Als dan belangrijke hobbels kunnen worden genomen, moet het mogelijk worden door te groeien naar machines met duizend qubits. Op dat moment komt de fase in zicht dat quantumtechnologie conventionele supercomputers kan verslaan op ingewikkelde rekenprocessen en het punt van 'quantum advantage' zal worden bereikt. 
+Revolutie
+Vanaf dat moment gaat quantum op diverse gebieden voor een revolutie zorgen, is de belofte. De fenomenale rekenkracht kan veel bestaande cryptografie kraken, maar ook voor nieuwe onkraakbare versleuteling zorgen (zie kader).  
+Als het gaat om het aantal qubits, zijn partijen als Google en IBM op dit moment het verst, met quantumcomputers met meer dan 50 qubits, al zou de stabiliteit van hun systemen nog te wensen overlaten. 
+Het cluster rond de jonge Delftse bedrijven speelt een belangrijke rol in Nederlands hoop om ook economisch een toontje te kunnen meeblazen bij de quantumbelofte. Het wetenschappelijk onderzoek dat aan de universiteit wordt verricht, moet de basis leggen voor een Europese hotspot voor bedrijven en kennisinstellingen die zich toeleggen op quantumcomputers en quantuminternet. 
+Om bedrijvigheid rond het wetenschappelijk onderzoek te stimuleren, richtten de TU Delft en TNO in 2013 Qutech op. ,,Met Qutech reikt onze ambitie verder dan wetenschappelijk onderzoek, maar willen we ook bedrijvigheid tot stand brengen", zegt Lieven Vandersypen, wetenschappelijk directeur van Qutech.
+,,Voor een goed ecosysteem zijn niet alleen mensen belangrijk die gericht zijn op het produceren van wetenschappelijke publicaties die we hier op de universtiteit hebben, maar ook start-ups, ingenieurs die werken aan apparaten en de aansluiting met hbo- en mbo-opleidingen."
+€615 miljoen subsidie
+Dat Delft als vruchtbare grond wordt gezien, blijkt volgens hem ook uit de samenwerkingen met grote internationale bedrijven. ,,Microsoft heeft hier een eigen lab en werkt samen met de onderzoeksgroep van professor Leo Kouwenhoven, maar ook Intel en Fujitsu investeren in onderzoek dat hier wordt gedaan", zegt Vandersypen. Hij zegt 'aanvankelijk wat sceptisch' te zijn geweest over 'dat idee van een ecosysteem dat zou moeten ontstaan'.
+,,Maar inmiddels zie je toch echt wel wat gebeuren", zegt hij, onder andere doelend op het cluster dat de commerciële Delftse quantumcomputer gaat bouwen. In een aantal van die bedrijven worden inmiddels al miljoenen geïnvesteerd door - soms in quantum gespecialiseerde - private equitypartijen.
+Ook uit Den Haag komt inmiddels steun voor die ambitie. Staatssecretaris Mona Keijzer (Economische Zaken) zegde dit voorjaar €615 miljoen toe uit het groeifonds om te investeren in het ontwikkelen van quantumtechnologie. Freeke Heijman, directeur van de stichting Quantum Delta, is verantwoordelijk voor de inzet van de middelen. ,,Met die investeringen willen we een gezond ecosysteem voor quantumtechnologie laten ontstaan, waarvan een magneetwerking uitgaat voor bedrijven en talent. Nederland kan een hotspot worden." 
+Honderd start-ups
+Nederland staat er goed voor, zegt ze, in de top drie zowel als het gaat om wetenschappelijke publicaties en start-ups. ,,Dat zijn er nu rond de tien. We willen dat dat er honderd zijn in 2028. Daarom investeren we onder andere in gebouwen en laboratoria op de TU Delft Campus, maar ook in studies op hbo- en mbo-niveau."
+'Nederland in top drie voor onderzoek en start-ups'
+Moment dat quantum de normale machines verslaat, komt in zicht
+PDF-bestand van dit document
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Tlg-NL
+Subject: Educational Institution Employees (65%); Experimentation + Research (63%)
+Industry: Computing + Information Technology (94%)
+Load-Date: August 20, 2021
+
+End of Document
+Delft bouwt aan computer van de toekomst; Vernuft en heel veel overheidsmiljoenen moeten weg banen naar quantumrevolutie in de polder
+
+Delft bouwt aan computer van de toekomst; Vernuft en heel veel overheidsmiljoenen moeten weg banen naar quantumrevolutie in de polder
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

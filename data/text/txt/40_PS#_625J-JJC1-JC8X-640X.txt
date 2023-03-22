@@ -1,0 +1,43 @@
+Delftse quantumpublicatie was slordig, maar geen fraude
+de Volkskrant
+9 maart 2021 dinsdag
+Copyright 2021 DPG Media B.V. All Rights Reserved
+
+Section: Ten Eerste; Blz. 5
+Length: 730 words
+Byline: STAN VAN PELT
+Highlight: Bij een spraakmakende wetenschappelijke studie uit 2018 onder leiding van de Delftse quantumhoogleraar en Microsoft-onderzoeker Leo Kouwenhoven zijn fouten gemaakt, maar van opzettelijke misleiding was geen sprake.
+Body
+
+Dit concludeert een groep experts die ingeschakeld was door de commissie wetenschappelijke integriteit van de TU Delft. Maandag trokken de auteurs hun artikel in vakblad Nature officieel in. 
+Kouwenhoven en zijn team, uit Delft, Eindhoven en de VS, hebben zichzelf 'voor de gek gehouden', schrijven de experts onder leiding van de Berlijnse quantumhoogleraar Piet Brouwer. Dat wijten ze echter aan de opwinding van het moment, waardoor de auteurs 'blind waren voor de gegevens die hun doel niet ondersteunden'. Confirmation bias wordt dit ook wel genoemd. 
+Dat doel was het aantonen van een bijzonder natuurkundig deeltje, het majoranaquasideeltje. In de publicatie leek dit gelukt, wat een cruciale ontdekking zou zijn op weg naar een eigen type quantumcomputer waar Microsoft aan werkt. Quantumcomputers kunnen in theorie sommige berekeningen vele malen sneller uitvoeren dan huidige pc's. Dit kan een revolutie vormen voor bijvoorbeeld klimaat- en geneeskunde-onderzoek, zo is de hoop. 
+Microsoft, dat Kouwenhoven in 2016 inlijfde, hoopt met de majorana's IBM en Google in te halen. Deze twee concurrenten hebben al basale quantumcomputers, die met andere technieken werken. 
+Delftse quantumpublicatie was slordig, maar geen fraude
+Vorig jaar kwam Kouwenhovens majorana-artikel in opspraak, toen Nature aankondigde dat er zorgen waren over de betrouwbaarheid van de conclusies. Deze bleken afkomstig van Sergey Frolov en Vincent Mourik, twee jonge oud-medewerkers van de Delftse hoogleraar.
+Credits voor klokkenluiders
+In een reconstructie in de Volkskrant vertelden de twee onlangs dat onder andere bepaalde delen uit een cruciale figuur weggeknipt waren. Daardoor leek het signaal stabieler dan het daadwerkelijk was, en leek het ook meer op een majorana. De klokkenluiders droegen ook andere kritiekpunten aan. 
+Aanvankelijk bleven onderzoeksleider Kouwenhoven en eerste auteur Hao Zhang bij hun conclusies, maar ze kwamen daarop terug nadat de klokkenluiders bij Nature hadden aangeklopt. Maandag trokken de onderzoekers hun artikel definitief terug, en noemen ze in de begeleidende brief nu Frolov en Mourik als degenen die hen op de fouten wezen. De majorana-claim is op basis van de metingen toch niet houdbaar, schrijven ze. Ook verontschuldigen ze zich dat het oorspronkelijke artikel onvoldoende nauwkeurig was. 
+De experts bevestigen nu een aantal van deze fouten. In een schriftelijke reactie zegt Kouwenhoven het belangrijk te vinden dat er kritisch gekeken is of de fouten per ongeluk gemaakt zijn, of dat er sprake was van opzet of confirmation bias. 'Het is waardevol om andere wetenschappers hier een oordeel over te laten vormen.' Het gaat immers, aldus Kouwenhoven, om belangrijke vragen over integere wetenschapsbeoefening. 'Om dit mogelijk te maken zijn alle ruwe data beschikbaar gemaakt voor externe experts.' 
+Omdat het volledige Delftse integriteitsonderzoek - waarvan het expertrapport onderdeel uitmaakt - nog niet afgerond is, kan de hoogleraar geen verdere uitspraken doen. Ook de TU Delft en haar quantum-onderzoeksinstituut QuTech vinden het goed dat experts zich over het artikel bogen. 'Wetenschap betekent altijd kritisch blijven kijken naar resultaten, deze in twijfel trekken en ter discussie stellen', zegt Tim van der Hagen, rector magnificus van TU Delft. Qutech-directeur Lieven Vandersypern vult aan: 'De reflectie op de gebruikte methoden moet nu haar beloop krijgen binnen de wetenschappelijke gemeenschap.' Pas als het integriteitsonderzoek volledig voltooid is, kan de universiteit meer zeggen over eventuele veranderingen van werkwijze binnen de TU Delft.
+Toekomst quantumcomputer
+Kouwenhoven ziet de toekomst van zijn onderzoek 'met het volste vertrouwen' tegemoet. 'Het goede nieuws is dat we nu wel goed begrijpen welke experimenten het onderscheid kunnen maken (tussen verschillende deeltjes, red.).' Ook is een aangepaste versie van het gewraakte artikel inmiddels elders gepubliceerd. 
+Page 2 of 3
+Delftse quantumpublicatie was slordig, maar geen fraude
+Ook Microsoft laat weten te blijven investeren in dit type quantumcomputers. 'Wij zijn ervan overtuigd dat schaalbare quantumcomputing gaat helpen om enkele van 's werelds grootste problemen aan te pakken.' Daarvoor zeggen ze niet afhankelijk te zijn van het nu ingetrokken artikel. 
+Klokkenluiders Frolov en Mourik schrijven op Twitter dat ze blij zijn dat de experts hun zorgen bevestigd hebben. Ze hopen dat Delft nu ook data van aanverwante experimenten vrijgeeft.
+Bekijk de oorspronkelijke pagina: pagina 5
+Graphic
+
+ 
+Rob Kouwenhoven.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Educational Institution Employees (69%); Experimentation + Research (67%)
+Industry: Computing + Information Technology (94%)
+Load-Date: March 8, 2021
+
+End of Document
+Page 3 of 3

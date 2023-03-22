@@ -1,0 +1,77 @@
+Dansend door quantumland
+de Volkskrant
+22 november 2014 zaterdag
+Copyright 2014 De Persgroep Nederland BV All Rights Reserved
+
+Section: Sir Edmund
+Length: 1944 words
+Byline: MARTIJN VAN CALMTHOUT
+Body
+
+Interview: 'quantummecanicien' Seth Lloyd 
+Seth Lloyd verrichtte baanbrekend werk op het gebied van de quantumcomputer. De Amerikaan was onlangs in Delft en legt u zijn vreemde, tegen alle intuïtie indruisende werkelijkheid uit. 
+Voorafgaand aan het colloquium dat hij zal geven, staat de Amerikaanse fysicus Seth Lloyd wat ongemakkelijk in de aula van de TU Delft. Een klein mannetje met een grijzende paardenstaart, rond gezicht en ijzeren brilletje prikt aarzelend in het gebakje dat de bezoekers door gastheer Kavli-instituut is aangeboden bij de thee. En lichtelijk vreemd is het ook wel: boven op het gebakje prijkt op marsepein geprint Lloyds portret, ietwat schalks glimlachend. Dat maakt hij niet vaak mee, zal hij later zijn verhaal beginnen, dat het publiek bij een college eerst een plaatje van de spreker verorbert. 'Een interessant ritueel, zeg maar.' 
+Hij giechelt zijn karakteristieke giechel. Hoog achter in de keel. 
+Maar dan gaat hij los, in zijn element voor het amfitheater vol collega-natuurkundigen. Met sommige senioren heeft hij gepubliceerd. De jongeren staren met open mond naar de man die zich schertsend 'de quantum mecanicien' noemt. 'Voor al uw quantumproblemen.' 
+Als hoogleraar werktuigbouw aan het befaamde MIT in Boston, lijkt hij een vreemde eend in de bijt in het gezelschap van researchers die studeren op quantumdeeltjes en hun vreemde gedragingen. Tegelijk is het deze Seth Lloyd (1960) die de grondslagen leverde voor veel van het quantumwerk in Delft aan wat het rekentuig van de toekomst moet worden: de quantumcomputer. 
+Dat hij formeel een werktuigbouwer is, en officieel dus geen hardcorefysicus, is toeval en feitelijk geen probleem, verzekert Lloyd een dag eerder in een lang gesprek in een Delftse hotellobby. 'Toen ik in de jaren tachtig ging solliciteren, wilde geen physics department me hebben, want fundamentele quantumtheorie was iets voor mafkezen en Nobelprijswinnaars die de weg kwijt waren. Bij werktuigbouw namen ze me aan omdat ik machines wilde ontwerpen en bouwen. Quantummachines waarin de aan/uit-knop het enige mechanische is. Nobody cares.' 
+Voor de Delftse collegezaal hangt de gekte van meet af aan in de lucht. Lloyd begint met een tirade tegen het idee dat de wetenschappelijke vooruitgang drijft op eenzame genieën. Zelfs Einstein, zegt hij, werkte in een omgeving van ideeën en theorie van anderen. En dus moet duidelijk zijn dat wat hij hier vertelt ieders idee zou kunnen en moeten zijn. Wetenschap doe je samen. Thuis in Boston bijvoorbeeld bij hem aan de keukentafel, bij een zelfgemaakte Italiaanse lunch, met zijn post-docs en graduates. Zelfgebrande koffie toe, en dan aan het werk. Ideeën opperen, elkaar aanvullen en waar nodig onderuithalen. Wie gelijk heeft, heeft gelijk. 
+Seth Lloyd, alle bescheidenheid ten spijt, is een legende onder zijn vakgenoten. In de jaren negentig was hij een van de pioniers op het gebied van de quantumcomputer, deels samen met de inmiddels emeritus hoogleraar Hans Mooij uit Delft, nog zo'n pionier. Zij bedachten de eerste praktische uitvoering van het idee om informatie niet op te slaan op magneetdomeinen, zoals in een gewone computer. Door daarvoor quantumelementjes te nemen, die niet in één bepaalde toestand verkeren maar in meerdere toestanden tegelijk, kan met handig manipuleren informatie worden bewerkt. In plaats van bits wordt er met qubits gerekend, wat in elk geval in theorie haast oneindig veel meer berekeningen tegelijk mogelijk maakt. 
+Lloyd bedacht de eerste levensvatbare rekenrecepten voor de qubits die Hans Mooij in de jaren negentig had bedacht, kleine supergeleidende circuitjes op een diepgekoelde chip. De supergeleidende circuitjes zijn allang geen serieuze kandidaten meer voor een echt quantumcomputergeheugen. Lloyds algoritmes staan nog steeds als een huis. 
+Maar Lloyd is alweer verder, veel verder. Quantum, vertelt hij zijn gehoor, is niet alleen een kwestie van machines en geheugens, en van rekenkracht. Quantum is overal. Bijvoorbeeld, zijn onderwerp vandaag, ook in de biologie. Om precies te zijn in de manier waarop groene planten zonlicht vangen en omzetten in chemische energie. 'Dat gebeurt veel efficiënter dan je met het klassieke beeld van een elektron dat langs een molecuul springt kunt begrijpen.' 
+Lloyd, aan zijn lijf geen Powerpoint, vlindert met zijn krijtje over het schoolbord, schrijft vergelijkingen, veegt wegvallende termen weg, onderstreept uitkomsten, tekent diagrammetjes. En dan komt waar deze voordracht altijd op uitdraait. De meester danst. 
+Seth Lloyd danst wat zijn vergelijkingen betekenen. 
+Met de handen aan weerszijden omhoog, vingers illustratief trillend, huppelt Lloyd zijwaarts voor het bord langs, zijn vale sneakers in snel wisselende passen voor en achterwaarts. Niet zozeer een klassiek elektron, als wel een puls energie die langs een keten van moleculen op zoek moet naar het chemische reactiecentrum, waar de fysische energie wordt vastgelegd in suiker. Onderweg hapert en stuikt hij. Wijst terloops even op een term in zijn vergelijkingen, herneemt zijn pose en rilt zich weer uit de verstarring. 
+Zo, zegt hij, gaat dat in een bladgroenkorrel: zonlicht maakt een hoop onrust los die niet als een deeltje door de moleculaire structuur gaat, maar als een golf die alle potentiële paden tegelijk verkent. Een quantumeffect. Waarbij zijn vergelijkingen laten zien dat de golven elkaar op de inefficiënte paden uitdoven en op de weg van de minste weerstand juist niet. En het aardigste, zegt Lloyd als hij weer voor het bord staat, is dat de sommen uitwijzen dat het effect het beste werkt bij 293 graden kelvin. 'Inderdaad, kamertemperatuur. Afhankelijk van uw levensovertuiging moet u zeggen: die God is een geweldige quantum-ingenieur. Of vaststellen dat we dit mirakel danken aan quintizillions van bacteriën die het niet gered hebben.' 
+Het is Lloyd ten voeten uit. Een dag eerder, laat op de middag in de hotellobby, heeft hij op dezelfde manier gepraat over wat hem zo merkwaardig gemakkelijk af lijkt te gaan: onbevangen denken in de vreemde werkelijkheid die de quantumwereld nu eenmaal is. Breed associërend, maar altijd haarscherp voor ogen waar hij heen wil. En die giechel, onvermijdelijk. 
+'Quantummechanica is weird, natuurlijk. Totaal weird. Het gegeven dat een deeltje op twee plaatsen tegelijk kan zijn, dat het kan weten wat een deeltje aan de andere kant van het universum doet, dat het door een ondoordringbare barrière kan tunnelen, is intuïtief allemaal onbegrijpelijk. Dat ik daar zo gemakkelijk in beweeg, moet wel betekenen dat er iets mis is met mijn intuïtie. Ik ben waarschijnlijk een lousy fysicus, maar dat komt in dit geval bijzonder goed uit. Grote fysici als Albert Einstein of Gerard 't Hooft hebben een legendarische fysische intuïtie. Maar doorgaans wel naïef realistisch. En dus zie je die sceptisch zijn over het vreemde van de quantumtheorie.' 
+Uw voorstellingsvermogen leidt wel tot betrekkelijk onvoorstelbare zaken. In 2002 schreef u The Computational Universe, waarin u het universum beschrijft als een grote informatieverwerkende machine, een computer zeg maar. 
+'Dat klinkt wild, maar het is meer dan een metafoor. Ik denk dat dat echt de beste beschrijving is van ons universum. Het universum is in een bepaalde toestand begonnen, waarna quantumtoevalligheden er kleine duwtjes tegenaan gaven, die leidden tot nieuwe informatie. Uiteindelijk is dat de reden voor het bestaan van ons zonnestelsel, deze aarde, wij als mensen, en ons brein dat het allemaal probeert te begrijpen.' 
+Alles wat we kennen is de toevallige print-out van de kosmische computer na 13,6 miljard jaar rekenen? 
+'Het klinkt allemaal wat vaag, maar dat is het niet. Je kunt het universum als informatie zien in een universele Church-Turing rekenmachine. Je kunt zelfs wiskundig aantonen dat willekeurige input via een betrekkelijk kort algoritme of programma leidt tot alles wat je je kunt voorstellen. Programma's zijn simpeler dan wat ze produceren.' 
+Duizelingwekkend. 
+'Maar het verklaart een hoop. Bijvoorbeeld dat de fysische werkelijkheid zich haast verbluffend goed laat berekenen, vat ik op als een bewijs dat die werkelijkheid zelf ook een soort berekening is.' 
+Heeft die kosmische rekenmachine van u iets te maken met de huidige speurtocht naar quantumcomputers? 
+'Wel in de zin dat er vergelijkbare processen een rol spelen. Het fijne is dat we de technieken beginnen te beheersen, waarmee we die processen kunnen bestuderen. Gewoon in het lab, bijvoorbeeld hier in Delft. Wat trouwens wereldwijd een van de beste quantumlabs is, al is het niet het grootste. Ik heb de indruk dat Nederlanders dat zich niet erg realiseren.' 
+Wanneer is die befaamde quantumcomputer er? 
+'Dat hangt er erg vanaf wat je onder een quantumcomputer verstaat. Een definitiekwestie. Op kleine schaal bestaat de quantumcomputer al. Maar die systemen worden niet zozeer gebruikt om echt te rekenen, maar meer om quantumeffecten zelf te bestuderen, en eventueel ook andere systemen te simuleren, zoals supergeleiders. Serieus rekenwerk zullen we naar mijn gevoel pas over tien, vijftien jaar gaan zien.' 
+Vanaf dat moment is er geen gecodeerd bericht meer veilig, toch? 
+'Ik denk eerlijk gezegd dat dat wel meevalt. Er hangt veel te veel mythevorming rond quantumcomputers, waarvan het grootste deel nogal lachwekkend is. Het idee dat je met een quantumcomputer ingewikkelde geheimtalen kunt kraken, het zogeheten factoriseren, heeft heel veel geld naar het vakgebied gebracht, ook van allerlei instanties met drie letters in de VS. De CIA, de NSA.' 
+Onterecht? 
+'Wel prettig, niet terecht. Vergeet alsjeblieft codekraken. De realiteit is dat er veel belangrijker vraagstukken zijn die bij uitstek geschikt zijn voor quantumberekeningen. In de analyse van Big Data, in de aerodynamica. Dat is dan misschien wat minder een spannende spionageroman. Maar wel waar het in werkelijkheid heen gaat.' 
+QUANTUMREKENEN 
+Een computer is een machine die informatie in zijn geheugen bewerkt volgens bepaalde regels, het programma. In een digitale computer is die informatie gecodeerd in de vorm van enen en nullen, de bits. Een computer is snel als hij de bewerkingen van het geheugen in snelle stappen volvoert, maar het rekenwerk gaat altijd stap voor stap. 
+Bij quantumrekenen is dat anders. Daar is de informatie gecodeerd in zogeheten qubits, eenheden die dankzij de inherente schimmigheid van de deeltjeswereld gelijktijdig één en nul zijn. Daarmee kan in één bewerking een veelvoud aan rekenstappen worden gezet. 
+Dat geeft immense rekenkracht. Een typisch rekenvraagstuk waarbij een gewone computer 10 tot de macht 24 stappen nodig heeft voor een geheugen van 10 tot de macht 12 bits, zou in een quantumcomputer met 100 qubits in slechts tienduizend stappen uit te voeren zijn. Het eerste is onmogelijk lang, het tweede in een oogwenk te doen. Aan de TU Delft wordt gewerkt aan de eerste 100-qubitcomputer ter wereld. 
+RAADSEL D-WAVE 
+De algoritmes die Seth Lloyd in de jaren tachtig voor een toen nog denkbeeldige quantumcomputer opschreef, vormen het hart van een mysterieus Canadees project waar inmiddels vele miljoenen aan particulier geld in zit: D-Wave. Het bedrijf claimt de eerste commerciële quantumcomputer te hebben gebouwd en leverde onder meer een machine aan Google en Microsoft, en aan NASA. 
+In de wetenschappelijke wereld is er grote scepsis over de claims van D-Wave. Het is zeker geen vrij programmeerbare computer, maar in tests is ook onduidelijk of hij de taken die hij aankan sneller volvoert dan een slimme klassieke computer. Seth Lloyd is overigens zelf niet betrokken bij het bedrijf. 
+'Ik ben waarschijnlijk een lousy fysicus, maar dat komt in dit geval bijzonder goed uit' 
+Graphic
+
+ 
+Seth Lloyd
+Foto Jiri Buller
+Seth Lloyd
+Foto Jiri Buller
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Industry: Computing + Information Technology (94%)
+Load-Date: February 9, 2015
+
+End of Document
+Dansend door quantumland
+
+Dansend door quantumland
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

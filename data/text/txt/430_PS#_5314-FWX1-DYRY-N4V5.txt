@@ -1,0 +1,57 @@
+Solide quantumbreien, dat doe je met Delftse deeltjestrucs
+de Volkskrant
+4 juni 2011 zaterdag
+Copyright 2011 PCM Uitgevers B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 3
+Length: 1059 words
+Byline: Door Martijn van Calmthout
+Body
+
+Neem een postelastiek, zegt de Delftse hoogleraar quantumsystemen Leo Kouwenhoven. Dat heeft twee zijkanten, een binnen- en een buitenkant. Dat is nu eenmaal de vorm, en wil je daaraan iets veranderen, dan is grof geweld nodig.
+Doorknippen, een slag draaien en weer aan elkaar lijmen, bijvoorbeeld, geeft zo'n Eschergeval, een Möbiusband. Een fundamenteel andere vorm dan het oude elastiek.
+Kouwenhoven: 'Dat is de kracht van wat wiskundigen topologie noemen. De cruciale vorm van een object verander je niet zomaar even.'
+Praten over een post-elastiek in een quantumlab: het is graaien naar alledaagse aanknopingspunten in het gesprek over het prestigieuze onderzoeksproject voor Microsoft, waarin de Delftse Spinozaprijswinnaar en zijn team dit jaar beland zijn.
+Alles draait daarbij om topologie, die wellicht de sleutel is tot de eerste werkende quantumcomputer. ICT-gigant Microsoft steekt de komende jaren zeker een miljoen in de Delfse jacht op een hypothetisch deeltje, het zogeheten Majorana-fermion dat daarvoor de basis zou vormen.
+Mits het bestaat, natuurlijk, waarschuwt Kouwenhoven voor al te overhaaste conclusies. 'Op zich is die speurtocht al spannend genoeg. Als de Majorana bestaat, heb je het meteen over een heel nieuw type materiedeeltje, die nog in geen enkele versneller of telescoop zijn aangetroffen.'
+Mooie natuurkunde voor fijnproevers. Maar de echte hoofdprijs is toch het quantumrekenen, dat in theorie alle bestaande computers van tafel zal vegen. Cruciaal is dat een quantumcomputer talloze berekeningen tegelijk kan doen, waar een gewone digitale computer alle rekenstappen één voor één moet uitvoeren.
+Vaagheid
+Gewone digitale computers werken met bits: enen en nullen. Rekenen is het manipuleren van die enen en nullen, in concrete stappen. Veel berekeningen kosten dan dus ook veel stappen en dus veel tijd.
+Maar het zou ook anders kunnen, als de natuurlijk vaagheid van de deeltjeswereld in stelling wordt gebracht. Deeltjes hebben door de quantumregels niet één toestand, ze komen eigenlijk alleen voor in een mengvorm (superpositie) van mogelijke toestanden. Qubits zijn geen één of nul, maar allebei een beetje.
+Dat idee maakt quantumrekenen veel krachtiger dan gewoon rekenen, omdat qubits over alle mogelijkheden bewegen tijdens dezelfde rekenstap. Daardoor is een quantumcomputer bijna oneindig veel krachtiger dan een gewone computer.
+Dat is althans de theorie. In de praktijk hebben deeltjessystemen alleen echte quantumonbepaaldheid zolang er echt geen enkel contact met de buitenwereld is. En als de geringste verstoring de ideale toestand al tenietdoet, is een beetje praktische quantumcomputer een hersenschim. Dan worden koelcellen en totale isolatie absolute voorwaarden.
+Tenzij er qubits worden ontwikkeld of gevonden die van nature tegen een stootje kunnen. En daar lijken de onderzoekers in Delft een potentiële troef in handen te hebben. Paren van hun beoogde Majorana-deeltjes zijn namelijk alleen van hun stuk te brengen, als de topologische eigenschappen van zo'n systeem echt bruut worden doorbroken. Verstoringen zijn dan als het wringen en vervormen van Kouwenhovens postelastiek: in essentie verandert er eigenlijk niets.
+Dat komt doordat de Majorana-deeltjes in elk geval op papier geen gewone deeltjes zijn, maar zogeheten niet-abelse anyonen. Dat laatste is wiskundig jargon voor het effect van de onderlinge verwisseling van twee inwendige toestanden van zulke deeltjes. Met de klok mee van plaats ruilen levert letterlijk het tegengestelde resultaat van tegen de klok in.
+Robuust
+Bij gewone quantumdeeltjes maakt die route eigenlijk niets uit, maar juist dat maakt die ook kwetsbaar voor verstoringen. Bij anyonen is dat veel minder het geval, omdat alleen verstoringen die een heel bepaalde route kiezen echt invloed kunnen hebben. Maak van twee van dat soort anyonen een qubit, is nu het idee, en je hebt eindelijk een robuuste basis voor quantumrekenen.
+Rekenen wordt wel veel ingewikkelder, omdat enen en nullen niet zomaar kunnen worden omgezet, maar alleen volgens een precies voorschrift: linksom of rechtsom. Rechts of averechts zijn totaal verschillende handelingen. Ingewikkeld, maar al in 2000 toonden onderzoekers van uitgerekend Microsoft aan dat op die manier alle gangbare berekeningen gewoon te maken zijn.
+Rest er eigenlijk maar één vraag: bestaan de benodigde anyonen eigenlijk wel? Vaststaat dat ze nog nooit in een experiment zijn aangetoond. In eerste instantie ging de belangstelling uit naar exotische deeltjes in dunne electronenlaagjes in een heel sterk magneetveld. Die zouden theoretisch het gedrag van anyonen moeten vertonen, maar dat is nog nergens aangetoond. Bovendien lijkt het systeem hoe dan ook te omslachtig voor toepassingen in echte computers.
+Dat is in elk geval op papier met Majorana-deeltjes anders. Kouwenhoven denkt dat die deeltjes zullen ontstaan op twee plaatsen in nanodraadjes indium-arsenide of indiumantimoon, die worden opgehangen boven een vijftal elektroden waarop precies de juiste spanning wordt aangelegd.
+Jaren geleden onderzocht hij uit fundamentele belangstelling al dat soort nanosystemen en publiceerde er een paar veelgeroemde artikelen over. Over toepassingen dacht op dat moment nog niemand. Kouwenhoven: 'Het was fundamentele research, die we netjes hebben afgerond met een paar mooie publicaties. Daarna zijn we andere dingen gaan doen.'
+Het was Fields Medal-winnaar Michael Freedman van Microsoft Research in Santa Barbara die in Kouwenhovens werk voor het eerst het potentieel voor robuuste qubits zag. Als in zo'n nanodraad nu eens twee Majorana's konden worden opgewekt, dan was dat precies de onkwetsbare qubit die nodig is voor solide quantumrekenen. Of Kouwenhoven zou kunnen uitzoeken of zoiets mogelijk is?
+Toen het mailtje kwam, zat Kouwenhoven met zijn gezin in New York voor een sabbatical. Voor reflectie en bezoekjes aan Disneyland. Dat liep wat anders. Sindsdien is zijn bestaan als natuurkundige hectischer dan ooit. 'Het populair-wetenschappelijke boek dat ik in New York wilde schrijven, komt later wel een keer.'
+Een paar mooie artikelen in Science en Nature, dat leek het wel. Niemand dacht aan een toepassing
+Delftse onderzoekers gaan met geld van Microsoft op zoek naar bizarre zelfgemaakte quantumdeeltjes, die ideale bits voor een supercomputer vormen. Als ze bestaan, wordt rekenen breien. Door Martijn van Calmthout
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: De Volkskrant
+Subject: Physics (62%)
+Company:  MICROSOFT CORP (57%)
+Industry: Computing + Information Technology (94%)
+Load-Date: June 3, 2011
+
+End of Document
+Solide quantumbreien, dat doe je met Delftse deeltjestrucs
+
+Solide quantumbreien, dat doe je met Delftse deeltjestrucs
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

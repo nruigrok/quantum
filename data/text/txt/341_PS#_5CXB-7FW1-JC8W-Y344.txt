@@ -1,0 +1,72 @@
+Breinbreker 
+de Volkskrant
+16 augustus 2014 zaterdag
+Copyright 2014 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap
+Length: 1504 words
+Byline: DOOR PETER VAN AMMELROOY
+Body
+
+In de begintijd werd een computer wel 'kunstmatig brein' genoemd. Daar lijkt weer reden toe, nu IBM een 'neuronenchip' lanceert. 
+Heer, heb meelij met de computerwetenschapper. Al decennia zoekt hij naar nieuwe wegen om chips sneller te laten rekenen en tegelijk minder energie te laten verstoken. Honderden miljoenen kost dat onderzoek en het resultaat is tot dusver iets dat hooguit het denkvermogen heeft van een muis. 
+Terwijl de ideale computer allang bestaat. 
+Die pc weegt nog geen anderhalve kilo. Hij verbruikt voor een zware taak tienduizenden keer minder energie dan een Intel-chip nodig heeft om diezelfde klus te klaren. De ideale chip leert continue bij. Hij is perfect. Je kunt hooguit mekkeren over de onhandige behuizing: ons lijf. 
+De ideale computer zit tussen onze oren. Die geribbelde grijze massa die we onze hersenen noemen is de meest efficiënte pc die de wetenschap kan bedenken. Deze opeenhoping van 86 miljard zenuwcellen voorkwam miljoenen jaren geleden dat we als oermens op de savanne werden opgepeuzeld door een leeuw. Daarna leerde hij ons De Nachtwacht schilderen en de atoombom maken. 
+Een computerwetenschapper zou dat brein dolgraag kopiëren. 
+Vorige week meldde Science dat onderzoekers in Californië weer een stapje hebben gezet op het lange pad naar een chip die denkt als ons brein. IBM toonde zijn TrueNorthprocessor, de verbeterde versie van een simpele, experimentele eersteling waarmee de Amerikaanse computerpionier in 2011 de wereld versteld deed staan. 
+Net als een conventionele chip bestaat deze doorbraak uit een heleboel componenten - 5,4 miljard transistors om precies te zijn. Maar die zijn op een andere manier gerangschikt, te weten zoals neuronen (zenuwcellen) en synapsen (de verbindingsbruggen daartussen) in onze schedelpan met elkaar zijn verknoopt. Een ander verschil: de rakkers in TrueNorth lopen op stroom, niet op stroopwafels en erwtensoep. 
+TrueNorth is een namaakbrein dat bestaat uit een miljoen neuronen en 256 miljoenen synapsen. Die brij is ordelijk gegroepeerd in 4.096 samenscholingen, die ingenieurs omschrijven als cores (kernen). 
+Zo'n kern laat een enkele chip soepeler meerdere taken tegelijk uitvoeren. Terwijl jij een e-mail componeert, bedient de ander de webcam. Ter vergelijking: een beetje huis-, tuin- en keuken-pc telt vaak al vier kernen. Het topmodel Xeon-chip dat Intel levert aan grote dataverwerkers doet het met 18 cores. 
+IBM's kunstbrein aapt onze hersenen niet alleen in structuur na, maar ook in gedrag. De schakelingen komen alleen in actie als het signaal dat ze ontvangen luid genoeg is, zoals zenuwen reageren op de sterkte van (elektrische) impulsen. Dat maakt dat het brein zo zuinig omspringt met energie. In een conventionele chip staan de verbindingen continu onder spanning - of er nu bits door stromen of niet. 
+Buffetten 
+'Razend knap' is de aanduiding die Bram Nauta kiest. De hoogleraar chipdesign van de Universiteit Twente pijnigt hoorbaar zijn eigen brein als hij naar een goede analogie zoekt om het verschil uit te leggen tussen IBM's kunststukje en een conventionele chip. 
+'Je kunt een gewone chip vergelijken met een enorm zelfbedieningsrestaurant, waarbij je voor elk drankje en hapje naar een ander buffet moet en apart afrekent.' In de processor van een standaard-pc zijn de buffetten blokken, waarin gegevens voortdurend heen en weer vliegen. De processor, het blok dat de berekeningen uitvoert, haalt data uit het geheugen en stopt die na bewerkingen weer terug. Geef je een opdracht om een document af te drukken, dan gaan de data naar weer een ander blok dat praat met de printer. 
+Die manier van werken werd in de jaren vijftig bedacht door John von Neumann (1903 - 1957), een in Hongarije geboren wiskundige. 'Door die architectuur werkt een chip heel gestructureerd', zegt Nauta, 'maar dat is ook een nadeel. Moderne chips bestaan uit zoveel onderdelen dat informatie net als de bezoeker van een uitgestrekt zelfbedieningsrestaurant enorme afstanden aflegt.' Dat vreet tijd en energie. 
+Ingenieurs hebben de afgelopen decennia verschillende methoden toegepast om chips sneller te maken. Meerdere cores is daar een van. De transistors zijn steeds kleiner gemaakt en dichter bij elkaar gelegd, in afmetingen en afstanden die worden aangeduid in tienduizendsten van een haardikte. Een andere vondst is de cache, een speciaal soort geheugen dat dicht tegen de rekeneenheid aanschurkt zodat de gegevens die er het meest toe doen paraat staan. 
+De breinchip gooit het over een andere boeg. Nauta: 'Die moet je voorstellen als een gewoon restaurant, maar dan eentje waar aan elke tafel een kok staat die je maaltijd ter plekke in elkaar draait.' In TrueNorth vinden het geheugenbeheer, de berekeningen en de communicatie in kleine componenten plaats, maar die kunnen wel snel en soepel met elkaar gegevens uitwisselen, zoals neuronen dat doen. 
+De nieuwe architectuur maakt TrueNorth vooral geschikt voor klussen waar de huidige computers zich in verslikken. Nauta: 'Onze pc kan geen hond van een kat onderscheiden. Om een conventionele computer iets te laten herkennen moet je alles heel formeel beschrijven. Een hersenchip kan leren als een mens: ik heb nu honderd katten gezien, dan zal dit er ook wel een zijn.' Synapsen in het brein leren ook van eerdere 'ervaringen'. Begrip van taal - niet alleen woorden en zinnen verstaan, maar werkelijk de betekenis ervan doorgronden - is de heilige graal van de computerwetenschap. 
+Zover is TrueNorth nog niet. Hij slaagde wel voor een van de tests waaraan kunstmatige hersenen in de Verenigde Staten worden ontworpen - de herkenning van bewegende objecten op een videofilm geschoten vanuit de toren van gebouw. De chip wees mensen, fietsen, auto's en bussen met een nauwkeurigheid van 80 procent aan. 
+Waardering en lof zijn er te over voor IBM's breinbreker, maar sommige computerwetenschappers vinden het nog te vroeg om te spreken van 'een nieuwe machine voor een nieuw tijdperk', zoals onderzoeksleider Dharmendra Modha in interviews jubelt. 
+'Als ze dit systeem niet kunnen opschalen om heel complexe vraagstukken op te lossen is er niet zoveel verschil met de huidige computers waarin geheugenbeheer en berekening fysiek gescheiden zijn', is de droge constatering van Eugenio Culurciello van de Purdue University in het tijdschrift Wired. De foutmarge bij de test is nog aan de hoge kant en TrueNorth hoefde in de videobeelden maar een beperkte set objecten te herkennen. Het is nog niet de chip waarmee je een raket naar de maan lanceert. 
+Ambitieus 
+Op de website van IBM zegt Modha dat zijn team inmiddels de lat hoger legt. Ze hebben al een werkend systeem geschapen door zestien chips te bundelen, met 16 miljoen neuronen en een miljard verbindingen. 'We mikken nu op het ambitieuze doel om 4.096 chips in een enkele opstelling onder te brengen met 4 miljard neuronen en een biljoen synapsen en intussen minder dan 4 kilowatt vermogen te verbruiken.' 
+De hardware, voegt Nauta daaraan toe, is ook maar een kant van de zaak. 'Software schrijven voor TrueNorth is razend ingewikkeld, haast onmogelijk. Het vereist een heel andere aanpak.' Dat zegt Modha ook. Volgens hem is een bestaande programmeertaal als C++ gebruiken voor TrueNorth 'als een schroef te lijf gaan met een hamer'. 
+Mogelijk merken we pas over vijf jaar iets van dit soort kunstbreinen, denkt Nauta. 'Ik voorzie dat we tegen die tijd oude en nieuwe chips naast elkaar gaan gebruiken. Ze zullen elkaar aanvullen.' 
+Het ziet ernaar uit dat Onze Lieve Heer de computerwetenschapper nog even zal moeten bijstaan. 
+Rivalen voor de toekomstcomputer 
+IBM is niet de enige die zoekt naar de chip van de toekomst. Daarbij bewandelen onderzoekers verschillende wegen. Sommigen kijken naar manieren om data sneller rond te pompen in computers door bijvoorbeeld de metalen bedrading tussen de verschillende onderdelen te vervangen door glasvezelverbindingen. Een andere methode is het gebruik van memristors. Dit zijn schakelingen die als bijzondere eigenschap hebben dat ze gegevens 'onthouden', ook als je de stroom uitschakelt. De huidige generatie chips met conventionele transistors moet data 'wegschrijven' naar de harde schijf. Anders gaat die informatie onherroepelijk verloren als je een computer uitzet. Dat memristors mogelijk zijn, werd in 1971 bedacht. Maar pas in 2011 werd een werkend prototype ontwikkeld door de Amerikaanse computerfabrikant HP. Een pc opgebouwd uit memristors, is een gedachte, kan veel sneller opstarten. 
+Een andere doorbraak wordt verwacht van quantumcomputers. Een moderne digitale computer codeert gegevens in bits, die slechts een enkele waarde kunnen hebben - een of nul. Vergelijk het met een lichtschakelaar, die aan- of uitstaat. Een qubit, of quantumbit, kan beide waarden tegelijk aannemen. Die eigenschap maakt dat quantumcomputers - op papier - een miljoen berekeningen tegelijk kan uitvoeren in de tijd die een gewone pc nodig heeft voor een enkele rekensom. 
+Voorlopig blijven we de oude chips ook nog gebruiken (Bram Nauta hoogleraar chipdesign, Universiteit Twente) 
+Graphic
+
+ 
+De nieuwe neuronenchip (links) blijft veel koeler dan een conventionele, zoals blijkt uit deze opname van een warmtecamera.
+IBM Research
+TrueNorth-chips, eentje zonder verkoelend dakje.
+IBM Research
+Een experimentele 'neuromorfische' chip van Duitse makelij.
+Kirchhoff Institute for Physics
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Company:  INTEL CORP (58%)
+Industry: Computer Equipment (94%); Computer + Electronics Mfg (82%); Computing + 
+Information Technology (65%); Personal Computers (62%)
+Load-Date: August 15, 2014
+
+End of Document
+Breinbreker
+
+Breinbreker
+
+Page 2 of 5
+
+Page 2 of 5
+
+
+
+
+

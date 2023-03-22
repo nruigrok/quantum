@@ -1,0 +1,64 @@
+Wonderlijk kippengaas 
+de Volkskrant
+22 augustus 2015 zaterdag
+Copyright 2015 De Persgroep Nederland BV All Rights Reserved
+
+Section: Sir Edmund
+Length: 1943 words
+Byline: MARTIJN VAN CALMTHOUT
+Body
+
+Fysica: de slimme neefjes van grafeen 
+Supermobieltjes. Ultrasensoren. Snelle chips. Het dunne, platte superkoolstof grafeen wordt een gouden toekomst voorspeld. Of werd? Intussen dienen zich veel spannender concurrenten aan. 
+oals alle goeie sprookjes begint het verhaal van het wonderkoolstof grafeen met twee eigenwijze jongens die ver buiten de gebaande paden op avontuur gaan. Die twee jongens zijn - of beter: waren, het was 2004 - fysicus Andrei Geim en zijn postdoc Konstantin Novoselov. Op landerige vrijdagmiddagen klooiden ze in hun lab in Manchester aan dunne laagjes van materialen, waarmee misschien spannende elektronische schakelingen te bouwen konden zijn. Koolstof is een optie. Maar hoe krijg je dat dun genoeg? Novoselov probeert een truc die hij chemici weleens heeft zien toepassen: doe een flinter materiaal tussen op elkaar geplakt plakband en trek, waardoor de flinter gespleten wordt. Herhaal het proces voor steeds dunnere lagen. 
+Geim en Novoselov, twee Russen die elkaar al jaren kennen van een eerdere aanstelling in Nijmegen, proberen het uit met potloodslijpsel en een rol plakband en de rest is geschiedenis. De simpele plakbandtruc werkt tot er letterlijk maar één laag koolstofatomen over is. En die laag, een vliesje dat met het blote oog niet eens is te zien, blijkt bij ruwe eerste metingen meteen heel merkwaardige elektrische eigenschappen te vertonen. In 2011 is de ontdekking van grafeen, een nieuwe vorm van koolstof naast diamant en grafiet, goed voor de Nobelprijs voor de natuurkunde. 
+De grafeen-hysterie is dan al in volle gang. Jaarlijks worden vele duizenden wetenschappelijke artikelen over grafeen gepubliceerd, van theoretisch en fundamenteel tot toegepast en praktisch. Het aantal patenten groeide een tijdlang exponentieel, vooral in Azië. De productiecapaciteit is geëxplodeerd en volgens experts zelfs groter dan er vraag is voor serieuze toepassingen. De Verenigde Staten, Azië, maar ook Europa steken letterlijk miljarden in onderzoek en ontwikkeling. 
+Grafeen lijkt dan ook een regelrecht wonder. Het is, weten we nu, een pakweg honderd keer snellere geleider dan silicium, tienmaal sterker dan ijzer, veel lichter dan lucht, een vlekkeloze warmtegeleider en vrijwel transparant. Ideaal, kortom, voor razendsnelle, superlichte, onverwoestbare en subtiele elektronica en ander gereedschap van de toekomst. De kunst is vooral het echt toe te passen. Wie dat het eerste lukt, is binnen. 
+En toch: anno 2015 begint er zomaar enige twijfel te kruipen in de fantastische toekomst die het magische koolstof jarenlang leek te hebben. Het sprookje van grafeen lijkt wat te verbleken. 'Booming business, maar de succestoepassing ontbreekt nog steeds', noteerde wetenschappelijk tijdschrift Nature onlangs. Wereldwijd is er een ruime productie van grafeen. Maar echt goed is de kwaliteit vaak niet en echt doorbreken in gadgets wil het al helemaal niet. 
+De toonaangevende marktanalist Lux Research was kort geleden ronduit cynisch. Als grafeen niet snel enkele van de torenhoge beloften inlost, wordt het net zoiets als de koolstof-nanobuisjes uit de jaren negentig, lange holle koolstofmoleculen met exotische eigenschappen. Ook een hype, ook fantastische prestaties in het lab, maar gewoon te onpraktisch om in het dagelijks leven bruikbaar te worden. Ook daar zijn miljarden ingestoken. 
+En naast de problemen die grafeen al van zichzelf heeft, is er nog een reden om toch niet alle kaarten op koolstof te zetten. De laatste jaren rukt een bonte verzameling nieuwe materialen op die stuk voor stuk zijn geïnspireerd op grafeen maar misschien wel veel meer toekomst hebben. 'Grafeen is voor veel wetenschappers niet langer het wondermateriaal dat het hoe dan ook gaat worden, het is een inspiratiebron geworden voor nieuwe supermaterialen', zegt de Utrechtse theoretische vastestof-fysicus Cristiane Morais Smith. 
+De van oorsprong Braziliaanse natuurkundige zit in haar werkkamer en wijst naar stapels artikelen over zulke nieuwe potentiële wondermaterialen, waaronder een aantal toonaangevende van haarzelf. 'Het veld is booming', zegt ze. En het codewoord is steeds kippengaas, de zeshoekige honingraat-achtige manier waarop koolstofatomen in grafeen in een plat vlak gerangschikt zijn. 
+Die rangschikking is fysisch misschien wel veel belangrijker dan het feit of ze in koolstof is uitgevoerd. Andere chemische elementen, zo blijkt uit experimenten van onder meer het Utrechtse Ornsteinlaboratorium een steenworp verderop, beginnen in die speciale rangschikking in twee dimensies in plaats van drie ook totaal nieuwe eigenschappen te vertonen. 
+In dat lab wijst fysisch chemicus Daniël Vanmaekelbergh naar een atoommicroscoopfoto op een beeldscherm in zijn sobere, schemerige werkkamer. We zien het voorspelde kippengaasraster, maar nu uitgevoerd in nanokristallen van cadmiumselenide in plaats van koolstofatomen. Eerder dit jaar was dit speciale, één kristallaag dunne cadmiumselenide onderwerp van een belangrijk artikel in Science, dat hij schreef met collega Morais Smith, omdat het grafeenachtige geleidingseigenschappen vertoont. 
+Weer vooral dankzij, zegt Vanmaekelbergh met licht Vlaamse tongval, die speciale zesvoudige roosterstructuur. Die aanvankelijk trouwens niet eens werd herkend. 'Een postdoc kwam bij me aan met deze plaat en we braken ons er het hoofd over, omdat we eerst de openingen in het rooster voor de kristalletjes aanzagen. Tot begon te dagen dat het omgekeerd was: een netwerk met gaten. Een echte aha-erlebnis.' 
+In grafeen zitten de koolstofatomen van nature in een plat zeshoekig kippengaaspatroon aan elkaar geklonken. Ieder atoom heeft daardoor drie naaste buren met wie het netto één elektron deelt. Per koolstofatoom is er nog een vierde elektron over, dat niet gebonden is maar kan rondbewegen door het héle platte netwerk en daarmee bijdragen aan een elektrische stroom. 
+Met die stroomgeleiding is iets bijzonders aan de hand. Om stroom te geleiden zijn in elk materiaal, van koperdraad tot tl-buizen, vrije elektronen nodig, die zich daartoe in een denkbeeldige poel in het materiaal moeten verzamelen. 
+In een metaal staat er altijd een plas elektronen in die denkbeeldige poel, klaar om te stromen: het is een geleider. In een isolator staat de poel altijd droog, daar loopt nooit een stroom. 
+Er zijn ook tussenvarianten, de zogeheten halfgeleiders. In materialen als silicium zijn elektronen alleen met enige hulp naar die poel te hevelen. Dat klinkt ingewikkeld, maar maakt ze bij uitstek geschikt voor elektronische micro-schakelaars, chips en transistoren, of zonnecellen. 
+Grafeen blijkt een heel bijzondere tussenvorm, ergens tussen een halfgeleider en een metaal in. Net als in een halfgeleider staat de elektronenpoel droog, alleen kost het eigenlijk geen moeite om er elektronen naar over te hevelen. Daardoor geleidt grafeen elektrische stroom alsof het een metaal is, maar de elektronen gedragen zich nog steeds alsof ze in een halfgeleider zitten. 
+Dat is geen voorrecht voor koolstof, weten theoretici als Morais Smith inmiddels uit hun rekenwerk en modellen. Het bijzondere geleidingsgedrag ontstaat door de vlakke honingraatstructuur. De symmetrieën daarvan laten niet alleen op papier bijzondere oplossingen toe voor de stroom, de natuur blijkt die oplossingen ook te hebben gevonden. 
+Maar waarom zou het moeten blijven bij wat de natuur te bieden heeft? Grafeen is wat Moeder Natuur ons na enig aandringen gaf. Steeds meer theoretici realiseren zich echter dat het, met behoud van het goede, best nog beter zou kunnen. Er is, zegt Morais Smith, een nieuwe wereld aan het ontstaan, geïnspireerd op Geims grafeen. 'Er zijn haast te veel ideeën om te exploreren', lacht ze opgewekt. 
+In die nieuwe wereld wemelt het inmiddels van de meer en minder nabije neven en nichten van grafeen. Jaarlijks verschijnen nu honderden artikelen over nieuwe experimenten. Al die verre familieleden van grafeen verkeren nog min of meer in een experimenteel stadium, benadrukt De Morais Smith. Van toepassingen is nog geen sprake. 'We weten alleen wel waar we zoeken moeten: in het platte vlak, in honingraatstructuren.' 
+Dat kan op verschillende manieren. Italiaanse onderzoekers in Pisa bijvoorbeeld zetten een paar jaar geleden op nanometerschaal quantumstippen in een microscopisch zeshoekig rooster. Duizend maal groter dan het echte grafeen, waren er toch al grafeenachtige eigenschappen in de geleiding te zien. Met nanokristallen van cadmium- of loodseleen doen groepen in onder meer Utrecht op kleinere schaal ook pogingen om grafeenachtig gedrag op een chip te maken. Op Stanford University in Californië worden de deeltjes zelfs stuk voor stuk met een atoommicroscoop op hun plek gezet in een kippengaasformatie of honingraat-structuur. 
+Weer een andere school prutst letterlijk aan het kippengaas van grafeen zelf, bijvoorbeeld door de verbindingen tussen de koolstofatomen te versterken of verzwakken. Papers met nieuwe woorden als 'graphyne' of 'graphdine' in de titel stapelen zich op en laten zien dat zo de doorgang van de elektronenvoorraad naar de geleidingspoel naar believen kan worden ingesteld. Dat geeft geleidingseigenschappen op bestelling, in plaats van alleen de natuurlijke waarde. 
+Verreweg de belangrijkste ontwikkeling is die van kippengaasachtige platte kristallen met andere chemische elementen dan koolstof. Er is sprake van superdunne kristallagen siliceen, met zeskantig silicium, of phosphoreen, met fosforatomen in een zeshoekig netwerk van één atoomlaag dik. Die vertonen geleidingsgedrag zoals dat van grafeen, maar hebben een iets golvender structuur dan het strak platte grafeen. Daardoor kruipt een vleugje van de derde dimensie in de fysica, die symmetrieën een beetje verandert en nieuwe geleidingseigenschappen introduceert die in geen enkel ander materiaal bestaan. 
+Er zijn overigens ook onderzoeksgroepen, onder meer aan de TU Eindhoven, die met waterstof in een laagje gewoon grafeen met opzet nanobobbels maken, omdat die het type geleiding van het materiaal ook instelbaar lijken te maken. 
+Sommige onalledaagse verbindingen blijken van nature bereid om in enkelvoudige lagen een kristal te vormen met een honingraat-achtige ringenstructuur. Dat zijn verbindingen van zware metalen als molybdeen of wolfram met elementen als zwavel, selenium of telluur. Weer andere onderzoeksgroepen zweren bij netwerken van koolstofringen waar op hoekpunten zulke zware metalen worden ingebouwd. 
+Het is pionieren, puur verkennen, zegt in zijn lab de Utrechts-Vlaamse chemicus Daniel Vanmaekelbergh, de man van de vlakke cadmium-selenide-nanokristallen en de Naturepublicatie. Nu werkt hij aan nanokristalroosters van kwiktelluride, die in theorie een heuse instelbare halfgeleider zouden moeten kunnen zijn door een bijzonder samenspel van tollende elektronen in het netwerk, spins in jargon. 
+Maar dat is papier. Om te beginnen moet het spul eerst maar eens gemaakt worden, zegt de onderzoeker in zijn lab vol zuurkasten, wanden chemicaliën, brommende vacuümpompen en scanning tunneling microscopen die tot op atoomniveau kunnen kijken. De atoomlaagdunne kristallen zouden moeten ontstaan op verdampende oplossingen van nanokristallen. In de praktijk steeds weer een heksentoer, zo blijkt. Vanmaekelbergh: 'De belofte van zulke tweedimensionale geometrische materialen is groot, maar de praktijk is ook razend lastig. In grafeen krijg je een schoon materiaal cadeau, puur koolstof, wat wil je nog meer. Dit is chemie met verontreinigingen en defecten. We moeten gewoon maar zien hoe ver we komen. En dat maakt het, afgezien van eventuele toepassingen, wetenschappelijk ook zo spannend, natuurlijk.' Bekijk de oorspronkelijke pagina: pagina 42, pagina 43, pagina 44
+Graphic
+
+ 
+Foto Monique Bröring
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Superconductors (94%); Nanotechnology (69%)
+Industry: Manufacturing (69%)
+Load-Date: August 21, 2015
+
+End of Document
+Wonderlijk kippengaas
+
+Wonderlijk kippengaas
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

@@ -1,0 +1,28 @@
+Sprong vooruit naar supergeheugen
+NRC Handelsblad
+16 april 2016 zaterdag
+Copyright 2016 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 2-3
+Length: 353 words
+Byline: Marcel aan de Brugh
+Body
+
+ Het ultieme doel voor de voortschrijdende verkleining van magnetische data-opslag is dit:  dat één bit aan informatie (een 0 of een 1) wordt vertegenwoordigd door slechts één enkel atoom, en  niet door een veelvoud daarvan, zoals nu het geval is. En dat is precies waar Zwitserse onderzoekers in zijn geslaagd. Ze wisten afzonderlijke, gemagnetiseerde holmium-atomen in een stabiele toestand te houden - als het ware een  geheugen (Science, 15 april). 
+,,Dit is een sprong vooruit", zegt natuurkundige Alexander Khajetoorians, die soortgelijk onderzoek doet aan de Radboud Universiteit in Nijmegen. Hij schreef voor Science een commentaar bij het artikel van de Zwitsers. 
+Magnetisch geheugen wordt onder meer toegepast voor data-opslag op hard disks, dvd's en cd's.  Op een ondergrond wordt een flinterdun laagje van een magnetiseerbaar materiaal aangebracht. Tegenwoordig is dat vaak een kobaltlegering. In dat laagje zitten minuscule putjes, en elk putje is een bit. Bij het wegschrijven van informatie zorgt de schrijfkop (via de aanleg  van een magnetisch veld) ervoor dat de atomen in  zo'n putje de 0-positie, of de 1-positie aannemen, en houden. Zo'n putje bevat nu nog tegen de miljoen atomen. 
+,,Een klein groepje natuurkundigen vraagt zich de laatste tien jaar geobsedeerd af hoe klein je een magneet kunt maken", zegt Khajetoorians. Geprobeerd wordt zo min mogelijk atomen te magnetiseren en stabiel te houden.  Maar onder de 12 atomen, zegt Khajetoorians, spelen verstorende  quantumeffecten op. De magnetische toestand gaat heen en weer flippen. 
+Sprong vooruit naar supergeheugen
+ Onderzoekers van IBM slaagden er in 2012 in om 12 gemagnetiseerde atomen stabiel te houden. Khajetoorians zelf bracht dat aantal verder omlaag naar 3. Maar dat was bij temperaturen vlak bij het absolute nulpunt, -273 graden Celsius. 
+De Zwitsers wisten de gemagnetiseerde holmium-atomen stabiel te houden bij een temperatuur van 40 graden Kelvin (-233 graden Celsius), en dat gedurende 25 minuten. 
+Praktische toepassing is nog ver weg, zegt Khajetoorians. ,,Maar dit zijn al wel temperaturen die in de richting van vloeibare stikstof gaan. Dit biedt perspectief." 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NH_ART
+Subject: Superconductors (94%); Physics (63%)
+Industry: Computer Equipment (61%); Computing + Information Technology (61%) Load-Date: April 15, 2016
+
+End of Document
+Page 2 of 2

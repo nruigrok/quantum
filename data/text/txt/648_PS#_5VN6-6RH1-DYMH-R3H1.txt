@@ -1,0 +1,37 @@
+'Fysici keren de tijd om met quantumcomputer'; Tijdreizen  Is het fysici echt gelukt om de tijd terug te draaien voor een 'quantum bit'?
+NRC Handelsblad 
+16 maart 2019 zaterdag 1ste Editie
+Copyright 2019 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 1
+Length: 326 words
+Byline: Bruno van Wayenburg
+Body
+
+ABSTRACT
+Echt waar? Tijdreizen sciencefiction? Fysici kregen het voor elkaar om een 'qubit' een fractie van een seconde  terug in de tijd te sturen. 
+VOLLEDIGE TEKST:
+De verwijzingen naar Doctor Who waren niet van de lucht in de berichten over Moskouse wetenschappers die de tijd een fractie van een seconde terugdraaiden in een quantumcomputer.
+'Wetenschappers creëren tijdmachine die vergelijkbaar is met Doctor Who's Tardis', kopte de Britse tabloid The Mirror, verwijzend naar het telefooncel-achtige tijdmachine (en vervoermiddel) van de sciencefictionheld.
+,,We hebben een kunstmatige toestand gecreëerd die zich ontwikkelt tegen de thermodynamische richting van de tijd in", zei Gordey Lesovik in een persbericht van het Moskou Instituut voor Natuurkunde en Technologie (MIPT) over hun publicatie in het vakblad Scientific Reports.
+Een kern van waarheid zit daar wel in: de quantummechanica stelt dat een elektron als golfverschijnsel zich uitsmeert over een steeds breder gebied, maar het is in theorie 
+'Fysici keren de tijd om met quantumcomputer'; Tijdreizen  Is het fysici echt gelukt om de tijd terug te draaien voor een 'quantum bit'?
+mogelijk om dat uitsmeren terug te draaien door het elektron een precies uitgerekend elektrisch duwtje te geven.
+Als dat experiment ook echt uitgevoerd was, zou je dat met enige fantasie een piepklein stukje tijdreizen kunnen noemen. Maar het bleef bij een berekening.
+Wel voerden Lesovik en collega's een experiment uit met de IBM Q Experience, de eenvoudige quantumcomputer van IBM met vijf qubits (quantum bits) die sinds vorig jaar online te programmeren is.
+Hun quantum-software liet de qubits een eindje evolueren, om in de daarop volgende stappen van die evolutie weer terug te draaien. De eindtoestand kwam voor gemiddeld 85 procent overeen met de begintoestand.
+Dat is wat je verwacht, maar net zo min een tijdreis als wanneer je de klok een eindje terugdraait. Tenzij het de klok van de Tardis is, natuurlijk.
+         Bruno van Wayenburg       
+Iedere week bespreekt de redactie wetenschap hier een opvallend persbericht
+Link naar PDF
+Link naar PDF
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Physics (65%); Educational Institution Employees (63%)
+Industry: Computing + Information Technology (94%)
+Load-Date: March 16, 2019
+
+End of Document
+Page 2 of 2

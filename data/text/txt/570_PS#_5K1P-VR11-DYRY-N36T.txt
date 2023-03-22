@@ -1,0 +1,42 @@
+Rekenen met kwantumbits
+Het Parool
+18 juni 2016 zaterdag
+Copyright 2016 De Persgroep Nederland BV All Rights Reserved
+
+Section: Wetenschap; Blz. 39
+Length: 658 words
+Byline: JAN LIBBENGA
+Body
+
+IBM neemt als eerste een systeem met een kwantumprocessor in gebruik. Het systeem, dat heel snel parallelle berekeningen uitvoert, is via internet te benaderen. Maar is daar wel iets mee aan te vangen? 
+De pc die we dagelijks gebruiken mag dan nog zo snel zijn, hij rekent stapje voor stapje, oftewel serieel. Met multikernprocessors is de snelheid in de loop der jaren weliswaar flink opgevoerd, maar het kost een gemiddelde computer nog altijd enorm veel tijd om bijvoorbeeld een encryptiesleutel te kraken. 
+De kwantumcomputer grijpt terug op een heel ander concept: de kwantummechanica. Er wordt niet gerekend met klassieke nullen en enen, maar met kwantumbits of qubits. Kwantumdeeltjes, zoals een atoomkern of een elektron, kunnen zich in meerdere toestanden tegelijk bevinden. Zo kan het magnetisch moment van een elektron, de zogenoemde spin, tegelijk twee verschillende richtingen hebben. Als de spinrichting wordt gebruikt als kwantumbit in een computer, kan deze dus tegelijk zowel 0 als 1 zijn. Dat maakt supersnel rekenwerk mogelijk. Slecht nieuws wellicht voor beveiligers en hun encryptiesleutels, maar het spitten in grote databases kan er enorm mee worden versneld. 
+IBM stelde al eerder virtuele rekenkracht beschikbaar. Het bedrijf koppelt supercomputers aan de cloud, zodat je thuis een vraag kunt stellen over een medische conditie, die supercomputer Watson dan razendsnel analyseert aan de hand van bijvoorbeeld duizenden medische tijdschriften. 
+Rekenen met kwantumbits
+Rekenvoorbeelden 
+Maar is de kwantumcomputer dan al zo ver? Niet echt, want meer dan vijf qubits zijn momenteel niet beschikbaar en daar valt weinig nuttigs mee te doen, zegt Julia Cramer. Zij is verbonden aan QuTech, het kwantuminstituut van de TU Delft en TNO, waar ook wordt gewerkt aan de computer van de toekomst. "IBM laat een aantal rekenvoorbeelden zien, waarin vooral het principe wordt gedemonstreerd. Het leuke is dat je de technologie daarmee wel toegankelijk maakt voor een groot publiek." 
+Veelbelovend is het zeker. Een kwantumcomputer van vijftig qubits biedt oplossingen voor problemen waar de vijfhonderd snelste supercomputers momenteel niet uitkomen, maar volgens Cramer hebben de koplopers op het gebied van kwantumtechnologie, waaronder QuTech, momenteel ongeveer tien qubits per systeem. IBM verwacht overigens dat middelgrote universele kwantumcomputers van vijftig tot honderd qubits binnen tien jaar het levenslicht zullen zien. 
+Daarbij zijn nog aardig wat hobbels te overwinnen. De kwantuminformatie is namelijk nogal fragiel. Het is een wat raadselachtig fenomeen uit de kwantummechanica dat zodra je een zogenoemde superpositie wilt meten, deze verloren gaat: de waarde wordt dan 0 of 1. 
+Snelle elektronica 
+Niet alleen IBM corrigeert deze informatie. Een team wetenschappers onder leiding van Tim Taminiau van QuTech heeft onlangs laten zien hoe fouten in een kwantumberekening niet alleen kunnen worden opgespoord, maar ook actief kunnen worden hersteld. 
+Het Delftse team maakt daarbij gebruik van elektronen- en kernspins in diamant. Deze spins kunnen niet alleen kwantuminformatie verwerken met een hoge kwaliteit, maar deze ook nog eens zo lang opslaan dat de fouten direct verwerkt en gecorrigeerd kunnen worden via snelle elektronica. 
+"Klassieke computers maken ook fouten, waarvoor gecorrigeerd moet worden, maar dat is beheersbaar," zegt Cramer. "In kwantumfoutcorrectie moet de kwantuminformatie beschermd worden door deze eerst te coderen. Daarna worden fouten gedetecteerd via heel voorzichtige metingen die de kwantuminformatie niet verstoren. Uiteindelijk worden de fouten verwerkt in snelle klassieke elektronica en actief gecorrigeerd." 
+Page 2 of 3
+Rekenen met kwantumbits
+Ook de Delftse kwantumcomputer zou in principe al berekeningen via het internet kunnen aanbieden. "Maar we willen ons eerst richten op uitbreiding van de mogelijkheden," zegt Cramer. 
+'Het leuke is dat IBM de technologie zo toegankelijk maakt voor een groot publiek' Bekijk de oorspronkelijke pagina: pagina 39, pagina 39
+Graphic
+
+ 
+â†' De processor van IBM rekent met vijf kwantumbits.
+foto IBM
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Het Parool
+Industry: Computing + Information Technology (94%)
+Load-Date: June 17, 2016
+
+End of Document
+Page 3 of 3

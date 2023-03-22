@@ -1,0 +1,31 @@
+Magnetisch geheugen werkt al vanaf twaalf ijzeratomen
+de Volkskrant
+14 januari 2012 zaterdag
+Copyright 2012 PCM Uitgevers B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 6
+Length: 384 words
+Byline: Martijn van Calmthout
+Body
+
+Duitse en Amerikaanse onderzoekers hebben een magnetisch kunstdeeltje gemaakt dat een bit op een harddisk kan worden ooit.
+Niet erg praktisch? Nee, natuurlijk niet, zegt fysicus dr. Sebastian Loth van het laserlab CFEL in Hamburg. Met collega's van onder meer IBM Research publiceert hij deze week in Science over de kleinste magnetische computerbit ooit. In slechts twaalf ijzeratomen, zo tonen de onderzoekers aan, is een stabiel magnetisch signaal op te slaan. Op harddisks zijn de kleinste magnetische domeintjes nu minimaal een paar honderd miljoen atomen groot. Met Loths mini-eenheden past een byte (8 bits) op 96 atomen. 'De datadichtheid is zeker een factor honderd hoger dan alles wat nu kan', schat Loth.
+Maar praktisch? Nee. Het systeem werkt alleen bij een koeling tot 268 graden onder nul (5 Kelvin). En het aflezen en laden van zo'n geheugen moet per atoom gebeuren met een scanning tunneling microscoop. 'Een kamer vol apparaten', waarschuwt Loth.
+Toepassing is ook niet de eerste zorg. Loth, tot voor kort zelf aan IBM verbonden, onderzoekt de grens tussen de quantumwereld van de atomen en de macroscopische wereld. Daarbij was tot nog toe niet helder hoe magnetisme zich op die grens gedraagt. Atomen en deeltjes hebben magnetische eigenschappen. Maar wanneer die precies tot een stabiel magneetje leiden, was eigenlijk nog onbekend.
+Loths team bestudeerde dat door ijzer letterlijk atoom voor atoom op een rijtje te zetten en te zien hoe lang een magneetveldje erin overeind bleef. 'Eén atoom is hooguit een nanoseconde stabiel. Bij drie atomen is dat opeens al een microseconde. Voor ons is dat nog steeds niks. Maar de sprong is gigantisch. Ik was echt verrast', zegt Loth.
+Magnetisch geheugen werkt al vanaf twaalf ijzeratomen
+Uit de metingen blijkt dat een dubbele rij van tweemaal zes ijzeratomen een opgelegd magneetveld dagenlang bewaart. Loth is het meest verheugd over de speciale vorm van magnetisme die in het systeem optreedt. Gewone magneten zijn ferromagnetisch: de atomaire magneetjes richten zich naar een extern veld. In het atoommagneetje wordt anti-ferromagnetisme gemaakt: naburige atoommagneetjes zijn steeds tegengesteld gericht. Dat maakt het geheel magnetisch neutraal, en zorgt dat magnetische domeinen veel dichter bij elkaar geplaatst kunnen worden zonder dat ze elkaar beïnvloeden. 'Voor nog meer bits per nanometer.'
+Graphic
+
+ 
+Nanobit van twaalf ijzeratomen. CFEL 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: De Volkskrant
+Subject: Superconductors (94%); Nanotechnology (70%)
+Load-Date: January 13, 2012
+
+End of Document
+Page 2 of 2

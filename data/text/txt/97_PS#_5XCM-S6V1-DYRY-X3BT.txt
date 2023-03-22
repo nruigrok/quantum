@@ -1,0 +1,28 @@
+Quantum, qubits en crypto
+Het Parool
+29 oktober 2019 dinsdag
+Copyright 2019 De Persgroep Nederland BV All Rights Reserved
+
+Section: Het Hoogste Woord; Blz. 21
+Length: 489 words
+Byline: KARIN SPAINK
+Body
+
+Afgelopen week maakte Google bekend een werkende quantumcomputer te hebben gebouwd. Anders dan 'gewone' computers werken die niet met bits (die alleen 'uit' of 'aan' kunnen staan, oftewel op 0 of 1), maar met qubits. Dat zijn bits die tegelijkertijd 0 én 1 kunnen zijn ('superpositie'). Dat verschaft ze vreemde eigenschappen: zo kunnen ze niet worden gekopieerd, en staan ze altijd in een onderlinge relatie. Als de waarde van qubit A bekend wordt (en daarmee zijn superpositie vervalt), heeft dat subiet effect op qubit B, ook als dat zich elders bevindt. Hoogleraar Stephanie Wehner, die in Delft aan de ontwikkeling van een quantuminternet werkt, legt het graag (en altijd geestig) uit. 
+De strijd wie de eerste serieuze quantumcomputer kon presenteren, is al langer bezig; wie de eerste slag binnenhaalt, krijgt een boel prestige. Het werd dus Google. Het bedrijf meldde triomfantelijk dat Sycamore, zoals het zijn exemplaar heeft gedoopt, een reeks sommen 1,5 miljard keer sneller oplost dan gewone supercomputers kunnen. Op dat record valt overigens wel iets af te dingen: Google koos uiteraard een opdracht die exact was toegesneden op Sycamores expertise. Voed het ding een ander lastig probleem en hij bakt er waarschijnlijk weinig van: Sycamore is in zekere zin nog een one trick pony. 
+De grote belofte van dit type computers is dat ze als simulatie gebruikt kunnen worden, bijvoorbeeld om medicijnen te testen. Een virtueel model van het menselijk lichaam is, in combinatie met de verschillende verschijningsvormen van een ziekte, het potentiële geneesmiddel waarnaar onderzoek wordt gedaan en de bijwerkingen van dat medicijn, 
+Quantum, qubits en crypto
+dusdanig complex dat zelfs de verenigde computers van een heel datacenter zoiets momenteel niet aankunnen. Mogelijk lukt dat straks wel met quantumcomputers. 
+Maar terwijl de quantumcomputer prachtige vergezichten biedt, schopt ie andere dingen onderuit. Het ding zuipt bijvoorbeeld schrikbarend veel energie, terwijl de energiezucht van onze huidige 'ouderwetse' datacenters al de pan uitrijst. En terwijl quantumcrypto uit de aard der zaak onkraakbaar is - wie zulke berichten probeert af te luisteren, verandert de boodschap zonder pardon en krijgt bijgevolg niets dan gibberish - maakt invoering van de quantumcomputer de oude vertrouwde vormen van versleuteling eenvoudiger te kraken. Niet dat PGP en blockchain nu meteen 'kapot' of nutteloos zijn, maar we moeten er wel rekening mee houden dat zulke vormen van beveiliging op termijn minder solide worden. 
+Resteert een ander, en al ouder probleem: quantumcomputers zijn met grote inspanning van wetenschappers op tal van universiteiten bedacht, ontwikkeld en beetje bij beetje opgebouwd. En weer gaat een commercieel bedrijf er met de jackpot - en alle glorie - vandoor. Ze plukken wel de vruchten der wetenschap maar, belastingmijders als ze zijn, weigeren daaraan mee te betalen.
+k.spaink@parool.nl
+Bekijk de oorspronkelijke pagina: pagina 21
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Industry: Computing + Information Technology (94%)
+Load-Date: October 29, 2019
+
+End of Document
+Page 2 of 2

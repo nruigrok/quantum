@@ -1,0 +1,30 @@
+Nederlanders werken aan bouw razendsnelle quantumcomputer
+de Volkskrant
+3 oktober 2013 donderdag
+Copyright 2013 De Persgroep Nederland BV All Rights Reserved
+
+Section: Ten Eerste; Blz. 2
+Length: 427 words
+Byline: VAN ONZE VERSLAGGEVER BARD VAN DE WEIJER
+Body
+
+Nederlandse wetenschappers gaan in Delft werken aan de ontwikkeling van een quantumcomputer. Voor de komende jaren is daarvoor jaarlijks ongeveer 9 miljoen euro beschikbaar. Het Rijk en TNO dragen 4 miljoen bij. Het is de bedoeling dat de investering in vijftien jaar leidt tot een werkend apparaat.
+Quantumcomputers zijn in theorie tientallen miljarden keren sneller dan de snelste bestaande supercomputers. Dit komt doordat ze niet rekenen met enen en nullen, maar met qubits, eenheden die tegelijk één en nul kunnen zijn. Als meerdere qubits worden gekoppeld, kunnen ze astronomische hoeveelheden berekeningen maken. 
+Lange tijd gold het idee, dat al uit de jaren dertig stamt, als iets voor de verre toekomst. Maar recente ontdekkingen, zoals die van het Marjoranadeeltje vorig jaar aan de TU Delft, hebben veel wetenschappers ervan overtuigd dat een werkende quantumcomputer er in tien tot vijftien jaar kan zijn. Marjoranadeeltjes zijn bijzonder omdat ze relatief lang stabiel blijven en dan zowel één als nul kunnen zijn. Hoewel het slechts om seconden gaat, worden ze gezien als ideale bouwsteen voor de quantumcomputer. 
+De jaarlijkse bijdrage van Economische Zaken en TNO aan het zogenoemde QuTechproject zal in principe duren tot de Delftse quantumcomputer er is. Het is wel de bedoeling dat de rijksbijdrage geleidelijk wordt afgebouwd en dat het bedrijfsleven meer gaat investeren. Het beschikbare geld komt uit de middelen voor het topsectorenbeleid. 
+Nederlanders werken aan bouw razendsnelle quantumcomputer
+In het project zitten deels dezelfde onderzoekers die ook werken aan het Europese Synergy-programma van 15 miljoen euro voor het bouwen van de eerste quantumcomputer, 	zoals 	de 	Delftse 	hoogleraren 	Ronald 	Hanson 	en 	Leo Kouwenhoven, die aan het hoofd van QuTech komt te staan. Het Europese geld is vooral bedoeld voor fundamenteel onderzoek, terwijl de jaarlijkse 9 miljoen wordt besteed aan de bouw van werkende componenten.
+Wat kan de supercomputer?
+Quantumcomputers zijn sterk in rekenen met grote hoeveelheden variabelen, waardoor ze uitmunten in simulaties. Daardoor kan bijvoorbeeld de werking van ingewikkelde eiwitten worden nagebootst. Ook zijn realtime-simulaties mogelijk van de Melkweg, die zo'n 200 miljard sterren telt - en mogelijk zelfs van het complete heelal. 
+De komst van de quantumcomputer betekent het einde van de cryptografie zoals we die nu kennen. Het versleutelen van gegevens is nu gebaseerd op priemgetallen die in de sleutels verstopt zitten. Quantumcomputers halen deze er in een oogwenk uit, waar een gewone computer tientallen of honderden jaren rekentijd nodig zou hebben.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Educational Institution Employees (63%)
+Industry: Computing + Information Technology (94%)
+Load-Date: October 2, 2013
+
+End of Document
+Page 2 of 2

@@ -1,0 +1,22 @@
+Quantumbit leeft langer in silicium
+De Telegraaf
+23 augustus 2014 zaterdag
+Copyright 2014 De Telegraaf All Rights Reserved
+
+Section: Wetenschap; Blz. 4
+Length: 121 words
+Body
+
+Een uitdaging bij het bouwen van een toekomstige quantumcomputer is het ontwikkelen van quantumbits (qubits) die zowel schaalbaar als robuust zijn. Doorgaans worden qubits gemakkelijk verstoord door hun omgeving. Onderzoekers van onder andere het Kavli Institute of Nanoscience van de Technische Universiteit Delft hebben het bestaan aangetoond van een langlevende quantumbit in silicium, het meest gebruikte materiaal van de halfgeleiderindustrie. Het blijkt dat de elektron-spin in silicium bijna 100 keer langer standhield dan in het tot dan toe meest gebruikte halfgeleidende materiaal galliumarsenide. Waar voorheen de spintoestand ongeveer 10 nanoseconden bleef bestaan, wordt de levensduur nu gerekt tot 1 microseconde.  
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Telegraaf
+Subject: Nanotechnology (67%)
+Industry: Computing + Information Technology (94%); Manufacturing (83%)
+Quantumbit leeft langer in silicium
+Load-Date: August 22, 2014
+
+End of Document
+Page 2 of 2

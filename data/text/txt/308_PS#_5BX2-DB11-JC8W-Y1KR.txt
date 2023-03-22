@@ -1,0 +1,82 @@
+Beam me up, Delft 
+de Volkskrant
+5 april 2014 zaterdag
+Copyright 2014 De Persgroep Nederland BV All Rights Reserved
+
+Section: Halfberliner
+Length: 1732 words
+Byline: MARTIJN VAN CALMTHOUT
+Body
+
+Natuurkunde: communicerende deeltjes 
+Einstein geloofde er niet in, maar in Delft gaan ze het gewoon doen: teleportatie. Star Trek in de polder. 
+Het mafste moment tot nu toe, vertelt quantumfysicus Ronald Hanson van de Technische Universiteit Delft, was toen bij een verkenning aan de rand van de campus plotseling een putdeksel omhoog kwam en een hem onbekende technicus zijn hoofd uit het gat stak. 
+Dat bleek Teus, de man met de paardenstaart. De man die alles weet van de kabeltunnels onder het Delftse universiteitsterrein. 
+Hanson: 'Teus bleek precies degene die ons kon vertellen hoe we met onze glasvezelkabel ondergronds bij het reactorinstituut moesten komen. Zelf waren we het spoor na het snelwegviaduct allang bijster.' 
+In een lange strook langs de Mekelweg liggen de gebouwen waar diverse faculteiten huizen. Praktisch aan het begin ligt Technische Natuurkunde, met daarin ook het Kavli Instituut voor Quantumfysica. Aan het andere uiteinde duikt de Mekelweg onder de snelweg door en eindigt in de buurt van de onderzoekskernreactor. 
+Hansons glasvezel verbindt via een wirwar van tunnels en kabelgoten onder het Delftse maaiveld de verduisterde kelder vol lasers van het Kavli Instituut met een tweede labruimte bij de kernreactor, een ruime kilometer verderop. De aannemer legde de afgelopen weken de laatste meters. 
+Die glasvezelkabel is het hart van een uniek experiment dat Hanson en zijn ploeg de komende maanden op poten wil zetten. Inzet is twee deeltjes zodanig met elkaar verbinden dat ze in feite één zijn, ongeacht hun onderlinge afstand. Quantumverstrengeling heet dat in het jargon van de natuurkunde. En die verstrengeling moet de opmaat worden voor nog veel spectaculairder resultaten. 
+Uiteindelijk, zegt Hanson, gaat hij een deeltje teleporteren. 'Letterlijk overzetten van hier naar de andere kant van de snelweg.' Hetgeen, erkent hij, pure Star Trek zal zijn. Zoals captain Kirk zich door boordtechnicus Scotty omhoog liet 'beamen', zo gaat in Delft een deeltje van het ene lab naar het andere zoeven, een dikke kilometer verderop. Beam me up, Ronald. 
+Teleportatie is het woord. Of preciezer: quantumteleportatie, omdat het 'maar' over deeltjes gaat en niet over complete captain-Kirks. 
+Maar het idee is hetzelfde. Verzamel alles wat je weet over een object op de ene plaats. En laat op een andere plaats alles wat je weet weer samenkomen. Zeker als het om een los deeltje gaat, betekent dat in feite het verzenden van het deeltje zelf. Deeltjes zijn immers inwisselbaar. 
+Het klinkt vreemd, een deeltje dat overgeseind wordt. Maar anderzijds: in de quantumwereld is niets wat het lijkt, en staat de menselijke intuïtie al snel met lege handen. 'Wie zegt het quantum te begrijpen, snapt er niets van', zei de immer gevatte fysicus Richard Feynman ooit. 
+Het gaat, erkent Hanson, in de wetenschappelijke literatuur al zeker tien jaar over quantumverstrengeling. Met name de Oostenrijkste natuurkundige Anton Zeilinger is er een kei in. Bij zijn laatst experimenten transporteerde hij via quantumkanalen de toestand van een foton - een lichtdeeltje - van het ene Canarische eiland naar het andere, door de lucht, over een afstand van 143 kilometer. Een record. Zeiliger (69) wordt al jaren genoemd als kanshebber voor een Nobelprijs in de fysica. 
+Quantumteleportatie is een van de bizarre wonderen in de wereld van het allerkleinste. Het komt erop neer dat deeltjes via een spookachtig verbond met elkaar gekoppeld kunnen zijn, ongeacht hun afstand. Wordt het ene deeltje op de ene lokatie gemanipuleerd, dan 'voelt' het partnerdeeltje elders dat ook, en wel onmiddellijk. 
+Dat hangt samen met de manier waarop de quantumtheorie de realiteit voor deeltjes beschrijft. Een elektron, bijvoorbeeld, kan op verschillende manieren ronddraaien: de spin. Tot er een meting wordt gedaan, is die toestand onbekend. Fysici beschrijven dat door aan te nemen dat het elektron in alle mogelijke toestanden tegelijk verkeert, zolang er geen meting is verricht. 
+Pas bij een meting wordt een van die mogelijke toestanden realiteit, en de rest niet. De uitkomst is puur toeval. Wat er precies bij een meting gebeurt, is al sinds de beroemde gesprekken tussen Einstein en Bohr in de vorige eeuw een bron van fel debat onder fysici. 
+Maar als er meerdere deeltjes in het geding zijn, wordt het nog veel gekker. Soms kunnen quantumeigenschappen van twee deeltjes gekoppeld zijn - de quantumverstrengeling. Als een van beide deeltjes bij een meting een spintoestand omhoog aanneemt, is daarmee ook het lot van het andere deeltje bekend: dat moet spin omlaag hebben. Waarbij - het allergrootste raadsel - de onderlinge afstand van de twee deeltjes er niet toe doet. 
+Dat leidt tot op het eerste gezicht bizarre mogelijkheden wanneer het deeltjespaar gekoppeld wordt aan nog een derde deeltje. In dat geval werkt het verstrengelde paar als een spookachtige telefoonverbinding, dwars door ruimte en tijd. Wordt de atoomspin aan de ene kant van de verbinding in een bepaalde toestand gebracht, dan beurt er aan het andere uiteinde precies het tegengestelde. Zonder dat de afstand ertoe doet. 
+In Delft werkt Hanson al jaren aan quantumsystemen. Quantumteleportatie van een atoomspin over drie meter is tot nog toe het beste Delftse resultaat, op een optische tafel vol lenzen, lasers en prisma's in de catacomben van Technische Natuurkunde. 
+Dat lijkt misschien kinderspel - drie meter in plaats van ruim honderd kilometer, erkent Hanson. 'Maar de opwinding was niet gering. Weten dat twee deeltjes met elkaar verbonden zijn terwijl je je handen er tussendoor kunt halen, blijft wonderbaarlijk.' 
+Over de resultaten sprak hij onlangs voor het eerst op een conferentie in Berlijn. Een artikel erover is al ingediend bij een van de topbladen. 
+Cruciaal is terugkoppeling in het systeem, waardoor alleen bij een geslaagde verstrengeling de atoomtoestand wordt geteleporteerd. Hanson: 'Alle experimenten tot nu toe - ook die van Zeilinger - werken af en toe. Je weet eigenlijk nooit wanneer. Voor technische toepassingen is dat natuurlijk onbruikbaar.' 
+En die toepassingen, daar draait het aan een technische universiteit als die van Delft wel degelijk om. Het draadloos en op afstand koppelen van atomaire geheugenelementen is bijvoorbeeld belangrijk voor quantumcomputers. Dat zijn rekenmachines die de natuurlijke quantumgeschiftheid gebruiken om niet één digitale berekening te maken, maar talloze tegelijk. 
+Maar dat is de betrekkelijk verre toekomst. Het belangrijkste wat het Delftse experiment over een afstand van een kilometer eerst maar eens moet opleveren is een echt waterdicht bewijs dat het om zuivere verstrengeling van een atoomtoestand gaat. Want strikt genomen heeft er in alle proeven tot nu toe een klassiek achterdeurtje opengestaan. Weliswaar wisten onderzoekers twee deeltjes te verstrengelen. Maar of het ene deeltje een meting aan het andere echt onmiddellijk voelt, is nog nooit overtuigend gemeten. 
+Om dat aan te tonen dient de glasvezelverbinding tussen Hansons lab en dat in de reactor achter de snelweg. Het experiment is zo ingericht dat te meten is of de manipulatie in het ene lab en het effect in het andere gelijktijdig optreden of dat er misschien toch informatie met de lichtsnelheid van het ene deeltje naar het andere gaat. 
+Hanson: 'We hebben met ons experiment over drie meter laten zien dat ons systeem werkt zoals de quantumtheorie voorspelt. Nu is het tijd voor de volgende stap.' 
+Terug naar de Mekelweg. Ergens halverwege het traject steken in een kelder twee rode uiteinden glasvezelkabel uit de muur. Een komt vanuit Hansons eigen lab, het andere komt met dank aan technicus Teus vanuit het reactorlab. Hier, wijst Hanson in de kale, tl-verlichte betonnen ruimte om zich heen, zal de koppeling plaatsvinden en het antwoord op de schermen verschijnen: spookachtig of toch niet. 
+Terugwandelend naar zijn eigen lab wijst Hanson naar putdeksels op het TU-terrein. Er fietsen studenten voorbij. Die put daar hoort er ook bij. En die. Hij is, zegt Hanson, de laatste maanden echt anders naar de Delftse campus gaan kijken, en hij maakt een weids gebaar. 'Eigenlijk is het nu allemaal mijn quantumlab.' 
+VIJF VRAGEN 
+1. Wat is teleportatie? 
+Het overzenden van fysische objecten, zonder dat ze fysiek worden verplaatst - ongeveer zoals een foto met de fax of via e-mail kan worden verstuurd. Bij teleportatie wordt de fysische toestand van een object overgezet van de bron naar de ontvanger, die die toestand in een nieuw object recreëert. 
+2. Wat is dan quantumteleportatie? 
+In de quantumwereld kunnen deeltjes met elkaar verstrengeld blijven, hoe ver ze ook uit elkaar raken. Door het ene deeltje te manipuleren, verandert ook het andere deeltje. 
+Dat biedt een kanaal om een quantumtoestand over een grote afstand te verplaatsen. 
+3. Kan dat echt? 
+Ja, al zijn de bewijzen nog niet helemaal waterdicht. In experimenten worden al jaren deeltjestoestanden en zelfs atoomtoestanden geteleporteerd, over meters en soms zelfs kilometers. 
+4. En captain Kirk? 
+Een heel mens is geen quantumobject. Quantumteleportatie zal daardoor niet werken. En gewoon teleporteren is onbegonnen werk: objecten van meer dan een paar atomen zijn te ingewikkeld om alle informatie erover te kunnen verzamelen en versturen. 
+5. Wat heb je er dan aan? 
+Quantumteleportatie is wetenschappelijk opwindend genoeg. Toepassingen ervan zijn voorzien in quantumcomputers, waarin geschifte deeltjestoestanden enorme extra rekenkracht geven. De communicatie tussen die deeltjestoestanden zou via verstengeling en teleportatie kunnen verlopen. 
+EINSTEINS BEZWAAR 
+Spooky action at a distance noemt de natuurkunde het: deeltjes die ongeacht hun afstand met elkaar verbonden blijven. Albert Einstein moest er niks van hebben, en zag er zelfs de sleutel in van zijn aanvallen op de quantumtheorie van Niels Bohr. Als deeltjes elkaar blijven voelen, meende Einstein, kunnen ze sneller dan het licht signalen overbrengen. Dat kan niet. Maar quantumtheoretici zijn niet voor één gat te vangen. Om een echt signaal via verstrengeling over te zetten, zeggen ze, moet de ontvanger een gewoon bericht ontvangen over hoe hij zijn apparatuur moet instellen. Die instructie kan hooguit met de lichtsnelheid worden gestuurd. Einstein kan tevreden zijn. Maar bij de meting zal de ontvanger wel degelijk zien dat zijn deeltje inderdaad direct heeft 'gevoeld' wat het andere deeltje is overkomen. Onbegrijpelijk, vond Einstein. 
+Graphic
+
+ 
+Optische tafel aan de TU Delft, beginpunt voor het experiment met quantumteleportatie over ruim een kilometer.
+Foto FOM
+Ronald Hanson
+Foto Ilja Keijzer
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: de Volkskrant
+Subject: Physics (94%); Educational Institution Employees (75%); Standards + 
+Measurements (71%); Awards + Prizes (63%)
+Industry: Computing + Information Technology (80%)
+Load-Date: April 4, 2014
+
+End of Document
+Beam me up, Delft
+
+Beam me up, Delft
+
+Page 2 of 6
+
+Page 2 of 6
+
+
+
+
+

@@ -1,0 +1,31 @@
+Geheimschrift
+De Telegraaf 
+1 oktober 2019 dinsdag Gehele Oplage
+Copyright 2019 De Telegraaf All Rights Reserved
+
+Section: THEMA; Blz. 11
+Length: 429 words
+Body
+
+Het lijkt erop dat we zomaar eens aan het begin zouden kunnen staan van een  nieuw computertijdperk. Het draait allemaal om een totaal nieuw type computer:  de quantumcomputer. Al jaren strijden bedrijven als Google, Intel en IBM -maar  ook het Delftse bedrijf QuTech- om als eerste een quantumcomputer te  ontwikkelen die taken kan uitvoeren die met een klassieke computer niet  mogelijk zijn.
+Nu lijkt het erop dat Google een quantumcomputer heeft die in tweehonderd  seconden een taak heeft uitgevoerd, waar een klassieke computer tienduizend  jaar over doet. Dat is een technologisch hoogstandje. We weten dit, omdat dit  nieuws voortijdig uitlekte. Andere wetenschappers gaan het eerst nog checken,  voordat Google het officieel bekend zal maken.
+Medicijn
+We staan nog maar aan het begin van de ontwikkeling. De uitgevoerde taak heeft  nog geen directe toepassing. Maar het is wel een belangrijke doorbraak die ons  doet fantaseren over toekomstige toepassingen. Het kan ons helpen om razendsnel  moleculen te vinden die als medicijn kunnen dienen, of materialen die bij  kamertemperatuur nog supergeleidend zijn. Ook het oplossen van zeer complexe  logistieke puzzels, en het maken van kunstmatige intelligentie behoren tot de  mogelijkheden.
+Als de quantumcomputer gerealiseerd is, zal hij de rekenkracht van klassieke  computers op spectaculaire wijze overtreffen. Door de ontwikkeling van steeds  kleinere en krachtigere chips, verdubbelt de rekenkracht van de klassieke  computers iedere 
+Geheimschrift
+twee jaar. Deze wetmatigheid noemt men de 'Wet van Moore', die  exponentiële groei voorspelt.
+De klassieke computer rekent met bits die aan of uit kunnen staan, ofwel de  waarde 1 of 0 hebben. De quantumcomputer rekent met 'quantumbits' of 'qubits',  die beide waarden tegelijk kan aannemen. Dit verklaart mede de grotere  rekenkracht van een serie qubits. Volgens Google-onderzoeker Hartmut Even zal  de rekenkracht van de quantumcomputer dubbel-exponentieel toenemen. Dit zou  natuurlijk ook leiden tot ongekende toepassingsmogelijkheden.
+Kwetsbaar
+Niet iedereen is overtuigd dat deze snelle groei haalbaar is. De gebruikte  qubits zijn heel kwetsbaar, waardoor ze niet allemaal functioneel zijn.
+Maar alles wijst erop dat de quantumcomputer eraan komt. Daar moeten we nu al  rekening mee houden. Het levert veel mogelijkheden op, maar ook potentiële  problemen. De encryptie, waarmee ons e-mailverkeer beveiligd wordt, zal in een  oogwenk te kraken zijn. En als ik de geheime dienst was, zou ik alvast een  alternatief gaan bedenken voor mijn geheimschrift.
+E-mail in oogwenk te kraken
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: telegraaf,Telegraph
+Industry: Computing + Information Technology (94%); Computer Equipment (63%)
+Load-Date: September 30, 2019
+
+End of Document
+Page 2 of 2

@@ -1,0 +1,52 @@
+Ver kijken met uiterste precisie
+AD/Algemeen Dagblad
+29 februari 2020 zaterdag
+Copyright 2020 DPG Media B.V. All Rights Reserved
+
+Section: Centraal Z; Blz. 10, 11
+Length: 1000 words
+Byline: HANS VAN ZON
+Highlight: TNO Space is een wereldspeler in de ruimtevaarttechnologie. Ook NASA klopt aan bij de wetenschappers in Delft. ,,In optica, het superverfijnd kijken, behoren we tot de top'', zegt Kees Buijsrogge, directeur Space & Scientific Instrumentation TNO.
+Body
+
+TNO Space in Delft speeltrol in ruimtevaart
+Overal is er dat gevoel van trots. Trots op het werk, op de geboekte resultaten en de internationale waardering daarvoor. Die resultaten zijn ook niet mis. TNO Space & Scientific Instrumentation levert belangrijke bijdragen aan de 'Champions League' van de ruimtevaart. Een ervan is een monitoringssysteem dat een cruciale rol speelt in de missie van Gaia. Deze satelliet van de Europese ruimtevaartorganisatie ESA werkt sinds 2014 aan een driedimensionale kaart van meer dan een miljard sterren in ons melkwegstelsel. TNO heeft een meetsysteem ontwikkeld om het gedrag van Gaia's telescoopspiegels in de ruimte volgen. Die gedragen zich ook anders dan verwacht. ,,De metingen van Gaia zijn ongelooflijk nauwkeurig. Vergelijk het met het meten van de doorsnede van een menselijke haar op een afstand van duizend kilometer'', legt Kees Buijsrogge uit. ,,Zulke precisiemetingen vragen om een ultrahoge stabiliteit. Dat bereiken we door gebruik te maken van siliciumcarbide voor de optomechanische delen van het instrumentarium.'' Siliciumcarbide is het op een na hardste materiaal dat er bestaat. 
+Ook op het gebied van de ontwikkeling van instrumenten voor aardobservatie staat TNO Space zijn mannetje. Een boegbeeld daarvan is Tropomi, waar consortiumpartners 
+Airbus NL, KNMI en SRON in deelnemen. Met Tromponi wordt sinds 2017 wereldwijd met grote precisie - met een grondresolutie van 3,5 bij 5 vierkante kilometer - de luchtkwaliteit en de uitstoot van broeikasgassen gemeten. Met behulp van een spectrometer bekijkt Tropomi de atmosfeer tot op moleculair niveau om onder meer koolmonoxide, methaan, stikstofdioxide en ozon in kaart te brengen. ,,Tropomi en zijn opvolger Sentinel 5 - waaraan we nu werken - zijn van groot belang voor onze kennis van klimaatverandering en luchtvervuiling. Vergeet niet dat luchtvervuiling wereldwijd voor meer dan vier miljoen gevallen van vroegtijdige sterfte zorgt'', zegt business developer Anton Leemhuis. ,,Nu hoeven we de uitstoot niet meer te schatten maar kunnen we die onafhankelijk en betrouwbaar meten. Deze apparatuur, die als een scanner over het aardoppervlak scheert, houdt ons pas echt bij de les.'' Hij geeft een voorbeeld. ,,Boven Turkmenistan werd vorig jaar een enorm methaanlek ontdekt bij steenkoolmijnen.'' Het lek is inmiddels gedicht. Daarmee voldoet TNO (een onafhankelijke organisatie, opgericht in 1932, met nu in totaal 3000 werknemers) aan zijn missie om het welzijn van de samenleving duurzaam te verbeteren. 
+De meetapparatuur van Tropomi en Sentinel 5 liften nog mee op traditionele, grote satellieten. ,,Met een gewicht van zo'n honderd kilo'', zegt Leemhuis. TNO Space werkt nu ook aan de ontwikkeling van 'piepkleine' instrumenten op satellieten ter grootte van een flink melkpak. ,,Die kunstmanen zijn compacter en goedkoper, wegen nog maar twintig kilo'', legt de TNO-specialist uit. 
+In een werkruimte van het laboratorium wordt druk gewerkt aan een prototype van optisch instrumentarium voor een 'piepkleine' satelliet. ,,Het moet werken als een vergrootglas waarmee je nog meer kunt inzoomen op details'', zegt Leemhuis. Een ander cruciaal aspect is de overdracht van de metingen. Die moeten op een veilige, correcte manier de aarde bereiken voor verwerking van alle resultaten. Deze opdracht - in drie stappen - maakte de positie van TNO Space als ontwikkelaar van technologie voor aardobservatie uniek. ,,De organisatie is én toeleverancier van optiek voor wetenschappelijke missies, én bouwer van kleine satellietinstrumenten én draagt bij aan de verwerking van alle verkregen data'', aldus Leemhuis. 
+Dat laatste raakt meteen een andere kernactiviteit van TNO Space: het mogelijk maken van veilige, 'breedbandige' communicatie tussen satellieten en de aarde. Met behulp van laser- en radiofrequentie. Ook in dit geval is TNO Space een wereldspeler. ,,Communicatie van drones en satellieten wordt nu soms gestoord en afgeluisterd. Het gebruik van lasers heeft grote voordelen. ,,Ze zijn energiezuiniger en veiliger. Je kunt met behulp van quantumtechnologie de communicatiestroom versleutelen, voor het versturen van 100 procent veilige informatie'', zegt Niel Truyens, specialist op dit terrein. ,,Hiervoor werken we in een project al samen met ABN Amro.'' 
+Het project is bij lange na niet de enige samenwerking met Nederlandse bedrijven. TNO 
+Space werkt ook nauw samen met bijvoorbeeld VDL in Eindhoven, Demcon (ontwikkelaar van de eerste 3D-printer ter wereld die glas print), Hyperion Technologies 
+(bouwer van star trackers en satellietplatforms) en bijvoorbeeld Nedinsco in Venlo 
+(optische apparatuur). Op Europees niveau is Airbus een belangrijke partner. Kees Buijsrogge loopt naar een van de vele producten die de samenwerking oplevert. ,,Dit is een prototype dat we samen hebben ontwikkeld met VDL. Dit is een steun voor de 798 segmenten van de hoofdspiegel van de grootste telescoop ter wereld, de Extremely Large Telescope die wordt gebouwd in Chili'', aldus topman Buijsrogge. Het gaat om een uiterst complexe ondersteuning die gekoppeld aan duizenden anderen ervoor moet zorgen dat de hoofdspiegel onder alle omstandigheden - tot op de nanometer - op zijn plaats blijft. Alleen dan kan met de grootste optische infraroodtelescoop ooit met grote nauwkeurigheid diep het heelal worden bestudeerd. 
+TNO Space heeft de constructie bedacht en met VDL verder uitgewerkt voor productie. 
+Het bedrijf heeft er een aparte lijn voor opgezet om het cruciale onderdeel voor de Extremely Large Telescope te kunnen leveren. ,,En dat raakt nu een andere belangrijke opdracht van TNO Space: de concurrentiekracht van bedrijven duurzaam versterken'', zegt Kees Buijsrogge. ,,Hiermee voeden we het bedrijfsleven. Met het ontwikkelen van dit soort baanbrekende concepten en ontwerpen staan we aan de basis van industriële samenwerking en serieproductie in Nederland.''
+'Vergelijk het met het meten van een haar op duizend kilometer afstand'
+Bekijk de oorspronkelijke pagina: pagina 10, pagina 11
+Graphic
+
+ 
+Artist impression van de Extremely Large Telescope, die in Chili wordt gebouwd.
+TNO ontwikkelde de steun voor de hoofdspiegel van de Extremely Large Telescope in Chile.
+Kees Buijsrogge.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Spacecraft (93%)
+Industry: Space Industry (94%); Telecommunications (87%); Aerospace Industry (82%) Load-Date: February 28, 2020
+
+End of Document
+Ver kijken met uiterste precisie
+
+Ver kijken met uiterste precisie
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

@@ -1,0 +1,56 @@
+Een bit voor de toekomst 
+de Volkskrant
+3 maart 2012 zaterdag
+Copyright 2012 PCM Uitgevers B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 1
+Length: 1006 words
+Byline: Door  Martijn van Calmthout
+Body
+
+Delftse natuurkundigen hebben het ontbrekende ingrediënt voor quantumcomputers gevonden. Het Majorana-fermion, een exotisch deeltje dat al in 1937 werd voorspeld maar nooit in het wild is gezien, blijkt te ontstaan in hun speciale nanochips. Door Martijn van Calmthout
+Eigenlijk had hij een populair wetenschappelijk boek over het intrigerende van het quantum willen schrijven, en dus nam de Delftse fysicus en Spinozaprijswinnaar Leo Kouwenhoven december 2010 zijn laptop mee, zijn aantekeningen en een hoop ideeën. Op naar New York, voor een sabbatical. Gezin mee. Even eruit, bijtanken.
+Het liep dus ietwat anders, vertelde hij een paar hectische maanden verder, toen we hem terug in Delft na lang aandringen eindelijk aan het praten hadden over zijn droom: het ontdekken van de computerbit van de toekomst.
+Dat kwam zo. Kouwenhoven werd in de eerste week in New York gebeld door de topresearchers van Microsoft, bij Michael Friedman in Santa Barbara. Of hij eens wilde komen praten. En voor hij het wist was er dat miljoen dollar, bedoeld om zijn eerdere werk in Delft aan halfgeleidernanodraadjes verder uit te bouwen. 'We hadden jaren daarvoor een paar leuke publicaties gehad, maar dachten daarna dat het wel klaar was. Iedereen was weg, of aan iets anders begonnen. Daar dacht Microsoft duidelijk anders over.'
+Nadat natuurkundefinancier FOM een tweede miljoen had bijgepast, ging Kouwenhoven aan de slag. Opdracht: zoek een deeltje waar al generaties onderzoekers tevergeefs naar hebben gespeurd, maar dat op papier het perfecte ingrediënt lijkt voor de computer van de toekomst, de quantumcomputer.
+Op papier is zo'n quantumcomputer bijna een wonder. Laat een rekenmachine niet met concrete enen en nullen werken, maar met eenheden die zowel een 1 als een 0 zijn, en het rekenvermogen neemt explosief toe. Ideaal voor massale rekenklussen, zoals het kraken of genereren van geheime codes. Banken en militairen hebben er niet voor niets zoveel belangstelling voor, in de VS maar ook hier.
+Er is maar één probleem. Quantumcomputers zijn tot nu toe gebaseerd op zulke subtiele natuurkunde, dat het maar de vraag is of ze ooit praktisch bruikbaar kunnen worden. Tenzij er zoiets als een stabiel qubit te bedenken is. Maar is dat er?
+Het antwoord op die vraag is sinds begin deze week bekend: geen paniek, waarschijnlijk wel. Kouwenhoven presenteerde althans met een aantal van zijn postdocs en promovendi op de jaarvergadering van de Amerikaanse natuurkundevereniging APS in Boston het lang gezochte eerste bewijs dat de gedroomde bouwsteen voor zo'n qubit bestaat. 'Hebben we Majorana-fermionen gezien? Ik zou zeggen, een voorzichtig ja', zo besloot hij zijn praatje behoedzaam maar veelzeggend.
+Daarna brak in de afgeladen zaal een pandemonium los. De ontdekking gonsde door de wandelgangen, Nature en andere grote media kwamen met breaking news. De Majorana bestaat. Niet in het wild misschien wat waarschijnlijk theoretici teleurstelt die meenden dat het merendeel van de donkere materie in het universum uit Majorana's zou kunnen bestaan. Maar hij is wel te máken.
+Concept
+Een dag later wil Kouwenhoven, ook na enig aandringen, niet praten. Er is, zo mailt hij vanuit Boston, nog helemaal geen publicatie van de nieuwe resultaten. Ja, er is een concept aangeboden aan topblad Physical Review Letters, en daarvan heeft hij op de APS-conferentie alvast wat laten zien aan collega's. Maar totdat het artikel ergens is geaccepteerd, praat hij er absoluut niet over met de media. Het kan namelijk ook nog gewoon fout zijn, en afgewezen worden. Zo doe je dat, als verantwoordelijk onderzoeker.
+Het maakt de opwinding onder natuurkundigen en in de media er niet minder op. Meer dan tachtig jaar leidde het tragische Italiaanse genie Ettore Majorana (zie pagina 3) uit de theorie af dat elektronen niet alleen een positief geladen broertje hebben, maar mogelijk nóg een exotisch familielid.
+Precies dat Majorana-fermion lijkt eindelijk gevonden. Niet met een deeltjesversneller of ergens in de kosmische straling. Maar op een chip met nanodraden, bedacht, gemaakt en beproefd door Leo Kouwenhoven in Delft. Op aandringen van Microsoft. In minder dan een jaar tijd.
+Rond 2005 begonnen theoretici in hun formules voor nanostructuren van half- en supergeleiders vergelijkbare dingen te zien als Majorana destijds voor elektronen opschreef. Onder bepaalde omstandigheden blijken de fysische eigenschappen daarin zo samen te spannen dat op specifieke plaatsen in een structuur ladingsconcentraties ontstaan die je zou kunnen opvatten als een deeltje. Sterker, wie de vergelijkingen beter bestudeert, komt zelfs tot het opwindende conclusie dat dergelijke quasideeltjes zich als de befaamde Majorana-fermionen zouden moeten gedragen. Het leek erop dat je Majorana's niet moest zóeken. Je moest ze máken.
+Ongeveer rond dezelfde tijd deed de groep van Kouwenhoven in Delft uitgebreid onderzoek naar de quantummechanische eigenschappen van nanodraden van uiteenlopende halfgeleiders, waaronder indium-arsenide en indium-antimoon. De proeven gaven interessante inzichten in de stroomgeleiding door zulke ragfijne draadjes, maar daarmee leek de kous ook wel af. Voer voor fysici niet minder, maar ook niet meer.
+Dat veranderde toen theoretici begonnen na te denken over de invloed die een dergelijk quantumdraadje zou hebben op een supergeleidend oppervlak er vlak onder. Wanneer op een slimme manier ook nog magneetvelden en elektrische stroompjes worden gebruikt, ontstaan aan weerszijden aan de uiteinden van het draadje twee geladen gebiedjes, die zich als een deeltjespaar gedragen. Maar papier is maar papier. Alleen métingen konden uitwijzen of de quasideeltjes echte Majorana's zijn.
+Kouwenhoven en zijn groep hebben jarenlange ervaring met het construeren van nanostructuren op chips en dus produceerden ze in hun nanolabs betrekkelijk eenvoudig de structuren die de theoretici hen voorrekenden, deden reeksen stroommetingen onder allerlei onstandigheden en leidden uit de gegevens af wat voorspeld was: Majorana's maken doe je zo.
+Ô LEES VERDER OP PAGINA 3
+Graphic
+
+ 
+De Delftse nanodraad (brug) op een chip. Onder de juiste condities ontstaan Majoranadeeltjes aan de uiteinden. Foto TUDelft 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: De Volkskrant
+Subject: Superconductors (84%); Physics (81%); Educational Institution Employees 
+(67%); Nanotechnology (67%)
+Company:  MICROSOFT CORP (56%)
+Industry: Computing + Information Technology (94%)
+Load-Date: March 2, 2012
+
+End of Document
+Een bit voor de toekomst
+
+Een bit voor de toekomst
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

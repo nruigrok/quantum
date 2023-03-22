@@ -1,0 +1,26 @@
+Star Trek-internet in zicht
+De Telegraaf
+30 mei 2014 vrijdag
+Copyright 2014 De Telegraaf All Rights Reserved
+
+Section: Binnenland; Blz. 3
+Length: 373 words
+Body
+
+Van onzewetenschapsredactie  DELFT, vrijdag  Onderzoekers van het Kavli Institute of Nanoscience van de TU Delft zijn er als eersten in geslaagd om informatie via teleportatie te verplaatsen.  De informatie werd verzonden via een kwantumbit   de opvolger van de vertrouwde computerbit   naar een tweede kwantumbit drie meter verderop. De verplaatsing is bijzonder omdat dit gebeurt zonder dat de informatie fysiek, via kabels of de ether, door de tussenliggende ruimte reist. Ook is er geen verschil tussen vertrek- en aankomsttijd van de data.  
+        Met de succesvolle verplaatsing leveren de wetenschappers een cruciale bijdrage aan de bouw van het kwantuminternet. Omdat de informatie niet 'reist' maar gelijktijdig op zowel plaats A als B is, biedt het kwantumnetwerk de mogelijkheid om informatie volkomen veilig te versturen. Onopgemerkt afluisteren is in dit netwerk fundamenteel onmogelijk.  
+        Supersnel  De geslaagde test is uiterst belangrijk voor de nieuwe generatie van supersnelle kwantumcomputers. Deze computers zullen bepaalde rekenproblemen waar de huidige generatie supercomputers nu jaren over doen, in een oogwenk oplossen.   
+        Onderzoeksleider professor Ronald Hanson van het Kavli Institute of Nanoscience van de TU Delft:  Mensen teleporteren, zoals in de sciencefictionfilm Star Trek, is volgens de natuurwetten niet mogelijk. Maar informatie teleporteren kan vanaf nu wel degelijk. Het kwantuminternet moet straks een netwerk van ongekend snelle kwantumcomputers met elkaar verbinden.   
+Star Trek-internet in zicht
+        De wetenschappers maakten bij de test gebruik van het bijzondere fenomeen 'verstrengeling'. Hanson:  Verstrengeling is misschien wel het meest intrigerende gevolg van de wetten van de kwantummechanica. Als twee deeltjes verstrengeld zijn, smelten hun identiteiten samen. De identiteit van elk afzonderlijk deeltje is verdwenen. De verstrengelde deeltjes gedragen zich als één, ook als ze ver van elkaar verwijderd zijn. In ons geval was dat drie meter, maar dat zou in theorie ook de andere kant van het universum kunnen zijn. Albert Einstein geloofde deze voorspelling niet en noemde dit 'spooky action at a distance', maar talloze experimenten hebben laten zien dat verstrengeling wel degelijk bestaat.   
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: Telegraaf
+Subject: Physics (69%); Experimentation + Research (63%)
+Industry: Computing + Information Technology (94%)
+Load-Date: May 29, 2014
+
+End of Document
+Page 2 of 2

@@ -1,0 +1,50 @@
+Quantuminternet is altijd veilig
+NRC Handelsblad 
+07 July 2018 NH zaterdag
+Copyright 2018 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 6
+Length: 1143 words
+Byline: Dorine Schenk
+Body
+
+ABSTRACT
+Natuurkunde
+In Delft wordt het eerste quantumnetwerk ooit gemaakt; het moet straks de stad verbinden met Leiden, Den Haag en Amsterdam.
+7 Verstrengeld Het quantum-internet komt eraan
+Het quantuminternet komt eraan. Via deze netwerkverbinding kan quantuminformatie in de vorm van qubits verstuurd worden. Het heeft compleet andere eigenschappen dan ons huis-, tuin- en keukeninternet. Dankzij unieke quantumeigenschappen is het bijvoorbeeld onmogelijk om informatie die via deze verbinding verstuurd wordt, te onderscheppen. Het quantuminternet is dus gegarandeerd veilig. 
+Een kleinschalige, beperkte quantumverbinding bestaat al. Het is nu al mogelijk om over een afstand van meer dan 100 kilometer een relatief eenvoudige quantumverbinding aan te leggen met apparatuur die je in de (web)winkel koopt. Via deze verbinding kan geen quantuminformatie verstuurd worden. Het heeft slechts één toepassing: het maken van quantumsleutels: een soort code waarmee een bericht versleuteld kan worden waardoor het onleesbaar is voor mensen die de sleutel niet hebben. Dit maakt het onmogelijk om ongemerkt de sleutel te onderscheppen. Zo kan veilig een gemeenschappelijke sleutel gemaakt worden over de quantumverbinding; daarmee versleutel je  geheime informatie en stuurt die over een gewone verbinding naar de ontvanger, die dezelfde quantumsleutel heeft en de daarmee de verstuurde informatie kan ontsleutelen.
+Nu willen onderzoekers deze verbinding uitbreiden naar een netwerk waarmee daadwerkelijk quantuminformatie over grotere afstanden verstuurd kan worden. Hiervoor zijn meerdere quantumknooppunten nodig. Het bouwen van zo'n quantumnetwerk is niet eenvoudig. De bouwstenen van het netwerk zijn fragiele 'verstrengelde' deeltjes - daarover later meer. Een kleine verstoring kan de verstrengelde band breken.
+Maar dat houdt de onderzoekers van QuTech - het quantuminstituut waarin TU Delft en TNO nauw samenwerken - niet tegen. Ze hebben een ambitieus plan: in 2020 willen ze, in samenwerking met onder meer KPN, de vier steden Delft, Den Haag, Leiden en Amsterdam met elkaar verbinden via het eerste quantumnetwerk ter wereld. Eind dit jaar moet de eerste verbinding (tussen Delft en Den Haag) er zijn. De glasvezelkabel die dit waar gaat maken, ligt er al. In Delft komt de blauwe kabel uit de muur in een lab in de kelder van QuTech. ,,Vier maanden gelden was dit lab er nog niet", vertelt postdoc Peter Humphreys van QuTech. ,,En nu werken we er aan de eerste quantumverbinding over een afstand van ongeveer 25 kilometer van de TU Delft naar het centrum van Den Haag." In de pas geschilderde ruimte zitten een aantal mensen achter bureaus naast kasten vol elektronische apparatuur. Een deel is al aangesloten, maar de vele losse kabels laten zien dat er nog van alles moet gebeuren.
+Quantumverstrengeling
+De onderzoekers hebben reden om optimistisch te zijn. Halverwege juni hebben ze een belangrijke stap in het ontwikkelen van quantuminternet gezet. Het lukte voor het eerst om sneller quantumverstrengelde deeltjes te produceren dan dat die verstrengeling verloren gaat. Dat maakt het mogelijk om de verstrengeling lang genoeg in stand te houden om een quantumnetwerk te maken met drie of meer knooppunten. De Delftse resultaten verschenen in Nature. 
+Maar wat is die verstrengeling en hoe zorgt het voor een veilige verbinding? ,,Gewoon internet werkt met bits, een '1' of een '0'", vertelt hoogleraar Ronald Hanson, wetenschappelijk directeur van QuTech. ,,Qubits kunnen daarentegen tegelijkertijd een '1' en een '0' zijn. Dat maakt dat qubits meer informatie kunnen bevatten dan bits en het zorgt ervoor dat je ze kunt verstrengelen."
+Als twee qubits verstrengeld zijn, hebben ze een bijzondere band die ze enkel met elkaar delen. ,,Als je twee verstrengelde qubits heel ver bij elkaar vandaan haalt en je doet op beide plekken dezelfde meting, dan krijg je bij allebei hetzelfde resultaat", legt hoogleraar Stephanie Wehner uit. Wehner leidt de zogenoemde roadmap Quantum Internet bij QuTech. ,,Die meting kun je zien als een vraag die je aan het deeltje stelt, bijvoorbeeld: zullen we naar links of naar rechts gaan? Verstrengelde deeltjes zijn maximaal gecorreleerd, dat betekent dat ze altijd hetzelfde antwoord geven. Dus als de ene links zegt, zegt de andere ook links. Dit gebeurt onmiddellijk, dus ook als de deeltjes zo ver bij elkaar vandaan zijn, dat ze niet met elkaar kunnen communiceren." 
+Klokken lopen exact gelijk
+Die verstrengeling heeft twee gekke quantumeigenschappen die gewoon internet niet heeft. ,,Alle unieke toepassingen van het toekomstige quantuminternet zijn terug te leiden tot die twee eigenschappen", vertelt Wehner. De eerste is monogamie; de verstrengeling kan niet gedeeld worden tussen meer dan twee deeltjes. Als er een derde bij komt, bijvoorbeeld omdat iemand probeert mee te luisteren, dan raakt de verstrengeling verbroken. Dat maakt een quantumnetwerk een veilige manier om een sleutel te delen waarmee geheime informatie, zoals een banktransactie of een e-mail met gevoelige informatie, versleuteld kan worden.
+De tweede eigenschap is maximale correlatie tussen twee verstrengelde qubits, die ervoor zorgt dat als je aan twee qubits dezelfde meting doet, je onmiddellijk hetzelfde resultaat vindt. Dat maakt ze bijvoorbeeld geschikt om klokken exact gelijk te laten lopen. Ook kan het een correlatie tussen je digitale bankrekening en een pinautomaat tot stand brengen. Stel dat er een storing is bij een pinautomaat precies op het moment dat je 1.000 euro wilt pinnen. Als de storing precies optreedt in de korte tijd tussen het afschrijven van de rekening en het uitkeren door de pinautomaat, dan is het bedrag wel van je digitale rekening afgeschreven, maar niet uit de pinautomaat gekomen. Met een quantumverbinding gebeurt dat niet, omdat de correlatie tussen verstrengelde deeltjes ogenblikkelijk is. Het saldo op je rekening komt op elk moment overeen met wat je hebt opgenomen. 
+Deze toepassingen vereisen dat er meerdere verstrengelde qubits stabiel over een grote afstand verstuurd kunnen worden. Zover zijn de onderzoekers van QuTech nog niet. ,,We kunnen nu veertig verstrengelingen per seconde maken die bijna een seconde leven", zegt Hanson. ,,Dat is nog niet genoeg voor quantuminternet, maar het is een grote sprong. We kunnen voor het eerst gaan kijken naar een netwerk van 
+verstrengeling, in plaats van naar twee verstrengelde deeltjes."
+In het begin zal een quantumverbinding nog bijzonder en duur zijn. Waarschijnlijk is het dan exclusief iets voor bedrijven die gevoelige informatie over een ultiem beveiligde verbinding willen versturen. ,,Pas later zal het iets worden dat iedereen thuis kan gebruiken", zegt Hanson. ,,Ik doe geen uitspraken over wanneer. Het hangt er vanaf hoe snel de ontwikkelingen gaan en hoeveel het kost."
+Qubits zijn monogaam: ze vormen een band met één ander deeltje
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Industry: Computing + Information Technology (94%); Internet + Www (61%)
+Load-Date: July 6, 2018
+
+End of Document
+Quantuminternet is altijd veilig
+
+Quantuminternet is altijd veilig
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

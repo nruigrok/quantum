@@ -1,0 +1,62 @@
+Het diepe idee op de bodem van een kopje
+NRC Handelsblad
+28 februari 2015 zaterdag
+Copyright 2015 NRC Media B.V. All Rights Reserved
+
+Section: Wetenschap
+Length: 1469 words
+Byline: Door Bruno van Wayenburg
+Body
+
+NatuurkundeSir Michael Berry, die deze week de Lorentzmedaille won, breekt zich het hoofd over lichtvlekken in klotsende meertjes. Maar hij droeg ook bij aan de quantummechanica, chaostheorie en de laatste optica.  
+Het vakgebied natuurkunde gaat, ondanks die mooie benaming, nog maar zelden over de natuur waarin wij dagelijks rondlopen. Maar wel bij Sir Michael Berry. De Britse opticus heeft een bijzondere belangstelling voor regenbogen, weerspiegelingen van de zon in het water en de manier waarop licht valt in een theekopje.  
+Afgelopen dinsdag kreeg Berry (1941), emeritus hoogleraar aan de University of Bristol, in Amsterdam de Lorentzmedaille van de Koninklijke Nederlandse Akademie van Wetenschappen (KNAW). Deze vierjaarlijkse prijs voor theoretisch natuurkundigen werd eerder uitgereikt aan grootheden als Frank Wilczek, Gerard 't Hooft en - de eerste in 1927- naar Max Planck.  
+In een geoliede lezing in onderkoelde Britse stijl (,,oh, ik lees nu de verkeerde lezing voor, zie ik. Nou ja, geen probleem") kwamen hemelverschijnselen voorbij, lichtstralen in water, en experimenten met spiegelende bollen.  
+Maar Berry is óók een eenentwintigste-eeuwse natuurkundige, vaardig met zware wiskunde en geïnteresseerd in quantumchaos en de optica van singulariteiten die hij pionierde. De Lorentzmedaille is hem toegekend voor zijn ontdekking van de 'geometrische fase', ook wel Berry-fase. Dat is een quantummechanisch effect waardoor deeltjes in zekere zin onthouden welke route ze hebben afgelegd. Het is het effect waardoor het veelbesproken Majorana-deeltje een quantumcomputer mogelijk zou kunnen maken.  
+Wat voor natuurkundige bent u nu eigenlijk? 
+,,Een theoretisch natuurkundige, denk ik. Ik krabbel wat op papier, en speel met wiskunde op computers. Maar inderdaad, ik heb ook wel experimenten gedaan. Weet je dat 'theoretisch natuurkundige' als vak pas zo'n honderd jaar geleden ontstond? Misschien was Hendrik Antoon Lorentz zelf,  naar wie de prijs is genoemd, wel de eerste. Daarvóór was je gewoon natuurkundige, of natural philosopher, dat was ik ook graag geweest. 
+,,De belangstelling begon bij mij als kind, bij astronomie zoals je zo vaak hoort. Bij ons thuis was het niet gezellig, mijn vader sloeg mijn moeder. Ik denk dat astronomie een ontsnapping naar een wereld buiten de zorgen en problemen van mensen was.  
+,,Als je astronoom wilde worden, moest je natuurkunde studeren, en ik ontdekte dat dat me nog meer aansprak. Ik houd van de manier waarop de grote concepten - wanorde, interferentie, golven - in verschillende gedaanten overal in de natuur verschijnen. Ik was er niet echt goed in tot halverwege mijn studie, toen ik mijn eigen stijl van werken vond." Wat is dat voor stijl? 
+,,Nou, ik ben niet erg competitief, ik werk graag aan dingen waar anderen niet aan werken. Soms groeit dat uit tot iets heel groots, de geometrische fase bijvoorbeeld, en dat is mooi, maar dan ben ik alweer met iets anders bezig. 
+,,Ik vind het mooi om met alledaagse verschijnselen diepe ideeën te illustreren. Een collega van me in Bristol zei: natuurkunde gaat niet alleen over de aard van verschillende dingen, maar ook over de verbindingen tussen die verschillende aarden van verschillende dingen. 
+,,Neem bijvoorbeeld 'caustieken'. Je kunt het heel wiskundig zeggen: 'caustieken zijn singulariteiten van gradiëntkaarten afhankelijk van een parameter.' Maar je zie het twinkelen van een ster, of een regenboog, of het dansen van het licht op de bodem van een buitenzwembad in de zon, dat zijn allemaal ook caustieken, en die kun je zo zien. 
+Maar wat zíjn caustieken dan precies? 
+,,Op school leer je dat lichtstralen die door een lens vallen, samenkomen in één punt, het brandpunt. Maar eigenlijk is dat de uitzondering. Het is heel moeilijk om goede lenzen te maken die dat doen. Het is veel typischer of normaler dat bundels van gebroken of gereflecteerde lichtstralen zich concentreren op gekromde lijnen. Die kun je bijvoorbeeld zien op de bodem van je theekopje. Een soort dubbel bil-profiel: dan zie je een caustiek, het woord is afgeleid  van het Griekse woord voor branden. 
+,,Maar eigenlijk is een caustiek een gekromd oppervlak in de driedimensionale ruimte. Wat je op de bodem van het kopje ziet, is waar die geconcentreerde stralen op de bodem raken. Als je oplet, zie je ze overal: in zwembaden, de regenboog is een caustiek, maar je ziet ze ook in de grillige lichtschijnsels als je met een bril op, in het donker en in de regen onder lantaarnpalen doorloopt, wat hier in Nederland vast ook voorkomt.   
+,,De natuurkunde zelf is oud, en gaat terug op Isaac Newton en zelfs Archimedes, maar de wiskundige structuren zijn pas in de jaren zeventig begrepen, en het uitwerken van details gaat nog altijd door. In Bristol hebben we daarvan voor de optica uitgewerkt. Het blijkt dat er een beperkt aantal stabiele basisvormen zijn, die je steeds ziet terugkomen, bijvoorbeeld de spitse 'cusp' als twee caustieken in een vlak elkaar raken. Die zie je bijvoorbeeld in het theekopje, en ook in de sterpatronen op je bril in de regen. 
+,,Complexere basisvormen kun je te zien krijgen in een plastic theekopje. Als je daarin op een bepaalde manier knijpt, kan de cusp opsplitsen in een complexere vorm, de zwaluwstaart. En zo zijn er nog ingewikkelder bouwstenen." 
+Een soort atomen? 
+,,Precies, het zijn stabiele basisvormen van alle caustieken. Dat is ook een mooi voorbeeld van het concept van 'typicaliteit'. Toen ik natuurkunde begon te studeren, was het vakgebied vooral gericht op natuurkundige basisproblemen die wiskundig compleet op te lossen zijn: bijvoorbeeld een slinger, of de planeetbanen. Die zijn mooi, maar ook vaak niet realistisch. 
+,,In plaats daarvan is natuurkunde nu meer een zoektocht naar wat typisch is: je stelt je een enorme variëteit aan verschijnselen voor, en gaat zoeken: wat is uitzonderlijk, en wat is normaal? En hoe kan ik die laatste verschijnselen classificeren in verschillende basisvormen, die ook vaak afhangen van de symmetrie van de situatie.  
+,,Het vinden van zulke typische voorbeelden, verschillende kristalpatronen of dus de basis-caustieken, brengt je dichter bij de essentiële eigenschappen van verschijnselen, maar je komt met dat begrip vaak ook weer verder met het rekenen. 
+,,De singuliere optica, waar je nu overal conferenties over ziet, bouwt ook weer voort op vergelijkbare ideeën." 
+In uw lezing noemde u lichtpolarisatie.  
+,,Dat verschijnsel is al heel lang bekend. Het gaat om verschillende trillingsrichtingen van de elektromagnetische straling. We weten al eeuwen dat een heldere blauwe hemel een polarisatiepatroon vertoont. In de buurt van de zon en recht tegenover de zon is het licht nauwelijks  gepolariseerd (beide trillingsrichtingen komen evenveel voor), maar in een hoek van 90 graden juist wel. 
+,,Dat heeft te maken met verstrooiing van licht door luchtmoleculen, maar tot voor kort was  de exacte vorm van het patroon aan de hemel niet helemaal begrepen. Te veel rekenwerk. Maar als je begrijpt dat in het hart van dit patroon vier structureel stabiele punten zitten, kun je tientallen pagina's berekeningen aan lichtverstrooiing reduceren tot één regel. De resultaten kloppen heel mooi met metingen van polarisatie aan de hemel." 
+Is het niet vreemd dat zo'n algemeen toegankelijk natuurverschijnsel pas zo recent helemaal begrepen is? 
+,,Ik weet het niet. Nog een voorbeeld is de 'glorie', een heel mooie regenboogachtige ring rond je schaduw, die je soms op de wolken kunt zien vanuit je vliegtuig, of als je in een mistig dal naar beneden kijkt. Die begrijpen we pas sinds 2002 helemaal. Ik heb inmiddels wel geleerd om nooit aan te nemen dat iets al begrepen is." 
+,,Het heeft ook te maken met de geschiedenis van de natuurkunde: in de negentiende eeuw begon de 'buiten'-natuurkunde heel populair te worden: de optica van de atmosfeer, halo's rond de zon. Maar toen kwamen de relativiteitstheorie, quantumfysica en deeltjesfysica, en die oude stijl van natuurkunde bedrijven raakte wat in de schaduw. Na de oorlog was er een revival dankzij de boeken van jullie Marcel Minnaert die ik zeer bewonder, over de natuurkunde van het vrije veld." 
+Zijn er nog steeds alledaagse verschijnselen die we niet helemaal begrijpen? 
+,,Vast. Even denken. Ja, als je naar de ondergaande zon kijkt, in een golvend meertje, zie je op het klotsende water honderden reflecties van de zon. Wat je heel vaak ziet is dat er op een golfje uit het niets twee zonreflecties ontstaan, die uit elkaar bewegen, en daarna weer samenkomen en verdwijnen. Al kan een reflectie ook samensmelten met een andere zon.  
+,,Ik kan maar niet uitrekenen hoe vaak reflecties samenkomen met hun oorspronkelijke geboortepartner. 'Levenslange trouw', noem ik dat. Het is een mooi probleem, dat je duidelijk kunt formuleren. Maar dus onopgelost. En je kunt het zomaar buiten zien." 
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Journal Code: NRC Handelsblad
+Subject: Physics (94%); Educational Institution Employees (74%); Mathematics (62%) Organization: ROYAL NETHERLANDS ACADEMY OF ARTS & SCIENCES (57%)
+Load-Date: February 28, 2015
+
+End of Document
+Het diepe idee op  de bodem van een kopje
+
+Het diepe idee op  de bodem van een kopje
+
+Page 2 of 5
+
+Page 2 of 5
+
+
+
+
+

@@ -1,0 +1,59 @@
+In het spoor van nieuwe zwarte gaten
+de Volkskrant
+5 januari 2021 dinsdag
+Copyright 2021 DPG Media B.V. All Rights Reserved
+
+Section: Wetenschap; Blz. 29
+Length: 1039 words
+Byline: DOOR GEORGE VAN HAL
+Highlight: In de toekomst gaan fysica-experimenten zó veel gegevens verzamelen dat dringend behoefte is aan manieren om alles te ordenen. ICT-gigant IBM biedt hulp: mogelijk kan hun toekomstige quantumcomputer de groteske datazee wél goed bevaren. 'Dit is voor ons wel erg leuk speelgoed.'
+Body
+
+Zo'n honderdduizend tot een miljoen keer méér meetgegevens dan de huidige generatie verzamelt. Dat is wat we onder meer mogen verwachten van de Einstein Telescope, zegt fysicus Gide-on Koekoek (Universiteit Maastricht, deeltjesinstituut Nikhef). Dat mega-experiment moet de opvolger worden van zwaartekrachtsgolfdetectoren Ligo (in de Verenigde Staten) en Virgo (in Italië). Die instrumenten kunnen de rimpeling meten die door ruimte en tijd trekt wanneer diep in de kosmos zeer zware voorwerpen op elkaar klappen. 
+Het is een tak van de fysica die nu al allerhande geheimen ontsluiert over zwarte gaten en heel zware sterren, zogeheten neutronensterren. En de toekomst, zo luidt de verwachting, zal alleen nog maar meer doorbraken brengen. 
+Althans: als men de analyse van de meetgegevens een beetje onder de knie krijgt. Want waar de huidige generatie instrumenten zo'n eenmaal per week een zwaartekrachtgolf betrapt, meet het nieuwe instrument - dat mogelijk in de provincie Limburg gebouwd wordt - straks zóveel signaal dat het honderden keren per dag raak is. 
+Bovendien kan het gevoeligere instrument botsende zwarte gaten en neutronensterren al éérder tijdens de botsing betrappen. 'We krijgen dus niet alleen méér signalen, ze duren ook nog eens langer', zegt Koekoek. Omdat al die signalen door elkaar heen gaan lopen, wordt het ook veel moeilijker om ze uit de achtergrondruis van de kosmos te plukken.
+Antimaterie
+Het zijn problemen waar collega Jacco de Vries over kan meepraten. Hij werkt aan een experiment verbonden met deeltjesversneller de Large Hadron Collider (LHC) van deeltjesfysica-instituut Cern in Geneve. Daar knalt men met hoge snelheid deeltjes - de kleinste bouwsteentjes van alles om ons heen - op elkaar, waarna fysici tussen de brokstukken speuren naar aanwijzingen voor kleine verschillen tussen materie en z'n mysterieuze tegenhanger, antimaterie. Op die manier hopen ze te ontdekken waarom het heelal tjokvol materie zit - waaruit de aarde, de sterren en u en ik bestaan - terwijl antimaterie, dat zich onder meer kenmerkt door een tegengestelde elektrische lading, vrijwel nergens te bekennen is. 
+'Wij maken voor die analyse per botsing een foto van al die brokstukken', zegt De Vries. Dat levert ook nu al terabytes per seconde aan gegevens op; te veel om op te slaan. Daarom doet men selectie aan de poort: software bepaalt vooraf welke botsingen potentieel interessant zijn en bewaart die. De rest van de gegevens gaan de digitale prullenbak in.
+Groteske datarivier
+Alleen: ergens na 2027 gaat de volgende versie van de LHC draaien, waarin meer deeltjes tegelijk op elkaar klappen. Handig voor fysici die speuren naar bijzondere dingen, maar onhandig omdat de nu al groteske datarivier dan nóg verder buiten z'n oevers treedt. 
+Aan oplossingen wordt al gewerkt, maar dé oplossing bestaat (nog) niet. Vandaar dat De Vries meteen zijn oren spitste toen iemand van IBM aan zijn universiteit een gastlezing over quantumcomputers kwam geven. 'Ik stuurde m'n studenten erheen en achteraf raakte ik met de spreker aan de praat', zegt hij. Niet veel later stond hij samen met Koekoek in het hoofdkantoor van IBM Research in Zürich, om een samenwerking te pitchen.
+Jonge onderzoekers
+'Veel bestuursleden bleken zelf ook een natuurkundeachtergrond te hebben', zegt Koekoek. 'Het klikte meteen. We moesten een presentatie van twintig minuten geven, maar uiteindelijk stonden we bijna anderhalf uur te praten over ons onderzoek, over hun computers... niet veel later spraken ze uit dat ze het wel aandurfden met ons.' 
+Op korte termijn levert die samenwerking budget op voor de aanstelling van twee jonge onderzoekers, zogeheten postdocs, die deels bij IBM en deels bij de Universiteit van Maastricht onderzoek gaan doen naar hoe quantumcomputers de natuurkundige datazee het best kunnen bevaren. 
+Dat juist die computers daarvoor interessant zijn, komt omdat ze gebruikmaken van de tegendraadse wetten van de quantummechanica, de natuurkundetheorie die heerst over de wereld op de allerkleinste schaal. Zo kunnen qubits - de quantumtegenhangers van de nullen en enen waarmee computers rekenen - bijvoorbeeld ook nul én een tegelijk zijn. Door de fundamenteel andere manier van rekenen die dat oplevert, kunnen ze bepaalde lastige sommen veel sneller oplossen.
+Foutcorrectie
+Mogelijk kunnen de computers ook de experimenten van Koekoek en De Vries helpen. Hoe precies, is echter de grote vraag. De quantumcomputers van ICT-giganten als IBM, Microsoft en Intel staan namelijk nog in de kinderschoenen. 
+'We maken nu varianten met 65 qubits', zegt fysicus Heike Riel, die bij IBM leiding geeft aan de Europese tak van het quantumproject. Dat soort quantumcomputers zijn bijvoorbeeld nog niet in staat tot foutcorrectie. Daarvoor heb je duizenden, zo niet miljoenen qubits nodig. IBM hoopt dat ze rond de jaren dertig zover zijn. Niet voor niets is dat ook grofweg de periode waarin de Einstein Telescope (2035) en de vernieuwde LHCb (na 2027) hun kunsten moeten tonen. Ideaal dus, om nu samen op te trekken, zeggen de betrokkenen.
+Programmeertaal
+Voor het zover komt, is er eerst een waslijst vraagstukken die vraagt om oplossingen. Zo is software schrijven voor quantumcomputers nog erg lastig. Bij een gewone pc is het simpel: je schrijft iets in een programmeertaal, waarna een zogeheten compiler - een programma die de machinetaal van de computer spreekt - jouw code vertaalt naar instructies voor de fysieke onderdelen van de pc. Koekoek: 'Maar een compiler voor een quantumcomputer bestaat nog niet.' Al was het maar omdat niemand nog precies weet hoe de onderdelen van die computer er straks precies uit zien. 
+'We moeten daarom dicht op de hardware zelf programmeren, met de wetten van de quantumfysica in ons achterhoofd. Daar gaan we de komende tien, vijftien jaar aan werken', zegt De Vries. Echt pionierswerk, vindt hij. 'We werken niet alleen aan onze eigen experimenten, die van zichzelf al interessant zijn, maar kunnen ook bijdragen aan de eerste nuttige toepassingen van de quantumcomputer. Dat is voor ons wel erg leuk speelgoed.' 
+Gideon Koekoek fysicus 
+Universiteit Maastricht
+Het klikte meteen. We stonden bijna anderhalf uur te praten over ons onderzoek en hun computers
+Bekijk de oorspronkelijke pagina: pagina 29
+Graphic
+
+ 
+Toekomstige meetinstrumenten zullen extreem veel rekenkracht vragen. Hier een ontwerp van de beoogde Einstein Telescope in de Limburgse ondergrond, die zwaartekrachtsgolven in het universum moet detecteren.
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Industry: Computing + Information Technology (94%)
+Load-Date: January 4, 2021
+
+End of Document
+In het spoor van nieuwe zwarte gaten
+
+In het spoor van nieuwe zwarte gaten
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

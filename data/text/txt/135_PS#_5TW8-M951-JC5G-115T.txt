@@ -1,0 +1,61 @@
+Onze kosmos is een te woelige zee
+NRC Handelsblad
+3 december 2018 maandag
+Copyright 2018 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 16
+Length: 1096 words
+Byline: Margriet van der Heijden
+Dateline: Leiden 
+Body
+
+ABSTRACT
+InterviewJuan MaldacenaTheoretisch fysicus  Voor een beter begrip van het universum werkt  Juan Maldacena in  een lege 5D-ruimtetijd. Hij ontving deze maand de 
+Lorentzprijs.
+VOLLEDIGE TEKST:
+          De theoretische natuurkunde heeft niet zo'n goede pers de laatste tijd. Vooral niet de tak die zich met fundamentele vragen over onze kosmos bezighoudt. Waar blijven de voorspellingen die experimentele fysici vertellen waar ze moeten zoeken?
+ De jacht op donkere materiedeeltjes is al jaren vergeefs. Wiskundige berekeningen aan de snaren die mogelijk op de allerkleinste schalen aan de kosmos ten grondslag zouden liggen, leverden geen enkele toetsbare voorspelling op.
+Het heeft de Koninklijke Nederlandse Akademie van Wetenschappen er niet van weerhouden om de prestigieuze vierjaarlijkse Lorentzprijs  toch aan een snaarfysicus toe te kennen. Niet voor het eerst. En evenmin aan de eerste de beste snaarfysicus: de paper waarmee de Amerikaans-Argentijnse  fysicus Juan Maldacena (50) in 1997 furore maakte, is het meest geciteerde ooit in de hoge-energiefysica.  
+Maldacena ,,ontketende" destijds ,,een revolutie", aldus het juryrapport,  toen hij een ,,diepgravend verband" blootlegde tussen twee fundamentele fysische theorieën: de quantumveldentheorie die beschrijft hoe de bouwsteentjes van materie zich gedragen én de quantumzwaartekracht die de algemene relativiteitstheorie van Einstein op een korrelige wijze presenteert. 
+Zelf vermijdt Maldacena zulke grote woorden. Hij formuleert kort, zorgvuldig en vaak in de wij-vorm. Wetenschap, benadrukt hij, is een ,,collectieve inspanning". Zelf krijgt hij zijn ideeën trouwens, vertelde hij droogjes tijdens de uitreiking, gewoon achter zijn werktafel die sinds 2001 bij het Institute for Advanced Study in Princeton staat. 
+In de jaren negentig werkte Maldacena nog in Harvard. Met snaren konden fysici destijds objecten beschrijven waarin de ruimtetijd bijna net zo extreem kromde als in de zwarte gaten uit Einsteins relativiteitstheorie. Met dezelfde snaren konden ze die objecten bovendien beschrijven zoals, min of meer, in de quantumveldentheorie. Alleen: hoe hingen de twee beschrijvingen samen? En: was er een verband tussen de ene - macroscopische -  en de andere - microscopische - benadering van zo'n zwart gat?
+Droom van Einstein
+De laatste tijd klinkt er soms kritiek op zulke pogingen om de belangrijkste theorieën uit de natuurkunde bijeen te brengen. Het was destijds de droom van onder andere Einstein, maar was het niet enkel dàt: een droom?  Maldacena schudt zijn hoofd: ,,Als we willen begrijpen hoe de kosmos is ontstaan, móéten we een theorie vinden waarin de quantummechanica en de zwaartekracht samenkomen. Want het heelal begon heel erg klein en we weten dat de quantummechanica een fundamentele beschrijving voor die kleine wereld biedt, terwijl Einsteins theorie van de zwaartekracht er juist tekort schiet. Dat dwingt ons om te onderzoeken hoe we die twee ongelooflijk succesvolle theorieën van de twintigste eeuw kunnen verenigen: die van Einstein die ons zwarte gaten gaf, een uitdijend universum, zwaartekrachtsgolven en al die andere verrassende eigenschappen van de ruimtetijd, en die van de quantummechanica die de materie in het heelal verklaart."  
+Of snaartheorie daarvoor het juiste pad biedt? Maldacena zelf noemt het een goede  ,,springplank op zijn minst". Zijn collega's jubelden destijds dat Maldacena's werk de kracht van snaartheorie liet zien.  Maldacena: ,,Destijds leek het een wonder dat twee heel verschillende berekeningen eenzelfde antwoord gaven. Een belangrijke stap was toen het inzicht [Maldacena's inzicht dus, red.] dat onder bepaalde voorwaarden dezelfde symmetrieën in beide beschrijvingen opdoken. En met dat gegeven was het relatief simpel om de rest uit te werken."
+Zo ontstond die beroemde paper die liet zien dat onder specifieke omstandigheden de gravitatietheorie en de quantumveldentheorie twee kanten van één medaille zijn.  Over onze kosmos werd daarmee nog niet al te veel opgehelderd. Daarvoor is Maldacena's  'AdS-CFT-correspondentie' te vreemd: de quantumdeeltjes (het CFT-deel) krioelen er op een vierdimensionaal oppervlak van een vijfdimensionale ruimtetijd, die bovendien een anti-de-sitterruimte  is (het 'AdS'-deel, vernoemd naar de Nederlandse astronoom Willem de Sitter). Zo'n ruimte is niet bolvormig, maar hyperbolisch; dijt niet uit, maar krimpt; en bevat geen sterren, maar is leeg.
+Stevige, gladde kust
+Toch is het voor Maldacena een ideale plek. Ons universum, zegt hij, is als een woelige zee. ,,Als je daar op een bootje midden op zit, zijn de golven te onstuimig om de eigenschappen van het water te onderzoeken. Dat kun je beter doen vanaf een stevige en gladde kust."
+En de anti-de-sitterruimte is als zo'n kust. Er vertoeven maakt het voor Maldacena eenvoudiger om zwarte gaten te bestuderen. Het zijn favoriete objecten:  vergelijkbaar met, maar veel simpeler dan de oerknal, en juist daarom zo interessant om mee te spelen.  ,,Je kunt er van een afstandje naar kijken. Er een deeltje in laten verdwijnen of uit tevoorschijn laten komen." Het  liet onder meer zien dat informatie in een zwart gat niet per se verloren gaat.
+De laatste jaren bestudeerde Maldacena vanuit zijn AdS-CFT-dualiteit onder meer systemen van twee zwarte gaten die, ver van elkaar in hun eigen wereld, via elkaars uiteinden - een wormgat - met elkaar zijn verbonden ,,als een Siamese tweeling".   Maldacena analyseerde hoe de quantumtoestanden (of de informatie zo je wilt) die in die twee zwarte gaten besloten liggen, met elkaar verstrengeld zijn. En hij wijst er nog even op dat hij voortborduurde op ideeën van anderen. 
+Tot zijn verrassing ging zijn 'dualiteit' bovendien een eigen leven leiden. In allerlei hoeken van de fysica gebruikten fysici zijn idee dat berekeningen vanuit het ene perspectief licht werpen op de andere kant van de zaak. Het gaf meer inzicht in ingewikkelde vloeistofstromingen bijvoorbeeld, en in  exotische metalen.
+ ,,Ja, dat is prachtig natuurlijk", zegt Maldacena. ,,Mensen zijn zo inventief." 
+Alweer voortborduren dus. Nu van anderen op Maldacena's werk: alleen al zijn paper uit 1997 wordt nog steeds twee tot drie keer per dag geciteerd. Het is de jury niet ontgaan. 
+           Veel prijzen Via Buenos Aires naar Princeton
+Juan Maldacena (50) studeerde theoretische natuurkunde aan de universiteiten van 
+Buenos Aires en Cuyo in Argentinië. Hij werd in 2001 hoogleraar aan het Institute for Advanced Study in Princeton. Hij won vele prijzen waaronder in 2012  de Fundamental Physics Prize (3 miljoen dollar). 
+Link naar PDF
+Graphic
+
+ 
+De laatste jaren bestudeert Juan Maldacena systemen van twee zwarte gaten die via een wormgat zijn verbonden. ,,Als een Siamese tweeling", zegt hij.
+Foto Merlijn Doomernik
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Subject: Physics (94%)
+Load-Date: December 3, 2018
+
+End of Document
+Onze kosmos is een te woelige zee
+
+Onze kosmos is een te woelige zee
+
+Page 2 of 4
+
+Page 2 of 4
+
+
+
+
+

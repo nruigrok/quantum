@@ -1,0 +1,84 @@
+Post-quantum geheimschrift; Cryptografie; Gaat de quantumcomputer alle geheimen onthullen?
+NRC Handelsblad
+19 oktober 2019 zaterdag
+Copyright 2019 NRC Media B.V. All Rights Reserved
+
+Section: WETENSCHAP; Blz. 1
+Length: 2324 words
+Byline: Dorine Schenk
+Body
+
+ABSTRACT
+           Wiskunde  Een quantumcomputer zal versleutelde digitale communicatie direct kraken. Cryptografen werken daarom nu al aan een oplossing.
+VOLLEDIGE TEKST:
+D
+De quantumcomputer, waar wereldwijd hard aan wordt gewerkt, belooft met ongekende rekenkracht problemen op te lossen die nu buiten het bereik van supercomputers liggen. Maar hij heeft ook een duistere kant.
+Met die immense rekenkracht kan de publieke encryptie, de versleuteling die alle digitale communicatie beveiligt, van e-mailen tot online bankieren, in een handomdraai gekraakt worden. Een crimineel of kwaadwillende overheid met een quantumcomputer kan bij je bankgegevens, e-mails en WhatsApp-berichten.
+Krachtige quantumcomputers die hiertoe in staat zijn bestaan nu nog niet. Maar er worden flinke stappen gezet. Het is dus hoog tijd om na te denken over de gevolgen en technieken om onze gegevens ook in de toekomst te beschermen.
+,,We weten zeker dat de huidige publieke encryptie gebroken zal zijn zodra er een quantumcomputer is", vertelt Tanja Lange, hoogleraar cryptografie aan de TU Eindhoven, via Skype. Om dit doemscenario te voorkomen werken cryptografen zoals zij aan nieuwe versleutelingsmethodes, zogeheten post-quantum-encryptiemethodes. Die moeten de huidige computers in de toekomst beschermen tegen aanvallen van een quantumcomputer.
+Het Amerikaanse National Institute of Standards & Technology (NIST) riep in 2017 een wedstrijd uit voor post-quantum-encryptiemethodes. Uit verschillende voorstellen zullen er één of meerdere gekozen worden die als standaard kunnen dienen bij digitale communicatie. ,,NIST wil het geen wedstrijd noemen omdat het doel niet is om een enkele winnaar uit te roepen", vertelt Leo Ducas van de Cryptology groep bij het Centrum Wiskunde & Informatica (CWI) in Amsterdam. ,,Maar het is wel een wedstrijd." Ook hij werkt mee aan verschillende post-quantum-encryptiemethodes.
+In januari maakte NIST bekend dat van de 69 post-quantum-encryptiemethodes er 26 door zijn naar de tweede ronde. Ducas werkt mee aan vier onderzoeken. Lange's onderzoeksgroep aan zes, bij drie daarvan is ze zelf direct betrokken. En aan één project werken onderzoekers van de Radboud Universiteit in Nijmegen mee.
+Alledaagse encryptie
+Hoe werkt encryptie? Als je een website bezoekt, zie je in je webbrowser, naast het websiteadres, meestal een klein slotje staan. Dat icoontje staat voor HyperText Transfer Protocol Secure (HTTPS), waarmee je veilig gegevens uit kan wisselen.
+Die veilige verbinding wordt gelegd via publieke encryptie. Het heet publiek omdat er gebruik gemaakt wordt van een 'publieke sleutel' die iedereen kan zien en kan gebruiken. Die sleutel is een  code (een rij cijfers) die een computer gebruikt om de gegevens op een bepaalde manier door elkaar te husselen, zodat ze onleesbaar worden. Daarmee worden bijvoorbeeld de adresgegevens versleuteld die je op de website van de krant invult als je een abonnement neemt.
+Met de publieke sleutel zijn de gecodeerde adresgegevens niet te decoderen. Dat lukt alleen met een 'privésleutel'. Daarin verschilt het van een gewoon slot dat je met eenzelfde sleutel kan sluiten en openen. De krant is in dit geval de enige die met die privésleutel bij je adresgegevens kan. Iedereen kan dus bij de publieke sleutel om de gegevens beveiligd te versturen, maar alleen de juiste ontvanger kan die gegevens bekijken.
+De publieke encryptiemethodes zijn gebaseerd op wiskunde. Een veelgebruikte is RSA, genoemd naar de eerste letters van de achternamen van de bedenkers: de informatici Ron Rivest, Adi Shamir en Len Adleman.
+De basis van RSA is basale wiskunde: priemgetallen met elkaar vermenigvuldigen. 
+Priemgetallen zijn getallen die enkel deelbaar zijn door zichzelf en één, bijvoorbeeld 2, 3, 5, 13 en 109. Het is relatief eenvoudig om twee priemgetallen met elkaar te vermenigvuldigen: 947×1.399 uitrekenen lukt uiteindelijk iedereen met een rekenmachine. Veel lastiger is het om te achterhalen welke priemgetallen je met elkaar moet vermenigvuldigen om 1.020.937 te krijgen. Er bestaat nog geen wiskundig trucje om die priemgetallen snel en gemakkelijk uit te rekenen.
+RSA maakt er gebruik van dat deze berekening de ene kant op gemakkelijk is en de andere kant op lastig. Het grote getal is hierbij de publieke sleutel en de twee priemgetallen vormen de privé sleutel.
+De meeste digitale encryptie gebruikt RSA-2048, waarbij de publieke sleutel bestaat uit 2048 bits (617 cijfers). Zelfs de snelste supercomputer doet er tientallen miljoenen jaren over om de achterliggende priemgetallen te vinden. Voor onze begrippen is deze techniek dus veilig tot het eind der tijden. Of tot er een quantumcomputer is. Want die kraakt deze beveiliging in acht uur.
+Bijzondere eigenschappen
+Quantumcomputers kunnen bepaalde taken onvoorstelbaar veel sneller uitvoeren omdat ze werken met andere bouwstenen dan gewone computers.
+De informatiebits waarmee gewone computers rekenen en informatie verwerken, kunnen 1 of 0 zijn, niets daartussenin. Quantumcomputers werken daarentegen met qubits. Die kunnen bijvoorbeeld voor 35 procent 1 zijn en voor 65 procent 0. Of 50 procent 1 en 50 procent 0. Qubits kunnen dus tegelijkertijd 1 en 0 zijn. Dat heet superpositie. Bovendien kun je qubits 'verstrengelen', daardoor zijn ze van elkaar afhankelijk. Verandert de ene qubit in een 1 dan wordt de verstrengelde partner bijvoorbeeld 0. Door die superposities en verstrengelingen kunnen quantumcomputers meerdere berekeningen tegelijkertijd uitvoeren.
+Daardoor kunnen quantumcomputers bepaalde problemen veel sneller oplossen dan gewone computers. Maar dit geldt niet altijd. Een berekening kan alleen sneller als die uitgevoerd kan worden op een manier die gebruikmaakt van de bijzondere eigenschappen van de qubits. Daarvoor moeten speciale stappenplannen worden geschreven: quantumalgoritmes.
+Met een efficiënt quantumalgoritme zou RSA gemakkelijk te kraken zijn. En dat quantumalgoritme is er zelfs al. Het heet Shor's algoritme, vernoemd naar de Amerikaanse wiskundige Peter Shor, die het in de jaren negentig bedacht. Dit algoritme zoekt naar een bepaalde repeterende berekening. In de frequentie van die repetitie gaan de priemgetallen schuil. Het vinden van die frequentie is niet mogelijk binnen een redelijke tijd met een gewone computer. Maar een quantumcomputer met Shor's algoritme kan dit wel. Ook alle andere publieke encryptiemethodes die nu gebruikt worden, zijn hiermee te kraken.
+Enige haast is geboden. Want al bestaat er nog geen krachtige quantumcomputer die met Shor's algoritme alles kan kraken, er zijn wel al kleine, experimentele quantumcomputertjes. Het is aangetoond dat je met tien qubits en Shor's algoritme de priemgetallen kan achterhalen van kleine getallen, zoals 15 en 21. Niet erg indrukwekkend, maar het aantal qubits in quantumcomputers groeit gestaag. Sinds augustus 2018 staat de teller op 128, door de Amerikaanse quantum-startup Rigetti. Ter vergelijking: een gewone laptop heeft een werkgeheugen met miljarden bits.
+Nog geen vrees
+Om RSA-2048 in acht uur te kraken heb je een quantumcomputer nodig met 20 miljoen qubits, voorspelden een Zweedse en een Amerikaanse onderzoeker in mei.
+Het komende decennium hoeven we niet te vrezen dat quantumcomputers onze encryptie breken, schrijft de Amerikaanse National Academy of Sciences in een rapport dat begin dit jaar verscheen. De auteurs spraken met veel verschillende experts: onderzoekers en werknemers van bijvoorbeeld Google, Microsoft en IBM, vertelt Lange. ,,De meesten van hen schatten de kans heel klein dat er in de komende tien jaar een quantumcomputer gebouwd wordt die RSA-2048 kan kraken."
+Lang en onzeker
+Dat klinkt geruststellend, maar het rapport waarschuwt ook: het gevaar van een quantumcomputer is groot, en het overgangstraject naar een nieuw beveiligingsprotocol is lang en onzeker. Om de kans zo klein mogelijk te maken dat zich een veiligheids- en privacyramp voltrekt, is het belangrijk om nu al postquantumcryptografie te ontwikkelen en te gaan gebruiken, schrijven ze.
+Ook Lange vindt het hoog tijd voor actie. Er zijn personen en instanties die ,,liefst gisteren al" over hadden moeten stappen op quantumveilige encryptie, vertelt ze. ,,Het is mogelijk dat de Amerikaanse geheime dienst NSA en China ons Skypegesprek opnemen. Dankzij Skype's encryptie kennen ze de inhoud niet. Maar als het ze interessant genoeg lijkt, dan bewaren ze het om over tien of vijftien jaar, als er een voldoende krachtige quantumcomputer is, de encryptie te breken en alles terug te luisteren."
+Voor de meeste gesprekken is dat geen probleem. Maar advocaten, diplomaten en journalisten die hun bronnen moetenbeschermen, versturen informatie die twintig of zelfs vijftig jaar geheim moet blijven. Ook ontwerpen, bijvoorbeeld van een nieuw type vliegtuigmotor, moeten meestal langer dan tien jaar bedrijfsgeheim blijven. En zorgverleners hebben wettelijk de verplichting om patiëntendossiers geheim te houden. ,,In principe schenden zorgverleners hun plicht dus nu al", zegt Lange. ,,Ze zouden al over moeten zijn op post-quantumcryptografie, maar die is nog niet beschikbaar in software die geautoriseerd is voor gebruik." 
+Er wordt dus over de hele wereld gezocht naar publieke post-quantumcryptografie die niet te kraken is door quantumcomputers. Hiervoor kijken cryptografen naar wiskundige vraagstukken die niet met Shor's algoritme of een ander quantumalgoritme in afzienbare tijd op te lossen zijn.
+Ducas werkt bijvoorbeeld aan encryptie op basis van wiskundige roosterproblemen, waarbij roosterpunten gebruikt worden om een bericht mee te coderen. Alleen als je het juiste rooster kent, kun je achterhalen welk punt voor welke letter codeert. Deze methode is veelbelovend omdat die voor verschillende encryptietoepassingen gebruikt kan worden.
+Getest door Google
+Er zijn nog vier andere categorieën, gebaseerd op andere wiskundige modellen. Binnen elke categorie worden verschillende varianten ontwikkeld, waaronder de 69 die zich inschreven voor de NIST-wedstrijd. Er zijn dus veel kandidaten. Maar ze werken nog traag of gebruiken grote, lange sleutels die veel bandbreedte opeisen. ,,Er zijn al een paar serieuze kandidaten die technisch klaar of bijna klaar zijn", zegt Ducas. ,,Google heeft een van de methodes waar ik aan werk bijvoorbeeld al getest in een speciale versie van hun webbrowser en concludeerde dat het geen problemen op hun server opleverde."
+Het doel is dat de NIST-wedstrijd uiterlijk in 2024 eindigt en er dan een standaard is voor post-quantumcryptografie. Volgens de voorspellingen is dat ruim op tijd voor krachtige quantumcomputers, maar te laat voor informatie die lang geheim moet blijven.
+Om nu al veilig te communiceren kunnen bijvoorbeeld ambassades genoegen nemen met lange, onpraktische sleutels. Of ze kunnen een andere vorm van encryptie gebruiken: geheime versleuteling, zonder publieke sleutel. ,,Dan hussel je je bericht zo heftig door elkaar dat er geen enkele structuur meer in zit", vertelt Ducas. ,,De enige manier om het te lezen is met de geheime sleutel die je vertelt hoe er gehusseld is." Zo'n encryptie is alleen te kraken door met brute rekenkracht alle opties te proberen tot je toevallig de geheime sleutel gevonden hebt. Dat kan een quantumcomputer iets sneller dan een gewone computer, maar het scheelt weinig. Een quantumcomputer kan wel veel mogelijkheden tegelijkertijd proberen, maar in dit geval is het lastig om in die brij van pogingen de juiste geheime sleutel terug te vinden. Hoe langer de sleutel, hoe lastiger die te kraken is. Dit soort geheime sleutels worden nu ook al gebruikt. 
+Ze zijn wel minder praktisch dan publieke encryptie. Je moet elkaar ontmoeten om de geheime sleutel uit te wisselen. Dat kan James Bondachtige scenario's opleveren waarbij je een koffertje met een geheime sleutel stuurt naar degene met wie je wilt communiceren. Ook een risico, want je weet nooit zeker of een koerier te vertrouwen is.
+Het is mogelijk dat een geheime dienst ons Skypegesprek opneemt 
+Tanja Lange hoogleraar cryptografie
+           Roosters  Hopelijk niet te kraken
+Encryptie op basis van roosterproblemen is een van de manieren om gewone computers te beschermen tegen een aanval met een quantumcomputer. Een rooster bestaat uit punten in een ruimte. In 2D is het bijvoorbeeld een ruitjespapier. Als je een bericht wilt versturen spreek je af dat bepaalde punten in het rooster voor letters staan, zoals: twee hokjes naar rechts en zeven omhoog is de letter G, vertelt de Amsterdamse cryptograaf Leo Ducas. 
+Van te voren spreek je af hoe je 'betegeling' van het rooster eruitziet. De hokjes kunnen vierkant zijn, zoals bij ruitjespapier, maar je kunt ook schuine lijnen gebruiken, of smalle, langwerpige vakjes maken.
+Om roosters te gebruiken voor publieke encryptie heb je een publieke en een privésleutel nodig, net als bij RSA. Die bestaan uit verschillende betegelingen met dezelfde punten. In 2D is een betegeling met smalle hokjes bijvoorbeeld de publieke sleutel en een met vierkante hokjes de privésleutel. De verzender verstuurt de punten die corresponderen met zijn bericht en voegt daar bewust ruis aan toe. Door die ruis is het voor iemand die alleen de betegeling met smalle hokjes kent onduidelijk of de verzender punt G bedoelt, of punt H of F die er vlak bij liggen. Voor de ontvanger met de privé-sleutel, vierkante betegeling, is het ondanks de ruis wel duidelijk welk punt de verzender bedoelt. Cryptografen gebruiken geen 2D rooster, maar een met ongeveer 2.000 dimensies.
+Nu kost het nog veel bandbreedte om deze sleutels te versturen. Daarom zoekt Ducas met collega's naar manieren om de roosters kleiner en simpeler te maken, maar niet zo simpel dat ze te kraken zijn. 
+Het lijkt erop dat deze encryptie niet door quantumcomputers gekraakt kan worden. Maar zoals bij alle encryptie: het is onwaarschijnlijk, maar niet onmogelijk dat iemand een methode bedenkt waarmee dat toch kan. De enige garantie is dat het  nog niet is gelukt.
+Link naar PDF
+Link naar PDF
+Graphic
+
+ 
+Versleuteling. In het privérooster (boven) is duidelijk dat het om G gaat. In het publieke rooster (onder) lees je door de ruis (sterretje) H.
+Foto ISTOCK, beeldbewerking NRC
+Classification
+
+Language: DUTCH; NEDERLANDS
+Publication-Type: Krant
+Industry: Computing + Information Technology (94%); Budgets (63%)
+Load-Date: October 18, 2019
+
+End of Document
+Post-quantum geheimschrift; Cryptografie Gaat de quantumcomputer alle geheimen onthullen?
+
+Post-quantum geheimschrift; Cryptografie Gaat de quantumcomputer alle geheimen onthullen?
+
+Page 2 of 7
+
+Page 2 of 7
+
+
+
+
+
